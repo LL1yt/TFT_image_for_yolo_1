@@ -1,0 +1,19 @@
+{% macro build_site_navigation(pages, selected) %}
+<nav class="nav">
+    <i class="uil uil-bars navOpenBtn"></i>
+    <a href="#" class="logo">CodingLab</a>
+    <ul class="nav-links">
+        <i class="uil uil-times navCloseBtn"></i>
+        {% for page in pages %}
+        <li>
+            <a href="{{page.url}}" class="{% if selected == page.name %}active{% endif %}">{{page.name}}</a>
+        </li>
+        {% endfor %}
+    </ul>
+    <i class="uil uil-search search-icon" id="searchIcon"></i>
+    <div class="search-box">
+        <i class="uil uil-search search-icon"></i>
+        <input type="text" placeholder="Search here..." />
+    </div>
+</nav>
+{% endmacro %}

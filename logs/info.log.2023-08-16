@@ -1,0 +1,2140 @@
+2023-08-16 10:40:54 info: checking for keanelol every 15 seconds, recording with 1080p60 quality
+2023-08-16 10:40:55 info: First ten currently online users in teamfight tactics category: ['keanelol', 'bebe872', 'stunt', 'saintvicious', 'GrappLr', 'guubums', 'hyunter', 'Alanzq', 'TidesofTime', 'Jummychu']
+2023-08-16 10:40:55 info: keanelol online, stream recording in session
+2023-08-16 10:40:55 info: record_stream begin
+2023-08-16 10:40:57 info: get_stream_url
+2023-08-16 11:18:09 info: checking for keanelol every 15 seconds, recording with 1080p60 quality
+2023-08-16 11:18:09 info: First ten currently online users in teamfight tactics category: ['keanelol', 'bebe872', 'stunt', 'saintvicious', 'Alanzq', 'hyunter', 'TidesofTime', 'josepao1o', 'dallasyes', 'Jummychu']
+2023-08-16 11:18:10 info: keanelol online, stream recording in session
+2023-08-16 11:18:10 info: record_stream begin
+2023-08-16 11:18:11 info: get_stream_url
+2023-08-16 11:18:13 info: screen_for_champ{'cassiopeia': [(484, 943, 668, 1038)], 'soraka': [(685, 943, 869, 1038)], 'tristana': [(1088, 943, 1271, 1038)], 'kalista': [(1289, 943, 1472, 1038)]}
+2023-08-16 11:19:43 info: checking for keanelol every 15 seconds, recording with 1080p60 quality
+2023-08-16 11:19:43 info: First ten currently online users in teamfight tactics category: ['keanelol', 'bebe872', 'stunt', 'saintvicious', 'Alanzq', 'hyunter', 'TidesofTime', 'josepao1o', 'Jummychu', 'dallasyes']
+2023-08-16 11:19:44 info: keanelol online, stream recording in session
+2023-08-16 11:19:44 info: record_stream begin
+2023-08-16 11:19:45 info: get_stream_url
+2023-08-16 11:19:47 info: screen_for_champ{'karma': [(484, 943, 668, 1038)], 'chogath': [(886, 943, 1070, 1038)]}
+2023-08-16 11:19:48 info: screen_for_champ{'karma': [(484, 943, 668, 1038)], 'chogath': [(886, 943, 1070, 1038)], 'kassadin': [(1088, 943, 1271, 1038)]}
+2023-08-16 11:19:49 info: screen_for_champ{'karma': [(484, 943, 668, 1038)], 'chogath': [(886, 943, 1070, 1038)], 'kassadin': [(1088, 943, 1271, 1038)], 'jayce': [(1289, 943, 1472, 1038)]}
+2023-08-16 11:19:51 info: screen_for_champ{'karma': [(484, 943, 668, 1038)], 'chogath': [(886, 943, 1070, 1038)]}
+2023-08-16 11:19:56 info: screen_for_champ{'karma': [(484, 943, 668, 1038)], 'chogath': [(886, 943, 1070, 1038)]}
+2023-08-16 11:19:56 info: screen_for_champ{'karma': [(484, 943, 668, 1038)], 'chogath': [(886, 943, 1070, 1038)]}
+2023-08-16 11:20:00 info: screen_for_champ{'karma': [(484, 943, 668, 1038)], 'chogath': [(886, 943, 1070, 1038)], 'jayce': [(1289, 943, 1472, 1038)]}
+2023-08-16 11:20:02 info: screen_for_champ{'lissandra': [(685, 943, 869, 1038)], 'soraka': [(1289, 943, 1472, 1038)]}
+2023-08-16 11:20:06 info: screen_for_champ{'kalista': [(484, 943, 668, 1038)], 'lissandra': [(685, 943, 869, 1038)], 'soraka': [(1289, 943, 1472, 1038)]}
+2023-08-16 11:20:09 info: screen_for_champ{'kalista': [(484, 943, 668, 1038)], 'jhin': [(886, 943, 1070, 1038)], 'soraka': [(1289, 943, 1472, 1038)]}
+2023-08-16 11:20:13 info: screen_for_champ{'kalista': [(484, 943, 668, 1038)], 'jhin': [(886, 943, 1070, 1038)], 'soraka': [(1289, 943, 1472, 1038)]}
+2023-08-16 11:35:26 info: checking for keanelol every 15 seconds, recording with 1080p60 quality
+2023-08-16 11:35:26 info: First ten currently online users in teamfight tactics category: ['keanelol', 'bebe872', 'stunt', 'Alanzq', 'TidesofTime', 'hyunter', 'Jummychu', 'josepao1o', 'dallasyes', 'theonibro']
+2023-08-16 11:35:27 info: keanelol online, stream recording in session
+2023-08-16 11:35:27 info: record_stream begin
+2023-08-16 11:35:28 info: get_stream_url
+2023-08-16 11:35:29 info: champ_name: viego; champion_coordinates: {'viego': [(886, 943, 1070, 1038)]} index: 2
+2023-08-16 11:35:30 info: champ_name: soraka; champion_coordinates: {'viego': [(886, 943, 1070, 1038)], 'soraka': [(1088, 943, 1271, 1038)]} index: 3
+2023-08-16 11:35:30 info: champ_name: kayle; champion_coordinates: {'viego': [(886, 943, 1070, 1038)], 'soraka': [(1088, 943, 1271, 1038)], 'kayle': [(1289, 943, 1472, 1038)]} index: 4
+2023-08-16 11:35:30 info: screen_for_champ {'viego': [(886, 943, 1070, 1038)], 'soraka': [(1088, 943, 1271, 1038)], 'kayle': [(1289, 943, 1472, 1038)]}
+2023-08-16 11:35:30 info: TEST. number of files in Tensorflow/labelimg/test is 0
+2023-08-16 11:35:38 info: champ_name: kalista; champion_coordinates: {'kalista': [(685, 943, 869, 1038)]} index: 1
+2023-08-16 11:35:38 info: champ_name: viego; champion_coordinates: {'kalista': [(685, 943, 869, 1038)], 'viego': [(886, 943, 1070, 1038)]} index: 2
+2023-08-16 11:35:38 info: champ_name: soraka; champion_coordinates: {'kalista': [(685, 943, 869, 1038)], 'viego': [(886, 943, 1070, 1038)], 'soraka': [(1088, 943, 1271, 1038)]} index: 3
+2023-08-16 11:35:38 info: champ_name: kayle; champion_coordinates: {'kalista': [(685, 943, 869, 1038)], 'viego': [(886, 943, 1070, 1038)], 'soraka': [(1088, 943, 1271, 1038)], 'kayle': [(1289, 943, 1472, 1038)]} index: 4
+2023-08-16 11:35:38 info: screen_for_champ {'kalista': [(685, 943, 869, 1038)], 'viego': [(886, 943, 1070, 1038)], 'soraka': [(1088, 943, 1271, 1038)], 'kayle': [(1289, 943, 1472, 1038)]}
+2023-08-16 11:35:38 info: TEST. number of files in Tensorflow/labelimg/test is 2
+2023-08-16 11:35:55 info: champ_name: kalista; champion_coordinates: {'kalista': [(685, 943, 869, 1038)]} index: 1
+2023-08-16 11:35:55 info: champ_name: viego; champion_coordinates: {'kalista': [(685, 943, 869, 1038)], 'viego': [(886, 943, 1070, 1038)]} index: 2
+2023-08-16 11:35:55 info: champ_name: soraka; champion_coordinates: {'kalista': [(685, 943, 869, 1038)], 'viego': [(886, 943, 1070, 1038)], 'soraka': [(1088, 943, 1271, 1038)]} index: 3
+2023-08-16 11:35:55 info: champ_name: kayle; champion_coordinates: {'kalista': [(685, 943, 869, 1038)], 'viego': [(886, 943, 1070, 1038)], 'soraka': [(1088, 943, 1271, 1038)], 'kayle': [(1289, 943, 1472, 1038)]} index: 4
+2023-08-16 11:35:55 info: screen_for_champ {'kalista': [(685, 943, 869, 1038)], 'viego': [(886, 943, 1070, 1038)], 'soraka': [(1088, 943, 1271, 1038)], 'kayle': [(1289, 943, 1472, 1038)]}
+2023-08-16 11:35:55 info: TEST. number of files in Tensorflow/labelimg/test is 4
+2023-08-16 11:36:08 info: champ_name: taric; champion_coordinates: {'taric': [(484, 943, 668, 1038)]} index: 0
+2023-08-16 11:36:08 info: champ_name: tristana; champion_coordinates: {'taric': [(484, 943, 668, 1038)], 'tristana': [(1088, 943, 1271, 1038)]} index: 3
+2023-08-16 11:36:08 info: champ_name: lissandra; champion_coordinates: {'taric': [(484, 943, 668, 1038)], 'tristana': [(1088, 943, 1271, 1038)], 'lissandra': [(1289, 943, 1472, 1038)]} index: 4
+2023-08-16 11:36:08 info: screen_for_champ {'taric': [(484, 943, 668, 1038)], 'tristana': [(1088, 943, 1271, 1038)], 'lissandra': [(1289, 943, 1472, 1038)]}
+2023-08-16 11:36:08 info: TEST. number of files in Tensorflow/labelimg/test is 6
+2023-08-16 11:36:25 info: champ_name: karma; champion_coordinates: {'karma': [(484, 943, 668, 1038)]} index: 0
+2023-08-16 11:36:25 info: champ_name: azir; champion_coordinates: {'karma': [(484, 943, 668, 1038)], 'azir': [(685, 943, 869, 1038)]} index: 1
+2023-08-16 11:36:25 info: champ_name: lux; champion_coordinates: {'karma': [(484, 943, 668, 1038)], 'azir': [(685, 943, 869, 1038)], 'lux': [(1289, 943, 1472, 1038)]} index: 4
+2023-08-16 11:36:25 info: screen_for_champ {'karma': [(484, 943, 668, 1038)], 'azir': [(685, 943, 869, 1038)], 'lux': [(1289, 943, 1472, 1038)]}
+2023-08-16 11:36:25 info: TEST. number of files in Tensorflow/labelimg/test is 8
+2023-08-16 11:36:39 info: champ_name: warwick; champion_coordinates: {'warwick': [(1088, 943, 1271, 1038)]} index: 3
+2023-08-16 11:36:39 info: screen_for_champ {'warwick': [(1088, 943, 1271, 1038)]}
+2023-08-16 11:36:39 info: TEST. number of files in Tensorflow/labelimg/test is 10
+2023-08-16 11:47:17 info: checking for keanelol every 15 seconds, recording with 1080p60 quality
+2023-08-16 11:47:18 info: First ten currently online users in teamfight tactics category: ['keanelol', 'bebe872', 'stunt', 'Alanzq', 'JonSandman', 'hyunter', 'TidesofTime', 'Jummychu', 'josepao1o', 'dallasyes']
+2023-08-16 11:47:18 info: keanelol online, stream recording in session
+2023-08-16 11:47:18 info: record_stream begin
+2023-08-16 11:47:20 info: get_stream_url
+2023-08-16 11:48:00 info: champ_name: kayle; champion_coordinates len: 1; index: 0
+2023-08-16 11:48:01 info: champ_name: chogath; champion_coordinates len: 2; index: 1
+2023-08-16 11:48:01 info: champ_name: tristana; champion_coordinates len: 3; index: 2
+2023-08-16 11:48:01 info: champ_name: malzahar; champion_coordinates len: 4; index: 3
+2023-08-16 11:48:01 info: screen_for_champ 4
+2023-08-16 11:48:18 info: champ_name: kayle; champion_coordinates len: 1; index: 0
+2023-08-16 11:48:18 info: screen_for_champ 1
+2023-08-16 11:48:31 info: champ_name: chogath; champion_coordinates len: 1; index: 2
+2023-08-16 11:48:31 info: champ_name: malzahar; champion_coordinates len: 2; index: 4
+2023-08-16 11:48:31 info: screen_for_champ 2
+2023-08-16 11:48:46 info: champ_name: jhin; champion_coordinates len: 1; index: 1
+2023-08-16 11:48:46 info: champ_name: malzahar; champion_coordinates len: 2; index: 4
+2023-08-16 11:48:46 info: screen_for_champ 2
+2023-08-16 11:49:02 info: champ_name: jhin; champion_coordinates len: 1; index: 1
+2023-08-16 11:49:02 info: champ_name: malzahar; champion_coordinates len: 2; index: 4
+2023-08-16 11:49:02 info: screen_for_champ 2
+2023-08-16 11:49:17 info: champ_name: maokai; champion_coordinates len: 1; index: 0
+2023-08-16 11:49:17 info: champ_name: samira; champion_coordinates len: 2; index: 1
+2023-08-16 11:49:17 info: champ_name: tristana; champion_coordinates len: 3; index: 2
+2023-08-16 11:49:17 info: champ_name: soraka; champion_coordinates len: 4; index: 3
+2023-08-16 11:49:17 info: screen_for_champ 4
+2023-08-16 11:49:30 info: champ_name: maokai; champion_coordinates len: 1; index: 0
+2023-08-16 11:49:30 info: champ_name: samira; champion_coordinates len: 2; index: 1
+2023-08-16 11:49:30 info: champ_name: tristana; champion_coordinates len: 3; index: 2
+2023-08-16 11:49:30 info: champ_name: soraka; champion_coordinates len: 4; index: 3
+2023-08-16 11:49:30 info: screen_for_champ 4
+2023-08-16 11:53:04 info: checking for keanelol every 15 seconds, recording with 1080p60 quality
+2023-08-16 11:53:05 info: First ten currently online users in teamfight tactics category: ['keanelol', 'bebe872', 'stunt', 'Alanzq', 'JonSandman', 'hyunter', 'TidesofTime', 'Jummychu', 'josepao1o', 'dallasyes']
+2023-08-16 11:53:05 info: keanelol online, stream recording in session
+2023-08-16 11:53:05 info: record_stream begin
+2023-08-16 11:53:07 info: get_stream_url
+2023-08-16 11:53:33 info: champ_name: garen; champion_coordinates len: 1; index: 0
+2023-08-16 11:53:33 info: champ_name: jhin; champion_coordinates len: 2; index: 1
+2023-08-16 11:53:33 info: champ_name: orianna; champion_coordinates len: 3; index: 2
+2023-08-16 11:53:33 info: champ_name: sona; champion_coordinates len: 4; index: 3
+2023-08-16 11:53:33 info: champ_name: poppy; champion_coordinates len: 5; index: 4
+2023-08-16 11:53:33 info: screen_for_champ 5
+2023-08-16 11:53:48 info: champ_name: jhin; champion_coordinates len: 1; index: 1
+2023-08-16 11:53:48 info: champ_name: orianna; champion_coordinates len: 2; index: 2
+2023-08-16 11:53:48 info: champ_name: poppy; champion_coordinates len: 3; index: 4
+2023-08-16 11:53:48 info: screen_for_champ 3
+2023-08-16 11:54:03 info: champ_name: jhin; champion_coordinates len: 1; index: 1
+2023-08-16 11:54:03 info: champ_name: orianna; champion_coordinates len: 2; index: 2
+2023-08-16 11:54:03 info: champ_name: sona; champion_coordinates len: 3; index: 3
+2023-08-16 11:54:04 info: champ_name: poppy; champion_coordinates len: 4; index: 4
+2023-08-16 11:54:04 info: screen_for_champ 4
+2023-08-16 11:54:17 info: champ_name: jhin; champion_coordinates len: 1; index: 1
+2023-08-16 11:54:17 info: champ_name: orianna; champion_coordinates len: 2; index: 2
+2023-08-16 11:54:17 info: champ_name: sona; champion_coordinates len: 3; index: 3
+2023-08-16 11:54:17 info: screen_for_champ 3
+2023-08-16 11:54:33 info: champ_name: jhin; champion_coordinates len: 1; index: 1
+2023-08-16 11:54:33 info: champ_name: orianna; champion_coordinates len: 2; index: 2
+2023-08-16 11:54:33 info: champ_name: sona; champion_coordinates len: 3; index: 3
+2023-08-16 11:54:34 info: screen_for_champ 3
+2023-08-16 11:54:46 info: champ_name: chogath; champion_coordinates len: 1; index: 0
+2023-08-16 11:54:46 info: champ_name: samira; champion_coordinates len: 2; index: 1
+2023-08-16 11:54:47 info: champ_name: chogath; champion_coordinates len: 2; index: 3
+2023-08-16 11:54:47 info: champ_name: galio; champion_coordinates len: 3; index: 4
+2023-08-16 11:54:47 info: screen_for_champ 3
+2023-08-16 11:55:04 info: champ_name: chogath; champion_coordinates len: 1; index: 0
+2023-08-16 11:55:04 info: champ_name: samira; champion_coordinates len: 2; index: 1
+2023-08-16 11:55:04 info: champ_name: chogath; champion_coordinates len: 2; index: 3
+2023-08-16 11:55:04 info: champ_name: galio; champion_coordinates len: 3; index: 4
+2023-08-16 11:55:04 info: screen_for_champ 3
+2023-08-16 11:55:17 info: champ_name: chogath; champion_coordinates len: 1; index: 0
+2023-08-16 11:55:17 info: champ_name: samira; champion_coordinates len: 2; index: 1
+2023-08-16 11:55:17 info: champ_name: chogath; champion_coordinates len: 2; index: 3
+2023-08-16 11:55:17 info: champ_name: galio; champion_coordinates len: 3; index: 4
+2023-08-16 11:55:17 info: screen_for_champ 3
+2023-08-16 11:55:32 info: champ_name: chogath; champion_coordinates len: 1; index: 0
+2023-08-16 11:55:32 info: champ_name: samira; champion_coordinates len: 2; index: 1
+2023-08-16 11:55:33 info: champ_name: chogath; champion_coordinates len: 2; index: 3
+2023-08-16 11:55:33 info: champ_name: galio; champion_coordinates len: 3; index: 4
+2023-08-16 11:55:33 info: screen_for_champ 3
+2023-08-16 11:55:47 info: champ_name: chogath; champion_coordinates len: 1; index: 0
+2023-08-16 11:55:47 info: champ_name: samira; champion_coordinates len: 2; index: 1
+2023-08-16 11:55:48 info: champ_name: chogath; champion_coordinates len: 2; index: 3
+2023-08-16 11:55:48 info: champ_name: galio; champion_coordinates len: 3; index: 4
+2023-08-16 11:55:48 info: screen_for_champ 3
+2023-08-16 11:56:02 info: champ_name: karma; champion_coordinates len: 1; index: 0
+2023-08-16 11:56:03 info: screen_for_champ 1
+2023-08-16 11:57:03 info: champ_name: kayle; champion_coordinates len: 1; index: 2
+2023-08-16 11:57:03 info: champ_name: cassiopeia; champion_coordinates len: 2; index: 4
+2023-08-16 11:57:03 info: screen_for_champ 2
+2023-08-16 11:57:18 info: champ_name: kayle; champion_coordinates len: 1; index: 2
+2023-08-16 11:57:18 info: champ_name: cassiopeia; champion_coordinates len: 2; index: 4
+2023-08-16 11:57:18 info: screen_for_champ 2
+2023-08-16 11:57:18 info: total number of files in Tensorflow/labelimg is 50
+2023-08-16 11:57:33 info: champ_name: kayle; champion_coordinates len: 1; index: 2
+2023-08-16 11:57:33 info: champ_name: cassiopeia; champion_coordinates len: 2; index: 4
+2023-08-16 11:57:33 info: screen_for_champ 2
+2023-08-16 11:57:33 info: total number of files in Tensorflow/labelimg is 50
+2023-08-16 11:57:48 info: champ_name: kayle; champion_coordinates len: 1; index: 2
+2023-08-16 11:57:49 info: champ_name: cassiopeia; champion_coordinates len: 2; index: 4
+2023-08-16 11:57:49 info: screen_for_champ 2
+2023-08-16 11:57:49 info: total number of files in Tensorflow/labelimg is 50
+2023-08-16 11:58:17 info: champ_name: zed; champion_coordinates len: 1; index: 2
+2023-08-16 11:58:17 info: champ_name: jhin; champion_coordinates len: 2; index: 3
+2023-08-16 11:58:17 info: champ_name: jhin; champion_coordinates len: 2; index: 4
+2023-08-16 11:58:17 info: screen_for_champ 2
+2023-08-16 11:58:17 info: TEST. number of files in Tensorflow/labelimg/test is 0
+2023-08-16 11:58:33 info: champ_name: zed; champion_coordinates len: 1; index: 2
+2023-08-16 11:58:34 info: champ_name: jhin; champion_coordinates len: 2; index: 3
+2023-08-16 11:58:34 info: champ_name: jhin; champion_coordinates len: 2; index: 4
+2023-08-16 11:58:34 info: screen_for_champ 2
+2023-08-16 11:58:46 info: champ_name: zed; champion_coordinates len: 1; index: 2
+2023-08-16 11:58:47 info: champ_name: jhin; champion_coordinates len: 2; index: 3
+2023-08-16 11:58:47 info: champ_name: jhin; champion_coordinates len: 2; index: 4
+2023-08-16 11:58:47 info: screen_for_champ 2
+2023-08-16 11:59:04 info: champ_name: zed; champion_coordinates len: 1; index: 2
+2023-08-16 11:59:04 info: champ_name: jhin; champion_coordinates len: 2; index: 3
+2023-08-16 11:59:04 info: champ_name: jhin; champion_coordinates len: 2; index: 4
+2023-08-16 11:59:04 info: screen_for_champ 2
+2023-08-16 11:59:17 info: champ_name: zed; champion_coordinates len: 1; index: 2
+2023-08-16 11:59:17 info: champ_name: jhin; champion_coordinates len: 2; index: 3
+2023-08-16 11:59:17 info: champ_name: jhin; champion_coordinates len: 2; index: 4
+2023-08-16 11:59:17 info: screen_for_champ 2
+2023-08-16 11:59:47 info: champ_name: malzahar; champion_coordinates len: 1; index: 1
+2023-08-16 11:59:47 info: champ_name: tristana; champion_coordinates len: 2; index: 2
+2023-08-16 11:59:48 info: screen_for_champ 2
+2023-08-16 12:43:34 info: checking for keanelol every 15 seconds, recording with 1080p60 quality
+2023-08-16 12:43:34 info: First ten currently online users in teamfight tactics category: ['keanelol', 'bebe872', 'Alanzq', 'hyunter', 'reunicoce', 'mode_tft', 'Izzyykun', 'Nedpool', 'Laellana', 'brubbba']
+2023-08-16 12:43:35 info: keanelol online, stream recording in session
+2023-08-16 12:43:35 info: record_stream begin
+2023-08-16 12:43:36 info: get_stream_url
+2023-08-16 12:43:38 info: champ_name: Karma
+ index: 0
+2023-08-16 12:43:38 info: champ_name: karma; champion_coordinates len: 1; index: 0
+2023-08-16 12:43:38 info: champ_name: Katarina
+ index: 1
+2023-08-16 12:43:38 info: champ_name: katarina; champion_coordinates len: 2; index: 1
+2023-08-16 12:43:38 info: champ_name:  index: 2
+2023-08-16 12:43:38 info: champ_name: Renekton
+ index: 3
+2023-08-16 12:43:38 info: champ_name: renekton; champion_coordinates len: 3; index: 3
+2023-08-16 12:43:38 info: champ_name: Katarina
+ index: 4
+2023-08-16 12:43:38 info: champ_name: katarina; champion_coordinates len: 3; index: 4
+2023-08-16 12:43:38 info: screen_for_champ 3
+2023-08-16 12:43:47 info: champ_name: Karma
+ index: 0
+2023-08-16 12:43:47 info: champ_name: karma; champion_coordinates len: 1; index: 0
+2023-08-16 12:43:47 info: champ_name: Katarina
+ index: 1
+2023-08-16 12:43:47 info: champ_name: katarina; champion_coordinates len: 2; index: 1
+2023-08-16 12:43:47 info: champ_name:  index: 2
+2023-08-16 12:43:47 info: champ_name: Renekton
+ index: 3
+2023-08-16 12:43:47 info: champ_name: renekton; champion_coordinates len: 3; index: 3
+2023-08-16 12:43:48 info: champ_name: Katarina
+ index: 4
+2023-08-16 12:43:48 info: champ_name: katarina; champion_coordinates len: 3; index: 4
+2023-08-16 12:43:48 info: screen_for_champ 3
+2023-08-16 12:44:02 info: champ_name: Karma
+ index: 0
+2023-08-16 12:44:02 info: champ_name: karma; champion_coordinates len: 1; index: 0
+2023-08-16 12:44:02 info: champ_name: Katarina
+ index: 1
+2023-08-16 12:44:02 info: champ_name: katarina; champion_coordinates len: 2; index: 1
+2023-08-16 12:44:03 info: champ_name:  index: 2
+2023-08-16 12:44:03 info: champ_name: Renekton
+ index: 3
+2023-08-16 12:44:03 info: champ_name: renekton; champion_coordinates len: 3; index: 3
+2023-08-16 12:44:03 info: champ_name: Katarina
+ index: 4
+2023-08-16 12:44:03 info: champ_name: katarina; champion_coordinates len: 3; index: 4
+2023-08-16 12:44:03 info: screen_for_champ 3
+2023-08-16 12:44:17 info: champ_name: Lissandra
+ index: 0
+2023-08-16 12:44:17 info: champ_name: lissandra; champion_coordinates len: 1; index: 0
+2023-08-16 12:44:17 info: champ_name: Yasuo
+ index: 1
+2023-08-16 12:44:17 info: champ_name: yasuo; champion_coordinates len: 2; index: 1
+2023-08-16 12:44:17 info: champ_name:  index: 2
+2023-08-16 12:44:18 info: champ_name:  index: 3
+2023-08-16 12:44:18 info: champ_name: Katarina
+ index: 4
+2023-08-16 12:44:18 info: champ_name: katarina; champion_coordinates len: 3; index: 4
+2023-08-16 12:44:18 info: screen_for_champ 3
+2023-08-16 12:44:32 info: champ_name: Lissandra
+ index: 0
+2023-08-16 12:44:32 info: champ_name: lissandra; champion_coordinates len: 1; index: 0
+2023-08-16 12:44:32 info: champ_name: Yasuo
+ index: 1
+2023-08-16 12:44:32 info: champ_name: yasuo; champion_coordinates len: 2; index: 1
+2023-08-16 12:44:32 info: champ_name:  index: 2
+2023-08-16 12:44:33 info: champ_name:  index: 3
+2023-08-16 12:44:33 info: champ_name: Katarina
+ index: 4
+2023-08-16 12:44:33 info: champ_name: katarina; champion_coordinates len: 3; index: 4
+2023-08-16 12:44:33 info: screen_for_champ 3
+2023-08-16 12:44:47 info: champ_name: Nasus
+ index: 0
+2023-08-16 12:44:47 info: champ_name: nasus; champion_coordinates len: 1; index: 0
+2023-08-16 12:44:48 info: champ_name: Azir
+ index: 1
+2023-08-16 12:44:48 info: champ_name: azir; champion_coordinates len: 2; index: 1
+2023-08-16 12:44:48 info: champ_name:  index: 2
+2023-08-16 12:44:48 info: champ_name: Katarina
+ index: 3
+2023-08-16 12:44:48 info: champ_name: katarina; champion_coordinates len: 3; index: 3
+2023-08-16 12:44:48 info: champ_name: Nasus
+ index: 4
+2023-08-16 12:44:48 info: champ_name: nasus; champion_coordinates len: 3; index: 4
+2023-08-16 12:44:48 info: screen_for_champ 3
+2023-08-16 12:45:03 info: champ_name: Nasus
+ index: 0
+2023-08-16 12:45:03 info: champ_name: nasus; champion_coordinates len: 1; index: 0
+2023-08-16 12:45:03 info: champ_name: Azir
+ index: 1
+2023-08-16 12:45:03 info: champ_name: azir; champion_coordinates len: 2; index: 1
+2023-08-16 12:45:03 info: champ_name:  index: 2
+2023-08-16 12:45:03 info: champ_name: Katarina
+ index: 3
+2023-08-16 12:45:03 info: champ_name: katarina; champion_coordinates len: 3; index: 3
+2023-08-16 12:45:03 info: champ_name: Nasus
+ index: 4
+2023-08-16 12:45:03 info: champ_name: nasus; champion_coordinates len: 3; index: 4
+2023-08-16 12:45:03 info: screen_for_champ 3
+2023-08-16 12:45:18 info: champ_name: Nasus
+ index: 0
+2023-08-16 12:45:18 info: champ_name: nasus; champion_coordinates len: 1; index: 0
+2023-08-16 12:45:18 info: champ_name: Azir
+ index: 1
+2023-08-16 12:45:18 info: champ_name: azir; champion_coordinates len: 2; index: 1
+2023-08-16 12:45:18 info: champ_name:  index: 2
+2023-08-16 12:45:18 info: champ_name: Katarina
+ index: 3
+2023-08-16 12:45:18 info: champ_name: katarina; champion_coordinates len: 3; index: 3
+2023-08-16 12:45:18 info: champ_name: Nasus
+ index: 4
+2023-08-16 12:45:18 info: champ_name: nasus; champion_coordinates len: 3; index: 4
+2023-08-16 12:45:18 info: screen_for_champ 3
+2023-08-16 12:45:33 info: champ_name: Nasus
+ index: 0
+2023-08-16 12:45:33 info: champ_name: nasus; champion_coordinates len: 1; index: 0
+2023-08-16 12:45:33 info: champ_name: Azir
+ index: 1
+2023-08-16 12:45:33 info: champ_name: azir; champion_coordinates len: 2; index: 1
+2023-08-16 12:45:33 info: champ_name:  index: 2
+2023-08-16 12:45:33 info: champ_name: Katarina
+ index: 3
+2023-08-16 12:45:33 info: champ_name: katarina; champion_coordinates len: 3; index: 3
+2023-08-16 12:45:33 info: champ_name: Nasus
+ index: 4
+2023-08-16 12:45:33 info: champ_name: nasus; champion_coordinates len: 3; index: 4
+2023-08-16 12:45:33 info: screen_for_champ 3
+2023-08-16 12:45:48 info: champ_name:  index: 0
+2023-08-16 12:45:48 info: champ_name:  index: 1
+2023-08-16 12:45:48 info: champ_name:  index: 2
+2023-08-16 12:45:49 info: champ_name:  index: 3
+2023-08-16 12:45:49 info: champ_name:  index: 4
+2023-08-16 12:56:54 info: checking for keanelol every 15 seconds, recording with 1080p60 quality
+2023-08-16 12:56:54 info: First ten currently online users in teamfight tactics category: ['keanelol', 'bebe872', 'Alanzq', 'Laellana', 'reunicoce', 'Izzyykun', 'peachyranran', 'mode_tft', 'brubbba', 'Nedpool']
+2023-08-16 12:56:55 info: keanelol online, stream recording in session
+2023-08-16 12:56:55 info: record_stream begin
+2023-08-16 12:56:56 info: get_stream_url
+2023-08-16 12:56:58 info: pytesseract champ_name: Vel'Koz
+ index: 1
+2023-08-16 12:56:58 info: LOWER champ_name: vel'koz
+ index: 1
+2023-08-16 12:56:58 info: champ_name: velkoz; index: 1
+2023-08-16 12:56:58 info: pytesseract champ_name: Lissandra
+ index: 2
+2023-08-16 12:56:58 info: LOWER champ_name: lissandra
+ index: 2
+2023-08-16 12:56:58 info: champ_name: lissandra; index: 2
+2023-08-16 12:56:58 info: pytesseract champ_name: Aatrox
+ index: 3
+2023-08-16 12:56:58 info: LOWER champ_name: aatrox
+ index: 3
+2023-08-16 12:56:58 info: champ_name: aatrox; index: 3
+2023-08-16 12:56:58 info: pytesseract champ_name:  index: 4
+2023-08-16 12:56:58 info: pytesseract champ_name: Sona
+ index: 5
+2023-08-16 12:56:58 info: LOWER champ_name: sona
+ index: 5
+2023-08-16 12:56:58 info: champ_name: sona; index: 5
+2023-08-16 12:56:58 info: screen_for_champ 4
+2023-08-16 12:57:07 info: pytesseract champ_name: Vel'Koz
+ index: 1
+2023-08-16 12:57:07 info: LOWER champ_name: vel'koz
+ index: 1
+2023-08-16 12:57:07 info: champ_name: velkoz; index: 1
+2023-08-16 12:57:08 info: pytesseract champ_name: Lissandra
+ index: 2
+2023-08-16 12:57:08 info: LOWER champ_name: lissandra
+ index: 2
+2023-08-16 12:57:08 info: champ_name: lissandra; index: 2
+2023-08-16 12:57:08 info: pytesseract champ_name: Aatrox
+ index: 3
+2023-08-16 12:57:08 info: LOWER champ_name: aatrox
+ index: 3
+2023-08-16 12:57:08 info: champ_name: aatrox; index: 3
+2023-08-16 12:57:08 info: pytesseract champ_name:  index: 4
+2023-08-16 12:57:08 info: pytesseract champ_name: Sona
+ index: 5
+2023-08-16 12:57:08 info: LOWER champ_name: sona
+ index: 5
+2023-08-16 12:57:08 info: champ_name: sona; index: 5
+2023-08-16 12:57:08 info: screen_for_champ 4
+2023-08-16 13:03:56 info: checking for keanelol every 15 seconds, recording with 1080p60 quality
+2023-08-16 13:03:57 info: First ten currently online users in teamfight tactics category: ['keanelol', 'bebe872', 'Alanzq', 'Laellana', 'reunicoce', 'Izzyykun', 'mode_tft', 'Nedpool', 'brubbba', 'Reeseballs']
+2023-08-16 13:03:57 info: keanelol online, stream recording in session
+2023-08-16 13:03:57 info: record_stream begin
+2023-08-16 13:03:59 info: get_stream_url
+2023-08-16 13:04:00 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:04:01 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:04:01 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:04:01 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:04:01 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:04:09 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:04:10 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:04:10 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:04:10 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:04:10 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:04:25 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:04:25 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:04:25 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:04:25 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:04:25 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:04:40 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:04:40 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:04:40 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:04:40 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:04:40 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:04:55 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:04:55 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:04:55 info: 1) pytesseract champ_name: aaa | index: 3
+2023-08-16 13:04:55 info: 2) lower champ_name: aaa |
+
+ 
+ index: 3
+2023-08-16 13:04:55 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:04:55 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:05:10 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:05:10 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:05:10 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:05:10 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:05:10 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:05:25 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:05:25 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:05:25 info: 1) pytesseract champ_name: ym ss index: 3
+2023-08-16 13:05:25 info: 2) lower champ_name: ym ss
+
+ 
+ index: 3
+2023-08-16 13:05:25 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:05:25 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:05:40 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:05:40 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:05:40 info: 1) pytesseract champ_name: ss ™ index: 3
+2023-08-16 13:05:40 info: 2) lower champ_name: ss ™
+
+ 
+ index: 3
+2023-08-16 13:05:40 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:05:41 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:05:55 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:05:55 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:05:55 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:05:55 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:05:55 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:06:10 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:06:10 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:06:10 info: 1) pytesseract champ_name: ew a> index: 3
+2023-08-16 13:06:10 info: 2) lower champ_name: ew a>
+ index: 3
+2023-08-16 13:06:10 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:06:10 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:06:25 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:06:25 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:06:25 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:06:25 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:06:25 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:06:40 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:06:40 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:06:40 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:06:40 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:06:41 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:06:55 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:06:55 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:06:55 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:06:55 info: 1) pytesseract champ_name: wd ~ da index: 4
+2023-08-16 13:06:55 info: 2) lower champ_name: wd ~ da
+ index: 4
+2023-08-16 13:06:56 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:07:08 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:07:09 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:07:09 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:07:09 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:07:09 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:07:25 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:07:25 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:07:25 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:07:26 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:07:26 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:07:38 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:07:38 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:07:38 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:07:39 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:07:39 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:07:55 info: 1) pytesseract champ_name: Poppy index: 1
+2023-08-16 13:07:55 info: 2) lower champ_name: poppy
+ index: 1
+2023-08-16 13:07:55 info: 3) champ_name: poppy; index: 1
+2023-08-16 13:07:55 info: 1) pytesseract champ_name: Samira index: 2
+2023-08-16 13:07:55 info: 2) lower champ_name: samira
+ index: 2
+2023-08-16 13:07:55 info: 3) champ_name: samira; index: 2
+2023-08-16 13:07:56 info: 1) pytesseract champ_name: Malzahar index: 3
+2023-08-16 13:07:56 info: 2) lower champ_name: malzahar
+ index: 3
+2023-08-16 13:07:56 info: 3) champ_name: malzahar; index: 3
+2023-08-16 13:07:56 info: 1) pytesseract champ_name: ETS: Yo |] index: 4
+2023-08-16 13:07:56 info: 2) lower champ_name: ets: yo |]
+ index: 4
+2023-08-16 13:07:56 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:07:56 info: 4) screen_for_champ: 3 test_index: 4
+2023-08-16 13:08:08 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:08:08 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:08:09 info: 1) pytesseract champ_name: Malzahar index: 3
+2023-08-16 13:08:09 info: 2) lower champ_name: malzahar
+ index: 3
+2023-08-16 13:08:09 info: 3) champ_name: malzahar; index: 3
+2023-08-16 13:08:09 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:08:09 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:08:09 info: 4) screen_for_champ: 1 test_index: 1
+2023-08-16 13:08:25 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:08:25 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:08:26 info: 1) pytesseract champ_name: Malzahar index: 3
+2023-08-16 13:08:26 info: 2) lower champ_name: malzahar
+ index: 3
+2023-08-16 13:08:26 info: 3) champ_name: malzahar; index: 3
+2023-08-16 13:08:26 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:08:26 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:08:26 info: 4) screen_for_champ: 1 test_index: 1
+2023-08-16 13:08:38 info: 1) pytesseract champ_name: Jhin index: 1
+2023-08-16 13:08:38 info: 2) lower champ_name: jhin
+ index: 1
+2023-08-16 13:08:38 info: 3) champ_name: jhin; index: 1
+2023-08-16 13:08:39 info: 1) pytesseract champ_name: Viego index: 2
+2023-08-16 13:08:39 info: 2) lower champ_name: viego
+ index: 2
+2023-08-16 13:08:39 info: 3) champ_name: viego; index: 2
+2023-08-16 13:08:39 info: 1) pytesseract champ_name: Cho'Gath index: 3
+2023-08-16 13:08:39 info: 2) lower champ_name: cho'gath
+ index: 3
+2023-08-16 13:08:39 info: 3) champ_name: chogath; index: 3
+2023-08-16 13:08:39 info: 1) pytesseract champ_name: Cassiopeia index: 4
+2023-08-16 13:08:39 info: 2) lower champ_name: cassiopeia
+ index: 4
+2023-08-16 13:08:39 info: 3) champ_name: cassiopeia; index: 4
+2023-08-16 13:08:39 info: 1) pytesseract champ_name: Maokai index: 5
+2023-08-16 13:08:39 info: 2) lower champ_name: maokai
+ index: 5
+2023-08-16 13:08:39 info: 3) champ_name: maokai; index: 5
+2023-08-16 13:08:39 info: 4) screen_for_champ: 5 test_index: 5
+2023-08-16 13:08:55 info: 1) pytesseract champ_name: Jhin index: 1
+2023-08-16 13:08:55 info: 2) lower champ_name: jhin
+ index: 1
+2023-08-16 13:08:55 info: 3) champ_name: jhin; index: 1
+2023-08-16 13:08:56 info: 1) pytesseract champ_name: Viego index: 2
+2023-08-16 13:08:56 info: 2) lower champ_name: viego
+ index: 2
+2023-08-16 13:08:56 info: 3) champ_name: viego; index: 2
+2023-08-16 13:08:56 info: 1) pytesseract champ_name: Cho'Gath index: 3
+2023-08-16 13:08:56 info: 2) lower champ_name: cho'gath
+ index: 3
+2023-08-16 13:08:56 info: 3) champ_name: chogath; index: 3
+2023-08-16 13:08:56 info: 1) pytesseract champ_name: Cassiopeia index: 4
+2023-08-16 13:08:56 info: 2) lower champ_name: cassiopeia
+ index: 4
+2023-08-16 13:08:56 info: 3) champ_name: cassiopeia; index: 4
+2023-08-16 13:08:56 info: 1) pytesseract champ_name: Maokai index: 5
+2023-08-16 13:08:56 info: 2) lower champ_name: maokai
+ index: 5
+2023-08-16 13:08:56 info: 3) champ_name: maokai; index: 5
+2023-08-16 13:08:56 info: 4) screen_for_champ: 5 test_index: 5
+2023-08-16 13:09:08 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:09:09 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:09:09 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:09:09 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:09:09 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:09:25 info: 1) pytesseract champ_name: Jhin index: 1
+2023-08-16 13:09:25 info: 2) lower champ_name: jhin
+ index: 1
+2023-08-16 13:09:25 info: 3) champ_name: jhin; index: 1
+2023-08-16 13:09:26 info: 1) pytesseract champ_name: Viego index: 2
+2023-08-16 13:09:26 info: 2) lower champ_name: viego
+ index: 2
+2023-08-16 13:09:26 info: 3) champ_name: viego; index: 2
+2023-08-16 13:09:26 info: 1) pytesseract champ_name: Cho'Gath index: 3
+2023-08-16 13:09:26 info: 2) lower champ_name: cho'gath
+ index: 3
+2023-08-16 13:09:26 info: 3) champ_name: chogath; index: 3
+2023-08-16 13:09:26 info: 1) pytesseract champ_name: Cassiopeia index: 4
+2023-08-16 13:09:26 info: 2) lower champ_name: cassiopeia
+ index: 4
+2023-08-16 13:09:26 info: 3) champ_name: cassiopeia; index: 4
+2023-08-16 13:09:26 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:09:26 info: 4) screen_for_champ: 4 test_index: 4
+2023-08-16 13:09:39 info: 1) pytesseract champ_name: Jhin index: 1
+2023-08-16 13:09:39 info: 2) lower champ_name: jhin
+ index: 1
+2023-08-16 13:09:39 info: 3) champ_name: jhin; index: 1
+2023-08-16 13:09:39 info: 1) pytesseract champ_name: Viego index: 2
+2023-08-16 13:09:39 info: 2) lower champ_name: viego
+ index: 2
+2023-08-16 13:09:39 info: 3) champ_name: viego; index: 2
+2023-08-16 13:09:39 info: 1) pytesseract champ_name: Cho'Gath index: 3
+2023-08-16 13:09:39 info: 2) lower champ_name: cho'gath
+ index: 3
+2023-08-16 13:09:39 info: 3) champ_name: chogath; index: 3
+2023-08-16 13:09:39 info: 1) pytesseract champ_name: Cassiopeia index: 4
+2023-08-16 13:09:39 info: 2) lower champ_name: cassiopeia
+ index: 4
+2023-08-16 13:09:39 info: 3) champ_name: cassiopeia; index: 4
+2023-08-16 13:09:39 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:09:39 info: 4) screen_for_champ: 4 test_index: 4
+2023-08-16 13:09:56 info: 1) pytesseract champ_name: eat index: 1
+2023-08-16 13:09:56 info: 2) lower champ_name: eat
+ index: 1
+2023-08-16 13:09:56 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:09:56 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:09:56 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:09:56 info: 1) pytesseract champ_name: Swain index: 5
+2023-08-16 13:09:56 info: 2) lower champ_name: swain
+ index: 5
+2023-08-16 13:09:56 info: 3) champ_name: swain; index: 5
+2023-08-16 13:09:56 info: 4) screen_for_champ: 1 test_index: 2
+2023-08-16 13:10:09 info: 1) pytesseract champ_name: Kayle index: 1
+2023-08-16 13:10:09 info: 2) lower champ_name: kayle
+ index: 1
+2023-08-16 13:10:09 info: 3) champ_name: kayle; index: 1
+2023-08-16 13:10:09 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:10:09 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:10:09 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:10:09 info: 1) pytesseract champ_name: Swain index: 5
+2023-08-16 13:10:09 info: 2) lower champ_name: swain
+ index: 5
+2023-08-16 13:10:09 info: 3) champ_name: swain; index: 5
+2023-08-16 13:10:09 info: 4) screen_for_champ: 2 test_index: 2
+2023-08-16 13:10:26 info: 1) pytesseract champ_name: Kayle index: 1
+2023-08-16 13:10:26 info: 2) lower champ_name: kayle
+ index: 1
+2023-08-16 13:10:26 info: 3) champ_name: kayle; index: 1
+2023-08-16 13:10:26 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:10:26 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:10:26 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:10:26 info: 1) pytesseract champ_name: SEV] index: 5
+2023-08-16 13:10:26 info: 2) lower champ_name: sev]
+ index: 5
+2023-08-16 13:10:26 info: 4) screen_for_champ: 1 test_index: 2
+2023-08-16 13:10:39 info: 1) pytesseract champ_name: Kayle index: 1
+2023-08-16 13:10:39 info: 2) lower champ_name: kayle
+ index: 1
+2023-08-16 13:10:39 info: 3) champ_name: kayle; index: 1
+2023-08-16 13:10:39 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:10:39 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:10:39 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:10:39 info: 1) pytesseract champ_name: EVE] index: 5
+2023-08-16 13:10:39 info: 2) lower champ_name: eve]
+ index: 5
+2023-08-16 13:10:39 info: 4) screen_for_champ: 1 test_index: 2
+2023-08-16 13:10:56 info: 1) pytesseract champ_name: Kayle index: 1
+2023-08-16 13:10:56 info: 2) lower champ_name: kayle
+ index: 1
+2023-08-16 13:10:56 info: 3) champ_name: kayle; index: 1
+2023-08-16 13:10:56 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:10:56 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:10:56 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:10:57 info: 1) pytesseract champ_name: ENT] index: 5
+2023-08-16 13:10:57 info: 2) lower champ_name: ent]
+ index: 5
+2023-08-16 13:10:57 info: 4) screen_for_champ: 1 test_index: 2
+2023-08-16 13:11:09 info: 1) pytesseract champ_name: Tristana index: 1
+2023-08-16 13:11:09 info: 2) lower champ_name: tristana
+ index: 1
+2023-08-16 13:11:09 info: 3) champ_name: tristana; index: 1
+2023-08-16 13:11:09 info: 1) pytesseract champ_name: Sona index: 2
+2023-08-16 13:11:09 info: 2) lower champ_name: sona
+ index: 2
+2023-08-16 13:11:09 info: 3) champ_name: sona; index: 2
+2023-08-16 13:11:09 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:11:09 info: 1) pytesseract champ_name: Galio index: 4
+2023-08-16 13:11:09 info: 2) lower champ_name: galio
+ index: 4
+2023-08-16 13:11:09 info: 3) champ_name: galio; index: 4
+2023-08-16 13:11:10 info: 1) pytesseract champ_name: Malzahar index: 5
+2023-08-16 13:11:10 info: 2) lower champ_name: malzahar
+ index: 5
+2023-08-16 13:11:10 info: 3) champ_name: malzahar; index: 5
+2023-08-16 13:11:10 info: 4) screen_for_champ: 4 test_index: 4
+2023-08-16 13:11:25 info: 1) pytesseract champ_name: Tristana index: 1
+2023-08-16 13:11:25 info: 2) lower champ_name: tristana
+ index: 1
+2023-08-16 13:11:25 info: 3) champ_name: tristana; index: 1
+2023-08-16 13:11:25 info: 1) pytesseract champ_name: Sona index: 2
+2023-08-16 13:11:25 info: 2) lower champ_name: sona
+ index: 2
+2023-08-16 13:11:25 info: 3) champ_name: sona; index: 2
+2023-08-16 13:11:25 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:11:25 info: 1) pytesseract champ_name: Galio index: 4
+2023-08-16 13:11:25 info: 2) lower champ_name: galio
+ index: 4
+2023-08-16 13:11:25 info: 3) champ_name: galio; index: 4
+2023-08-16 13:11:25 info: 1) pytesseract champ_name: Malzahar index: 5
+2023-08-16 13:11:25 info: 2) lower champ_name: malzahar
+ index: 5
+2023-08-16 13:11:25 info: 3) champ_name: malzahar; index: 5
+2023-08-16 13:11:25 info: 4) screen_for_champ: 4 test_index: 4
+2023-08-16 13:11:25 info: total number of files in Tensorflow/labelimg is 50
+2023-08-16 13:11:39 info: 1) pytesseract champ_name: Tristana index: 1
+2023-08-16 13:11:39 info: 2) lower champ_name: tristana
+ index: 1
+2023-08-16 13:11:39 info: 3) champ_name: tristana; index: 1
+2023-08-16 13:11:39 info: 1) pytesseract champ_name: Sona index: 2
+2023-08-16 13:11:39 info: 2) lower champ_name: sona
+ index: 2
+2023-08-16 13:11:39 info: 3) champ_name: sona; index: 2
+2023-08-16 13:11:39 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:11:39 info: 1) pytesseract champ_name: Galio index: 4
+2023-08-16 13:11:39 info: 2) lower champ_name: galio
+ index: 4
+2023-08-16 13:11:39 info: 3) champ_name: galio; index: 4
+2023-08-16 13:11:39 info: 1) pytesseract champ_name: Malzahar index: 5
+2023-08-16 13:11:39 info: 2) lower champ_name: malzahar
+ index: 5
+2023-08-16 13:11:39 info: 3) champ_name: malzahar; index: 5
+2023-08-16 13:11:39 info: 4) screen_for_champ: 4 test_index: 4
+2023-08-16 13:11:39 info: total number of files in Tensorflow/labelimg is 50
+2023-08-16 13:11:54 info: 1) pytesseract champ_name: Tristana index: 1
+2023-08-16 13:11:54 info: 2) lower champ_name: tristana
+ index: 1
+2023-08-16 13:11:54 info: 3) champ_name: tristana; index: 1
+2023-08-16 13:11:54 info: 1) pytesseract champ_name: Sona index: 2
+2023-08-16 13:11:54 info: 2) lower champ_name: sona
+ index: 2
+2023-08-16 13:11:54 info: 3) champ_name: sona; index: 2
+2023-08-16 13:11:54 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:11:54 info: 1) pytesseract champ_name: Galio index: 4
+2023-08-16 13:11:54 info: 2) lower champ_name: galio
+ index: 4
+2023-08-16 13:11:54 info: 3) champ_name: galio; index: 4
+2023-08-16 13:11:55 info: 1) pytesseract champ_name: Malzahar index: 5
+2023-08-16 13:11:55 info: 2) lower champ_name: malzahar
+ index: 5
+2023-08-16 13:11:55 info: 3) champ_name: malzahar; index: 5
+2023-08-16 13:11:55 info: 4) screen_for_champ: 4 test_index: 4
+2023-08-16 13:11:55 info: total number of files in Tensorflow/labelimg is 50
+2023-08-16 13:12:09 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:12:09 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:12:09 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:12:10 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:12:10 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:12:24 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:12:24 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:12:24 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:12:25 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:12:25 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:12:39 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:12:39 info: 1) pytesseract champ_name: Akshan index: 2
+2023-08-16 13:12:39 info: 2) lower champ_name: akshan
+ index: 2
+2023-08-16 13:12:39 info: 3) champ_name: akshan; index: 2
+2023-08-16 13:12:40 info: 1) pytesseract champ_name: Jhin index: 3
+2023-08-16 13:12:40 info: 2) lower champ_name: jhin
+ index: 3
+2023-08-16 13:12:40 info: 3) champ_name: jhin; index: 3
+2023-08-16 13:12:40 info: 1) pytesseract champ_name: Fate) index: 4
+2023-08-16 13:12:40 info: 2) lower champ_name: fate)
+ index: 4
+2023-08-16 13:12:40 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:12:40 info: 4) screen_for_champ: 2 test_index: 3
+2023-08-16 13:12:40 info: total number of files in Tensorflow/labelimg is 50
+2023-08-16 13:12:54 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:12:54 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:12:55 info: 1) pytesseract champ_name: Jhin index: 3
+2023-08-16 13:12:55 info: 2) lower champ_name: jhin
+ index: 3
+2023-08-16 13:12:55 info: 3) champ_name: jhin; index: 3
+2023-08-16 13:12:55 info: 1) pytesseract champ_name: lrelia index: 4
+2023-08-16 13:12:55 info: 2) lower champ_name: lrelia
+ index: 4
+2023-08-16 13:12:55 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:12:55 info: 4) screen_for_champ: 1 test_index: 2
+2023-08-16 13:12:55 info: total number of files in Tensorflow/labelimg is 50
+2023-08-16 13:13:09 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:13:10 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:13:10 info: 1) pytesseract champ_name: Jhin index: 3
+2023-08-16 13:13:10 info: 2) lower champ_name: jhin
+ index: 3
+2023-08-16 13:13:10 info: 3) champ_name: jhin; index: 3
+2023-08-16 13:13:10 info: 1) pytesseract champ_name: lrelia index: 4
+2023-08-16 13:13:10 info: 2) lower champ_name: lrelia
+ index: 4
+2023-08-16 13:13:10 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:13:10 info: 4) screen_for_champ: 1 test_index: 2
+2023-08-16 13:13:10 info: total number of files in Tensorflow/labelimg is 50
+2023-08-16 13:13:25 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:13:25 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:13:25 info: 1) pytesseract champ_name: Jhin index: 3
+2023-08-16 13:13:25 info: 2) lower champ_name: jhin
+ index: 3
+2023-08-16 13:13:25 info: 3) champ_name: jhin; index: 3
+2023-08-16 13:13:25 info: 1) pytesseract champ_name: Fe ste) index: 4
+2023-08-16 13:13:25 info: 2) lower champ_name: fe ste)
+ index: 4
+2023-08-16 13:13:25 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:13:25 info: 4) screen_for_champ: 1 test_index: 2
+2023-08-16 13:13:25 info: total number of files in Tensorflow/labelimg is 50
+2023-08-16 13:13:40 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:13:40 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:13:40 info: 1) pytesseract champ_name: Jhin index: 3
+2023-08-16 13:13:40 info: 2) lower champ_name: jhin
+ index: 3
+2023-08-16 13:13:40 info: 3) champ_name: jhin; index: 3
+2023-08-16 13:13:40 info: 1) pytesseract champ_name: lrelia index: 4
+2023-08-16 13:13:40 info: 2) lower champ_name: lrelia
+ index: 4
+2023-08-16 13:13:40 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:13:40 info: 4) screen_for_champ: 1 test_index: 2
+2023-08-16 13:13:40 info: total number of files in Tensorflow/labelimg is 50
+2023-08-16 13:13:55 info: 1) pytesseract champ_name: Sona index: 1
+2023-08-16 13:13:55 info: 2) lower champ_name: sona
+ index: 1
+2023-08-16 13:13:55 info: 3) champ_name: sona; index: 1
+2023-08-16 13:13:55 info: 1) pytesseract champ_name: Kayle index: 2
+2023-08-16 13:13:55 info: 2) lower champ_name: kayle
+ index: 2
+2023-08-16 13:13:55 info: 3) champ_name: kayle; index: 2
+2023-08-16 13:13:55 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:13:55 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:13:55 info: 1) pytesseract champ_name: Jhin index: 5
+2023-08-16 13:13:55 info: 2) lower champ_name: jhin
+ index: 5
+2023-08-16 13:13:55 info: 3) champ_name: jhin; index: 5
+2023-08-16 13:13:55 info: 4) screen_for_champ: 3 test_index: 3
+2023-08-16 13:13:55 info: total number of files in Tensorflow/labelimg is 50
+2023-08-16 13:14:10 info: 1) pytesseract champ_name: Sona index: 1
+2023-08-16 13:14:10 info: 2) lower champ_name: sona
+ index: 1
+2023-08-16 13:14:10 info: 3) champ_name: sona; index: 1
+2023-08-16 13:14:10 info: 1) pytesseract champ_name: Kayle index: 2
+2023-08-16 13:14:10 info: 2) lower champ_name: kayle
+ index: 2
+2023-08-16 13:14:10 info: 3) champ_name: kayle; index: 2
+2023-08-16 13:14:10 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:14:10 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:14:10 info: 1) pytesseract champ_name: Jhin index: 5
+2023-08-16 13:14:10 info: 2) lower champ_name: jhin
+ index: 5
+2023-08-16 13:14:10 info: 3) champ_name: jhin; index: 5
+2023-08-16 13:14:10 info: 4) screen_for_champ: 3 test_index: 3
+2023-08-16 13:14:10 info: total number of files in Tensorflow/labelimg is 50
+2023-08-16 13:14:25 info: 1) pytesseract champ_name: Sona index: 1
+2023-08-16 13:14:25 info: 2) lower champ_name: sona
+ index: 1
+2023-08-16 13:14:25 info: 3) champ_name: sona; index: 1
+2023-08-16 13:14:25 info: 1) pytesseract champ_name: Kayle index: 2
+2023-08-16 13:14:25 info: 2) lower champ_name: kayle
+ index: 2
+2023-08-16 13:14:25 info: 3) champ_name: kayle; index: 2
+2023-08-16 13:14:25 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:14:25 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:14:25 info: 1) pytesseract champ_name: Jhin index: 5
+2023-08-16 13:14:25 info: 2) lower champ_name: jhin
+ index: 5
+2023-08-16 13:14:25 info: 3) champ_name: jhin; index: 5
+2023-08-16 13:14:25 info: 4) screen_for_champ: 3 test_index: 3
+2023-08-16 13:14:25 info: total number of files in Tensorflow/labelimg is 50
+2023-08-16 13:44:45 info: checking for bebe872 every 15 seconds, recording with 1080p60 quality
+2023-08-16 13:44:45 info: First ten currently online users in teamfight tactics category: ['bebe872', 'keanelol', 'Alanzq', 'Laellana', 'reunicoce', 'Izzyykun', 'mode_tft', 'brubbba', 'Kits2g', 'zteeek']
+2023-08-16 13:44:46 info: bebe872 online, stream recording in session
+2023-08-16 13:44:46 info: record_stream begin
+2023-08-16 13:44:47 info: get_stream_url
+2023-08-16 13:44:49 info: ------------------------------------------
+2023-08-16 13:44:49 info: 1) pytesseract champ_name: Cassiopeia index: 1
+2023-08-16 13:44:49 info: 2) lower champ_name: cassiopeia
+ index: 1
+2023-08-16 13:44:49 info: 3) champ_name: assiopeia; index: 1
+2023-08-16 13:44:49 info: 1) pytesseract champ_name: Tristana index: 2
+2023-08-16 13:44:49 info: 2) lower champ_name: tristana
+ index: 2
+2023-08-16 13:44:49 info: 3) champ_name: ristana; index: 2
+2023-08-16 13:44:49 info: 1) pytesseract champ_name: Galio index: 3
+2023-08-16 13:44:49 info: 2) lower champ_name: galio
+ index: 3
+2023-08-16 13:44:49 info: 3) champ_name: alio; index: 3
+2023-08-16 13:44:49 info: 1) pytesseract champ_name: Ekko index: 4
+2023-08-16 13:44:49 info: 2) lower champ_name: ekko
+ index: 4
+2023-08-16 13:44:49 info: 3) champ_name: kko; index: 4
+2023-08-16 13:44:50 info: 1) pytesseract champ_name: Malzahar index: 5
+2023-08-16 13:44:50 info: 2) lower champ_name: malzahar
+ index: 5
+2023-08-16 13:44:50 info: 3) champ_name: alzahar; index: 5
+2023-08-16 13:44:50 info: 4) screen_for_champ: 5 test_index: 5
+2023-08-16 13:44:50 info: TEST. number of files in Tensorflow/labelimg/test is 2
+2023-08-16 13:44:50 info: ece0c678-3c21-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 13:44:50 info: ------------------------------------------
+2023-08-16 13:44:58 info: ------------------------------------------
+2023-08-16 13:44:58 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:44:58 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:44:58 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:44:59 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:44:59 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:45:29 info: ------------------------------------------
+2023-08-16 13:45:29 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:45:30 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:45:30 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:45:30 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:45:30 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:45:57 info: ------------------------------------------
+2023-08-16 13:45:57 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:45:57 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:45:57 info: 1) pytesseract champ_name: °. index: 3
+2023-08-16 13:45:57 info: 2) lower champ_name: °.
+ index: 3
+2023-08-16 13:45:58 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:45:58 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:46:15 info: ------------------------------------------
+2023-08-16 13:46:15 info: 1) pytesseract champ_name: ae index: 1
+2023-08-16 13:46:15 info: 2) lower champ_name: ae
+ index: 1
+2023-08-16 13:46:15 info: 1) pytesseract champ_name: 1 ae index: 2
+2023-08-16 13:46:15 info: 2) lower champ_name: 1 ae
+ index: 2
+2023-08-16 13:46:15 info: 1) pytesseract champ_name: Maokai index: 3
+2023-08-16 13:46:15 info: 2) lower champ_name: maokai
+ index: 3
+2023-08-16 13:46:15 info: 3) champ_name: aokai; index: 3
+2023-08-16 13:46:15 info: 1) pytesseract champ_name: Zed index: 4
+2023-08-16 13:46:15 info: 2) lower champ_name: zed
+ index: 4
+2023-08-16 13:46:15 info: 3) champ_name: ed; index: 4
+2023-08-16 13:46:15 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:46:15 info: 4) screen_for_champ: 2 test_index: 4
+2023-08-16 13:46:15 info: 20029356-3c22-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 13:46:15 info: ------------------------------------------
+2023-08-16 13:46:28 info: ------------------------------------------
+2023-08-16 13:46:28 info: 1) pytesseract champ_name: ae index: 1
+2023-08-16 13:46:28 info: 2) lower champ_name: ae
+ index: 1
+2023-08-16 13:46:28 info: 1) pytesseract champ_name: aC index: 2
+2023-08-16 13:46:28 info: 2) lower champ_name: ac
+ index: 2
+2023-08-16 13:46:28 info: 1) pytesseract champ_name: Maokai index: 3
+2023-08-16 13:46:28 info: 2) lower champ_name: maokai
+ index: 3
+2023-08-16 13:46:28 info: 3) champ_name: aokai; index: 3
+2023-08-16 13:46:29 info: 1) pytesseract champ_name: Zed index: 4
+2023-08-16 13:46:29 info: 2) lower champ_name: zed
+ index: 4
+2023-08-16 13:46:29 info: 3) champ_name: ed; index: 4
+2023-08-16 13:46:29 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:46:29 info: 4) screen_for_champ: 2 test_index: 4
+2023-08-16 13:46:29 info: 27f041c6-3c22-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 13:46:29 info: ------------------------------------------
+2023-08-16 13:46:43 info: ------------------------------------------
+2023-08-16 13:46:43 info: 1) pytesseract champ_name: aC index: 1
+2023-08-16 13:46:43 info: 2) lower champ_name: ac
+ index: 1
+2023-08-16 13:46:43 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:46:43 info: 1) pytesseract champ_name: Maokai index: 3
+2023-08-16 13:46:43 info: 2) lower champ_name: maokai
+ index: 3
+2023-08-16 13:46:43 info: 3) champ_name: aokai; index: 3
+2023-08-16 13:46:44 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:46:44 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:46:44 info: 4) screen_for_champ: 1 test_index: 2
+2023-08-16 13:46:44 info: 30ebe87a-3c22-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 13:46:44 info: ------------------------------------------
+2023-08-16 13:46:58 info: ------------------------------------------
+2023-08-16 13:46:58 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:46:58 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:46:58 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:46:59 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:46:59 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:47:13 info: ------------------------------------------
+2023-08-16 13:47:13 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:47:13 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:47:13 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:47:14 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:47:14 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:47:28 info: ------------------------------------------
+2023-08-16 13:47:29 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:47:29 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:47:29 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:47:29 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:47:29 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:47:43 info: ------------------------------------------
+2023-08-16 13:47:44 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:47:44 info: 1) pytesseract champ_name: aT index: 2
+2023-08-16 13:47:44 info: 2) lower champ_name: at
+ index: 2
+2023-08-16 13:47:44 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:47:44 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:47:44 info: 1) pytesseract champ_name: Swain index: 5
+2023-08-16 13:47:44 info: 2) lower champ_name: swain
+ index: 5
+2023-08-16 13:47:44 info: 3) champ_name: wain; index: 5
+2023-08-16 13:47:44 info: 4) screen_for_champ: 1 test_index: 2
+2023-08-16 13:47:44 info: 54e8482c-3c22-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 13:47:44 info: ------------------------------------------
+2023-08-16 13:47:57 info: ------------------------------------------
+2023-08-16 13:47:57 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:47:57 info: 1) pytesseract champ_name: 4 index: 2
+2023-08-16 13:47:57 info: 2) lower champ_name: 4
+ index: 2
+2023-08-16 13:47:57 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:47:57 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:47:57 info: 1) pytesseract champ_name: SEV] index: 5
+2023-08-16 13:47:57 info: 2) lower champ_name: sev]
+ index: 5
+2023-08-16 13:48:14 info: ------------------------------------------
+2023-08-16 13:48:14 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:48:14 info: 1) pytesseract champ_name: aCe index: 2
+2023-08-16 13:48:14 info: 2) lower champ_name: ace
+ index: 2
+2023-08-16 13:48:14 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:48:14 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:48:14 info: 1) pytesseract champ_name: Swain index: 5
+2023-08-16 13:48:14 info: 2) lower champ_name: swain
+ index: 5
+2023-08-16 13:48:14 info: 3) champ_name: wain; index: 5
+2023-08-16 13:48:14 info: 4) screen_for_champ: 1 test_index: 2
+2023-08-16 13:48:14 info: 66fdf2aa-3c22-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 13:48:14 info: ------------------------------------------
+2023-08-16 13:48:27 info: ------------------------------------------
+2023-08-16 13:48:27 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:48:27 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:48:27 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:48:27 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:48:28 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:48:44 info: ------------------------------------------
+2023-08-16 13:48:44 info: 1) pytesseract champ_name: BENZ) index: 1
+2023-08-16 13:48:44 info: 2) lower champ_name: benz)
+ index: 1
+2023-08-16 13:48:44 info: 1) pytesseract champ_name: Kalista index: 2
+2023-08-16 13:48:44 info: 2) lower champ_name: kalista
+ index: 2
+2023-08-16 13:48:44 info: 3) champ_name: alista; index: 2
+2023-08-16 13:48:45 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:48:45 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:48:45 info: 1) pytesseract champ_name: Zed index: 5
+2023-08-16 13:48:45 info: 2) lower champ_name: zed
+ index: 5
+2023-08-16 13:48:45 info: 3) champ_name: ed; index: 5
+2023-08-16 13:48:45 info: 4) screen_for_champ: 2 test_index: 3
+2023-08-16 13:48:45 info: TEST. number of files in Tensorflow/labelimg/test is 4
+2023-08-16 13:48:45 info: 791d148e-3c22-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 13:48:45 info: ------------------------------------------
+2023-08-16 13:48:57 info: ------------------------------------------
+2023-08-16 13:48:57 info: 1) pytesseract champ_name: Taliyah index: 1
+2023-08-16 13:48:57 info: 2) lower champ_name: taliyah
+ index: 1
+2023-08-16 13:48:57 info: 3) champ_name: aliyah; index: 1
+2023-08-16 13:48:58 info: 1) pytesseract champ_name: Kalista index: 2
+2023-08-16 13:48:58 info: 2) lower champ_name: kalista
+ index: 2
+2023-08-16 13:48:58 info: 3) champ_name: alista; index: 2
+2023-08-16 13:48:58 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:48:58 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:48:58 info: 1) pytesseract champ_name: Zed index: 5
+2023-08-16 13:48:58 info: 2) lower champ_name: zed
+ index: 5
+2023-08-16 13:48:58 info: 3) champ_name: ed; index: 5
+2023-08-16 13:48:58 info: 4) screen_for_champ: 3 test_index: 3
+2023-08-16 13:48:58 info: 80f04d98-3c22-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 13:48:58 info: ------------------------------------------
+2023-08-16 13:49:12 info: ------------------------------------------
+2023-08-16 13:49:12 info: 1) pytesseract champ_name: Taliyah index: 1
+2023-08-16 13:49:12 info: 2) lower champ_name: taliyah
+ index: 1
+2023-08-16 13:49:12 info: 3) champ_name: aliyah; index: 1
+2023-08-16 13:49:13 info: 1) pytesseract champ_name: Kalista index: 2
+2023-08-16 13:49:13 info: 2) lower champ_name: kalista
+ index: 2
+2023-08-16 13:49:13 info: 3) champ_name: alista; index: 2
+2023-08-16 13:49:13 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:49:13 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:49:13 info: 1) pytesseract champ_name: Zed index: 5
+2023-08-16 13:49:13 info: 2) lower champ_name: zed
+ index: 5
+2023-08-16 13:49:13 info: 3) champ_name: ed; index: 5
+2023-08-16 13:49:13 info: 4) screen_for_champ: 3 test_index: 3
+2023-08-16 13:49:13 info: 89f13d12-3c22-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 13:49:13 info: ------------------------------------------
+2023-08-16 13:49:28 info: ------------------------------------------
+2023-08-16 13:49:28 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:49:28 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:49:28 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:49:28 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:49:28 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:49:43 info: ------------------------------------------
+2023-08-16 13:49:43 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:49:43 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:49:43 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:49:43 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:49:43 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:51:59 info: checking for bebe872 every 15 seconds, recording with 1080p60 quality
+2023-08-16 13:51:59 info: First ten currently online users in teamfight tactics category: ['bebe872', 'keanelol', 'Alanzq', 'Laellana', 'reunicoce', 'Izzyykun', 'mode_tft', 'brubbba', 'Kits2g', 'Reeseballs']
+2023-08-16 13:52:00 info: bebe872 online, stream recording in session
+2023-08-16 13:52:00 info: record_stream begin
+2023-08-16 13:52:01 info: get_stream_url
+2023-08-16 13:52:02 info: ------------------------------------------
+2023-08-16 13:52:02 info: 1) pytesseract champ_name: Zed index: 1
+2023-08-16 13:52:08 info: 2) lower champ_name: zed
+ index: 1
+2023-08-16 13:52:08 info: 3) champ_name: ed; index: 1
+2023-08-16 13:52:08 info: 1) pytesseract champ_name: Sett index: 2
+2023-08-16 13:52:13 info: 2) lower champ_name: sett
+ index: 2
+2023-08-16 13:52:13 info: 3) champ_name: ett; index: 2
+2023-08-16 13:52:13 info: 1) pytesseract champ_name: Kalista index: 3
+2023-08-16 13:52:18 info: 2) lower champ_name: kalista
+ index: 3
+2023-08-16 13:52:18 info: 3) champ_name: alista; index: 3
+2023-08-16 13:52:18 info: 1) pytesseract champ_name: Ekko index: 4
+2023-08-16 13:52:23 info: 2) lower champ_name: ekko
+ index: 4
+2023-08-16 13:52:23 info: 3) champ_name: kko; index: 4
+2023-08-16 13:52:23 info: 1) pytesseract champ_name: Yasuo index: 5
+2023-08-16 13:52:28 info: 2) lower champ_name: yasuo
+ index: 5
+2023-08-16 13:52:28 info: 3) champ_name: asuo; index: 5
+2023-08-16 13:52:28 info: 4) screen_for_champ: 5 test_index: 5
+2023-08-16 13:52:28 info: fe01dd60-3c22-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 13:52:28 info: ------------------------------------------
+2023-08-16 13:52:32 info: ------------------------------------------
+2023-08-16 13:52:33 info: 1) pytesseract champ_name: Zed index: 1
+2023-08-16 13:52:38 info: 2) lower champ_name: zed
+ index: 1
+2023-08-16 13:52:38 info: 3) champ_name: ed; index: 1
+2023-08-16 13:52:38 info: 1) pytesseract champ_name: Sett index: 2
+2023-08-16 13:52:43 info: 2) lower champ_name: sett
+ index: 2
+2023-08-16 13:52:43 info: 3) champ_name: ett; index: 2
+2023-08-16 13:52:43 info: 1) pytesseract champ_name: Kalista index: 3
+2023-08-16 13:52:48 info: 2) lower champ_name: kalista
+ index: 3
+2023-08-16 13:52:48 info: 3) champ_name: alista; index: 3
+2023-08-16 13:52:48 info: 1) pytesseract champ_name: Ekko index: 4
+2023-08-16 13:52:53 info: 2) lower champ_name: ekko
+ index: 4
+2023-08-16 13:52:53 info: 3) champ_name: kko; index: 4
+2023-08-16 13:52:53 info: 1) pytesseract champ_name: Yasuo index: 5
+2023-08-16 13:55:24 info: checking for bebe872 every 15 seconds, recording with 1080p60 quality
+2023-08-16 13:55:24 info: First ten currently online users in teamfight tactics category: ['bebe872', 'keanelol', 'Alanzq', 'Laellana', 'reunicoce', 'Izzyykun', 'mode_tft', 'brubbba', 'Kits2g', 'Reeseballs']
+2023-08-16 13:55:25 info: bebe872 online, stream recording in session
+2023-08-16 13:55:25 info: record_stream begin
+2023-08-16 13:55:26 info: get_stream_url
+2023-08-16 13:55:28 info: ------------------------------------------
+2023-08-16 13:55:28 info: 1) pytesseract champ_name: Orianna index: 1
+2023-08-16 13:55:33 info: 2) lower champ_name: orianna
+ index: 1
+2023-08-16 13:55:33 info: 3) champ_name: rianna; index: 1
+2023-08-16 13:55:33 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:55:38 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:55:43 info: 1) pytesseract champ_name: Samira index: 4
+2023-08-16 13:55:48 info: 2) lower champ_name: samira
+ index: 4
+2023-08-16 13:55:48 info: 3) champ_name: amira; index: 4
+2023-08-16 13:55:48 info: 1) pytesseract champ_name: SEV] index: 5
+2023-08-16 13:55:53 info: 2) lower champ_name: sev]
+ index: 5
+2023-08-16 13:55:53 info: 4) screen_for_champ: 2 test_index: 3
+2023-08-16 13:55:53 info: 78329afc-3c23-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 13:55:53 info: ------------------------------------------
+2023-08-16 13:55:57 info: ------------------------------------------
+2023-08-16 13:55:57 info: 1) pytesseract champ_name: Cho'Gath index: 1
+2023-08-16 13:56:02 info: 2) lower champ_name: cho'gath
+ index: 1
+2023-08-16 13:56:02 info: 3) champ_name: hogath; index: 1
+2023-08-16 13:56:02 info: 1) pytesseract champ_name: Garen index: 2
+2023-08-16 13:56:07 info: 2) lower champ_name: garen
+ index: 2
+2023-08-16 13:56:07 info: 3) champ_name: aren; index: 2
+2023-08-16 13:56:07 info: 1) pytesseract champ_name: Teemo index: 3
+2023-08-16 13:56:12 info: 2) lower champ_name: teemo
+ index: 3
+2023-08-16 13:56:12 info: 3) champ_name: eemo; index: 3
+2023-08-16 13:56:12 info: 1) pytesseract champ_name: Darius index: 4
+2023-08-16 13:56:17 info: 2) lower champ_name: darius
+ index: 4
+2023-08-16 13:56:17 info: 3) champ_name: arius; index: 4
+2023-08-16 13:56:17 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:56:22 info: 4) screen_for_champ: 4 test_index: 4
+2023-08-16 13:56:22 info: 897bbbb8-3c23-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 13:56:22 info: ------------------------------------------
+2023-08-16 13:56:25 info: ------------------------------------------
+2023-08-16 13:56:25 info: 1) pytesseract champ_name: Cho'Gath index: 1
+2023-08-16 13:56:30 info: 2) lower champ_name: cho'gath
+ index: 1
+2023-08-16 13:56:30 info: 3) champ_name: hogath; index: 1
+2023-08-16 13:56:30 info: 1) pytesseract champ_name: Garen index: 2
+2023-08-16 13:56:35 info: 2) lower champ_name: garen
+ index: 2
+2023-08-16 13:56:35 info: 3) champ_name: aren; index: 2
+2023-08-16 13:56:35 info: 1) pytesseract champ_name: Teemo index: 3
+2023-08-16 13:56:40 info: 2) lower champ_name: teemo
+ index: 3
+2023-08-16 13:56:40 info: 3) champ_name: eemo; index: 3
+2023-08-16 13:56:40 info: 1) pytesseract champ_name: Darius index: 4
+2023-08-16 13:56:45 info: 2) lower champ_name: darius
+ index: 4
+2023-08-16 13:56:45 info: 3) champ_name: arius; index: 4
+2023-08-16 13:56:45 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:56:50 info: 4) screen_for_champ: 4 test_index: 4
+2023-08-16 13:56:50 info: TEST. number of files in Tensorflow/labelimg/test is 6
+2023-08-16 13:56:50 info: 9a2c2d08-3c23-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 13:56:50 info: ------------------------------------------
+2023-08-16 13:56:53 info: ------------------------------------------
+2023-08-16 13:56:53 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:56:58 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:57:03 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:57:08 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:57:13 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:57:22 info: ------------------------------------------
+2023-08-16 13:57:22 info: 1) pytesseract champ_name: LETTE Ve lt] index: 1
+2023-08-16 13:57:27 info: 2) lower champ_name: lette ve lt]
+ index: 1
+2023-08-16 13:57:27 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:57:32 info: 1) pytesseract champ_name: Vel'Koz index: 3
+2023-08-16 13:57:37 info: 2) lower champ_name: vel'koz
+ index: 3
+2023-08-16 13:57:37 info: 3) champ_name: elkoz; index: 3
+2023-08-16 13:57:37 info: 1) pytesseract champ_name: lrelia index: 4
+2023-08-16 13:57:42 info: 2) lower champ_name: lrelia
+ index: 4
+2023-08-16 13:57:42 info: 3) champ_name: relia; index: 4
+2023-08-16 13:57:42 info: 1) pytesseract champ_name: FC iY index: 5
+2023-08-16 13:57:47 info: 2) lower champ_name: fc iy
+ index: 5
+2023-08-16 13:57:47 info: 4) screen_for_champ: 2 test_index: 4
+2023-08-16 13:57:47 info: bc25be88-3c23-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 13:57:47 info: ------------------------------------------
+2023-08-16 13:57:50 info: ------------------------------------------
+2023-08-16 13:57:50 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 13:57:55 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 13:58:00 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:58:05 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 13:58:10 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 13:58:18 info: ------------------------------------------
+2023-08-16 13:58:18 info: 1) pytesseract champ_name: Soraka index: 1
+2023-08-16 13:58:23 info: 2) lower champ_name: soraka
+ index: 1
+2023-08-16 13:58:23 info: 3) champ_name: oraka; index: 1
+2023-08-16 13:58:23 info: 1) pytesseract champ_name: Yasuo index: 2
+2023-08-16 13:58:28 info: 2) lower champ_name: yasuo
+ index: 2
+2023-08-16 13:58:28 info: 3) champ_name: asuo; index: 2
+2023-08-16 13:58:28 info: 1) pytesseract champ_name: Katarina index: 3
+2023-08-16 13:58:33 info: 2) lower champ_name: katarina
+ index: 3
+2023-08-16 13:58:33 info: 3) champ_name: atarina; index: 3
+2023-08-16 13:58:33 info: 1) pytesseract champ_name: Zed index: 4
+2023-08-16 13:58:38 info: 2) lower champ_name: zed
+ index: 4
+2023-08-16 13:58:38 info: 3) champ_name: ed; index: 4
+2023-08-16 13:58:38 info: 1) pytesseract champ_name: BEV index: 5
+2023-08-16 13:58:43 info: 2) lower champ_name: bev
+ index: 5
+2023-08-16 13:58:43 info: 4) screen_for_champ: 4 test_index: 5
+2023-08-16 13:58:43 info: dd867694-3c23-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 13:58:43 info: ------------------------------------------
+2023-08-16 13:58:46 info: ------------------------------------------
+2023-08-16 13:58:46 info: 1) pytesseract champ_name: Cho'Gath index: 1
+2023-08-16 13:58:51 info: 2) lower champ_name: cho'gath
+ index: 1
+2023-08-16 13:58:51 info: 3) champ_name: hogath; index: 1
+2023-08-16 13:58:51 info: 1) pytesseract champ_name: Kalista index: 2
+2023-08-16 13:58:56 info: 2) lower champ_name: kalista
+ index: 2
+2023-08-16 13:58:56 info: 3) champ_name: alista; index: 2
+2023-08-16 13:58:56 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:59:01 info: 1) pytesseract champ_name: Sona index: 4
+2023-08-16 13:59:06 info: 2) lower champ_name: sona
+ index: 4
+2023-08-16 13:59:06 info: 3) champ_name: ona; index: 4
+2023-08-16 13:59:06 info: 1) pytesseract champ_name: Sona index: 5
+2023-08-16 13:59:11 info: 2) lower champ_name: sona
+ index: 5
+2023-08-16 13:59:11 info: 3) champ_name: ona; index: 5
+2023-08-16 13:59:11 info: 4) screen_for_champ: 3 test_index: 4
+2023-08-16 13:59:11 info: ee37021a-3c23-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 13:59:11 info: ------------------------------------------
+2023-08-16 13:59:14 info: ------------------------------------------
+2023-08-16 13:59:14 info: 1) pytesseract champ_name: Cho'Gath index: 1
+2023-08-16 13:59:19 info: 2) lower champ_name: cho'gath
+ index: 1
+2023-08-16 13:59:19 info: 3) champ_name: hogath; index: 1
+2023-08-16 13:59:19 info: 1) pytesseract champ_name: Kalista index: 2
+2023-08-16 13:59:24 info: 2) lower champ_name: kalista
+ index: 2
+2023-08-16 13:59:24 info: 3) champ_name: alista; index: 2
+2023-08-16 13:59:24 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 13:59:29 info: 1) pytesseract champ_name: Sona index: 4
+2023-08-16 13:59:34 info: 2) lower champ_name: sona
+ index: 4
+2023-08-16 13:59:34 info: 3) champ_name: ona; index: 4
+2023-08-16 13:59:34 info: 1) pytesseract champ_name: Ney oF] index: 5
+2023-08-16 13:59:39 info: 2) lower champ_name: ney of]
+ index: 5
+2023-08-16 13:59:39 info: 4) screen_for_champ: 3 test_index: 4
+2023-08-16 13:59:39 info: fee791d8-3c23-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 13:59:39 info: ------------------------------------------
+2023-08-16 13:59:41 info: ------------------------------------------
+2023-08-16 13:59:41 info: 1) pytesseract champ_name: Karma index: 1
+2023-08-16 13:59:47 info: 2) lower champ_name: karma
+ index: 1
+2023-08-16 13:59:47 info: 3) champ_name: arma; index: 1
+2023-08-16 13:59:47 info: 1) pytesseract champ_name: EN Te index: 2
+2023-08-16 13:59:52 info: 2) lower champ_name: en te
+ index: 2
+2023-08-16 13:59:52 info: 1) pytesseract champ_name: yaa! index: 3
+2023-08-16 13:59:57 info: 2) lower champ_name: yaa!
+ index: 3
+2023-08-16 13:59:57 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 14:00:02 info: 1) pytesseract champ_name: Ekko index: 5
+2023-08-16 14:00:07 info: 2) lower champ_name: ekko
+ index: 5
+2023-08-16 14:00:07 info: 3) champ_name: kko; index: 5
+2023-08-16 14:00:07 info: 4) screen_for_champ: 2 test_index: 4
+2023-08-16 14:00:07 info: 0f97eba4-3c24-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 14:00:07 info: ------------------------------------------
+2023-08-16 14:00:10 info: ------------------------------------------
+2023-08-16 14:00:10 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 14:00:15 info: 1) pytesseract champ_name: Sett index: 2
+2023-08-16 14:00:20 info: 2) lower champ_name: sett
+ index: 2
+2023-08-16 14:00:20 info: 3) champ_name: ett; index: 2
+2023-08-16 14:00:20 info: 1) pytesseract champ_name: BFYatt ty index: 3
+2023-08-16 14:00:25 info: 2) lower champ_name: bfyatt ty
+ index: 3
+2023-08-16 14:00:25 info: 1) pytesseract champ_name: Nasus index: 4
+2023-08-16 14:00:30 info: 2) lower champ_name: nasus
+ index: 4
+2023-08-16 14:00:30 info: 3) champ_name: asus; index: 4
+2023-08-16 14:00:30 info: 1) pytesseract champ_name: Akshan index: 5
+2023-08-16 14:00:35 info: 2) lower champ_name: akshan
+ index: 5
+2023-08-16 14:00:35 info: 3) champ_name: kshan; index: 5
+2023-08-16 14:00:35 info: 4) screen_for_champ: 3 test_index: 4
+2023-08-16 14:00:35 info: TEST. number of files in Tensorflow/labelimg/test is 8
+2023-08-16 14:00:35 info: 2048881e-3c24-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 14:00:35 info: ------------------------------------------
+2023-08-16 14:00:38 info: ------------------------------------------
+2023-08-16 14:00:38 info: 1) pytesseract champ_name: Kassadin index: 1
+2023-08-16 14:00:43 info: 2) lower champ_name: kassadin
+ index: 1
+2023-08-16 14:00:43 info: 3) champ_name: assadin; index: 1
+2023-08-16 14:00:43 info: 1) pytesseract champ_name: Renekton index: 2
+2023-08-16 14:00:48 info: 2) lower champ_name: renekton
+ index: 2
+2023-08-16 14:00:48 info: 3) champ_name: enekton; index: 2
+2023-08-16 14:00:48 info: 1) pytesseract champ_name: Darius index: 3
+2023-08-16 14:00:53 info: 2) lower champ_name: darius
+ index: 3
+2023-08-16 14:00:53 info: 3) champ_name: arius; index: 3
+2023-08-16 14:00:53 info: 1) pytesseract champ_name: Cho'Gath index: 4
+2023-08-16 14:00:58 info: 2) lower champ_name: cho'gath
+ index: 4
+2023-08-16 14:00:58 info: 3) champ_name: hogath; index: 4
+2023-08-16 14:00:58 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 14:01:03 info: 4) screen_for_champ: 4 test_index: 4
+2023-08-16 14:01:03 info: 30f8c192-3c24-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 14:01:03 info: ------------------------------------------
+2023-08-16 14:01:06 info: ------------------------------------------
+2023-08-16 14:01:06 info: 1) pytesseract champ_name: Karma index: 1
+2023-08-16 14:01:11 info: 2) lower champ_name: karma
+ index: 1
+2023-08-16 14:01:11 info: 3) champ_name: arma; index: 1
+2023-08-16 14:01:11 info: 1) pytesseract champ_name: heirs: index: 2
+2023-08-16 14:01:16 info: 2) lower champ_name: heirs:
+ index: 2
+2023-08-16 14:01:16 info: 1) pytesseract champ_name: Gwen index: 3
+2023-08-16 14:01:21 info: 2) lower champ_name: gwen
+ index: 3
+2023-08-16 14:01:21 info: 3) champ_name: wen; index: 3
+2023-08-16 14:01:21 info: 1) pytesseract champ_name: Azir index: 4
+2023-08-16 14:01:26 info: 2) lower champ_name: azir
+ index: 4
+2023-08-16 14:01:26 info: 3) champ_name: zir; index: 4
+2023-08-16 14:01:26 info: 1) pytesseract champ_name: Garen index: 5
+2023-08-16 14:01:31 info: 2) lower champ_name: garen
+ index: 5
+2023-08-16 14:01:31 info: 3) champ_name: aren; index: 5
+2023-08-16 14:01:31 info: 4) screen_for_champ: 4 test_index: 5
+2023-08-16 14:01:31 info: 41a965dc-3c24-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 14:01:31 info: ------------------------------------------
+2023-08-16 14:01:33 info: ------------------------------------------
+2023-08-16 14:01:33 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 14:01:39 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 14:01:44 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 14:01:49 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 14:01:54 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 14:06:56 info: checking for bebe872 every 15 seconds, recording with 1080p60 quality
+2023-08-16 14:06:57 info: First ten currently online users in teamfight tactics category: ['bebe872', 'keanelol', 'Alanzq', 'Laellana', 'reunicoce', 'Izzyykun', 'mode_tft', 'brubbba', 'Reeseballs', 'SnubleTFT']
+2023-08-16 14:06:57 info: bebe872 online, stream recording in session
+2023-08-16 14:06:57 info: record_stream begin
+2023-08-16 14:06:59 info: get_stream_url
+2023-08-16 14:07:00 info: ------------------------------------------
+2023-08-16 14:07:00 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 14:07:05 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 14:07:10 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 14:07:15 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 14:07:20 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 14:07:29 info: ------------------------------------------
+2023-08-16 14:07:29 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 14:07:34 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 14:07:39 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 14:07:44 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 14:07:49 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 14:07:58 info: ------------------------------------------
+2023-08-16 14:07:58 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 14:08:03 info: 1) pytesseract champ_name: Taric index: 2
+2023-08-16 14:08:08 info: 2) lower champ_name: taric
+ index: 2
+2023-08-16 14:08:08 info: 3) champ_name: aric; index: 2
+2023-08-16 14:08:08 info: 1) pytesseract champ_name: Zbl Coy 4 index: 3
+2023-08-16 14:08:13 info: 2) lower champ_name: zbl coy 4
+ index: 3
+2023-08-16 14:08:13 info: 1) pytesseract champ_name: Galio index: 4
+2023-08-16 14:08:18 info: 2) lower champ_name: galio
+ index: 4
+2023-08-16 14:08:18 info: 3) champ_name: alio; index: 4
+2023-08-16 14:08:18 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 14:08:23 info: 4) screen_for_champ: 2 test_index: 3
+2023-08-16 14:08:23 info: 373b8156-3c25-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 14:08:23 info: ------------------------------------------
+2023-08-16 14:08:26 info: ------------------------------------------
+2023-08-16 14:08:26 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 14:08:31 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 14:08:36 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 14:08:41 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 14:08:46 info: 1) pytesseract champ_name: WA index: 5
+2023-08-16 14:08:51 info: 2) lower champ_name: wa
+ index: 5
+2023-08-16 14:08:53 info: ------------------------------------------
+2023-08-16 14:08:54 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 14:08:59 info: 1) pytesseract champ_name: pe ff index: 2
+2023-08-16 14:09:04 info: 2) lower champ_name: pe ff
+ index: 2
+2023-08-16 14:09:04 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 14:09:09 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 14:09:14 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 14:09:22 info: ------------------------------------------
+2023-08-16 14:09:22 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 14:09:27 info: 1) pytesseract champ_name: (CY: ee index: 2
+2023-08-16 14:09:32 info: 2) lower champ_name: (cy: ee
+ index: 2
+2023-08-16 14:09:32 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 14:09:37 info: 1) pytesseract champ_name: ire \e\ Yan index: 4
+2023-08-16 14:09:42 info: 2) lower champ_name: ire \e\ yan
+ index: 4
+2023-08-16 14:09:42 info: 1) pytesseract champ_name: NR, oH index: 5
+2023-08-16 14:09:47 info: 2) lower champ_name: nr, oh
+ index: 5
+2023-08-16 14:09:49 info: ------------------------------------------
+2023-08-16 14:09:49 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 14:09:55 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 14:10:00 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 14:10:05 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 14:10:10 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 14:10:18 info: ------------------------------------------
+2023-08-16 14:10:18 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 14:10:23 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 14:10:28 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 14:10:33 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 14:10:38 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 14:11:11 info: checking for bebe872 every 15 seconds, recording with 1080p60 quality
+2023-08-16 14:11:12 info: First ten currently online users in teamfight tactics category: ['bebe872', 'keanelol', 'Alanzq', 'Laellana', 'reunicoce', 'Izzyykun', 'mode_tft', 'brubbba', 'SnubleTFT', 'zteeek']
+2023-08-16 14:11:12 info: bebe872 online, stream recording in session
+2023-08-16 14:11:12 info: record_stream begin
+2023-08-16 14:11:13 info: get_stream_url
+2023-08-16 14:11:15 info: ------------------------------------------
+2023-08-16 14:11:15 info: 1) pytesseract champ_name: Cassiopeia index: 1
+2023-08-16 14:11:18 info: 2) lower champ_name: cassiopeia
+ index: 1
+2023-08-16 14:11:18 info: 3) champ_name: assiopeia; index: 1
+2023-08-16 14:11:18 info: 1) pytesseract champ_name: Orianna index: 2
+2023-08-16 14:11:21 info: 2) lower champ_name: orianna
+ index: 2
+2023-08-16 14:11:21 info: 3) champ_name: rianna; index: 2
+2023-08-16 14:11:21 info: 1) pytesseract champ_name: Jhin index: 3
+2023-08-16 14:11:24 info: 2) lower champ_name: jhin
+ index: 3
+2023-08-16 14:11:24 info: 3) champ_name: hin; index: 3
+2023-08-16 14:11:24 info: 1) pytesseract champ_name: Lo index: 4
+2023-08-16 14:11:27 info: 2) lower champ_name: lo
+ index: 4
+2023-08-16 14:11:27 info: 1) pytesseract champ_name: Le index: 5
+2023-08-16 14:11:30 info: 2) lower champ_name: le
+ index: 5
+2023-08-16 14:11:30 info: 4) screen_for_champ: 3 test_index: 5
+2023-08-16 14:11:30 info: a6f9f572-3c25-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 14:11:34 info: ------------------------------------------
+2023-08-16 14:11:34 info: 1) pytesseract champ_name: Lo index: 1
+2023-08-16 14:11:37 info: 2) lower champ_name: lo
+ index: 1
+2023-08-16 14:11:37 info: 1) pytesseract champ_name: Orianna index: 2
+2023-08-16 14:11:40 info: 2) lower champ_name: orianna
+ index: 2
+2023-08-16 14:11:40 info: 3) champ_name: rianna; index: 2
+2023-08-16 14:11:40 info: 1) pytesseract champ_name: Lo index: 3
+2023-08-16 14:11:43 info: 2) lower champ_name: lo
+ index: 3
+2023-08-16 14:11:43 info: 1) pytesseract champ_name: to index: 4
+2023-08-16 14:11:46 info: 2) lower champ_name: to
+ index: 4
+2023-08-16 14:11:46 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 14:11:49 info: 4) screen_for_champ: 1 test_index: 4
+2023-08-16 14:11:49 info: b2494aae-3c25-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 14:11:52 info: ------------------------------------------
+2023-08-16 14:11:52 info: 1) pytesseract champ_name: _ index: 1
+2023-08-16 14:16:51 info: checking for bebe872 every 15 seconds, recording with 1080p60 quality
+2023-08-16 14:16:52 info: First ten currently online users in teamfight tactics category: ['bebe872', 'keanelol', 'Alanzq', 'Laellana', 'reunicoce', 'Izzyykun', 'mode_tft', 'brubbba', 'Reeseballs', 'Kits2g']
+2023-08-16 14:16:52 info: bebe872 online, stream recording in session
+2023-08-16 14:16:52 info: record_stream begin
+2023-08-16 14:16:53 info: get_stream_url
+2023-08-16 14:16:55 info: ------------------------------------------
+2023-08-16 14:16:55 info: 1) pytesseract champ_name: Jhin index: 1
+2023-08-16 14:16:58 info: 2) lower champ_name: jhin
+ index: 1
+2023-08-16 14:16:58 info: 3) champ_name: hin; index: 1
+2023-08-16 14:16:58 info: 1) pytesseract champ_name: Taliyah index: 2
+2023-08-16 14:17:01 info: 2) lower champ_name: taliyah
+ index: 2
+2023-08-16 14:17:01 info: 3) champ_name: aliyah; index: 2
+2023-08-16 14:17:01 info: 1) pytesseract champ_name: Akshan index: 3
+2023-08-16 14:17:04 info: 2) lower champ_name: akshan
+ index: 3
+2023-08-16 14:17:04 info: 3) champ_name: kshan; index: 3
+2023-08-16 14:17:04 info: 1) pytesseract champ_name: Vi index: 4
+2023-08-16 14:17:07 info: 2) lower champ_name: vi
+ index: 4
+2023-08-16 14:17:07 info: 3) champ_name: i; index: 4
+2023-08-16 14:17:07 info: 1) pytesseract champ_name: Kayle index: 5
+2023-08-16 14:17:10 info: 2) lower champ_name: kayle
+ index: 5
+2023-08-16 14:17:10 info: 3) champ_name: ayle; index: 5
+2023-08-16 14:17:10 info: 4) screen_for_champ: 5 test_index: 5
+2023-08-16 14:17:10 info: TEST. number of files in Tensorflow/labelimg/test is 5.0
+2023-08-16 14:17:10 info: 71595baa-3c26-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 14:17:13 info: ------------------------------------------
+2023-08-16 14:17:13 info: 1) pytesseract champ_name: Jhin index: 1
+2023-08-16 14:17:16 info: 2) lower champ_name: jhin
+ index: 1
+2023-08-16 14:17:16 info: 3) champ_name: hin; index: 1
+2023-08-16 14:17:16 info: 1) pytesseract champ_name: Taliyah index: 2
+2023-08-16 14:17:19 info: 2) lower champ_name: taliyah
+ index: 2
+2023-08-16 14:17:19 info: 3) champ_name: aliyah; index: 2
+2023-08-16 14:17:19 info: 1) pytesseract champ_name: Akshan index: 3
+2023-08-16 14:17:22 info: 2) lower champ_name: akshan
+ index: 3
+2023-08-16 14:17:22 info: 3) champ_name: kshan; index: 3
+2023-08-16 14:17:22 info: 1) pytesseract champ_name: Vi index: 4
+2023-08-16 14:17:25 info: 2) lower champ_name: vi
+ index: 4
+2023-08-16 14:17:25 info: 3) champ_name: i; index: 4
+2023-08-16 14:17:26 info: 1) pytesseract champ_name: Kayle index: 5
+2023-08-16 14:17:29 info: 2) lower champ_name: kayle
+ index: 5
+2023-08-16 14:17:29 info: 3) champ_name: ayle; index: 5
+2023-08-16 14:17:29 info: 4) screen_for_champ: 5 test_index: 5
+2023-08-16 14:17:29 info: 7c7eb7d2-3c26-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 14:17:31 info: ------------------------------------------
+2023-08-16 14:17:31 info: 1) pytesseract champ_name: Jhin index: 1
+2023-08-16 14:17:34 info: 2) lower champ_name: jhin
+ index: 1
+2023-08-16 14:17:34 info: 3) champ_name: hin; index: 1
+2023-08-16 14:17:35 info: 1) pytesseract champ_name: Taliyah index: 2
+2023-08-16 14:17:38 info: 2) lower champ_name: taliyah
+ index: 2
+2023-08-16 14:17:38 info: 3) champ_name: aliyah; index: 2
+2023-08-16 14:17:38 info: 1) pytesseract champ_name: Akshan index: 3
+2023-08-16 14:17:41 info: 2) lower champ_name: akshan
+ index: 3
+2023-08-16 14:17:41 info: 3) champ_name: kshan; index: 3
+2023-08-16 14:17:41 info: 1) pytesseract champ_name: Vi index: 4
+2023-08-16 14:17:44 info: 2) lower champ_name: vi
+ index: 4
+2023-08-16 14:17:44 info: 3) champ_name: i; index: 4
+2023-08-16 14:17:44 info: 1) pytesseract champ_name: Kayle index: 5
+2023-08-16 14:17:47 info: 2) lower champ_name: kayle
+ index: 5
+2023-08-16 14:17:47 info: 3) champ_name: ayle; index: 5
+2023-08-16 14:17:47 info: 4) screen_for_champ: 5 test_index: 5
+2023-08-16 14:17:47 info: 87673674-3c26-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 14:17:50 info: ------------------------------------------
+2023-08-16 14:17:50 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 14:17:53 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 14:17:56 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 14:17:59 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 14:18:02 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 14:18:08 info: ------------------------------------------
+2023-08-16 14:18:08 info: 1) pytesseract champ_name: bo index: 1
+2023-08-16 14:18:11 info: 2) lower champ_name: bo
+ index: 1
+2023-08-16 14:18:11 info: 1) pytesseract champ_name: Tristana index: 2
+2023-08-16 14:18:14 info: 2) lower champ_name: tristana
+ index: 2
+2023-08-16 14:18:14 info: 3) champ_name: ristana; index: 2
+2023-08-16 14:18:14 info: 1) pytesseract champ_name: Jhin index: 3
+2023-08-16 14:28:49 info: champion names loaded: ['atrox', 'hri', 'kshan', 'phelios', 'she', 'zir', 'elveth', 'assiopeia', 'hogath', 'arius', 'kko', 'alio', 'aren', 'wen', 'eimerdinger', 'relia', 'arvan', 'ayce', 'hin', 'inx', 'aisa', 'alista', 'arma', 'assadin', 'atarina', 'ayle', 'led', 'sante', 'issandra', 'ux', 'alzahar', 'aokai', 'asus', 'rianna', 'oppy', 'eksai', 'enekton', 'yze', 'amira', 'ejuani', 'enna', 'ett', 'hen', 'ion', 'ona', 'oraka', 'wain', 'aliyah', 'aric', 'eemo', 'ristana', 'rgot', 'elkoz', 'i', 'iego', 'arwick', 'asuo', 'ed', 'eri']
+2023-08-16 14:28:49 info: checking for bebe872 every 15 seconds, recording with 1080p60 quality
+2023-08-16 14:28:49 info: First ten currently online users in teamfight tactics category: ['bebe872', 'keanelol', 'Alanzq', 'saintvicious', 'Laellana', 'reunicoce', 'Izzyykun', 'mode_tft', 'brubbba', 'Deisik']
+2023-08-16 14:28:50 info: bebe872 online, stream recording in session
+2023-08-16 14:28:50 info: record_stream begin
+2023-08-16 14:28:51 info: get_stream_url
+2023-08-16 14:28:52 info: ------------------------------------------
+2023-08-16 14:28:52 info: 1) pytesseract champ_name: Garen index: 1
+2023-08-16 14:28:55 info: 2) lower champ_name: garen
+ index: 1
+2023-08-16 14:28:55 info: 3) champ_name: aren; index: 1
+2023-08-16 14:28:56 info: 1) pytesseract champ_name: Maokai index: 2
+2023-08-16 14:28:59 info: 2) lower champ_name: maokai
+ index: 2
+2023-08-16 14:28:59 info: 3) champ_name: aokai; index: 2
+2023-08-16 14:28:59 info: 1) pytesseract champ_name: Lo index: 3
+2023-08-16 14:29:02 info: 2) lower champ_name: lo
+ index: 3
+2023-08-16 14:29:02 info: 1) pytesseract champ_name: Poppy index: 4
+2023-08-16 14:29:05 info: 2) lower champ_name: poppy
+ index: 4
+2023-08-16 14:29:05 info: 3) champ_name: oppy; index: 4
+2023-08-16 14:29:05 info: 1) pytesseract champ_name: Sejuani index: 5
+2023-08-16 14:29:08 info: 2) lower champ_name: sejuani
+ index: 5
+2023-08-16 14:29:08 info: 3) champ_name: ejuani; index: 5
+2023-08-16 14:29:08 info: 4) screen_for_champ: 4 test_index: 5
+2023-08-16 14:29:08 info: 1d4f8f0a-3c28-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 14:29:12 info: ------------------------------------------
+2023-08-16 14:29:12 info: 1) pytesseract champ_name: Garen index: 1
+2023-08-16 14:29:15 info: 2) lower champ_name: garen
+ index: 1
+2023-08-16 14:29:15 info: 3) champ_name: aren; index: 1
+2023-08-16 14:29:15 info: 1) pytesseract champ_name: Maokai index: 2
+2023-08-16 14:29:18 info: 2) lower champ_name: maokai
+ index: 2
+2023-08-16 14:29:18 info: 3) champ_name: aokai; index: 2
+2023-08-16 14:29:18 info: 1) pytesseract champ_name: Lo index: 3
+2023-08-16 14:29:21 info: 2) lower champ_name: lo
+ index: 3
+2023-08-16 14:29:21 info: 1) pytesseract champ_name: Poppy index: 4
+2023-08-16 14:29:24 info: 2) lower champ_name: poppy
+ index: 4
+2023-08-16 14:29:24 info: 3) champ_name: oppy; index: 4
+2023-08-16 14:29:24 info: 1) pytesseract champ_name: Sejuani index: 5
+2023-08-16 14:29:27 info: 2) lower champ_name: sejuani
+ index: 5
+2023-08-16 14:29:27 info: 3) champ_name: ejuani; index: 5
+2023-08-16 14:29:27 info: 4) screen_for_champ: 4 test_index: 5
+2023-08-16 14:29:27 info: 28a28fa6-3c28-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 14:29:30 info: ------------------------------------------
+2023-08-16 14:29:30 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 14:29:33 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 14:29:36 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 14:29:39 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 14:29:42 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 14:29:47 info: ------------------------------------------
+2023-08-16 14:29:47 info: 1) pytesseract champ_name: Garen index: 1
+2023-08-16 14:29:50 info: 2) lower champ_name: garen
+ index: 1
+2023-08-16 14:29:50 info: 3) champ_name: aren; index: 1
+2023-08-16 14:29:50 info: 1) pytesseract champ_name: Maokai index: 2
+2023-08-16 14:29:53 info: 2) lower champ_name: maokai
+ index: 2
+2023-08-16 14:29:53 info: 3) champ_name: aokai; index: 2
+2023-08-16 14:29:53 info: 1) pytesseract champ_name: Lo index: 3
+2023-08-16 14:29:56 info: 2) lower champ_name: lo
+ index: 3
+2023-08-16 14:29:56 info: 1) pytesseract champ_name: Poppy index: 4
+2023-08-16 14:29:59 info: 2) lower champ_name: poppy
+ index: 4
+2023-08-16 14:29:59 info: 3) champ_name: oppy; index: 4
+2023-08-16 14:30:00 info: 1) pytesseract champ_name: Sejuani index: 5
+2023-08-16 14:30:03 info: 2) lower champ_name: sejuani
+ index: 5
+2023-08-16 14:30:03 info: 3) champ_name: ejuani; index: 5
+2023-08-16 14:30:03 info: 4) screen_for_champ: 4 test_index: 5
+2023-08-16 14:30:03 info: 3dedf0b2-3c28-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 14:30:05 info: ------------------------------------------
+2023-08-16 14:30:05 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 14:30:08 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 14:30:12 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 14:30:15 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 14:30:18 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 14:30:23 info: ------------------------------------------
+2023-08-16 14:30:23 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 14:30:26 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 14:30:29 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 14:30:32 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 14:30:35 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 14:30:41 info: ------------------------------------------
+2023-08-16 14:30:41 info: 1) pytesseract champ_name: Jayce index: 1
+2023-08-16 14:30:44 info: 2) lower champ_name: jayce
+ index: 1
+2023-08-16 14:30:44 info: 3) champ_name: ayce; index: 1
+2023-08-16 14:30:44 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 14:30:47 info: 1) pytesseract champ_name: Katarina index: 3
+2023-08-16 14:30:50 info: 2) lower champ_name: katarina
+ index: 3
+2023-08-16 14:30:50 info: 3) champ_name: atarina; index: 3
+2023-08-16 14:30:50 info: 1) pytesseract champ_name: Co index: 4
+2023-08-16 14:30:53 info: 2) lower champ_name: co
+ index: 4
+2023-08-16 14:30:53 info: 1) pytesseract champ_name: Sion index: 5
+2023-08-16 14:30:56 info: 2) lower champ_name: sion
+ index: 5
+2023-08-16 14:30:56 info: 3) champ_name: ion; index: 5
+2023-08-16 14:30:56 info: 4) screen_for_champ: 3 test_index: 4
+2023-08-16 14:30:56 info: 5e0a9030-3c28-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 14:30:59 info: ------------------------------------------
+2023-08-16 14:30:59 info: 1) pytesseract champ_name: Jayce index: 1
+2023-08-16 14:31:02 info: 2) lower champ_name: jayce
+ index: 1
+2023-08-16 14:31:02 info: 3) champ_name: ayce; index: 1
+2023-08-16 14:31:02 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 14:31:05 info: 1) pytesseract champ_name: Katarina index: 3
+2023-08-16 14:31:08 info: 2) lower champ_name: katarina
+ index: 3
+2023-08-16 14:31:08 info: 3) champ_name: atarina; index: 3
+2023-08-16 14:31:08 info: 1) pytesseract champ_name: Co index: 4
+2023-08-16 14:31:11 info: 2) lower champ_name: co
+ index: 4
+2023-08-16 14:31:11 info: 1) pytesseract champ_name: Sion index: 5
+2023-08-16 14:31:14 info: 2) lower champ_name: sion
+ index: 5
+2023-08-16 14:31:14 info: 3) champ_name: ion; index: 5
+2023-08-16 14:31:14 info: 4) screen_for_champ: 3 test_index: 4
+2023-08-16 14:31:14 info: 68ccb494-3c28-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 14:31:18 info: ------------------------------------------
+2023-08-16 14:31:18 info: 1) pytesseract champ_name: Wa index: 1
+2023-08-16 14:31:21 info: 2) lower champ_name: wa
+ index: 1
+2023-08-16 14:31:21 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 14:31:24 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 14:31:27 info: 1) pytesseract champ_name: ——— index: 4
+2023-08-16 14:31:30 info: 2) lower champ_name: ———
+ index: 4
+2023-08-16 14:31:30 info: 1) pytesseract champ_name: i index: 5
+2023-08-16 14:31:33 info: 2) lower champ_name: i
+ index: 5
+2023-08-16 14:31:35 info: ------------------------------------------
+2023-08-16 14:31:35 info: 1) pytesseract champ_name: CO index: 1
+2023-08-16 14:31:38 info: 2) lower champ_name: co
+ index: 1
+2023-08-16 14:31:39 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 14:31:42 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 14:31:45 info: 1) pytesseract champ_name: — index: 4
+2023-08-16 14:31:48 info: 2) lower champ_name: —
+ index: 4
+2023-08-16 14:31:48 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 14:31:54 info: ------------------------------------------
+2023-08-16 14:31:54 info: 1) pytesseract champ_name: Ekko index: 1
+2023-08-16 14:31:57 info: 2) lower champ_name: ekko
+ index: 1
+2023-08-16 14:31:57 info: 3) champ_name: kko; index: 1
+2023-08-16 14:31:57 info: 1) pytesseract champ_name: Sejuani index: 2
+2023-08-16 14:32:00 info: 2) lower champ_name: sejuani
+ index: 2
+2023-08-16 14:32:00 info: 3) champ_name: ejuani; index: 2
+2023-08-16 14:32:00 info: 1) pytesseract champ_name: Urgot index: 3
+2023-08-16 14:32:01 info: 2) lower champ_name: urgot
+ index: 3
+2023-08-16 14:32:01 info: 3) champ_name: rgot; index: 3
+2023-08-16 14:32:01 info: 1) pytesseract champ_name: Renekton index: 4
+2023-08-16 14:32:04 info: 2) lower champ_name: renekton
+ index: 4
+2023-08-16 14:32:04 info: 3) champ_name: enekton; index: 4
+2023-08-16 14:32:05 info: 1) pytesseract champ_name: Kled index: 5
+2023-08-16 14:32:08 info: 2) lower champ_name: kled
+ index: 5
+2023-08-16 14:32:08 info: 3) champ_name: led; index: 5
+2023-08-16 14:32:08 info: 4) screen_for_champ: 5 test_index: 5
+2023-08-16 14:32:08 info: 88731644-3c28-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 14:32:10 info: ------------------------------------------
+2023-08-16 14:32:10 info: 1) pytesseract champ_name: Ekko index: 1
+2023-08-16 14:32:13 info: 2) lower champ_name: ekko
+ index: 1
+2023-08-16 14:32:13 info: 3) champ_name: kko; index: 1
+2023-08-16 14:32:13 info: 1) pytesseract champ_name: Sejuani index: 2
+2023-08-16 14:32:16 info: 2) lower champ_name: sejuani
+ index: 2
+2023-08-16 14:32:16 info: 3) champ_name: ejuani; index: 2
+2023-08-16 14:32:16 info: 1) pytesseract champ_name: Urgot index: 3
+2023-08-16 14:32:19 info: 2) lower champ_name: urgot
+ index: 3
+2023-08-16 14:32:19 info: 3) champ_name: rgot; index: 3
+2023-08-16 14:32:19 info: 1) pytesseract champ_name: Renekton index: 4
+2023-08-16 14:32:22 info: 2) lower champ_name: renekton
+ index: 4
+2023-08-16 14:32:22 info: 3) champ_name: enekton; index: 4
+2023-08-16 14:32:22 info: 1) pytesseract champ_name: Kled index: 5
+2023-08-16 14:32:25 info: 2) lower champ_name: kled
+ index: 5
+2023-08-16 14:32:25 info: 3) champ_name: led; index: 5
+2023-08-16 14:32:25 info: 4) screen_for_champ: 5 test_index: 5
+2023-08-16 14:32:26 info: 93226414-3c28-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 14:32:28 info: ------------------------------------------
+2023-08-16 14:32:28 info: 1) pytesseract champ_name: Ekko index: 1
+2023-08-16 14:32:31 info: 2) lower champ_name: ekko
+ index: 1
+2023-08-16 14:32:31 info: 3) champ_name: kko; index: 1
+2023-08-16 14:32:31 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 14:32:32 info: 1) pytesseract champ_name: Urgot index: 3
+2023-08-16 14:32:35 info: 2) lower champ_name: urgot
+ index: 3
+2023-08-16 14:32:35 info: 3) champ_name: rgot; index: 3
+2023-08-16 14:32:35 info: 1) pytesseract champ_name: Renekton index: 4
+2023-08-16 14:32:38 info: 2) lower champ_name: renekton
+ index: 4
+2023-08-16 14:32:38 info: 3) champ_name: enekton; index: 4
+2023-08-16 14:32:38 info: 1) pytesseract champ_name: Kled index: 5
+2023-08-16 14:32:41 info: 2) lower champ_name: kled
+ index: 5
+2023-08-16 14:32:41 info: 3) champ_name: led; index: 5
+2023-08-16 14:32:41 info: 4) screen_for_champ: 4 test_index: 4
+2023-08-16 14:32:41 info: 9c7a0e5e-3c28-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 14:32:44 info: ------------------------------------------
+2023-08-16 14:32:44 info: 1) pytesseract champ_name: Ekko index: 1
+2023-08-16 14:32:47 info: 2) lower champ_name: ekko
+ index: 1
+2023-08-16 14:32:47 info: 3) champ_name: kko; index: 1
+2023-08-16 14:32:47 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 14:32:51 info: 1) pytesseract champ_name: Urgot index: 3
+2023-08-16 14:32:54 info: 2) lower champ_name: urgot
+ index: 3
+2023-08-16 14:32:54 info: 3) champ_name: rgot; index: 3
+2023-08-16 14:32:54 info: 1) pytesseract champ_name: Renekton index: 4
+2023-08-16 14:32:57 info: 2) lower champ_name: renekton
+ index: 4
+2023-08-16 14:32:57 info: 3) champ_name: enekton; index: 4
+2023-08-16 14:32:57 info: 1) pytesseract champ_name: Kled index: 5
+2023-08-16 14:33:00 info: 2) lower champ_name: kled
+ index: 5
+2023-08-16 14:33:00 info: 3) champ_name: led; index: 5
+2023-08-16 14:33:00 info: 4) screen_for_champ: 4 test_index: 4
+2023-08-16 14:33:00 info: TEST. number of files in Tensorflow/labelimg/test is 6.0
+2023-08-16 14:33:00 info: a78111c6-3c28-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 14:33:03 info: ------------------------------------------
+2023-08-16 14:33:03 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 14:33:06 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 14:33:09 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 14:33:12 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 14:33:15 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 14:33:21 info: ------------------------------------------
+2023-08-16 14:33:21 info: 1) pytesseract champ_name: Ryze index: 1
+2023-08-16 14:33:24 info: 2) lower champ_name: ryze
+ index: 1
+2023-08-16 14:33:24 info: 3) champ_name: yze; index: 1
+2023-08-16 14:33:24 info: 1) pytesseract champ_name: Taliyah index: 2
+2023-08-16 14:33:27 info: 2) lower champ_name: taliyah
+ index: 2
+2023-08-16 14:33:27 info: 3) champ_name: aliyah; index: 2
+2023-08-16 14:33:27 info: 1) pytesseract champ_name: Lo index: 3
+2023-08-16 14:33:30 info: 2) lower champ_name: lo
+ index: 3
+2023-08-16 14:33:30 info: 1) pytesseract champ_name: Tristana index: 4
+2023-08-16 14:33:33 info: 2) lower champ_name: tristana
+ index: 4
+2023-08-16 14:33:33 info: 3) champ_name: ristana; index: 4
+2023-08-16 14:33:33 info: 1) pytesseract champ_name: Kassadin index: 5
+2023-08-16 14:33:36 info: 2) lower champ_name: kassadin
+ index: 5
+2023-08-16 14:33:36 info: 3) champ_name: assadin; index: 5
+2023-08-16 14:33:36 info: 4) screen_for_champ: 4 test_index: 5
+2023-08-16 14:33:36 info: bd0d2084-3c28-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 14:33:39 info: ------------------------------------------
+2023-08-16 14:33:39 info: 1) pytesseract champ_name: Ryze index: 1
+2023-08-16 14:33:42 info: 2) lower champ_name: ryze
+ index: 1
+2023-08-16 14:33:42 info: 3) champ_name: yze; index: 1
+2023-08-16 14:33:42 info: 1) pytesseract champ_name: Taliyah index: 2
+2023-08-16 14:33:45 info: 2) lower champ_name: taliyah
+ index: 2
+2023-08-16 14:33:45 info: 3) champ_name: aliyah; index: 2
+2023-08-16 14:33:45 info: 1) pytesseract champ_name: { index: 3
+2023-08-16 14:33:48 info: 2) lower champ_name: {
+ index: 3
+2023-08-16 14:33:48 info: 1) pytesseract champ_name: Tristana index: 4
+2023-08-16 14:33:51 info: 2) lower champ_name: tristana
+ index: 4
+2023-08-16 14:33:51 info: 3) champ_name: ristana; index: 4
+2023-08-16 14:33:51 info: 1) pytesseract champ_name: Kassadin index: 5
+2023-08-16 14:33:54 info: 2) lower champ_name: kassadin
+ index: 5
+2023-08-16 14:33:54 info: 3) champ_name: assadin; index: 5
+2023-08-16 14:33:54 info: 4) screen_for_champ: 4 test_index: 5
+2023-08-16 14:33:54 info: c7c7b26e-3c28-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 14:33:57 info: ------------------------------------------
+2023-08-16 14:33:57 info: 1) pytesseract champ_name: Ryze index: 1
+2023-08-16 14:34:00 info: 2) lower champ_name: ryze
+ index: 1
+2023-08-16 14:34:00 info: 3) champ_name: yze; index: 1
+2023-08-16 14:34:00 info: 1) pytesseract champ_name: Taliyah index: 2
+2023-08-16 14:34:03 info: 2) lower champ_name: taliyah
+ index: 2
+2023-08-16 14:34:03 info: 3) champ_name: aliyah; index: 2
+2023-08-16 14:34:03 info: 1) pytesseract champ_name: Le index: 3
+2023-08-16 14:34:06 info: 2) lower champ_name: le
+ index: 3
+2023-08-16 14:34:06 info: 1) pytesseract champ_name: Tristana index: 4
+2023-08-16 14:34:09 info: 2) lower champ_name: tristana
+ index: 4
+2023-08-16 14:34:09 info: 3) champ_name: ristana; index: 4
+2023-08-16 14:34:09 info: 1) pytesseract champ_name: Kassadin index: 5
+2023-08-16 14:34:12 info: 2) lower champ_name: kassadin
+ index: 5
+2023-08-16 14:34:12 info: 3) champ_name: assadin; index: 5
+2023-08-16 14:34:12 info: 4) screen_for_champ: 4 test_index: 5
+2023-08-16 14:34:12 info: d2824066-3c28-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 14:34:15 info: ------------------------------------------
+2023-08-16 14:34:15 info: 1) pytesseract champ_name: Katarina index: 1
+2023-08-16 14:34:18 info: 2) lower champ_name: katarina
+ index: 1
+2023-08-16 14:34:18 info: 3) champ_name: atarina; index: 1
+2023-08-16 14:34:18 info: 1) pytesseract champ_name: Galio index: 2
+2023-08-16 14:34:21 info: 2) lower champ_name: galio
+ index: 2
+2023-08-16 14:34:21 info: 3) champ_name: alio; index: 2
+2023-08-16 14:34:21 info: 1) pytesseract champ_name: Jinx index: 3
+2023-08-16 14:34:24 info: 2) lower champ_name: jinx
+ index: 3
+2023-08-16 14:34:24 info: 3) champ_name: inx; index: 3
+2023-08-16 14:34:24 info: 1) pytesseract champ_name: Yasuo index: 4
+2023-08-16 14:34:27 info: 2) lower champ_name: yasuo
+ index: 4
+2023-08-16 14:34:27 info: 3) champ_name: asuo; index: 4
+2023-08-16 14:34:27 info: 1) pytesseract champ_name: Poppy index: 5
+2023-08-16 14:34:30 info: 2) lower champ_name: poppy
+ index: 5
+2023-08-16 14:34:30 info: 3) champ_name: oppy; index: 5
+2023-08-16 14:34:30 info: 4) screen_for_champ: 5 test_index: 5
+2023-08-16 14:34:30 info: dd3caf00-3c28-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 14:34:32 info: ------------------------------------------
+2023-08-16 14:34:33 info: 1) pytesseract champ_name: Katarina index: 1
+2023-08-16 14:34:36 info: 2) lower champ_name: katarina
+ index: 1
+2023-08-16 14:34:36 info: 3) champ_name: atarina; index: 1
+2023-08-16 14:34:36 info: 1) pytesseract champ_name: Galio index: 2
+2023-08-16 14:34:39 info: 2) lower champ_name: galio
+ index: 2
+2023-08-16 14:34:39 info: 3) champ_name: alio; index: 2
+2023-08-16 14:34:39 info: 1) pytesseract champ_name: Jinx index: 3
+2023-08-16 14:34:42 info: 2) lower champ_name: jinx
+ index: 3
+2023-08-16 14:34:42 info: 3) champ_name: inx; index: 3
+2023-08-16 14:34:42 info: 1) pytesseract champ_name: Yasuo index: 4
+2023-08-16 14:34:45 info: 2) lower champ_name: yasuo
+ index: 4
+2023-08-16 14:34:45 info: 3) champ_name: asuo; index: 4
+2023-08-16 14:34:45 info: 1) pytesseract champ_name: Poppy index: 5
+2023-08-16 14:34:48 info: 2) lower champ_name: poppy
+ index: 5
+2023-08-16 14:34:48 info: 3) champ_name: oppy; index: 5
+2023-08-16 14:34:48 info: 4) screen_for_champ: 5 test_index: 5
+2023-08-16 14:34:48 info: e7f7671e-3c28-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 14:34:51 info: ------------------------------------------
+2023-08-16 14:34:51 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 14:34:54 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 14:34:57 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 14:35:00 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 14:35:03 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 16:08:03 info: checking for bebe872 every 15 seconds, recording with 1080p60 quality
+2023-08-16 16:08:04 info: First ten currently online users in teamfight tactics category: ['bebe872', 'saintvicious', 'Alanzq', 'Deisik', 'TidesofTime', 'janelleyace', 'sunhideTV', 'Laellana', 'Izzyykun', 'VoodooOce']
+2023-08-16 16:08:04 info: bebe872 online, stream recording in session
+2023-08-16 16:08:04 info: record_stream begin
+2023-08-16 16:08:05 info: get_stream_url
+2023-08-16 16:08:07 info: ------------------------------------------
+2023-08-16 16:08:07 info: 1) pytesseract champ_name: Jhin index: 1
+2023-08-16 16:08:07 info: 2) lower champ_name: jhin
+ index: 1
+2023-08-16 16:08:07 info: 3) champ_name: hin; index: 1
+2023-08-16 16:08:07 info: 1) pytesseract champ_name: Taliyah index: 2
+2023-08-16 16:08:07 info: 2) lower champ_name: taliyah
+ index: 2
+2023-08-16 16:08:07 info: 3) champ_name: aliyah; index: 2
+2023-08-16 16:08:07 info: 1) pytesseract champ_name: Garen index: 3
+2023-08-16 16:08:07 info: 2) lower champ_name: garen
+ index: 3
+2023-08-16 16:08:07 info: 3) champ_name: aren; index: 3
+2023-08-16 16:08:07 info: 1) pytesseract champ_name: Kalista index: 4
+2023-08-16 16:08:07 info: 2) lower champ_name: kalista
+ index: 4
+2023-08-16 16:08:07 info: 3) champ_name: alista; index: 4
+2023-08-16 16:08:07 info: 1) pytesseract champ_name: Garen index: 5
+2023-08-16 16:08:07 info: 2) lower champ_name: garen
+ index: 5
+2023-08-16 16:08:07 info: 3) champ_name: aren; index: 5
+2023-08-16 16:08:07 info: 4) screen_for_champ: 4 test_index: 5
+2023-08-16 16:08:07 info: TEST. number of files in Tensorflow/labelimg/test is 0.0
+2023-08-16 16:08:07 info: f16c6d28-3c35-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 16:08:16 info: ------------------------------------------
+2023-08-16 16:08:16 info: 1) pytesseract champ_name: Jhin index: 1
+2023-08-16 16:08:16 info: 2) lower champ_name: jhin
+ index: 1
+2023-08-16 16:08:16 info: 3) champ_name: hin; index: 1
+2023-08-16 16:08:16 info: 1) pytesseract champ_name: bo index: 2
+2023-08-16 16:08:16 info: 2) lower champ_name: bo
+ index: 2
+2023-08-16 16:08:16 info: 1) pytesseract champ_name: Garen index: 3
+2023-08-16 16:08:16 info: 2) lower champ_name: garen
+ index: 3
+2023-08-16 16:08:16 info: 3) champ_name: aren; index: 3
+2023-08-16 16:08:16 info: 1) pytesseract champ_name: Kalista index: 4
+2023-08-16 16:08:16 info: 2) lower champ_name: kalista
+ index: 4
+2023-08-16 16:08:16 info: 3) champ_name: alista; index: 4
+2023-08-16 16:08:16 info: 1) pytesseract champ_name: Garen index: 5
+2023-08-16 16:08:16 info: 2) lower champ_name: garen
+ index: 5
+2023-08-16 16:08:16 info: 3) champ_name: aren; index: 5
+2023-08-16 16:08:16 info: 4) screen_for_champ: 3 test_index: 5
+2023-08-16 16:08:16 info: f6a6647e-3c35-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 16:08:33 info: ------------------------------------------
+2023-08-16 16:08:33 info: 1) pytesseract champ_name: Taliyah index: 1
+2023-08-16 16:08:33 info: 2) lower champ_name: taliyah
+ index: 1
+2023-08-16 16:08:33 info: 3) champ_name: aliyah; index: 1
+2023-08-16 16:08:33 info: 1) pytesseract champ_name: Co index: 2
+2023-08-16 16:08:33 info: 2) lower champ_name: co
+ index: 2
+2023-08-16 16:08:33 info: 1) pytesseract champ_name: Co index: 3
+2023-08-16 16:08:33 info: 2) lower champ_name: co
+ index: 3
+2023-08-16 16:08:33 info: 1) pytesseract champ_name: Jayce index: 4
+2023-08-16 16:08:33 info: 2) lower champ_name: jayce
+ index: 4
+2023-08-16 16:08:33 info: 3) champ_name: ayce; index: 4
+2023-08-16 16:08:33 info: 1) pytesseract champ_name: Viego index: 5
+2023-08-16 16:08:33 info: 2) lower champ_name: viego
+ index: 5
+2023-08-16 16:08:33 info: 3) champ_name: iego; index: 5
+2023-08-16 16:08:33 info: 4) screen_for_champ: 3 test_index: 5
+2023-08-16 16:08:33 info: 00e45176-3c36-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 16:08:46 info: ------------------------------------------
+2023-08-16 16:08:46 info: 1) pytesseract champ_name: Le index: 1
+2023-08-16 16:08:46 info: 2) lower champ_name: le
+ index: 1
+2023-08-16 16:08:46 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 16:08:46 info: 1) pytesseract champ_name: a index: 3
+2023-08-16 16:08:46 info: 2) lower champ_name: a
+ index: 3
+2023-08-16 16:08:46 info: 1) pytesseract champ_name: Jayce index: 4
+2023-08-16 16:08:46 info: 2) lower champ_name: jayce
+ index: 4
+2023-08-16 16:08:46 info: 3) champ_name: ayce; index: 4
+2023-08-16 16:08:46 info: 1) pytesseract champ_name: Viego index: 5
+2023-08-16 16:08:46 info: 2) lower champ_name: viego
+ index: 5
+2023-08-16 16:08:46 info: 3) champ_name: iego; index: 5
+2023-08-16 16:08:46 info: 4) screen_for_champ: 2 test_index: 4
+2023-08-16 16:08:46 info: 08baf440-3c36-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 16:30:28 info: checking for bebe872 every 15 seconds, recording with 1080p60 quality
+2023-08-16 16:30:29 info: First ten currently online users in teamfight tactics category: ['bebe872', 'saintvicious', 'Alanzq', 'Deisik', 'TidesofTime', 'SpicyAppies', 'janelleyace', 'Laellana', 'sunhideTV', 'Izzyykun']
+2023-08-16 16:30:29 info: bebe872 online, stream recording in session
+2023-08-16 16:30:29 info: record_stream begin
+2023-08-16 16:30:31 info: get_stream_url
+2023-08-16 16:30:32 info: ------------------------------------------
+2023-08-16 16:30:32 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 16:30:32 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 16:30:32 info: 1) pytesseract champ_name: en
+-—CUlt w”~CC index: 3
+2023-08-16 16:30:32 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 16:30:32 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 16:30:41 info: ------------------------------------------
+2023-08-16 16:30:41 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 16:30:42 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 16:30:42 info: 1) pytesseract champ_name: ee
+-—CUmlrt w”t”~C index: 3
+2023-08-16 16:30:42 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 16:30:42 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 16:30:58 info: ------------------------------------------
+2023-08-16 16:30:58 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 16:30:58 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 16:30:58 info: 1) pytesseract champ_name: eee
+-—CUltti“‘i‘OSOSCC;CO index: 3
+2023-08-16 16:30:58 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 16:30:58 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 16:31:11 info: ------------------------------------------
+2023-08-16 16:31:11 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 16:31:11 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 16:31:11 info: 1) pytesseract champ_name: eee
+-—CUltti“‘i‘OSOSCC;CO index: 3
+2023-08-16 16:31:11 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 16:31:11 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 16:31:28 info: ------------------------------------------
+2023-08-16 16:31:28 info: 1) pytesseract champ_name: s\ ies index: 1
+2023-08-16 16:31:28 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 16:31:28 info: 1) pytesseract champ_name: ne index: 3
+2023-08-16 16:31:28 info: 1) pytesseract champ_name: , :
+' .
+, . ’ index: 4
+2023-08-16 16:31:28 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 16:31:42 info: ------------------------------------------
+2023-08-16 16:31:42 info: 1) pytesseract champ_name: \ ‘ie index: 1
+2023-08-16 16:31:42 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 16:31:42 info: 1) pytesseract champ_name: - ae index: 3
+2023-08-16 16:31:42 info: 1) pytesseract champ_name: aw sk index: 4
+2023-08-16 16:31:42 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 16:32:05 info: ------------------------------------------
+2023-08-16 16:32:05 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 16:32:05 info: 1) pytesseract champ_name: a index: 2
+2023-08-16 16:32:05 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 16:32:05 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 16:32:05 info: 1) pytesseract champ_name: | a index: 5
+2023-08-16 16:32:39 info: ------------------------------------------
+2023-08-16 16:32:39 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 16:32:39 info: 1) pytesseract champ_name: _: index: 2
+2023-08-16 16:32:39 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 16:32:39 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 16:32:39 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 16:33:07 info: ------------------------------------------
+2023-08-16 16:33:07 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 16:33:08 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 16:33:08 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 16:33:08 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 16:33:08 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 16:33:37 info: checking for bebe872 every 15 seconds, recording with 1080p60 quality
+2023-08-16 16:33:37 info: First ten currently online users in teamfight tactics category: ['bebe872', 'saintvicious', 'Alanzq', 'Deisik', 'TidesofTime', 'SpicyAppies', 'janelleyace', 'Laellana', 'sunhideTV', 'Izzyykun']
+2023-08-16 16:33:38 info: bebe872 online, stream recording in session
+2023-08-16 16:33:38 info: record_stream begin
+2023-08-16 16:33:39 info: get_stream_url
+2023-08-16 16:33:40 info: ------------------------------------------
+2023-08-16 16:33:40 info: 1) pytesseract champ_name: bo index: 1
+2023-08-16 16:33:40 info: 1) pytesseract champ_name: Cassiopeia index: 2
+2023-08-16 16:33:40 info: 3) champ_name: assiopeia; index: 2
+2023-08-16 16:33:41 info: 1) pytesseract champ_name: Lo index: 3
+2023-08-16 16:33:41 info: 1) pytesseract champ_name: Malzahar index: 4
+2023-08-16 16:33:41 info: 3) champ_name: alzahar; index: 4
+2023-08-16 16:33:41 info: 1) pytesseract champ_name: Malzahar index: 5
+2023-08-16 16:33:41 info: 3) champ_name: alzahar; index: 5
+2023-08-16 16:33:41 info: 4) screen_for_champ: 2 test_index: 5
+2023-08-16 16:33:41 info: TEST. number of files in Tensorflow/labelimg/test is 0.0
+2023-08-16 16:33:41 info: 83749d46-3c39-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 16:33:49 info: ------------------------------------------
+2023-08-16 16:33:49 info: 1) pytesseract champ_name:  index: 1
+2023-08-16 16:33:49 info: 1) pytesseract champ_name:  index: 2
+2023-08-16 16:33:49 info: 1) pytesseract champ_name:  index: 3
+2023-08-16 16:33:50 info: 1) pytesseract champ_name:  index: 4
+2023-08-16 16:33:50 info: 1) pytesseract champ_name:  index: 5
+2023-08-16 16:34:19 info: ------------------------------------------
+2023-08-16 16:34:19 info: 1) pytesseract champ_name: Orianna index: 1
+2023-08-16 16:34:19 info: 3) champ_name: rianna; index: 1
+2023-08-16 16:34:19 info: 1) pytesseract champ_name: Kayle index: 2
+2023-08-16 16:34:19 info: 3) champ_name: ayle; index: 2
+2023-08-16 16:34:19 info: 1) pytesseract champ_name: Malzahar index: 3
+2023-08-16 16:34:19 info: 3) champ_name: alzahar; index: 3
+2023-08-16 16:34:19 info: 1) pytesseract champ_name: Cho'Gath index: 4
+2023-08-16 16:34:19 info: 3) champ_name: hogath; index: 4
+2023-08-16 16:34:19 info: 1) pytesseract champ_name: Zed index: 5
+2023-08-16 16:34:19 info: 3) champ_name: ed; index: 5
+2023-08-16 16:34:19 info: 4) screen_for_champ: 5 test_index: 5
+2023-08-16 16:34:19 info: 9a88750c-3c39-11ee-bad0-4bc9372fa5c1 saved
+2023-08-16 16:34:34 info: ------------------------------------------
+2023-08-16 16:34:34 info: 1) pytesseract champ_name: Orianna index: 1
+2023-08-16 16:34:34 info: 3) champ_name: rianna; index: 1
+2023-08-16 16:34:34 info: 1) pytesseract champ_name: Kayle index: 2
+2023-08-16 16:34:34 info: 3) champ_name: ayle; index: 2
+2023-08-16 16:34:34 info: 1) pytesseract champ_name: Malzahar index: 3
+2023-08-16 16:34:34 info: 3) champ_name: alzahar; index: 3
+2023-08-16 16:34:34 info: 1) pytesseract champ_name: Cho'Gath index: 4
+2023-08-16 16:34:34 info: 3) champ_name: hogath; index: 4
+2023-08-16 16:34:34 info: 1) pytesseract champ_name: Zed index: 5
+2023-08-16 16:34:34 info: 3) champ_name: ed; index: 5
+2023-08-16 16:34:34 info: 4) screen_for_champ: 5 test_index: 5
+2023-08-16 16:34:34 info: a35c7444-3c39-11ee-bad0-4bc9372fa5c1 saved

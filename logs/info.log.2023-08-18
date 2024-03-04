@@ -1,0 +1,1145 @@
+2023-08-18 09:57:06 info: checking for setsukotft every 15 seconds, recording with 1080p60 quality
+2023-08-18 09:57:07 info: First ten currently online users in teamfight tactics category: ['setsukotft', 'robinsongz', 'keanelol', 'guubums', 'AsmodaiTV', 'yougelly', 'GrappLr', 'TidesofTime', 'dallasyes', 'TheGrandCru']
+2023-08-18 09:57:07 info: setsukotft online, stream recording in session
+2023-08-18 09:57:07 info: record_stream begin
+2023-08-18 09:57:08 info: get_stream_url
+2023-08-18 09:57:10 info: ------------------------------------------
+2023-08-18 09:57:10 info: 1) pytesseract champ_name: Ekko index: 1
+2023-08-18 09:57:10 info: 3) champ_name: kko; index: 1
+2023-08-18 09:57:10 info: 1) pytesseract champ_name: Urgot index: 2
+2023-08-18 09:57:10 info: 3) champ_name: rgot; index: 2
+2023-08-18 09:57:10 info: 1) pytesseract champ_name: Nasus index: 3
+2023-08-18 09:57:10 info: 3) champ_name: asus; index: 3
+2023-08-18 09:57:10 info: 1) pytesseract champ_name: Ahri index: 4
+2023-08-18 09:57:10 info: 3) champ_name: hri; index: 4
+2023-08-18 09:57:10 info: 1) pytesseract champ_name: eo index: 5
+2023-08-18 09:57:10 info: 4) screen_for_champ: 4 test_index: 5
+2023-08-18 09:57:10 info: 740401d8-3d94-11ee-9272-6bb586c7d45f saved
+2023-08-18 09:57:10 info: ------------------------------------------
+2023-08-18 09:57:10 info: 1) pytesseract champ_name: Ekko index: 1
+2023-08-18 09:57:10 info: 3) champ_name: kko; index: 1
+2023-08-18 09:57:10 info: 1) pytesseract champ_name: Urgot index: 2
+2023-08-18 09:57:10 info: 3) champ_name: rgot; index: 2
+2023-08-18 09:57:10 info: 1) pytesseract champ_name: Nasus index: 3
+2023-08-18 09:57:10 info: 3) champ_name: asus; index: 3
+2023-08-18 09:57:10 info: 1) pytesseract champ_name: Ahri index: 4
+2023-08-18 09:57:10 info: 3) champ_name: hri; index: 4
+2023-08-18 09:57:10 info: 1) pytesseract champ_name: yo index: 5
+2023-08-18 09:57:10 info: 4) screen_for_champ: 4 test_index: 5
+2023-08-18 09:57:10 info: 740401d9-3d94-11ee-9272-6bb586c7d45f saved
+2023-08-18 09:57:10 info: ------------------------------------------
+2023-08-18 09:57:10 info: 1) pytesseract champ_name: Ekko index: 1
+2023-08-18 09:57:10 info: 3) champ_name: kko; index: 1
+2023-08-18 09:57:11 info: 1) pytesseract champ_name: Urgot index: 2
+2023-08-18 09:57:11 info: 3) champ_name: rgot; index: 2
+2023-08-18 09:57:11 info: 1) pytesseract champ_name: Nasus index: 3
+2023-08-18 09:57:11 info: 3) champ_name: asus; index: 3
+2023-08-18 09:57:11 info: 1) pytesseract champ_name: Ahri index: 4
+2023-08-18 09:57:11 info: 3) champ_name: hri; index: 4
+2023-08-18 09:57:11 info: 1) pytesseract champ_name: yo index: 5
+2023-08-18 09:57:11 info: 4) screen_for_champ: 4 test_index: 5
+2023-08-18 09:57:11 info: total number of files in Tensorflow/labelimg is 5.0
+2023-08-18 09:57:11 info: creating labelmap
+2023-08-18 10:04:16 info: checking for setsukotft every 15 seconds, recording with 1080p60 quality
+2023-08-18 10:04:16 info: First ten currently online users in teamfight tactics category: ['setsukotft', 'robinsongz', 'keanelol', 'guubums', 'AsmodaiTV', 'yougelly', 'GrappLr', 'dallasyes', 'TidesofTime', 'TheGrandCru']
+2023-08-18 10:04:17 info: setsukotft online, stream recording in session
+2023-08-18 10:04:17 info: record_stream begin
+2023-08-18 10:04:18 info: get_stream_url
+2023-08-18 10:04:19 info: ------------------------------------------
+2023-08-18 10:04:19 info: 1) pytesseract champ_name: 1 = a fe index: 1
+2023-08-18 10:04:19 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:19 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:19 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:20 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:20 info: ------------------------------------------
+2023-08-18 10:04:20 info: 1) pytesseract champ_name: 1 = fe index: 1
+2023-08-18 10:04:20 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:20 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:20 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:20 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:20 info: ------------------------------------------
+2023-08-18 10:04:20 info: 1) pytesseract champ_name: 1 = fe index: 1
+2023-08-18 10:04:20 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:20 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:20 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:20 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:20 info: ------------------------------------------
+2023-08-18 10:04:20 info: 1) pytesseract champ_name: 1 = a fe index: 1
+2023-08-18 10:04:20 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:20 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:20 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:20 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:20 info: ------------------------------------------
+2023-08-18 10:04:20 info: 1) pytesseract champ_name: 1 = a fe index: 1
+2023-08-18 10:04:21 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:21 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:21 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:21 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:21 info: ------------------------------------------
+2023-08-18 10:04:21 info: 1) pytesseract champ_name: 1 = a fe index: 1
+2023-08-18 10:04:21 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:21 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:21 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:21 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:21 info: ------------------------------------------
+2023-08-18 10:04:21 info: 1) pytesseract champ_name: — index: 1
+2023-08-18 10:04:21 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:21 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:21 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:21 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:21 info: ------------------------------------------
+2023-08-18 10:04:21 info: 1) pytesseract champ_name: —— index: 1
+2023-08-18 10:04:21 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:21 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:22 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:22 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:22 info: ------------------------------------------
+2023-08-18 10:04:22 info: 1) pytesseract champ_name: —— index: 1
+2023-08-18 10:04:22 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:22 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:22 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:22 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:22 info: ------------------------------------------
+2023-08-18 10:04:22 info: 1) pytesseract champ_name:  index: 1
+2023-08-18 10:04:22 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:22 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:22 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:22 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:22 info: ------------------------------------------
+2023-08-18 10:04:22 info: 1) pytesseract champ_name:  index: 1
+2023-08-18 10:04:22 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:22 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:22 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:22 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:22 info: ------------------------------------------
+2023-08-18 10:04:22 info: 1) pytesseract champ_name:  index: 1
+2023-08-18 10:04:23 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:23 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:23 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:23 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:23 info: ------------------------------------------
+2023-08-18 10:04:23 info: 1) pytesseract champ_name: 1 em index: 1
+2023-08-18 10:04:23 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:23 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:23 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:23 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:23 info: ------------------------------------------
+2023-08-18 10:04:23 info: 1) pytesseract champ_name: || em index: 1
+2023-08-18 10:04:23 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:23 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:23 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:23 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:23 info: ------------------------------------------
+2023-08-18 10:04:23 info: 1) pytesseract champ_name: || em index: 1
+2023-08-18 10:04:23 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:23 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:24 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:24 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:24 info: ------------------------------------------
+2023-08-18 10:04:24 info: 1) pytesseract champ_name: 1 mn index: 1
+2023-08-18 10:04:24 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:24 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:24 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:24 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:24 info: ------------------------------------------
+2023-08-18 10:04:24 info: 1) pytesseract champ_name: \\ ecm index: 1
+2023-08-18 10:04:24 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:24 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:24 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:24 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:24 info: ------------------------------------------
+2023-08-18 10:04:24 info: 1) pytesseract champ_name: e— index: 1
+2023-08-18 10:04:24 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:24 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:24 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:24 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:24 info: ------------------------------------------
+2023-08-18 10:04:25 info: 1) pytesseract champ_name: — index: 1
+2023-08-18 10:04:25 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:25 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:25 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:25 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:25 info: ------------------------------------------
+2023-08-18 10:04:25 info: 1) pytesseract champ_name: ae emme, index: 1
+2023-08-18 10:04:25 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:25 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:25 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:25 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:25 info: ------------------------------------------
+2023-08-18 10:04:25 info: 1) pytesseract champ_name: — index: 1
+2023-08-18 10:04:25 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:25 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:25 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:25 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:25 info: ------------------------------------------
+2023-08-18 10:04:25 info: 1) pytesseract champ_name: — index: 1
+2023-08-18 10:04:25 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:26 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:26 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:26 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:26 info: ------------------------------------------
+2023-08-18 10:04:26 info: 1) pytesseract champ_name: ae mmm, index: 1
+2023-08-18 10:04:26 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:26 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:26 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:26 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:26 info: ------------------------------------------
+2023-08-18 10:04:26 info: 1) pytesseract champ_name: ae mmm, index: 1
+2023-08-18 10:04:26 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:26 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:26 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:26 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:26 info: ------------------------------------------
+2023-08-18 10:04:26 info: 1) pytesseract champ_name: \\ eee index: 1
+2023-08-18 10:04:26 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:26 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:26 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:27 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:27 info: ------------------------------------------
+2023-08-18 10:04:27 info: 1) pytesseract champ_name: ——y index: 1
+2023-08-18 10:04:27 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:27 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:27 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:27 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:27 info: ------------------------------------------
+2023-08-18 10:04:27 info: 1) pytesseract champ_name: ——y index: 1
+2023-08-18 10:04:27 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:27 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:27 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:27 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:27 info: ------------------------------------------
+2023-08-18 10:04:27 info: 1) pytesseract champ_name: a ee, index: 1
+2023-08-18 10:04:27 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:27 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:27 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:27 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:27 info: ------------------------------------------
+2023-08-18 10:04:27 info: 1) pytesseract champ_name: ——y index: 1
+2023-08-18 10:04:28 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:28 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:28 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:28 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:28 info: ------------------------------------------
+2023-08-18 10:04:28 info: 1) pytesseract champ_name: ——y index: 1
+2023-08-18 10:04:28 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:28 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:28 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:28 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:28 info: ------------------------------------------
+2023-08-18 10:04:28 info: 1) pytesseract champ_name: a ee, index: 1
+2023-08-18 10:04:28 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:28 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:28 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:28 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:28 info: ------------------------------------------
+2023-08-18 10:04:28 info: 1) pytesseract champ_name: Sane eae, index: 1
+2023-08-18 10:04:28 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:28 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:29 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:29 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:29 info: ------------------------------------------
+2023-08-18 10:04:29 info: 1) pytesseract champ_name: Sane eae, index: 1
+2023-08-18 10:04:29 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:29 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:29 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:29 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:29 info: ------------------------------------------
+2023-08-18 10:04:29 info: 1) pytesseract champ_name: ——— ly index: 1
+2023-08-18 10:04:29 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:29 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:29 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:29 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:29 info: ------------------------------------------
+2023-08-18 10:04:29 info: 1) pytesseract champ_name: eee me, index: 1
+2023-08-18 10:04:29 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:29 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:29 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:29 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:29 info: ------------------------------------------
+2023-08-18 10:04:30 info: 1) pytesseract champ_name: eee me, index: 1
+2023-08-18 10:04:30 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:30 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:30 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:30 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:30 info: ------------------------------------------
+2023-08-18 10:04:30 info: 1) pytesseract champ_name: a ee, index: 1
+2023-08-18 10:04:30 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:30 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:30 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:30 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:30 info: ------------------------------------------
+2023-08-18 10:04:30 info: 1) pytesseract champ_name: eee ae, index: 1
+2023-08-18 10:04:30 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:30 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:30 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:30 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:30 info: ------------------------------------------
+2023-08-18 10:04:30 info: 1) pytesseract champ_name: eee me, index: 1
+2023-08-18 10:04:30 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:31 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:31 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:31 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:31 info: ------------------------------------------
+2023-08-18 10:04:31 info: 1) pytesseract champ_name: a eee, index: 1
+2023-08-18 10:04:31 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:31 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:31 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:31 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:31 info: ------------------------------------------
+2023-08-18 10:04:31 info: 1) pytesseract champ_name: — index: 1
+2023-08-18 10:04:31 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:31 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:31 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:31 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:31 info: ------------------------------------------
+2023-08-18 10:04:31 info: 1) pytesseract champ_name: See ae, index: 1
+2023-08-18 10:04:31 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:31 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:31 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:32 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:32 info: ------------------------------------------
+2023-08-18 10:04:32 info: 1) pytesseract champ_name: Sa ee, index: 1
+2023-08-18 10:04:32 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:32 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:32 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:32 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:32 info: ------------------------------------------
+2023-08-18 10:04:32 info: 1) pytesseract champ_name: — ay index: 1
+2023-08-18 10:04:32 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:32 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:32 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:32 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:32 info: ------------------------------------------
+2023-08-18 10:04:32 info: 1) pytesseract champ_name: ——y index: 1
+2023-08-18 10:04:32 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:32 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:32 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:32 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:32 info: ------------------------------------------
+2023-08-18 10:04:33 info: 1) pytesseract champ_name: ——— index: 1
+2023-08-18 10:04:33 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:33 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:33 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:33 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:33 info: ------------------------------------------
+2023-08-18 10:04:33 info: 1) pytesseract champ_name: | ecm index: 1
+2023-08-18 10:04:33 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:33 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:33 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:33 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:33 info: ------------------------------------------
+2023-08-18 10:04:33 info: 1) pytesseract champ_name: \\ em index: 1
+2023-08-18 10:04:33 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:33 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:33 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:33 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:33 info: ------------------------------------------
+2023-08-18 10:04:33 info: 1) pytesseract champ_name: 1 emf index: 1
+2023-08-18 10:04:33 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:34 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:34 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:34 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:34 info: ------------------------------------------
+2023-08-18 10:04:34 info: 1) pytesseract champ_name: e—— index: 1
+2023-08-18 10:04:34 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:34 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:34 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:34 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:34 info: ------------------------------------------
+2023-08-18 10:04:34 info: 1) pytesseract champ_name: e—— index: 1
+2023-08-18 10:04:34 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:34 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:34 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:34 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:34 info: ------------------------------------------
+2023-08-18 10:04:34 info: 1) pytesseract champ_name: \\ em index: 1
+2023-08-18 10:04:34 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:34 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:34 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:35 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:35 info: ------------------------------------------
+2023-08-18 10:04:35 info: 1) pytesseract champ_name:  index: 1
+2023-08-18 10:04:35 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:35 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:35 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:35 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:35 info: ------------------------------------------
+2023-08-18 10:04:35 info: 1) pytesseract champ_name:  index: 1
+2023-08-18 10:04:35 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:35 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:35 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:35 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:35 info: ------------------------------------------
+2023-08-18 10:04:35 info: 1) pytesseract champ_name:  index: 1
+2023-08-18 10:04:35 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:35 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:35 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:35 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:35 info: ------------------------------------------
+2023-08-18 10:04:35 info: 1) pytesseract champ_name:  index: 1
+2023-08-18 10:04:35 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:36 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:36 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:36 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:36 info: ------------------------------------------
+2023-08-18 10:04:36 info: 1) pytesseract champ_name:  index: 1
+2023-08-18 10:04:36 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:36 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:36 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:36 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:36 info: ------------------------------------------
+2023-08-18 10:04:36 info: 1) pytesseract champ_name:  index: 1
+2023-08-18 10:04:36 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:36 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:36 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:36 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:36 info: ------------------------------------------
+2023-08-18 10:04:36 info: 1) pytesseract champ_name: 1, = es index: 1
+2023-08-18 10:04:36 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:36 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:36 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:37 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:37 info: ------------------------------------------
+2023-08-18 10:04:37 info: 1) pytesseract champ_name: ee index: 1
+2023-08-18 10:04:37 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:37 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:37 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:37 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:37 info: ------------------------------------------
+2023-08-18 10:04:37 info: 1) pytesseract champ_name:  index: 1
+2023-08-18 10:04:37 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:37 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:37 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:37 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:37 info: ------------------------------------------
+2023-08-18 10:04:37 info: 1) pytesseract champ_name:  index: 1
+2023-08-18 10:04:37 info: 1) pytesseract champ_name: A _ index: 2
+2023-08-18 10:04:37 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:37 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:37 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:37 info: ------------------------------------------
+2023-08-18 10:04:37 info: 1) pytesseract champ_name:  index: 1
+2023-08-18 10:04:38 info: 1) pytesseract champ_name: A _ index: 2
+2023-08-18 10:04:38 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:38 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:38 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:38 info: ------------------------------------------
+2023-08-18 10:04:38 info: 1) pytesseract champ_name:  index: 1
+2023-08-18 10:04:38 info: 1) pytesseract champ_name: A _ index: 2
+2023-08-18 10:04:38 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:38 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:38 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:38 info: ------------------------------------------
+2023-08-18 10:04:38 info: 1) pytesseract champ_name:  index: 1
+2023-08-18 10:04:38 info: 1) pytesseract champ_name: 4 _ index: 2
+2023-08-18 10:04:38 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:38 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:38 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:38 info: ------------------------------------------
+2023-08-18 10:04:38 info: 1) pytesseract champ_name: —_= index: 1
+2023-08-18 10:04:38 info: 1) pytesseract champ_name: 4 _ index: 2
+2023-08-18 10:04:38 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:39 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:39 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:39 info: ------------------------------------------
+2023-08-18 10:04:39 info: 1) pytesseract champ_name: ee index: 1
+2023-08-18 10:04:39 info: 1) pytesseract champ_name: a _ index: 2
+2023-08-18 10:04:39 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:39 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:39 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:39 info: ------------------------------------------
+2023-08-18 10:04:39 info: 1) pytesseract champ_name: = index: 1
+2023-08-18 10:04:39 info: 1) pytesseract champ_name: a _ index: 2
+2023-08-18 10:04:39 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:39 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:39 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:39 info: ------------------------------------------
+2023-08-18 10:04:39 info: 1) pytesseract champ_name: ee index: 1
+2023-08-18 10:04:39 info: 1) pytesseract champ_name: a _ index: 2
+2023-08-18 10:04:39 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:39 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:40 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:40 info: ------------------------------------------
+2023-08-18 10:04:40 info: 1) pytesseract champ_name: ee ee index: 1
+2023-08-18 10:04:40 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:40 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:40 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:40 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:40 info: ------------------------------------------
+2023-08-18 10:04:40 info: 1) pytesseract champ_name: > * Sy index: 1
+2023-08-18 10:04:40 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:40 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:40 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:40 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:40 info: ------------------------------------------
+2023-08-18 10:04:40 info: 1) pytesseract champ_name: =v index: 1
+2023-08-18 10:04:40 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:40 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:40 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:40 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:40 info: ------------------------------------------
+2023-08-18 10:04:40 info: 1) pytesseract champ_name: Te Me index: 1
+2023-08-18 10:04:41 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:41 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:41 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:41 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:41 info: ------------------------------------------
+2023-08-18 10:04:41 info: 1) pytesseract champ_name:  index: 1
+2023-08-18 10:04:41 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:41 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:41 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:41 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:41 info: ------------------------------------------
+2023-08-18 10:04:41 info: 1) pytesseract champ_name:  index: 1
+2023-08-18 10:04:41 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:41 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:41 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:41 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:41 info: ------------------------------------------
+2023-08-18 10:04:41 info: 1) pytesseract champ_name: \ nee index: 1
+2023-08-18 10:04:41 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:41 info: 1) pytesseract champ_name: eee ete index: 3
+2023-08-18 10:04:42 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:42 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:42 info: ------------------------------------------
+2023-08-18 10:04:42 info: 1) pytesseract champ_name: \ eee A index: 1
+2023-08-18 10:04:42 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:42 info: 1) pytesseract champ_name: a eeee/\ ate index: 3
+2023-08-18 10:04:42 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:42 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:42 info: ------------------------------------------
+2023-08-18 10:04:42 info: 1) pytesseract champ_name: \ ee index: 1
+2023-08-18 10:04:42 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:42 info: 1) pytesseract champ_name: a eeee/\ ate index: 3
+2023-08-18 10:04:42 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:42 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:42 info: ------------------------------------------
+2023-08-18 10:04:42 info: 1) pytesseract champ_name: \ ene ee, A index: 1
+2023-08-18 10:04:42 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:42 info: 1) pytesseract champ_name: i eeee/\ ate index: 3
+2023-08-18 10:04:42 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:42 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:42 info: ------------------------------------------
+2023-08-18 10:04:43 info: 1) pytesseract champ_name: \ ne ee, A index: 1
+2023-08-18 10:04:43 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:43 info: 1) pytesseract champ_name: eeee/\ ate index: 3
+2023-08-18 10:04:43 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:43 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:43 info: ------------------------------------------
+2023-08-18 10:04:43 info: 1) pytesseract champ_name: \ ne ee, A index: 1
+2023-08-18 10:04:43 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:43 info: 1) pytesseract champ_name: eeee/\ ate index: 3
+2023-08-18 10:04:43 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:43 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:43 info: ------------------------------------------
+2023-08-18 10:04:43 info: 1) pytesseract champ_name: : ne ee, A index: 1
+2023-08-18 10:04:43 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:43 info: 1) pytesseract champ_name: eee ate index: 3
+2023-08-18 10:04:43 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:43 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:43 info: ------------------------------------------
+2023-08-18 10:04:43 info: 1) pytesseract champ_name: \\ eee, A index: 1
+2023-08-18 10:04:43 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:44 info: 1) pytesseract champ_name: i ee/\ ete index: 3
+2023-08-18 10:04:44 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:44 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:44 info: ------------------------------------------
+2023-08-18 10:04:44 info: 1) pytesseract champ_name: A a ee, A index: 1
+2023-08-18 10:04:44 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:44 info: 1) pytesseract champ_name: i ee/\ ete index: 3
+2023-08-18 10:04:44 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:44 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:44 info: ------------------------------------------
+2023-08-18 10:04:44 info: 1) pytesseract champ_name: \\ ee, A index: 1
+2023-08-18 10:04:44 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:44 info: 1) pytesseract champ_name: ee te index: 3
+2023-08-18 10:04:44 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:44 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:44 info: ------------------------------------------
+2023-08-18 10:04:44 info: 1) pytesseract champ_name: \\ ne ee, A index: 1
+2023-08-18 10:04:44 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:44 info: 1) pytesseract champ_name: i eeee/\ ante index: 3
+2023-08-18 10:04:44 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:45 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:45 info: ------------------------------------------
+2023-08-18 10:04:45 info: 1) pytesseract champ_name: \\ ne ee, A index: 1
+2023-08-18 10:04:45 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:45 info: 1) pytesseract champ_name: a ee/\ ate index: 3
+2023-08-18 10:04:45 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:45 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:45 info: ------------------------------------------
+2023-08-18 10:04:45 info: 1) pytesseract champ_name: \\ ne ee, A index: 1
+2023-08-18 10:04:45 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:45 info: 1) pytesseract champ_name: i eeee/\ ate index: 3
+2023-08-18 10:04:45 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:45 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:45 info: ------------------------------------------
+2023-08-18 10:04:45 info: 1) pytesseract champ_name: \\ ne, A index: 1
+2023-08-18 10:04:45 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:45 info: 1) pytesseract champ_name: eee \ ate index: 3
+2023-08-18 10:04:45 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:45 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:45 info: ------------------------------------------
+2023-08-18 10:04:46 info: 1) pytesseract champ_name: A ne ee, A index: 1
+2023-08-18 10:04:46 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:46 info: 1) pytesseract champ_name: aeee/\ ate index: 3
+2023-08-18 10:04:46 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:46 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:46 info: ------------------------------------------
+2023-08-18 10:04:46 info: 1) pytesseract champ_name: \\ ee, A index: 1
+2023-08-18 10:04:46 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:46 info: 1) pytesseract champ_name: i eeee/\ ete index: 3
+2023-08-18 10:04:46 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:46 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:46 info: ------------------------------------------
+2023-08-18 10:04:46 info: 1) pytesseract champ_name: \\ ne ee, A index: 1
+2023-08-18 10:04:46 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:46 info: 1) pytesseract champ_name: aeee/\ ate index: 3
+2023-08-18 10:04:46 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:46 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:46 info: ------------------------------------------
+2023-08-18 10:04:46 info: 1) pytesseract champ_name: see ee, A index: 1
+2023-08-18 10:04:46 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:47 info: 1) pytesseract champ_name: aeee/\ ate index: 3
+2023-08-18 10:04:47 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:47 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:47 info: ------------------------------------------
+2023-08-18 10:04:47 info: 1) pytesseract champ_name: \\ ne ee, A index: 1
+2023-08-18 10:04:47 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 10:04:47 info: 1) pytesseract champ_name: aeee/\ ate index: 3
+2023-08-18 10:04:47 info: 1) pytesseract champ_name: ha index: 4
+2023-08-18 10:04:47 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 10:04:47 info: ------------------------------------------
+2023-08-18 10:13:14 info: checking for setsukotft every 15 seconds, recording with 1080p60 quality
+2023-08-18 10:13:14 info: First ten currently online users in teamfight tactics category: ['setsukotft', 'robinsongz', 'keanelol', 'guubums', 'AsmodaiTV', 'yougelly', 'GrappLr', 'TidesofTime', 'dallasyes', 'TheGrandCru']
+2023-08-18 10:13:15 info: setsukotft online, stream recording in session
+2023-08-18 10:13:15 info: record_stream begin
+2023-08-18 10:13:16 info: get_stream_url
+2023-08-18 10:13:17 info: ------------------------------------------
+2023-08-18 10:13:17 info: 1) pytesseract champ_name: bo index: 1
+2023-08-18 10:13:17 info: 1) pytesseract champ_name: Kayle index: 2
+2023-08-18 10:13:17 info: 3) champ_name: ayle; index: 2
+2023-08-18 10:13:17 info: 1) pytesseract champ_name: Soraka index: 3
+2023-08-18 10:13:17 info: 3) champ_name: oraka; index: 3
+2023-08-18 10:13:18 info: 1) pytesseract champ_name: Lo index: 4
+2023-08-18 10:13:18 info: 1) pytesseract champ_name: Jayce index: 5
+2023-08-18 10:13:18 info: 3) champ_name: ayce; index: 5
+2023-08-18 10:13:18 info: 4) screen_for_champ: 3 test_index: 5
+2023-08-18 10:13:18 info: total number of files in Tensorflow/labelimg is 5.0
+2023-08-18 10:13:18 info: creating labelmap
+2023-08-18 10:19:27 info: checking for setsukotft every 15 seconds, recording with 1080p60 quality
+2023-08-18 10:19:27 info: First ten currently online users in teamfight tactics category: ['setsukotft', 'robinsongz', 'keanelol', 'guubums', 'AsmodaiTV', 'yougelly', 'GrappLr', 'TidesofTime', 'dallasyes', 'TheGrandCru']
+2023-08-18 10:19:28 info: setsukotft online, stream recording in session
+2023-08-18 10:19:28 info: record_stream begin
+2023-08-18 10:19:29 info: get_stream_url
+2023-08-18 10:19:30 info: ------------------------------------------
+2023-08-18 10:19:30 info: 1) pytesseract champ_name: bo index: 1
+2023-08-18 10:19:30 info: 1) pytesseract champ_name: Kayle index: 2
+2023-08-18 10:19:30 info: 3) champ_name: ayle; index: 2
+2023-08-18 10:19:30 info: 1) pytesseract champ_name: Orianna index: 3
+2023-08-18 10:19:30 info: 3) champ_name: rianna; index: 3
+2023-08-18 10:19:31 info: 1) pytesseract champ_name: Poppy index: 4
+2023-08-18 10:19:31 info: 3) champ_name: oppy; index: 4
+2023-08-18 10:19:31 info: 1) pytesseract champ_name: Ashe index: 5
+2023-08-18 10:19:31 info: 3) champ_name: she; index: 5
+2023-08-18 10:19:31 info: 4) screen_for_champ: 4 test_index: 5
+2023-08-18 10:19:31 info: total number of files in Tensorflow/labelimg is 5.0
+2023-08-18 10:19:31 info: creating labelmap
+2023-08-18 12:04:44 info: checking for k3soju every 15 seconds, recording with 1080p60 quality
+2023-08-18 12:04:45 info: First ten currently online users in teamfight tactics category: ['k3soju', 'keanelol', 'bebe872', 'GrappLr', 'Alanzq', 'TidesofTime', 'dallasyes', 'nebokeru', 'Bizzleberry', 'TheGrandCru']
+2023-08-18 12:04:45 info: k3soju online, stream recording in session
+2023-08-18 12:04:45 info: record_stream begin
+2023-08-18 12:04:46 info: get_stream_url
+2023-08-18 12:04:48 info: ------------------------------------------
+2023-08-18 12:04:48 info: 1) pytesseract champ_name: —— index: 1
+2023-08-18 12:04:48 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:04:48 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:04:48 info: 1) pytesseract champ_name:  index: 4
+2023-08-18 12:04:48 info: 1) pytesseract champ_name: a. index: 5
+2023-08-18 12:05:03 info: ------------------------------------------
+2023-08-18 12:05:03 info: 1) pytesseract champ_name: a index: 1
+2023-08-18 12:05:03 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:05:03 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:05:03 info: 1) pytesseract champ_name: ™ “iia
+. index: 4
+2023-08-18 12:05:03 info: 1) pytesseract champ_name: _ te index: 5
+2023-08-18 12:05:18 info: ------------------------------------------
+2023-08-18 12:05:18 info: 1) pytesseract champ_name: al index: 1
+2023-08-18 12:05:18 info: 1) pytesseract champ_name: ‘
+&,
+%, index: 2
+2023-08-18 12:05:18 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:05:18 info: 1) pytesseract champ_name:  index: 4
+2023-08-18 12:05:18 info: 1) pytesseract champ_name: - index: 5
+2023-08-18 12:05:19 info: processing is done, going back to checking...
+2023-08-18 12:05:35 info: First ten currently online users in teamfight tactics category: ['k3soju', 'keanelol', 'bebe872', 'GrappLr', 'Alanzq', 'TidesofTime', 'dallasyes', 'nebokeru', 'Bizzleberry', 'TheGrandCru']
+2023-08-18 12:05:35 info: k3soju online, stream recording in session
+2023-08-18 12:05:35 info: record_stream begin
+2023-08-18 12:05:36 info: get_stream_url
+2023-08-18 12:05:38 info: ------------------------------------------
+2023-08-18 12:05:38 info: 1) pytesseract champ_name: — index: 1
+2023-08-18 12:05:38 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:05:38 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:05:38 info: 1) pytesseract champ_name:  index: 4
+2023-08-18 12:05:38 info: 1) pytesseract champ_name: — = L. index: 5
+2023-08-18 12:11:51 info: checking for k3soju every 15 seconds, recording with 1080p60 quality
+2023-08-18 12:11:51 info: First ten currently online users in teamfight tactics category: ['k3soju', 'keanelol', 'bebe872', 'GrappLr', 'Alanzq', 'TidesofTime', 'dallasyes', 'nebokeru', 'Bizzleberry', 'TheGrandCru']
+2023-08-18 12:11:52 info: k3soju online, stream recording in session
+2023-08-18 12:11:52 info: record_stream begin
+2023-08-18 12:11:53 info: get_stream_url
+2023-08-18 12:11:54 info: ------------------------------------------
+2023-08-18 12:11:55 info: 1) pytesseract champ_name: —— index: 1
+2023-08-18 12:11:55 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:11:55 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:11:55 info: 1) pytesseract champ_name:  index: 4
+2023-08-18 12:11:55 info: 1) pytesseract champ_name: a. index: 5
+2023-08-18 12:12:00 info: ------------------------------------------
+2023-08-18 12:12:00 info: 1) pytesseract champ_name: a index: 1
+2023-08-18 12:12:00 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:12:00 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:12:00 info: 1) pytesseract champ_name: ™ “iia
+. index: 4
+2023-08-18 12:12:00 info: 1) pytesseract champ_name: _ te index: 5
+2023-08-18 12:12:05 info: ------------------------------------------
+2023-08-18 12:12:05 info: 1) pytesseract champ_name: al index: 1
+2023-08-18 12:12:05 info: 1) pytesseract champ_name: ‘
+&,
+%, index: 2
+2023-08-18 12:12:05 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:12:05 info: 1) pytesseract champ_name:  index: 4
+2023-08-18 12:12:05 info: 1) pytesseract champ_name: - index: 5
+2023-08-18 12:12:10 info: ------------------------------------------
+2023-08-18 12:12:10 info: 1) pytesseract champ_name: al index: 1
+2023-08-18 12:12:10 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:12:10 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:12:10 info: 1) pytesseract champ_name:  index: 4
+2023-08-18 12:12:10 info: 1) pytesseract champ_name: | index: 5
+2023-08-18 12:12:15 info: ------------------------------------------
+2023-08-18 12:12:15 info: 1) pytesseract champ_name: a index: 1
+2023-08-18 12:12:15 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:12:15 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:12:15 info: 1) pytesseract champ_name:  index: 4
+2023-08-18 12:12:15 info: 1) pytesseract champ_name: — index: 5
+2023-08-18 12:12:20 info: ------------------------------------------
+2023-08-18 12:12:20 info: 1) pytesseract champ_name: —— index: 1
+2023-08-18 12:12:20 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:12:20 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:12:20 info: 1) pytesseract champ_name:  index: 4
+2023-08-18 12:12:20 info: 1) pytesseract champ_name: ay, , 2. index: 5
+2023-08-18 12:12:25 info: ------------------------------------------
+2023-08-18 12:12:25 info: 1) pytesseract champ_name: 7 —- _ i index: 1
+2023-08-18 12:12:25 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:12:25 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:12:25 info: 1) pytesseract champ_name:  index: 4
+2023-08-18 12:12:26 info: 1) pytesseract champ_name: a, index: 5
+2023-08-18 12:12:30 info: ------------------------------------------
+2023-08-18 12:12:30 info: 1) pytesseract champ_name:  index: 1
+2023-08-18 12:12:30 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:12:30 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:12:31 info: 1) pytesseract champ_name:  index: 4
+2023-08-18 12:12:31 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 12:12:35 info: ------------------------------------------
+2023-08-18 12:12:35 info: 1) pytesseract champ_name: a index: 1
+2023-08-18 12:12:35 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:12:35 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:12:36 info: 1) pytesseract champ_name:  index: 4
+2023-08-18 12:12:36 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 12:12:40 info: ------------------------------------------
+2023-08-18 12:12:40 info: 1) pytesseract champ_name: a, index: 1
+2023-08-18 12:12:40 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:12:41 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:12:41 info: 1) pytesseract champ_name:  index: 4
+2023-08-18 12:12:41 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 12:12:46 info: ------------------------------------------
+2023-08-18 12:12:46 info: 1) pytesseract champ_name: ; _ = ; index: 1
+2023-08-18 12:12:46 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:12:46 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:12:46 info: 1) pytesseract champ_name:  index: 4
+2023-08-18 12:12:46 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 12:12:51 info: ------------------------------------------
+2023-08-18 12:12:51 info: 1) pytesseract champ_name: - index: 1
+2023-08-18 12:12:51 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:12:51 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:12:51 info: 1) pytesseract champ_name:  index: 4
+2023-08-18 12:12:51 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 12:12:56 info: ------------------------------------------
+2023-08-18 12:12:56 info: 1) pytesseract champ_name:  index: 1
+2023-08-18 12:12:56 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:12:56 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:12:56 info: 1) pytesseract champ_name:  index: 4
+2023-08-18 12:12:56 info: 1) pytesseract champ_name: Mw
++ index: 5
+2023-08-18 12:13:01 info: ------------------------------------------
+2023-08-18 12:13:01 info: 1) pytesseract champ_name: —_ index: 1
+2023-08-18 12:13:01 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:13:01 info: 1) pytesseract champ_name: ON index: 3
+2023-08-18 12:13:01 info: 1) pytesseract champ_name:  index: 4
+2023-08-18 12:13:01 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 12:13:06 info: ------------------------------------------
+2023-08-18 12:13:06 info: 1) pytesseract champ_name: a, index: 1
+2023-08-18 12:13:06 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:13:06 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:13:06 info: 1) pytesseract champ_name:  index: 4
+2023-08-18 12:13:06 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 12:13:11 info: ------------------------------------------
+2023-08-18 12:13:11 info: 1) pytesseract champ_name:  index: 1
+2023-08-18 12:13:11 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:13:11 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:13:11 info: 1) pytesseract champ_name: ~a index: 4
+2023-08-18 12:13:11 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 12:13:16 info: ------------------------------------------
+2023-08-18 12:13:16 info: 1) pytesseract champ_name: —— index: 1
+2023-08-18 12:13:16 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:13:16 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:13:16 info: 1) pytesseract champ_name: NA index: 4
+2023-08-18 12:13:17 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 12:13:21 info: ------------------------------------------
+2023-08-18 12:13:21 info: 1) pytesseract champ_name: ——— index: 1
+2023-08-18 12:13:21 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:13:21 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:13:21 info: 1) pytesseract champ_name:  index: 4
+2023-08-18 12:13:22 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 12:13:26 info: ------------------------------------------
+2023-08-18 12:13:26 info: 1) pytesseract champ_name: al index: 1
+2023-08-18 12:13:26 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:13:26 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:13:27 info: 1) pytesseract champ_name:  index: 4
+2023-08-18 12:13:27 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 12:13:31 info: ------------------------------------------
+2023-08-18 12:13:31 info: 1) pytesseract champ_name: _ index: 1
+2023-08-18 12:13:31 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:13:31 info: 1) pytesseract champ_name: ONY index: 3
+2023-08-18 12:13:32 info: 1) pytesseract champ_name:  index: 4
+2023-08-18 12:13:32 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 12:13:36 info: ------------------------------------------
+2023-08-18 12:13:36 info: 1) pytesseract champ_name: — index: 1
+2023-08-18 12:13:36 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:13:37 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:13:37 info: 1) pytesseract champ_name:  index: 4
+2023-08-18 12:13:37 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 12:21:03 info: checking for k3soju every 15 seconds, recording with 1080p60 quality
+2023-08-18 12:21:04 info: First ten currently online users in teamfight tactics category: ['k3soju', 'keanelol', 'bebe872', 'GrappLr', 'Alanzq', 'TidesofTime', 'Bizzleberry', 'nebokeru', 'leduckTFT', 'TheGrandCru']
+2023-08-18 12:21:04 info: k3soju online, stream recording in session
+2023-08-18 12:21:04 info: record_stream begin
+2023-08-18 12:21:05 info: get_stream_url
+2023-08-18 12:21:07 info: ------------------------------------------
+2023-08-18 12:21:07 info: 1) pytesseract champ_name: — index: 1
+2023-08-18 12:21:07 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:21:08 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:21:08 info: 1) pytesseract champ_name:  index: 4
+2023-08-18 12:21:08 info: 1) pytesseract champ_name: — = L. index: 5
+2023-08-18 12:21:13 info: no champion_coordinates
+2023-08-18 12:21:13 info: ------------------------------------------
+2023-08-18 12:21:13 info: 1) pytesseract champ_name: —— index: 1
+2023-08-18 12:21:13 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:21:13 info: 1) pytesseract champ_name: ——— 8 > - index: 3
+2023-08-18 12:21:13 info: 1) pytesseract champ_name:  index: 4
+2023-08-18 12:21:13 info: 1) pytesseract champ_name: ._ index: 5
+2023-08-18 12:21:18 info: no champion_coordinates
+2023-08-18 12:21:18 info: ------------------------------------------
+2023-08-18 12:21:18 info: 1) pytesseract champ_name: — —h index: 1
+2023-08-18 12:21:18 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:21:18 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:21:18 info: 1) pytesseract champ_name:  index: 4
+2023-08-18 12:21:18 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 12:21:23 info: no champion_coordinates
+2023-08-18 12:21:23 info: ------------------------------------------
+2023-08-18 12:21:23 info: 1) pytesseract champ_name: ——- — index: 1
+2023-08-18 12:21:23 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:21:23 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:21:23 info: 1) pytesseract champ_name: _ = index: 4
+2023-08-18 12:21:23 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 12:21:28 info: no champion_coordinates
+2023-08-18 12:21:28 info: ------------------------------------------
+2023-08-18 12:21:28 info: 1) pytesseract champ_name: — index: 1
+2023-08-18 12:21:28 info: 1) pytesseract champ_name: . . aa index: 2
+2023-08-18 12:21:28 info: 1) pytesseract champ_name: os | ML! index: 3
+2023-08-18 12:21:28 info: 1) pytesseract champ_name: wa “en index: 4
+2023-08-18 12:21:28 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 12:21:33 info: no champion_coordinates
+2023-08-18 12:21:33 info: ------------------------------------------
+2023-08-18 12:21:33 info: 1) pytesseract champ_name:  index: 1
+2023-08-18 12:21:33 info: 1) pytesseract champ_name: 7 _ =<
+. index: 2
+2023-08-18 12:21:33 info: 1) pytesseract champ_name: oa = =—h index: 3
+2023-08-18 12:21:33 info: 1) pytesseract champ_name: a index: 4
+2023-08-18 12:21:34 info: 1) pytesseract champ_name: ie index: 5
+2023-08-18 12:21:38 info: no champion_coordinates
+2023-08-18 12:21:38 info: ------------------------------------------
+2023-08-18 12:21:38 info: 1) pytesseract champ_name: — index: 1
+2023-08-18 12:21:38 info: 1) pytesseract champ_name: ; 7 i.
+A index: 2
+2023-08-18 12:21:38 info: 1) pytesseract champ_name: . i. index: 3
+2023-08-18 12:21:39 info: 1) pytesseract champ_name: > index: 4
+2023-08-18 12:21:39 info: 1) pytesseract champ_name: a index: 5
+2023-08-18 12:21:44 info: no champion_coordinates
+2023-08-18 12:21:44 info: ------------------------------------------
+2023-08-18 12:21:44 info: 1) pytesseract champ_name: —. index: 1
+2023-08-18 12:21:44 info: 1) pytesseract champ_name: at. index: 2
+2023-08-18 12:21:44 info: 1) pytesseract champ_name: a - 2, index: 3
+2023-08-18 12:21:44 info: 1) pytesseract champ_name: ce index: 4
+2023-08-18 12:21:44 info: 1) pytesseract champ_name: ._ mir index: 5
+2023-08-18 12:21:49 info: no champion_coordinates
+2023-08-18 12:21:49 info: ------------------------------------------
+2023-08-18 12:21:49 info: 1) pytesseract champ_name: a index: 1
+2023-08-18 12:21:49 info: 1) pytesseract champ_name: i i
+‘s". .
+= _ index: 2
+2023-08-18 12:21:49 info: 1) pytesseract champ_name: bh  —_ index: 3
+2023-08-18 12:21:49 info: 1) pytesseract champ_name: o., Si index: 4
+2023-08-18 12:21:49 info: 1) pytesseract champ_name: —_— ‘aa, index: 5
+2023-08-18 12:21:54 info: no champion_coordinates
+2023-08-18 12:21:54 info: ------------------------------------------
+2023-08-18 12:21:54 info: 1) pytesseract champ_name: ———— index: 1
+2023-08-18 12:21:54 info: 1) pytesseract champ_name: z=. index: 2
+2023-08-18 12:21:54 info: 1) pytesseract champ_name: am ~~ index: 3
+2023-08-18 12:21:54 info: 1) pytesseract champ_name: ee index: 4
+2023-08-18 12:21:54 info: 1) pytesseract champ_name: —, | “i index: 5
+2023-08-18 12:21:59 info: no champion_coordinates
+2023-08-18 12:21:59 info: ------------------------------------------
+2023-08-18 12:21:59 info: 1) pytesseract champ_name: a index: 1
+2023-08-18 12:21:59 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:21:59 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:21:59 info: 1) pytesseract champ_name: _ 8’, index: 4
+2023-08-18 12:22:00 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 12:22:04 info: no champion_coordinates
+2023-08-18 12:22:04 info: ------------------------------------------
+2023-08-18 12:22:04 info: 1) pytesseract champ_name: ——— | index: 1
+2023-08-18 12:22:04 info: 1) pytesseract champ_name: hh index: 2
+2023-08-18 12:22:04 info: 1) pytesseract champ_name: “SS index: 3
+2023-08-18 12:22:05 info: 1) pytesseract champ_name: oo “ *
+bee index: 4
+2023-08-18 12:22:05 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 12:22:09 info: no champion_coordinates
+2023-08-18 12:22:09 info: ------------------------------------------
+2023-08-18 12:22:09 info: 1) pytesseract champ_name: ——=— index: 1
+2023-08-18 12:22:09 info: 1) pytesseract champ_name: Lal
+.
+Tj _ index: 2
+2023-08-18 12:22:10 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:22:10 info: 1) pytesseract champ_name: _ ae: index: 4
+2023-08-18 12:22:10 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 12:22:15 info: no champion_coordinates
+2023-08-18 12:22:15 info: ------------------------------------------
+2023-08-18 12:22:15 info: 1) pytesseract champ_name: —_— index: 1
+2023-08-18 12:22:15 info: 1) pytesseract champ_name: a Oo index: 2
+2023-08-18 12:22:15 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:22:15 info: 1) pytesseract champ_name: a index: 4
+2023-08-18 12:22:15 info: 1) pytesseract champ_name: ie index: 5
+2023-08-18 12:22:20 info: no champion_coordinates
+2023-08-18 12:22:20 info: ------------------------------------------
+2023-08-18 12:22:20 info: 1) pytesseract champ_name: — index: 1
+2023-08-18 12:22:20 info: 1) pytesseract champ_name: =
+—— = =—=—STtié< index: 2
+2023-08-18 12:22:20 info: 1) pytesseract champ_name: > index: 3
+2023-08-18 12:22:20 info: 1) pytesseract champ_name:  index: 4
+2023-08-18 12:22:20 info: 1) pytesseract champ_name: — “nh index: 5
+2023-08-18 12:22:48 info: checking for k3soju every 15 seconds, recording with 1080p60 quality
+2023-08-18 12:22:49 info: First ten currently online users in teamfight tactics category: ['k3soju', 'keanelol', 'bebe872', 'GrappLr', 'Alanzq', 'TidesofTime', 'Bizzleberry', 'nebokeru', 'leduckTFT', 'TheGrandCru']
+2023-08-18 12:22:49 info: k3soju online, stream recording in session
+2023-08-18 12:22:49 info: record_stream begin
+2023-08-18 12:22:50 info: get_stream_url
+2023-08-18 12:22:52 info: ------------------------------------------
+2023-08-18 12:22:52 info: 1) pytesseract champ_name: — index: 1
+2023-08-18 12:22:52 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:22:52 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:22:52 info: 1) pytesseract champ_name:  index: 4
+2023-08-18 12:22:52 info: 1) pytesseract champ_name: — = L. index: 5
+2023-08-18 12:22:57 info: no champion_coordinates
+2023-08-18 12:22:57 info: ------------------------------------------
+2023-08-18 12:22:57 info: 1) pytesseract champ_name: —— index: 1
+2023-08-18 12:22:57 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:22:57 info: 1) pytesseract champ_name: ——— 8 > - index: 3
+2023-08-18 12:22:57 info: 1) pytesseract champ_name:  index: 4
+2023-08-18 12:22:57 info: 1) pytesseract champ_name: ._ index: 5
+2023-08-18 12:23:02 info: no champion_coordinates
+2023-08-18 12:23:02 info: ------------------------------------------
+2023-08-18 12:23:02 info: 1) pytesseract champ_name: — —h index: 1
+2023-08-18 12:23:02 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:23:02 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:23:02 info: 1) pytesseract champ_name:  index: 4
+2023-08-18 12:23:02 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 12:23:07 info: no champion_coordinates
+2023-08-18 12:23:07 info: ------------------------------------------
+2023-08-18 12:23:07 info: 1) pytesseract champ_name: ——- — index: 1
+2023-08-18 12:23:07 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:23:07 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:23:07 info: 1) pytesseract champ_name: _ = index: 4
+2023-08-18 12:23:07 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 12:23:12 info: no champion_coordinates
+2023-08-18 12:23:12 info: ------------------------------------------
+2023-08-18 12:23:12 info: 1) pytesseract champ_name: — index: 1
+2023-08-18 12:23:12 info: 1) pytesseract champ_name: . . aa index: 2
+2023-08-18 12:23:12 info: 1) pytesseract champ_name: os | ML! index: 3
+2023-08-18 12:23:12 info: 1) pytesseract champ_name: wa “en index: 4
+2023-08-18 12:23:13 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 12:23:17 info: no champion_coordinates
+2023-08-18 12:23:17 info: ------------------------------------------
+2023-08-18 12:23:17 info: 1) pytesseract champ_name:  index: 1
+2023-08-18 12:23:17 info: 1) pytesseract champ_name: 7 _ =<
+. index: 2
+2023-08-18 12:23:17 info: 1) pytesseract champ_name: oa = =—h index: 3
+2023-08-18 12:23:18 info: 1) pytesseract champ_name: a index: 4
+2023-08-18 12:23:18 info: 1) pytesseract champ_name: ie index: 5
+2023-08-18 12:23:23 info: no champion_coordinates
+2023-08-18 12:23:23 info: ------------------------------------------
+2023-08-18 12:23:23 info: 1) pytesseract champ_name: — index: 1
+2023-08-18 12:23:23 info: 1) pytesseract champ_name: ; 7 i.
+A index: 2
+2023-08-18 12:23:23 info: 1) pytesseract champ_name: . i. index: 3
+2023-08-18 12:23:23 info: 1) pytesseract champ_name: > index: 4
+2023-08-18 12:23:23 info: 1) pytesseract champ_name: a index: 5
+2023-08-18 12:23:28 info: no champion_coordinates
+2023-08-18 12:23:28 info: ------------------------------------------
+2023-08-18 12:23:28 info: 1) pytesseract champ_name: —. index: 1
+2023-08-18 12:23:28 info: 1) pytesseract champ_name: at. index: 2
+2023-08-18 12:23:28 info: 1) pytesseract champ_name: a - 2, index: 3
+2023-08-18 12:23:28 info: 1) pytesseract champ_name: ce index: 4
+2023-08-18 12:23:28 info: 1) pytesseract champ_name: ._ mir index: 5
+2023-08-18 12:23:33 info: no champion_coordinates
+2023-08-18 12:23:33 info: ------------------------------------------
+2023-08-18 12:23:33 info: 1) pytesseract champ_name: a index: 1
+2023-08-18 12:23:33 info: 1) pytesseract champ_name: i i
+‘s". .
+= _ index: 2
+2023-08-18 12:23:33 info: 1) pytesseract champ_name: bh  —_ index: 3
+2023-08-18 12:23:33 info: 1) pytesseract champ_name: o., Si index: 4
+2023-08-18 12:23:33 info: 1) pytesseract champ_name: —_— ‘aa, index: 5
+2023-08-18 12:23:38 info: no champion_coordinates
+2023-08-18 12:23:38 info: ------------------------------------------
+2023-08-18 12:23:38 info: 1) pytesseract champ_name: ———— index: 1
+2023-08-18 12:23:38 info: 1) pytesseract champ_name: z=. index: 2
+2023-08-18 12:23:38 info: 1) pytesseract champ_name: am ~~ index: 3
+2023-08-18 12:23:38 info: 1) pytesseract champ_name: ee index: 4
+2023-08-18 12:23:39 info: 1) pytesseract champ_name: —, | “i index: 5
+2023-08-18 12:23:43 info: no champion_coordinates
+2023-08-18 12:23:43 info: ------------------------------------------
+2023-08-18 12:23:43 info: 1) pytesseract champ_name: a index: 1
+2023-08-18 12:23:43 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:23:43 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:23:44 info: 1) pytesseract champ_name: _ 8’, index: 4
+2023-08-18 12:23:44 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 12:23:49 info: no champion_coordinates
+2023-08-18 12:23:49 info: ------------------------------------------
+2023-08-18 12:23:49 info: 1) pytesseract champ_name: ——— | index: 1
+2023-08-18 12:23:49 info: 1) pytesseract champ_name: hh index: 2
+2023-08-18 12:23:49 info: 1) pytesseract champ_name: “SS index: 3
+2023-08-18 12:23:49 info: 1) pytesseract champ_name: oo “ *
+bee index: 4
+2023-08-18 12:23:49 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 12:23:54 info: no champion_coordinates
+2023-08-18 12:23:54 info: ------------------------------------------
+2023-08-18 12:23:54 info: 1) pytesseract champ_name: ——=— index: 1
+2023-08-18 12:23:54 info: 1) pytesseract champ_name: Lal
+.
+Tj _ index: 2
+2023-08-18 12:23:54 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:23:54 info: 1) pytesseract champ_name: _ ae: index: 4
+2023-08-18 12:23:54 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 12:23:59 info: no champion_coordinates
+2023-08-18 12:23:59 info: ------------------------------------------
+2023-08-18 12:23:59 info: 1) pytesseract champ_name: —_— index: 1
+2023-08-18 12:23:59 info: 1) pytesseract champ_name: a Oo index: 2
+2023-08-18 12:23:59 info: 1) pytesseract champ_name:  index: 3
+2023-08-18 12:23:59 info: 1) pytesseract champ_name: a index: 4
+2023-08-18 12:23:59 info: 1) pytesseract champ_name: ie index: 5
+2023-08-18 12:24:04 info: no champion_coordinates
+2023-08-18 12:24:04 info: ------------------------------------------
+2023-08-18 12:24:04 info: 1) pytesseract champ_name: — index: 1
+2023-08-18 12:24:04 info: 1) pytesseract champ_name: =
+—— = =—=—STtié< index: 2
+2023-08-18 12:24:04 info: 1) pytesseract champ_name: > index: 3
+2023-08-18 12:24:04 info: 1) pytesseract champ_name:  index: 4
+2023-08-18 12:24:05 info: 1) pytesseract champ_name: — “nh index: 5
+2023-08-18 12:24:09 info: no champion_coordinates
+2023-08-18 12:24:09 info: ------------------------------------------
+2023-08-18 12:24:09 info: 1) pytesseract champ_name: a -« index: 1
+2023-08-18 12:24:09 info: 1) pytesseract champ_name:  index: 2
+2023-08-18 12:24:09 info: 1) pytesseract champ_name: 7 ™~
+: eR
+; 7 index: 3
+2023-08-18 12:24:10 info: 1) pytesseract champ_name: |
+| index: 4
+2023-08-18 12:24:10 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 12:25:52 info: checking for bebe872 every 15 seconds, recording with 1080p60 quality
+2023-08-18 12:25:52 info: First ten currently online users in teamfight tactics category: ['k3soju', 'bebe872', 'keanelol', 'GrappLr', 'Alanzq', 'TidesofTime', 'Bizzleberry', 'nebokeru', 'leduckTFT', 'sunhideTV']
+2023-08-18 12:25:53 info: bebe872 online, stream recording in session
+2023-08-18 12:25:53 info: record_stream begin
+2023-08-18 12:25:54 info: get_stream_url
+2023-08-18 12:25:55 info: ------------------------------------------
+2023-08-18 12:25:56 info: 1) pytesseract champ_name: Zed index: 1
+2023-08-18 12:25:56 info: 3) champ_name: ed; index: 1
+2023-08-18 12:25:56 info: 1) pytesseract champ_name: Rek'Sai index: 2
+2023-08-18 12:25:56 info: 3) champ_name: eksai; index: 2
+2023-08-18 12:25:56 info: 1) pytesseract champ_name: Garen index: 3
+2023-08-18 12:25:56 info: 3) champ_name: aren; index: 3
+2023-08-18 12:25:56 info: 1) pytesseract champ_name: Aphelios index: 4
+2023-08-18 12:25:56 info: 3) champ_name: phelios; index: 4
+2023-08-18 12:25:56 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 12:26:01 info: 4) screen_for_champ: 4 test_index: 4
+2023-08-18 12:26:01 info: 3f494ae2-3da9-11ee-9272-6bb586c7d45f saved
+2023-08-18 12:26:01 info: ------------------------------------------
+2023-08-18 12:26:01 info: 1) pytesseract champ_name: Zed index: 1
+2023-08-18 12:26:01 info: 3) champ_name: ed; index: 1
+2023-08-18 12:26:01 info: 1) pytesseract champ_name: Rek'Sai index: 2
+2023-08-18 12:26:01 info: 3) champ_name: eksai; index: 2
+2023-08-18 12:26:01 info: 1) pytesseract champ_name: Garen index: 3
+2023-08-18 12:26:01 info: 3) champ_name: aren; index: 3
+2023-08-18 12:26:01 info: 1) pytesseract champ_name: Aphelios index: 4
+2023-08-18 12:26:01 info: 3) champ_name: phelios; index: 4
+2023-08-18 12:26:01 info: 1) pytesseract champ_name:  index: 5
+2023-08-18 12:26:16 info: 4) screen_for_champ: 4 test_index: 4
+2023-08-18 12:26:16 info: total number of files in Tensorflow/labelimg is 6.0
+2023-08-18 12:26:16 info: creating labelmap
+2023-08-18 12:26:16 info: Successfully created the LABELMAP file: Tensorflow/workspace/annotation/label_map.pbtxt
+2023-08-18 12:26:16 info: Successfully created the TFRecord file: Tensorflow/workspace/annotation/train.record
+2023-08-18 12:31:00 info: checking for bebe872 every 15 seconds, recording with 1080p60 quality
+2023-08-18 12:31:00 info: First ten currently online users in teamfight tactics category: ['k3soju', 'bebe872', 'keanelol', 'Alanzq', 'TidesofTime', 'leduckTFT', 'Bizzleberry', 'nebokeru', 'sunhideTV', 'zonaaa']
+2023-08-18 12:31:01 info: bebe872 online, stream recording in session
+2023-08-18 12:31:01 info: record_stream begin
+2023-08-18 12:31:02 info: get_stream_url
+2023-08-18 12:31:03 info: ------------------------------------------
+2023-08-18 12:31:04 info: 1) pytesseract champ_name: Jayce index: 1
+2023-08-18 12:31:04 info: 3) champ_name: ayce; index: 1
+2023-08-18 12:31:04 info: 1) pytesseract champ_name: Darius index: 2
+2023-08-18 12:31:04 info: 3) champ_name: arius; index: 2
+2023-08-18 12:31:04 info: 1) pytesseract champ_name: Ryze index: 3
+2023-08-18 12:31:04 info: 3) champ_name: yze; index: 3
+2023-08-18 12:31:04 info: 1) pytesseract champ_name: Malzahar index: 4
+2023-08-18 12:31:04 info: 3) champ_name: alzahar; index: 4
+2023-08-18 12:31:04 info: 1) pytesseract champ_name: Swain index: 5
+2023-08-18 12:31:04 info: 3) champ_name: wain; index: 5
+2023-08-18 12:31:09 info: 4) screen_for_champ: 5 test_index: 5
+2023-08-18 12:31:09 info: total number of files in Tensorflow/labelimg is 6.0
+2023-08-18 12:31:09 info: creating labelmap
+2023-08-18 12:31:09 info: Successfully created the LABELMAP file: Tensorflow/workspace/annotation/label_map.pbtxt
+2023-08-18 12:31:09 info: Successfully created the TFRecord file: Tensorflow/workspace/annotation/train.record
+2023-08-18 12:31:09 info: Successfully created the TFRecord file: Tensorflow/workspace/annotation/test.record
+2023-08-18 12:31:09 info: ------------------------------------------
+2023-08-18 12:31:09 info: 1) pytesseract champ_name: Jayce index: 1
+2023-08-18 12:31:09 info: 3) champ_name: ayce; index: 1
+2023-08-18 12:31:09 info: 1) pytesseract champ_name: Darius index: 2
+2023-08-18 12:31:09 info: 3) champ_name: arius; index: 2
+2023-08-18 12:31:09 info: 1) pytesseract champ_name: Ryze index: 3
+2023-08-18 12:31:09 info: 3) champ_name: yze; index: 3
+2023-08-18 12:31:09 info: 1) pytesseract champ_name: Malzahar index: 4
+2023-08-18 12:31:09 info: 3) champ_name: alzahar; index: 4
+2023-08-18 12:31:09 info: 1) pytesseract champ_name: Swain index: 5
+2023-08-18 12:31:09 info: 3) champ_name: wain; index: 5
+2023-08-18 12:31:14 info: 4) screen_for_champ: 5 test_index: 5
+2023-08-18 12:31:14 info: total number of files in Tensorflow/labelimg is 6.0
+2023-08-18 12:31:14 info: creating labelmap
+2023-08-18 12:31:14 info: Successfully created the LABELMAP file: Tensorflow/workspace/annotation/label_map.pbtxt
+2023-08-18 12:31:14 info: Successfully created the TFRecord file: Tensorflow/workspace/annotation/train.record
+2023-08-18 12:31:14 info: Successfully created the TFRecord file: Tensorflow/workspace/annotation/test.record
+2023-08-18 12:31:14 info: ------------------------------------------
+2023-08-18 12:31:14 info: 1) pytesseract champ_name: Jayce index: 1
+2023-08-18 12:31:14 info: 3) champ_name: ayce; index: 1
+2023-08-18 12:31:14 info: 1) pytesseract champ_name: Darius index: 2
+2023-08-18 12:31:14 info: 3) champ_name: arius; index: 2
+2023-08-18 12:31:14 info: 1) pytesseract champ_name: Ryze index: 3
+2023-08-18 12:31:14 info: 3) champ_name: yze; index: 3
+2023-08-18 12:31:14 info: 1) pytesseract champ_name: Malzahar index: 4
+2023-08-18 12:31:14 info: 3) champ_name: alzahar; index: 4
+2023-08-18 12:31:14 info: 1) pytesseract champ_name: Swain index: 5
+2023-08-18 12:31:14 info: 3) champ_name: wain; index: 5
