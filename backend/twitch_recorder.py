@@ -2,14 +2,14 @@ import logging
 import time
 import requests
 
-# from backend.twitch_recorder_func.stream_recorder import StreamRecorder
-from backend.twitch_recorder_func.setup_logger import SetupLogger
-from backend.twitch_recorder_func.twitch_res_status import TwitchResStatus
+# from twitch_recorder_func.stream_recorder import StreamRecorder
+from twitch_recorder_func.setup_logger import SetupLogger
+from twitch_recorder_func.twitch_res_status import TwitchResStatus
 import os
-from backend.twitch_recorder_func.config_loader import load_config
-from backend.twitch_recorder_func.folder_setup import setup_folders
-from backend.twitch_recorder_func.access_token_fetcher import fetch_access_token
-from backend.twitch_recorder_func.twitch_user_fetcher import get_users_by_category
+from twitch_recorder_func.config_loader import load_config
+from twitch_recorder_func.folder_setup import setup_folders
+from twitch_recorder_func.access_token_fetcher import fetch_access_token
+from twitch_recorder_func.twitch_user_fetcher import get_users_by_category
 
 
 class TwitchRecorder:

@@ -1,0 +1,20 @@
+2024-01-13 22:43:20 INFO: checking for Frodan every 15 seconds, recording with 1080p60 quality
+2024-01-13 22:43:20 INFO: First ten currently online users in teamfight tactics category: ['emilyywang', 'Frodan', 'TeamfightTactics', 'Becca', 'Kandyland', 'Alanzq', 'Bloody', 'BepoCarrot', 'iTzSTU4RT', 'BruisedByGod']
+2024-01-13 22:43:21 INFO: Frodan online, stream recording in session
+2024-01-13 22:43:21 INFO: processing is done, going back to checking...
+2024-01-13 22:43:36 INFO: First ten currently online users in teamfight tactics category: ['emilyywang', 'Frodan', 'TeamfightTactics', 'Becca', 'Kandyland', 'Alanzq', 'Bloody', 'BepoCarrot', 'iTzSTU4RT', 'BruisedByGod']
+2024-01-13 22:43:37 INFO: Frodan online, stream recording in session
+2024-01-13 22:43:37 INFO: processing is done, going back to checking...
+2024-01-13 22:43:52 INFO: First ten currently online users in teamfight tactics category: ['emilyywang', 'Frodan', 'TeamfightTactics', 'Becca', 'Kandyland', 'Alanzq', 'Bloody', 'BepoCarrot', 'iTzSTU4RT', 'BruisedByGod']
+2024-01-13 22:43:53 INFO: Frodan online, stream recording in session
+2024-01-13 22:43:53 INFO: processing is done, going back to checking...
+2024-01-13 22:43:54 WARNING: stderr: Traceback (most recent call last):
+2024-01-13 22:43:54 WARNING: stderr:   File "/home/n0name/projects/TFT_image_for_yolo/main.py", line 5, in <module>
+2024-01-13 22:43:54 WARNING: stderr:     from backend.twitch_recorder import TwitchRecorder
+2024-01-13 22:43:54 WARNING: stderr:   File "/home/n0name/projects/TFT_image_for_yolo/backend/twitch_recorder.py", line 154, in <module>
+2024-01-13 22:43:54 WARNING: stderr:     recorder.run()
+2024-01-13 22:43:54 WARNING: stderr:   File "/home/n0name/projects/TFT_image_for_yolo/backend/twitch_recorder.py", line 148, in run
+2024-01-13 22:43:54 WARNING: stderr:     self.loop_check()
+2024-01-13 22:43:54 WARNING: stderr:   File "/home/n0name/projects/TFT_image_for_yolo/backend/twitch_recorder.py", line 136, in loop_check
+2024-01-13 22:43:54 WARNING: stderr:     time.sleep(float(self.refresh))
+2024-01-13 22:43:54 WARNING: stderr: KeyboardInterrupt
