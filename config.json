@@ -1,143 +1,143 @@
 {
-    "twitch": {
-        "username": "k3soju",
-        "quality": "1080p60",
-        "client_id": "uyqdeb7zi3eb5yjzw9ti0ed5akks1c",
-        "client_secret": "1xzzmqd0rv5lnl0hwubl8l07w4kovv",
-        "url": "https://api.twitch.tv/helix/streams",
-        "refresh": 15,
-        "CATEGORY_ID": 513143
+  "twitch": {
+    "username": "k3soju",
+    "quality": "1080p60",
+    "client_id": "uyqdeb7zi3eb5yjzw9ti0ed5akks1c",
+    "client_secret": "1xzzmqd0rv5lnl0hwubl8l07w4kovv",
+    "url": "https://api.twitch.tv/helix/streams",
+    "refresh": 15,
+    "CATEGORY_ID": 513143
+  },
+  "champion_name_coordinates": {
+    "ccc1": {
+      "x_start": 484,
+      "y_start": 1044,
+      "x_end": 633,
+      "y_end": 1066
     },
-    "champion_name_coordinates": {
-        "ccc1": {
-            "x_start": 484,
-            "y_start": 1044,
-            "x_end": 633,
-            "y_end": 1066
-        },
-        "ccc2": {
-            "x_start": 686,
-            "y_start": 1044,
-            "x_end": 834,
-            "y_end": 1066
-        },
-        "ccc3": {
-            "x_start": 888,
-            "y_start": 1044,
-            "x_end": 1035,
-            "y_end": 1066
-        },
-        "ccc4": {
-            "x_start": 1088,
-            "y_start": 1044,
-            "x_end": 1237,
-            "y_end": 1066
-        },
-        "ccc5": {
-            "x_start": 1290,
-            "y_start": 1044,
-            "x_end": 1438,
-            "y_end": 1066
-        }
+    "ccc2": {
+      "x_start": 686,
+      "y_start": 1044,
+      "x_end": 834,
+      "y_end": 1066
     },
-    "champion_card_coordinates": {
-        "ccc1": {
-            "x_start": 484,
-            "y_start": 943,
-            "x_end": 668,
-            "y_end": 1038
-        },
-        "ccc2": {
-            "x_start": 685,
-            "y_start": 943,
-            "x_end": 869,
-            "y_end": 1038
-        },
-        "ccc3": {
-            "x_start": 886,
-            "y_start": 943,
-            "x_end": 1070,
-            "y_end": 1038
-        },
-        "ccc4": {
-            "x_start": 1088,
-            "y_start": 943,
-            "x_end": 1271,
-            "y_end": 1038
-        },
-        "ccc5": {
-            "x_start": 1289,
-            "y_start": 943,
-            "x_end": 1472,
-            "y_end": 1038
-        }
+    "ccc3": {
+      "x_start": 888,
+      "y_start": 1044,
+      "x_end": 1035,
+      "y_end": 1066
     },
-    "object_detection": {
-        "champion_names": [
-            "aatrox",
-            "ahri",
-            "alune",
-            "amumu",
-            "annie",
-            "aphelios",
-            "ashe",
-            "azir",
-            "bard",
-            "caitlyn",
-            "cho-gath",
-            "darius",
-            "diana",
-            "galio",
-            "garen",
-            "gnar",
-            "hwei",
-            "illaoi",
-            "irelia",
-            "janna",
-            "jax",
-            "kai-sa",
-            "kayn",
-            "kha-zix",
-            "kindred",
-            "kobuko",
-            "kog-maw",
-            "lee-sin",
-            "lillia",
-            "lissandra",
-            "lux",
-            "malphite",
-            "morgana",
-            "nautilus",
-            "neeko",
-            "ornn",
-            "qiyana",
-            "rakan",
-            "rek-sai",
-            "riven",
-            "senna",
-            "sett",
-            "shen",
-            "sivir",
-            "soraka",
-            "sylas",
-            "syndra",
-            "tahm-kench",
-            "teemo",
-            "thresh",
-            "tristana",
-            "udyr1",
-            "volibear",
-            "wukong",
-            "xayah",
-            "yasuo",
-            "yone",
-            "yorick",
-            "zoe",
-            "zyra"
-        ],
-        "number_imgs": 50
+    "ccc4": {
+      "x_start": 1088,
+      "y_start": 1044,
+      "x_end": 1237,
+      "y_end": 1066
     },
-    "mobalytics": {
-        "mobalytics_link": "https://app.mobalytics.gg/tft/champions"
+    "ccc5": {
+      "x_start": 1290,
+      "y_start": 1044,
+      "x_end": 1438,
+      "y_end": 1066
     }
+  },
+  "champion_card_coordinates": {
+    "ccc1": {
+      "x_start": 484,
+      "y_start": 943,
+      "x_end": 668,
+      "y_end": 1038
+    },
+    "ccc2": {
+      "x_start": 685,
+      "y_start": 943,
+      "x_end": 869,
+      "y_end": 1038
+    },
+    "ccc3": {
+      "x_start": 886,
+      "y_start": 943,
+      "x_end": 1070,
+      "y_end": 1038
+    },
+    "ccc4": {
+      "x_start": 1088,
+      "y_start": 943,
+      "x_end": 1271,
+      "y_end": 1038
+    },
+    "ccc5": {
+      "x_start": 1289,
+      "y_start": 943,
+      "x_end": 1472,
+      "y_end": 1038
+    }
+  },
+  "object_detection": {
+    "champion_names": [
+      "aatrox",
+      "ahri",
+      "alune",
+      "amumu",
+      "annie",
+      "aphelios",
+      "ashe",
+      "azir",
+      "bard",
+      "caitlyn",
+      "cho-gath",
+      "darius",
+      "diana",
+      "galio",
+      "garen",
+      "gnar",
+      "hwei",
+      "illaoi",
+      "irelia",
+      "janna",
+      "jax",
+      "kai-sa",
+      "kayn",
+      "kha-zix",
+      "kindred",
+      "kobuko",
+      "kog-maw",
+      "lee-sin",
+      "lillia",
+      "lissandra",
+      "lux",
+      "malphite",
+      "morgana",
+      "nautilus",
+      "neeko",
+      "ornn",
+      "qiyana",
+      "rakan",
+      "rek-sai",
+      "riven",
+      "senna",
+      "sett",
+      "shen",
+      "sivir",
+      "soraka",
+      "sylas",
+      "syndra",
+      "tahm-kench",
+      "teemo",
+      "thresh",
+      "tristana",
+      "udyr1",
+      "volibear",
+      "wukong",
+      "xayah",
+      "yasuo",
+      "yone",
+      "yorick",
+      "zoe",
+      "zyra"
+    ],
+    "number_imgs": 50
+  },
+  "mobalytics": {
+    "mobalytics_link": "https://app.mobalytics.gg/tft/champions"
+  }
 }
