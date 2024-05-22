@@ -25,9 +25,10 @@ class VideoTextRecognition:
     def process_stream(self):
         logging.info("record_stream begin")
         stream_url = self.get_stream_url(self.username)
+        logging.info("stream_url: {stream_url}")
         cap = cv2.VideoCapture(stream_url)
         if not cap.isOpened():
-            logging.info(f"Error: Unable to open video stream {self.stream_url}.")
+            logging.info(f"Error: Unable to open video stream {stream_url}.")
             return
 
         while True:
@@ -37,12 +38,14 @@ class VideoTextRecognition:
                 break
 
             cv2.destroyAllWindows()
+            cv2.imshow(stream_url, frame)
+            cv2.waitKey(1)
 
             logging.info(f"------------------------------------------")
             logging.info(f"------------------------------------------")
             self.process_frame(frame)
 
-            # time.sleep(1)  # Wait for 1 second before processing the next frame
+            time.sleep(1)  # Wait for 1 second before processing the next frame
         cap.release()
         cv2.destroyAllWindows()
 
@@ -54,7 +57,7 @@ class VideoTextRecognition:
             logging.info(f"===================={results}====================")
 
             for bbox, text, prob in results:
-                cv2.imshow(results, roi)
+                cv2.imshow(text, roi)
                 cv2.waitKey(1)
                 if text in self.champion_names:
                     logging.info(
