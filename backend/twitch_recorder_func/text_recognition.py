@@ -4,6 +4,15 @@ import numpy as np
 import time
 import logging
 import streamlink
+import re
+
+
+def clean_and_lowercase(s):
+    s.strip()
+    # Удаление всех небуквенных знаков
+    cleaned = re.sub("[^a-zA-Z]", "", s)
+    # Приведение к прописному регистру
+    return cleaned.lower()
 
 
 class VideoTextRecognition:
@@ -59,6 +68,7 @@ class VideoTextRecognition:
             for bbox, text, prob in results:
                 cv2.imshow(text, roi)
                 cv2.waitKey(1)
+                text = clean_and_lowercase(text)
                 if text in self.champion_names:
                     logging.info(
                         f"bbox: {bbox}. Champion '{text}' detected in region {region}. prob: {prob}."
