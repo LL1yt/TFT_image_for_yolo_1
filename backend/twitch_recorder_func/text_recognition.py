@@ -7,8 +7,10 @@ import streamlink
 
 
 class VideoTextRecognition:
-    def __init__(self, champion_name_coordinates_list, champion_names, quality):
-
+    def __init__(
+        self, username, champion_name_coordinates_list, champion_names, quality
+    ):
+        self.username = username
         self.champion_name_coordinates_list = champion_name_coordinates_list
         self.champion_names = champion_names
         self.quality = quality

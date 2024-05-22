@@ -3,6 +3,7 @@ import time
 import requests
 
 # from twitch_recorder_func.stream_recorder import StreamRecorder
+from twitch_recorder_func.text_recognition import VideoTextRecognition
 from twitch_recorder_func.setup_logger import SetupLogger
 from twitch_recorder_func.twitch_res_status import TwitchResStatus
 import os
@@ -115,6 +116,13 @@ class TwitchRecorder:
                 self.access_token = self.fetch_access_token()
             elif status == TwitchResStatus.ONLINE:
                 logging.info("%s online, stream recording in session", self.user_online)
+                text_recognition = VideoTextRecognition(
+                    self.user_online,
+                    self.champion_name_coordinates_list,
+                    self.champion_names,
+                    self.quality,
+                )
+                text_recognition.process_stream()
                 # Здесь вы можете указать команду для Streamlink, чтобы передать поток в OpenCV
                 # stream_record = StreamRecorder(
                 #     self.user_online,
