@@ -11,6 +11,7 @@ from twitch_recorder_func.config_loader import load_config
 from twitch_recorder_func.folder_setup import setup_folders
 from twitch_recorder_func.access_token_fetcher import fetch_access_token
 from twitch_recorder_func.twitch_user_fetcher import get_users_by_category
+from helpers.yolov9_config_creator import YOLOv9ConfigCreator
 
 
 class TwitchRecorder:
@@ -55,9 +56,10 @@ class TwitchRecorder:
             f"&grant_type=client_credentials"
         )
         self.access_token = fetch_access_token(self.token_url)
-        self.IMAGES_PATH = os.path.join("Tensorflow", "labelimg")
-        self.LABELIMG_PATH = os.path.join("Tensorflow", "labelimg")
-        self.ANNOTATION_PATH = os.path.join("Tensorflow", "workspace", "annotation")
+        self.IMAGES_PATH = os.path.join("train_data", "images")
+        self.LABELIMG_PATH = os.path.join("train_data", "labels")
+        self.config_path = os.path.join("train_data")
+        self.ANNOTATION_PATH = os.path.join("train_data", "workspace", "annotation")
 
         self.LABEL_MAP_NAME = "label_map.pbtxt"
         self.headers = {
@@ -121,24 +123,10 @@ class TwitchRecorder:
                     self.champion_name_coordinates_list,
                     self.champion_names,
                     self.quality,
+                    self.IMAGES_PATH,
+                    self.LABELIMG_PATH,
                 )
                 text_recognition.process_stream()
-                # Здесь вы можете указать команду для Streamlink, чтобы передать поток в OpenCV
-                # stream_record = StreamRecorder(
-                #     self.user_online,
-                #     self.champion_name_coordinates_list,
-                #     self.champion_card_coordinates_list,
-                #     self.quality,
-                #     self.IMAGES_PATH,
-                #     self.LABELIMG_PATH,
-                #     self.ANNOTATION_PATH,
-                #     self.LABEL_MAP_NAME,
-                #     self.champion_names,
-                #     self.champion_names_no_1,
-                #     self.number_imgs,
-                # )
-                # stream_record.start_task()
-                # stream_record.record_stream()
 
                 logging.info("processing is done, going back to checking...")
                 time.sleep(float(self.refresh))
@@ -153,6 +141,8 @@ class TwitchRecorder:
             self.quality,
         )
         # setup_folders(self.IMAGES_PATH, self.LABELIMG_PATH, self.champion_names_no_1)
+        config_creator = YOLOv9ConfigCreator(self.champion_names, self.IMAGES_PATH)
+        config_creator.create_config(self.config_path)
         self.loop_check()
 
 
