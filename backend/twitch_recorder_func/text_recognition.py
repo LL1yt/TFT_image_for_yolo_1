@@ -45,7 +45,7 @@ class VideoTextRecognition:
         self.number_imgs = number_imgs
         self.detected_champion_names = DetectedClasses(
             self.champion_names, self.LABELIMG_PATH
-        )
+        ).get_detected_classes()
 
         self.train_img_path = os.path.join(self.IMAGES_PATH, "train")
         self.train_label_path = os.path.join(self.LABELIMG_PATH, "train")
@@ -113,9 +113,10 @@ class VideoTextRecognition:
                 cv2.waitKey(1)
                 champ_name = clean_and_lowercase(text)
                 test_index += 1
-                if text in self.champion_names:
+
+                if champ_name in self.champion_names:
                     logging.info(
-                        f"bbox: {bbox}. Champion '{text}' detected in region {region}. prob: {prob}."
+                        f"1) bbox: {bbox}. Champion '{text}' detected in region {region}. prob: {prob}."
                     )
                     if champ_name in champion_coordinates:
                         champion_coordinates[champ_name].append(
@@ -128,8 +129,8 @@ class VideoTextRecognition:
                     logging.info(
                         f"2) champ_name: {champ_name}; index: {coordinate_index+1}"
                     )
-
-        self.process_champion_coordinates(champion_coordinates, frame, test_index)
+        if champion_coordinates:
+            self.process_champion_coordinates(champion_coordinates, frame, test_index)
 
     @staticmethod
     def count_files_in_directory(directory_path):
@@ -144,7 +145,7 @@ class VideoTextRecognition:
         """Process champion coordinates and perform necessary actions."""
 
         logging.info(
-            f"3) screen_for_champ: {len(champion_coordinates)} test_index: {test_index}"
+            f"3) screen_for_champ: {len(champion_coordinates)+1} test_index: {test_index}"
         )
 
         file_count_train = self.count_files_in_directory(self.train_img_path)
@@ -188,3 +189,4 @@ class VideoTextRecognition:
             logging.info(
                 f"name exists in labels or total number of files in {self.IMAGES_PATH} is {file_count}"
             )
+            exit()

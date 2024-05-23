@@ -15,7 +15,7 @@ class DetectedClasses:
             subdirectory_path = os.path.join(self.labels_path, subdirectory)
             for label_file in os.listdir(subdirectory_path):
                 if label_file.endswith(".txt"):
-                    with open(os.path.join(self.labels_path, label_file), "r") as file:
+                    with open(os.path.join(subdirectory_path, label_file), "r") as file:
                         for line in file:
                             parts = line.strip().split()
                             class_id = int(parts[0])

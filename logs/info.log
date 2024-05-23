@@ -17,3 +17,767 @@
 2024-05-23 09:23:07 info: OCR results: [([[1, 0], [77, 0], [77, 19], [1, 19]], "Cho'Gath", 0.9980505737877469)]
 2024-05-23 09:23:07 info: 3) screen_for_champ: 0 test_index: 4
 2024-05-23 09:41:47 info: checking for keanelol every 15 seconds, recording with 1080p60 quality
+2024-05-23 09:42:45 info: checking for keanelol every 15 seconds, recording with 1080p60 quality
+2024-05-23 09:43:42 info: checking for keanelol every 15 seconds, recording with 1080p60 quality
+2024-05-23 09:43:42 info: First ten currently online users in teamfight tactics category: ['boxbox', 'keanelol', 'Wingsofdeath', 'Rainplosion', 'bellum', 'PTERODACTYLSFTW', 'Rocky', 'PlushyBunni', 'Risky10', 'starriebun']
+2024-05-23 09:43:43 info: keanelol online, stream recording in session
+2024-05-23 09:43:45 info: Starting stream processing
+2024-05-23 09:43:47 info: Stream URL retrieved successfully
+2024-05-23 09:43:49 info: ------------------------------------------
+2024-05-23 09:43:49 info: ------------------------------------------
+2024-05-23 09:43:49 info: Processing frame 0
+2024-05-23 09:43:49 info: OCR results: []
+2024-05-23 09:43:49 info: OCR results: []
+2024-05-23 09:43:49 info: OCR results: []
+2024-05-23 09:43:49 info: OCR results: []
+2024-05-23 09:43:49 info: OCR results: []
+2024-05-23 09:43:49 info: 3) screen_for_champ: 0 test_index: 0
+2024-05-23 09:49:36 info: checking for keanelol every 15 seconds, recording with 1080p60 quality
+2024-05-23 09:49:37 info: First ten currently online users in teamfight tactics category: ['boxbox', 'keanelol', 'Wingsofdeath', 'Rainplosion', 'bellum', 'PTERODACTYLSFTW', 'Rocky', 'PlushyBunni', 'starriebun', 'Risky10']
+2024-05-23 09:49:37 info: keanelol online, stream recording in session
+2024-05-23 09:49:39 info: Starting stream processing
+2024-05-23 09:49:42 info: Stream URL retrieved successfully
+2024-05-23 09:49:44 info: ------------------------------------------
+2024-05-23 09:49:44 info: ------------------------------------------
+2024-05-23 09:49:44 info: Processing frame 0
+2024-05-23 09:49:44 info: OCR results: []
+2024-05-23 09:49:44 info: OCR results: []
+2024-05-23 09:49:44 info: OCR results: [([[1, 3], [29, 3], [29, 19], [1, 19]], 'Jax', 0.9999821742127942)]
+2024-05-23 09:49:44 info: OCR results: [([[5, 3], [51, 3], [51, 19], [5, 19]], 'Riven', 0.9999978142071032)]
+2024-05-23 09:49:45 info: OCR results: []
+2024-05-23 09:49:45 info: 3) screen_for_champ: 0 test_index: 2
+2024-05-23 09:49:45 info: Image a3b0b8f0-18d0-11ef-ba2d-6a0b467b875d saved
+2024-05-23 09:51:58 info: checking for keanelol every 15 seconds, recording with 1080p60 quality
+2024-05-23 09:51:58 info: First ten currently online users in teamfight tactics category: ['boxbox', 'keanelol', 'Wingsofdeath', 'Rainplosion', 'bellum', 'PTERODACTYLSFTW', 'Rocky', 'PlushyBunni', 'Risky10', 'starriebun']
+2024-05-23 09:51:59 info: keanelol online, stream recording in session
+2024-05-23 09:56:06 info: checking for keanelol every 15 seconds, recording with 1080p60 quality
+2024-05-23 09:56:07 info: First ten currently online users in teamfight tactics category: ['boxbox', 'keanelol', 'Wingsofdeath', 'Rainplosion', 'bellum', 'Rocky', 'Risky10', 'PlushyBunni', 'starriebun', 'OuroVT']
+2024-05-23 09:56:07 info: keanelol online, stream recording in session
+2024-05-23 09:56:09 info: Starting stream processing
+2024-05-23 09:56:12 info: Stream URL retrieved successfully
+2024-05-23 09:56:14 info: ------------------------------------------
+2024-05-23 09:56:14 info: ------------------------------------------
+2024-05-23 09:56:14 info: Processing frame 0
+2024-05-23 09:56:14 info: OCR results: [([[41, 3], [81, 3], [81, 19], [41, 19]], 'Maw', 0.9999957328192642), ([[5.068507134334755, 0.23016355523603527], [39.90288903710882, 5.384359429170675], [37.93149286566524, 22.769836444763964], [2.0971109628911773, 17.615640570829324]], 'Kog', 0.9996366101256599)]
+2024-05-23 09:56:14 info: OCR results: [([[3, 1], [35, 1], [35, 19], [3, 19]], 'Zoe', 0.999945146265781)]
+2024-05-23 09:56:15 info: OCR results: [([[1, 1], [65, 1], [65, 19], [1, 19]], 'Kobuko', 0.9998667477896603)]
+2024-05-23 09:56:15 info: OCR results: []
+2024-05-23 09:56:15 info: OCR results: [([[1, 3], [29, 3], [29, 19], [1, 19]], 'Jax', 0.9999841701482413)]
+2024-05-23 09:56:15 info: 3) screen_for_champ: 0 test_index: 5
+2024-05-23 09:56:15 info: Image 8c386d66-18d1-11ef-8249-6a0b467b875d saved
+2024-05-23 09:56:20 info: ------------------------------------------
+2024-05-23 09:56:20 info: ------------------------------------------
+2024-05-23 09:56:20 info: Processing frame 600
+2024-05-23 09:56:20 info: OCR results: [([[41, 3], [81, 3], [81, 19], [41, 19]], 'Maw', 0.9999957328192642), ([[5.068507134334755, 0.23016355523603527], [39.90288903710882, 5.384359429170675], [37.93149286566524, 22.769836444763964], [2.0971109628911773, 17.615640570829324]], 'Kog', 0.9996646207990307)]
+2024-05-23 09:56:20 info: OCR results: [([[3, 1], [35, 1], [35, 19], [3, 19]], 'Zoe', 0.9999447333157349)]
+2024-05-23 09:56:20 info: OCR results: [([[1, 1], [65, 1], [65, 19], [1, 19]], 'Kobuko', 0.9998319983833248)]
+2024-05-23 09:56:20 info: OCR results: []
+2024-05-23 09:56:20 info: OCR results: [([[1, 3], [29, 3], [29, 19], [1, 19]], 'Jax', 0.999983757196036)]
+2024-05-23 09:56:20 info: 3) screen_for_champ: 0 test_index: 5
+2024-05-23 09:56:20 info: Image 8f5eaa8c-18d1-11ef-8249-6a0b467b875d saved
+2024-05-23 09:56:30 info: ------------------------------------------
+2024-05-23 09:56:30 info: ------------------------------------------
+2024-05-23 09:56:30 info: Processing frame 1200
+2024-05-23 09:56:30 info: OCR results: [([[41, 3], [81, 3], [81, 19], [41, 19]], 'Maw', 0.9999958016447406), ([[5.068507134334755, 0.23016355523603527], [39.90288903710882, 5.384359429170675], [37.93149286566524, 22.769836444763964], [2.0971109628911773, 17.615640570829324]], 'Kog', 0.9996094942422713)]
+2024-05-23 09:56:30 info: OCR results: [([[3, 1], [35, 1], [35, 19], [3, 19]], 'Zoe', 0.9999474174914434)]
+2024-05-23 09:56:30 info: OCR results: [([[1, 1], [65, 1], [65, 19], [1, 19]], 'Kobuko', 0.9998570140897617)]
+2024-05-23 09:56:30 info: OCR results: []
+2024-05-23 09:56:30 info: OCR results: [([[1, 3], [29, 3], [29, 19], [1, 19]], 'Jax', 0.9999842389736111)]
+2024-05-23 09:56:30 info: 3) screen_for_champ: 0 test_index: 5
+2024-05-23 09:56:30 info: Image 954f14fe-18d1-11ef-8249-6a0b467b875d saved
+2024-05-23 09:56:38 info: ------------------------------------------
+2024-05-23 09:56:38 info: ------------------------------------------
+2024-05-23 09:56:38 info: Processing frame 1800
+2024-05-23 09:56:38 info: OCR results: [([[5, 3], [43, 3], [43, 19], [5, 19]], 'Bard', 0.914351701189095)]
+2024-05-23 09:56:38 info: OCR results: [([[3, 1], [35, 1], [35, 19], [3, 19]], 'Zoe', 0.999947761616604)]
+2024-05-23 09:56:38 info: OCR results: [([[1, 1], [57, 1], [57, 19], [1, 19]], 'Yorick', 0.9996486104654255)]
+2024-05-23 09:56:39 info: OCR results: [([[3, 1], [75, 1], [75, 21], [3, 21]], 'Malphite', 0.6876507039241602)]
+2024-05-23 09:56:39 info: OCR results: [([[3, 3], [43, 3], [43, 19], [3, 19]], 'Gnar', 0.9999693036079407)]
+2024-05-23 09:56:39 info: 3) screen_for_champ: 0 test_index: 5
+2024-05-23 09:56:39 info: Image 9a79bb82-18d1-11ef-8249-6a0b467b875d saved
+2024-05-23 09:56:49 info: ------------------------------------------
+2024-05-23 09:56:49 info: ------------------------------------------
+2024-05-23 09:56:49 info: Processing frame 2400
+2024-05-23 09:56:49 info: OCR results: [([[5, 1], [73, 1], [73, 19], [5, 19]], 'Volibear', 0.9884478156946012)]
+2024-05-23 09:56:49 info: OCR results: [([[3, 1], [67, 1], [67, 19], [3, 19]], 'Kindred', 0.9999984230089279)]
+2024-05-23 09:56:49 info: OCR results: [([[1, 3], [33, 3], [33, 19], [1, 19]], 'Lux', 0.9999647614192921)]
+2024-05-23 09:56:49 info: OCR results: []
+2024-05-23 09:56:49 info: OCR results: [([[3, 1], [69, 1], [69, 19], [3, 19]], 'Tristana', 0.9832321049721356)]
+2024-05-23 09:56:49 info: 3) screen_for_champ: 0 test_index: 4
+2024-05-23 09:56:49 info: Image a0d8ea3e-18d1-11ef-8249-6a0b467b875d saved
+2024-05-23 09:56:59 info: ------------------------------------------
+2024-05-23 09:56:59 info: ------------------------------------------
+2024-05-23 09:56:59 info: Processing frame 3000
+2024-05-23 09:56:59 info: OCR results: [([[5, 1], [73, 1], [73, 19], [5, 19]], 'Volibear', 0.9951622120912816)]
+2024-05-23 09:56:59 info: OCR results: [([[3, 1], [67, 1], [67, 19], [3, 19]], 'Kindred', 0.9999985131227251)]
+2024-05-23 09:56:59 info: OCR results: [([[1, 3], [33, 3], [33, 19], [1, 19]], 'Lux', 0.9999578789034177)]
+2024-05-23 09:56:59 info: OCR results: []
+2024-05-23 09:56:59 info: OCR results: [([[3, 1], [69, 1], [69, 19], [3, 19]], 'Tristana', 0.9996282708874068)]
+2024-05-23 09:56:59 info: 3) screen_for_champ: 0 test_index: 4
+2024-05-23 09:56:59 info: Image a686d6b2-18d1-11ef-8249-6a0b467b875d saved
+2024-05-23 09:57:09 info: ------------------------------------------
+2024-05-23 09:57:09 info: ------------------------------------------
+2024-05-23 09:57:09 info: Processing frame 3600
+2024-05-23 09:57:09 info: OCR results: [([[5, 1], [73, 1], [73, 19], [5, 19]], 'Volibear', 0.996317889229437)]
+2024-05-23 09:57:09 info: OCR results: [([[3, 1], [67, 1], [67, 19], [3, 19]], 'Kindred', 0.9999986032365197)]
+2024-05-23 09:57:09 info: OCR results: [([[1, 3], [33, 3], [33, 19], [1, 19]], 'Lux', 0.9999700609608403)]
+2024-05-23 09:57:09 info: OCR results: []
+2024-05-23 09:57:09 info: OCR results: [([[3, 1], [69, 1], [69, 19], [3, 19]], 'Tristana', 0.7920018977046288)]
+2024-05-23 09:57:09 info: 3) screen_for_champ: 0 test_index: 4
+2024-05-23 09:57:09 info: Image ace46826-18d1-11ef-8249-6a0b467b875d saved
+2024-05-23 09:57:20 info: ------------------------------------------
+2024-05-23 09:57:20 info: ------------------------------------------
+2024-05-23 09:57:20 info: Processing frame 4200
+2024-05-23 09:57:20 info: OCR results: []
+2024-05-23 09:57:20 info: OCR results: []
+2024-05-23 09:57:20 info: OCR results: []
+2024-05-23 09:57:20 info: OCR results: []
+2024-05-23 09:57:20 info: OCR results: []
+2024-05-23 09:57:20 info: 3) screen_for_champ: 0 test_index: 0
+2024-05-23 09:57:20 info: Image b3303e62-18d1-11ef-8249-6a0b467b875d saved
+2024-05-23 09:57:29 info: ------------------------------------------
+2024-05-23 09:57:29 info: ------------------------------------------
+2024-05-23 09:57:29 info: Processing frame 4800
+2024-05-23 09:57:29 info: OCR results: [([[5, 1], [73, 1], [73, 19], [5, 19]], 'Volibear', 0.9940830276364954)]
+2024-05-23 09:57:29 info: OCR results: [([[3, 1], [67, 1], [67, 19], [3, 19]], 'Kindred', 0.9999984680658268)]
+2024-05-23 09:57:29 info: OCR results: [([[1, 3], [33, 3], [33, 19], [1, 19]], 'Lux', 0.999968615630954)]
+2024-05-23 09:57:29 info: OCR results: []
+2024-05-23 09:57:29 info: OCR results: [([[3, 1], [69, 1], [69, 19], [3, 19]], 'Tristana', 0.6410668466298357)]
+2024-05-23 09:57:29 info: 3) screen_for_champ: 0 test_index: 4
+2024-05-23 09:57:29 info: Image b86a5a70-18d1-11ef-8249-6a0b467b875d saved
+2024-05-23 09:57:40 info: ------------------------------------------
+2024-05-23 09:57:40 info: ------------------------------------------
+2024-05-23 09:57:40 info: Processing frame 5400
+2024-05-23 09:57:40 info: OCR results: []
+2024-05-23 09:57:40 info: OCR results: []
+2024-05-23 09:57:40 info: OCR results: []
+2024-05-23 09:57:40 info: OCR results: []
+2024-05-23 09:57:40 info: OCR results: []
+2024-05-23 09:57:40 info: 3) screen_for_champ: 0 test_index: 0
+2024-05-23 09:57:40 info: Image bee7476e-18d1-11ef-8249-6a0b467b875d saved
+2024-05-23 09:57:48 info: ------------------------------------------
+2024-05-23 09:57:48 info: ------------------------------------------
+2024-05-23 09:57:48 info: Processing frame 6000
+2024-05-23 09:57:48 info: OCR results: []
+2024-05-23 09:57:48 info: OCR results: []
+2024-05-23 09:57:48 info: OCR results: []
+2024-05-23 09:57:48 info: OCR results: []
+2024-05-23 09:57:48 info: OCR results: []
+2024-05-23 09:57:48 info: 3) screen_for_champ: 0 test_index: 0
+2024-05-23 09:57:48 info: Image c40dd942-18d1-11ef-8249-6a0b467b875d saved
+2024-05-23 09:57:59 info: ------------------------------------------
+2024-05-23 09:57:59 info: ------------------------------------------
+2024-05-23 09:57:59 info: Processing frame 6600
+2024-05-23 09:57:59 info: OCR results: [([[3, 3], [51, 3], [51, 19], [3, 19]], 'Janna', 0.9999981873912962)]
+2024-05-23 09:57:59 info: OCR results: [([[1, 0], [77, 0], [77, 19], [1, 19]], "Cho'Gath", 0.9735392442874012)]
+2024-05-23 09:57:59 info: OCR results: [([[1, 3], [51, 3], [51, 19], [1, 19]], 'Diana', 0.9999958949738508)]
+2024-05-23 09:57:59 info: OCR results: [([[3, 3], [53, 3], [53, 19], [3, 19]], 'Senna', 0.9999943489245257)]
+2024-05-23 09:57:59 info: OCR results: [([[3, 3], [43, 3], [43, 21], [3, 21]], 'Zyra', 0.9999094009399414)]
+2024-05-23 09:57:59 info: 3) screen_for_champ: 0 test_index: 5
+2024-05-23 09:57:59 info: Image caa25d3c-18d1-11ef-8249-6a0b467b875d saved
+2024-05-23 09:58:08 info: ------------------------------------------
+2024-05-23 09:58:08 info: ------------------------------------------
+2024-05-23 09:58:08 info: Processing frame 7200
+2024-05-23 09:58:08 info: OCR results: [([[3, 3], [51, 3], [51, 19], [3, 19]], 'Janna', 0.9999981873912962)]
+2024-05-23 09:58:08 info: OCR results: [([[1, 0], [77, 0], [77, 19], [1, 19]], "Cho'Gath", 0.9716657770546182)]
+2024-05-23 09:58:08 info: OCR results: [([[1, 3], [51, 3], [51, 19], [1, 19]], 'Diana', 0.9999960015979317)]
+2024-05-23 09:58:08 info: OCR results: [([[3, 3], [53, 3], [53, 19], [3, 19]], 'Senna', 0.9999913634491684)]
+2024-05-23 09:58:08 info: OCR results: []
+2024-05-23 09:58:08 info: 3) screen_for_champ: 0 test_index: 4
+2024-05-23 09:58:08 info: Image cff3ad2c-18d1-11ef-8249-6a0b467b875d saved
+2024-05-23 09:58:19 info: ------------------------------------------
+2024-05-23 09:58:19 info: ------------------------------------------
+2024-05-23 09:58:19 info: Processing frame 7800
+2024-05-23 09:58:19 info: OCR results: [([[3, 3], [51, 3], [51, 19], [3, 19]], 'Janna', 0.99999792083116)]
+2024-05-23 09:58:19 info: OCR results: [([[1, 0], [77, 0], [77, 19], [1, 19]], "Cho'Gath", 0.9581163321640622)]
+2024-05-23 09:58:19 info: OCR results: [([[1, 3], [51, 3], [51, 19], [1, 19]], 'Diana', 0.9999960015979317)]
+2024-05-23 09:58:19 info: OCR results: [([[3, 3], [53, 3], [53, 19], [3, 19]], 'Senna', 0.9999913634491684)]
+2024-05-23 09:58:19 info: OCR results: []
+2024-05-23 09:58:19 info: 3) screen_for_champ: 0 test_index: 4
+2024-05-23 09:58:19 info: Image d6627daa-18d1-11ef-8249-6a0b467b875d saved
+2024-05-23 09:58:30 info: ------------------------------------------
+2024-05-23 09:58:30 info: ------------------------------------------
+2024-05-23 09:58:30 info: Processing frame 8400
+2024-05-23 09:58:30 info: OCR results: [([[3, 3], [51, 3], [51, 19], [3, 19]], 'Janna', 0.9999984006393992)]
+2024-05-23 09:58:30 info: OCR results: [([[1, 0], [77, 0], [77, 19], [1, 19]], "Cho'Gath", 0.9911923098133717)]
+2024-05-23 09:58:30 info: OCR results: [([[1, 3], [51, 3], [51, 19], [1, 19]], 'Diana', 0.9999958416618098)]
+2024-05-23 09:58:30 info: OCR results: [([[3, 3], [53, 3], [53, 19], [3, 19]], 'Senna', 0.9999941889883724)]
+2024-05-23 09:58:30 info: OCR results: []
+2024-05-23 09:58:30 info: 3) screen_for_champ: 0 test_index: 4
+2024-05-23 09:58:30 info: Image dceaea9a-18d1-11ef-8249-6a0b467b875d saved
+2024-05-23 09:58:38 info: ------------------------------------------
+2024-05-23 09:58:38 info: ------------------------------------------
+2024-05-23 09:58:38 info: Processing frame 9000
+2024-05-23 09:58:39 info: OCR results: [([[3, 3], [51, 3], [51, 19], [3, 19]], 'Janna', 0.9999984006393992)]
+2024-05-23 09:58:39 info: OCR results: [([[1, 0], [77, 0], [77, 19], [1, 19]], "Cho'Gath", 0.9911923098133717)]
+2024-05-23 09:58:39 info: OCR results: [([[1, 3], [51, 3], [51, 19], [1, 19]], 'Diana', 0.9999957883497684)]
+2024-05-23 09:58:39 info: OCR results: [([[3, 3], [53, 3], [53, 19], [3, 19]], 'Senna', 0.9999941889883724)]
+2024-05-23 09:58:39 info: OCR results: []
+2024-05-23 09:58:39 info: 3) screen_for_champ: 0 test_index: 4
+2024-05-23 09:58:39 info: Image e20e6b78-18d1-11ef-8249-6a0b467b875d saved
+2024-05-23 09:58:49 info: ------------------------------------------
+2024-05-23 09:58:49 info: ------------------------------------------
+2024-05-23 09:58:49 info: Processing frame 9600
+2024-05-23 09:58:49 info: OCR results: []
+2024-05-23 09:58:49 info: OCR results: []
+2024-05-23 09:58:49 info: OCR results: []
+2024-05-23 09:58:49 info: OCR results: []
+2024-05-23 09:58:49 info: OCR results: []
+2024-05-23 09:58:49 info: 3) screen_for_champ: 0 test_index: 0
+2024-05-23 09:58:49 info: Image e86e70bc-18d1-11ef-8249-6a0b467b875d saved
+2024-05-23 09:58:58 info: ------------------------------------------
+2024-05-23 09:58:58 info: ------------------------------------------
+2024-05-23 09:58:58 info: Processing frame 10200
+2024-05-23 09:58:58 info: OCR results: []
+2024-05-23 09:58:58 info: OCR results: []
+2024-05-23 09:58:58 info: OCR results: []
+2024-05-23 09:58:58 info: OCR results: []
+2024-05-23 09:58:58 info: OCR results: []
+2024-05-23 09:58:58 info: 3) screen_for_champ: 0 test_index: 0
+2024-05-23 09:58:58 info: Image eda5e8da-18d1-11ef-8249-6a0b467b875d saved
+2024-05-23 09:59:09 info: ------------------------------------------
+2024-05-23 09:59:09 info: ------------------------------------------
+2024-05-23 09:59:09 info: Processing frame 10800
+2024-05-23 09:59:09 info: OCR results: [([[5, 1], [47, 1], [47, 19], [5, 19]], 'Yone', 0.861715541167529)]
+2024-05-23 09:59:09 info: OCR results: []
+2024-05-23 09:59:09 info: OCR results: [([[1, 1], [57, 1], [57, 19], [1, 19]], 'Teemo', 0.9996185972586615)]
+2024-05-23 09:59:09 info: OCR results: [([[3, 3], [51, 3], [51, 19], [3, 19]], 'Janna', 0.9999968012784963)]
+2024-05-23 09:59:09 info: OCR results: [([[1, 0], [77, 0], [77, 19], [1, 19]], "Cho'Gath", 0.9987168774519238)]
+2024-05-23 09:59:09 info: 3) screen_for_champ: 0 test_index: 4
+2024-05-23 09:59:09 info: Image f4462588-18d1-11ef-8249-6a0b467b875d saved
+2024-05-23 09:59:18 info: ------------------------------------------
+2024-05-23 09:59:18 info: ------------------------------------------
+2024-05-23 09:59:18 info: Processing frame 11400
+2024-05-23 09:59:19 info: OCR results: [([[5, 1], [47, 1], [47, 19], [5, 19]], 'Yone', 0.9998773336410522)]
+2024-05-23 09:59:19 info: OCR results: []
+2024-05-23 09:59:19 info: OCR results: [([[1, 1], [57, 1], [57, 19], [1, 19]], 'Teemo', 0.9996342716823237)]
+2024-05-23 09:59:19 info: OCR results: [([[3, 3], [51, 3], [51, 19], [3, 19]], 'Janna', 0.9999982940153483)]
+2024-05-23 09:59:19 info: OCR results: [([[1, 0], [77, 0], [77, 19], [1, 19]], "Cho'Gath", 0.9985073399119397)]
+2024-05-23 09:59:19 info: 3) screen_for_champ: 0 test_index: 4
+2024-05-23 09:59:19 info: Image f9e2adcc-18d1-11ef-8249-6a0b467b875d saved
+2024-05-23 09:59:29 info: ------------------------------------------
+2024-05-23 09:59:29 info: ------------------------------------------
+2024-05-23 09:59:29 info: Processing frame 12000
+2024-05-23 09:59:29 info: OCR results: []
+2024-05-23 09:59:29 info: OCR results: []
+2024-05-23 09:59:29 info: OCR results: [([[1, 1], [57, 1], [57, 19], [1, 19]], 'Teemo', 0.9996051087007893)]
+2024-05-23 09:59:29 info: OCR results: [([[3, 3], [51, 3], [51, 19], [3, 19]], 'Janna', 0.9999981873912962)]
+2024-05-23 09:59:29 info: OCR results: [([[1, 0], [77, 0], [77, 19], [1, 19]], "Cho'Gath", 0.998780593991716)]
+2024-05-23 09:59:29 info: 3) screen_for_champ: 0 test_index: 3
+2024-05-23 09:59:29 info: Image 00058918-18d2-11ef-8249-6a0b467b875d saved
+2024-05-23 09:59:40 info: ------------------------------------------
+2024-05-23 09:59:40 info: ------------------------------------------
+2024-05-23 09:59:40 info: Processing frame 12600
+2024-05-23 09:59:40 info: OCR results: []
+2024-05-23 09:59:40 info: OCR results: []
+2024-05-23 09:59:40 info: OCR results: [([[1, 1], [57, 1], [57, 19], [1, 19]], 'Teemo', 0.9996328855099718)]
+2024-05-23 09:59:40 info: OCR results: [([[3, 3], [51, 3], [51, 19], [3, 19]], 'Janna', 0.9999980807672427)]
+2024-05-23 09:59:40 info: OCR results: [([[1, 0], [77, 0], [77, 19], [1, 19]], "Cho'Gath", 0.9981195428245968)]
+2024-05-23 09:59:40 info: 3) screen_for_champ: 0 test_index: 3
+2024-05-23 09:59:40 info: Image 06b2fc5a-18d2-11ef-8249-6a0b467b875d saved
+2024-05-23 09:59:48 info: ------------------------------------------
+2024-05-23 09:59:48 info: ------------------------------------------
+2024-05-23 09:59:48 info: Processing frame 13200
+2024-05-23 09:59:48 info: OCR results: []
+2024-05-23 09:59:48 info: OCR results: []
+2024-05-23 09:59:48 info: OCR results: [([[1, 1], [57, 1], [57, 19], [1, 19]], 'Teemo', 0.9996320324807194)]
+2024-05-23 09:59:48 info: OCR results: [([[3, 3], [51, 3], [51, 19], [3, 19]], 'Janna', 0.9999980807672427)]
+2024-05-23 09:59:48 info: OCR results: [([[1, 0], [77, 0], [77, 19], [1, 19]], "Cho'Gath", 0.9979629868356504)]
+2024-05-23 09:59:48 info: 3) screen_for_champ: 0 test_index: 3
+2024-05-23 09:59:48 info: Image 0ba78b4a-18d2-11ef-8249-6a0b467b875d saved
+2024-05-23 09:59:59 info: ------------------------------------------
+2024-05-23 09:59:59 info: ------------------------------------------
+2024-05-23 09:59:59 info: Processing frame 13800
+2024-05-23 09:59:59 info: OCR results: []
+2024-05-23 09:59:59 info: OCR results: []
+2024-05-23 09:59:59 info: OCR results: [([[1, 1], [57, 1], [57, 19], [1, 19]], 'Teemo', 0.9996290468776596)]
+2024-05-23 09:59:59 info: OCR results: [([[3, 3], [51, 3], [51, 19], [3, 19]], 'Janna', 0.9999981873912962)]
+2024-05-23 09:59:59 info: OCR results: [([[1, 0], [77, 0], [77, 19], [1, 19]], "Cho'Gath", 0.998780593991716)]
+2024-05-23 09:59:59 info: 3) screen_for_champ: 0 test_index: 3
+2024-05-23 09:59:59 info: Image 12152366-18d2-11ef-8249-6a0b467b875d saved
+2024-05-23 10:00:08 info: ------------------------------------------
+2024-05-23 10:00:08 info: ------------------------------------------
+2024-05-23 10:00:08 info: Processing frame 14400
+2024-05-23 10:00:08 info: OCR results: []
+2024-05-23 10:00:08 info: OCR results: []
+2024-05-23 10:00:08 info: OCR results: [([[1, 1], [57, 1], [57, 19], [1, 19]], 'Teemo', 0.9996394964837643)]
+2024-05-23 10:00:08 info: OCR results: [([[3, 3], [51, 3], [51, 19], [3, 19]], 'Janna', 0.9999982940153483)]
+2024-05-23 10:00:09 info: OCR results: [([[1, 0], [77, 0], [77, 19], [1, 19]], "Cho'Gath", 0.9984639943711794)]
+2024-05-23 10:00:09 info: 3) screen_for_champ: 0 test_index: 3
+2024-05-23 10:00:09 info: Image 17a1534a-18d2-11ef-8249-6a0b467b875d saved
+2024-05-23 10:00:19 info: ------------------------------------------
+2024-05-23 10:00:19 info: ------------------------------------------
+2024-05-23 10:00:19 info: Processing frame 15000
+2024-05-23 10:00:19 info: OCR results: []
+2024-05-23 10:00:19 info: OCR results: []
+2024-05-23 10:00:19 info: OCR results: []
+2024-05-23 10:00:19 info: OCR results: []
+2024-05-23 10:00:19 info: OCR results: []
+2024-05-23 10:00:19 info: 3) screen_for_champ: 0 test_index: 0
+2024-05-23 10:00:19 info: Image 1db973f2-18d2-11ef-8249-6a0b467b875d saved
+2024-05-23 10:00:29 info: ------------------------------------------
+2024-05-23 10:00:29 info: ------------------------------------------
+2024-05-23 10:00:29 info: Processing frame 15600
+2024-05-23 10:00:29 info: OCR results: []
+2024-05-23 10:00:29 info: OCR results: [([[3, 3], [53, 3], [53, 19], [3, 19]], 'Senna', 0.9999945088606758)]
+2024-05-23 10:00:30 info: OCR results: [([[1, 3], [69, 3], [69, 19], [1, 19]], 'Tristana', 0.9999966703966716)]
+2024-05-23 10:00:30 info: OCR results: [([[3, 0], [65, 0], [65, 19], [3, 19]], "Rek'Sai", 0.9116494018727451)]
+2024-05-23 10:00:30 info: OCR results: [([[3, 3], [35, 3], [35, 19], [3, 19]], 'Lux', 0.9999724010193448)]
+2024-05-23 10:00:30 info: 3) screen_for_champ: 0 test_index: 4
+2024-05-23 10:00:30 info: Image 2456860a-18d2-11ef-8249-6a0b467b875d saved
+2024-05-23 10:00:38 info: ------------------------------------------
+2024-05-23 10:00:38 info: ------------------------------------------
+2024-05-23 10:00:38 info: Processing frame 16200
+2024-05-23 10:00:38 info: OCR results: []
+2024-05-23 10:00:38 info: OCR results: [([[3, 3], [53, 3], [53, 19], [3, 19]], 'Senna', 0.9999945621727252)]
+2024-05-23 10:00:38 info: OCR results: [([[1, 1], [69, 1], [69, 19], [1, 19]], 'Tristana', 0.9999750067894609)]
+2024-05-23 10:00:38 info: OCR results: [([[3, 0], [65, 0], [65, 19], [3, 19]], "Rek'Sai", 0.9009827969457369)]
+2024-05-23 10:00:38 info: OCR results: [([[1, 3], [33, 3], [33, 19], [1, 19]], 'Lux', 0.9999814171339712)]
+2024-05-23 10:00:38 info: 3) screen_for_champ: 0 test_index: 4
+2024-05-23 10:00:39 info: Image 297ab8f4-18d2-11ef-8249-6a0b467b875d saved
+2024-05-23 10:00:49 info: ------------------------------------------
+2024-05-23 10:00:49 info: ------------------------------------------
+2024-05-23 10:00:49 info: Processing frame 16800
+2024-05-23 10:00:49 info: OCR results: []
+2024-05-23 10:00:49 info: OCR results: []
+2024-05-23 10:00:49 info: OCR results: []
+2024-05-23 10:00:49 info: OCR results: []
+2024-05-23 10:00:49 info: OCR results: []
+2024-05-23 10:00:49 info: 3) screen_for_champ: 0 test_index: 0
+2024-05-23 10:00:49 info: Image 2fc4201a-18d2-11ef-8249-6a0b467b875d saved
+2024-05-23 10:01:00 info: ------------------------------------------
+2024-05-23 10:01:00 info: ------------------------------------------
+2024-05-23 10:01:00 info: Processing frame 17400
+2024-05-23 10:01:00 info: OCR results: []
+2024-05-23 10:01:00 info: OCR results: [([[3, 3], [53, 3], [53, 19], [3, 19]], 'Senna', 0.9999935492437295)]
+2024-05-23 10:01:00 info: OCR results: [([[1, 1], [69, 1], [69, 19], [1, 19]], 'Tristana', 0.838332920833313)]
+2024-05-23 10:01:00 info: OCR results: [([[3, 0], [65, 0], [65, 19], [3, 19]], "Rek'Sai", 0.9091324905449913)]
+2024-05-23 10:01:00 info: OCR results: [([[3, 3], [35, 3], [35, 19], [3, 19]], 'Lux', 0.9999686844561803)]
+2024-05-23 10:01:00 info: 3) screen_for_champ: 0 test_index: 4
+2024-05-23 10:01:00 info: Image 365bd968-18d2-11ef-8249-6a0b467b875d saved
+2024-05-23 10:01:08 info: ------------------------------------------
+2024-05-23 10:01:08 info: ------------------------------------------
+2024-05-23 10:01:08 info: Processing frame 18000
+2024-05-23 10:01:09 info: OCR results: []
+2024-05-23 10:01:09 info: OCR results: [([[3, 3], [53, 3], [53, 19], [3, 19]], 'Senna', 0.9999925896266746)]
+2024-05-23 10:01:09 info: OCR results: [([[1, 1], [69, 1], [69, 19], [1, 19]], 'Tristana', 0.9999941415809489)]
+2024-05-23 10:01:09 info: OCR results: [([[3, 0], [65, 0], [65, 19], [3, 19]], "Rek'Sai", 0.9754299104580413)]
+2024-05-23 10:01:09 info: OCR results: [([[1, 3], [35, 3], [35, 19], [1, 19]], 'Lux', 0.7687990069389343)]
+2024-05-23 10:01:09 info: 3) screen_for_champ: 0 test_index: 4
+2024-05-23 10:01:09 info: Image 3b7d0e12-18d2-11ef-8249-6a0b467b875d saved
+2024-05-23 10:01:19 info: ------------------------------------------
+2024-05-23 10:01:19 info: ------------------------------------------
+2024-05-23 10:01:19 info: Processing frame 18600
+2024-05-23 10:01:19 info: OCR results: []
+2024-05-23 10:01:19 info: OCR results: [([[3, 3], [53, 3], [53, 19], [3, 19]], 'Senna', 0.9999935492437295)]
+2024-05-23 10:01:19 info: OCR results: [([[1, 1], [69, 1], [69, 19], [1, 19]], 'Tristana', 0.838332920833313)]
+2024-05-23 10:01:19 info: OCR results: [([[3, 0], [65, 0], [65, 19], [3, 19]], "Rek'Sai", 0.9130952793596592)]
+2024-05-23 10:01:19 info: OCR results: [([[3, 3], [35, 3], [35, 19], [3, 19]], 'Lux', 0.999968340330055)]
+2024-05-23 10:01:19 info: 3) screen_for_champ: 0 test_index: 4
+2024-05-23 10:01:19 info: Image 41e5d856-18d2-11ef-8249-6a0b467b875d saved
+2024-05-23 10:01:28 info: ------------------------------------------
+2024-05-23 10:01:28 info: ------------------------------------------
+2024-05-23 10:01:28 info: Processing frame 19200
+2024-05-23 10:01:28 info: OCR results: []
+2024-05-23 10:01:28 info: OCR results: [([[3, 3], [53, 3], [53, 19], [3, 19]], 'Senna', 0.9999942956124749)]
+2024-05-23 10:01:28 info: OCR results: [([[1, 3], [69, 3], [69, 19], [1, 19]], 'Tristana', 0.9999965018090392)]
+2024-05-23 10:01:28 info: OCR results: [([[5, 0], [65, 0], [65, 19], [5, 19]], "Rek'Sai", 0.9998878063458693)]
+2024-05-23 10:01:28 info: OCR results: [([[3, 3], [35, 3], [35, 19], [3, 19]], 'Lux', 0.9999715062910064)]
+2024-05-23 10:01:28 info: 3) screen_for_champ: 0 test_index: 4
+2024-05-23 10:01:28 info: Image 472b7a3c-18d2-11ef-8249-6a0b467b875d saved
+2024-05-23 10:01:39 info: ------------------------------------------
+2024-05-23 10:01:39 info: ------------------------------------------
+2024-05-23 10:01:39 info: Processing frame 19800
+2024-05-23 10:01:39 info: OCR results: []
+2024-05-23 10:01:39 info: OCR results: []
+2024-05-23 10:01:39 info: OCR results: []
+2024-05-23 10:01:39 info: OCR results: []
+2024-05-23 10:01:39 info: OCR results: []
+2024-05-23 10:01:39 info: 3) screen_for_champ: 0 test_index: 0
+2024-05-23 10:01:39 info: Image 4d878010-18d2-11ef-8249-6a0b467b875d saved
+2024-05-23 10:01:50 info: ------------------------------------------
+2024-05-23 10:01:50 info: ------------------------------------------
+2024-05-23 10:01:50 info: Processing frame 20400
+2024-05-23 10:01:50 info: OCR results: []
+2024-05-23 10:01:50 info: OCR results: []
+2024-05-23 10:01:50 info: OCR results: []
+2024-05-23 10:01:50 info: OCR results: []
+2024-05-23 10:01:50 info: OCR results: []
+2024-05-23 10:01:50 info: 3) screen_for_champ: 0 test_index: 0
+2024-05-23 10:01:50 info: Image 540d1b8e-18d2-11ef-8249-6a0b467b875d saved
+2024-05-23 10:01:59 info: ------------------------------------------
+2024-05-23 10:01:59 info: ------------------------------------------
+2024-05-23 10:01:59 info: Processing frame 21000
+2024-05-23 10:01:59 info: OCR results: []
+2024-05-23 10:01:59 info: OCR results: []
+2024-05-23 10:01:59 info: OCR results: []
+2024-05-23 10:01:59 info: OCR results: []
+2024-05-23 10:01:59 info: OCR results: []
+2024-05-23 10:01:59 info: 3) screen_for_champ: 0 test_index: 0
+2024-05-23 10:01:59 info: Image 593c3414-18d2-11ef-8249-6a0b467b875d saved
+2024-05-23 10:02:09 info: ------------------------------------------
+2024-05-23 10:02:09 info: ------------------------------------------
+2024-05-23 10:02:09 info: Processing frame 21600
+2024-05-23 10:02:09 info: OCR results: []
+2024-05-23 10:02:09 info: OCR results: []
+2024-05-23 10:02:09 info: OCR results: []
+2024-05-23 10:02:09 info: OCR results: []
+2024-05-23 10:02:09 info: OCR results: []
+2024-05-23 10:02:09 info: 3) screen_for_champ: 0 test_index: 0
+2024-05-23 10:02:09 info: Image 5fa54778-18d2-11ef-8249-6a0b467b875d saved
+2024-05-23 10:09:20 info: checking for keanelol every 15 seconds, recording with 1080p60 quality
+2024-05-23 10:09:21 info: First ten currently online users in teamfight tactics category: ['boxbox', 'keanelol', 'Wingsofdeath', 'Rainplosion', 'bellum', 'Rocky', 'PlushyBunni', 'Risky10', 'starriebun', 'Miri_The_Cat']
+2024-05-23 10:09:21 info: keanelol online, stream recording in session
+2024-05-23 10:09:24 info: Starting stream processing
+2024-05-23 10:09:26 info: Stream URL retrieved successfully
+2024-05-23 10:09:28 info: ------------------------------------------
+2024-05-23 10:09:28 info: ------------------------------------------
+2024-05-23 10:09:28 info: Processing frame 0
+2024-05-23 10:09:28 info: OCR results: []
+2024-05-23 10:09:28 info: OCR results: []
+2024-05-23 10:09:28 info: OCR results: []
+2024-05-23 10:09:28 info: OCR results: []
+2024-05-23 10:09:28 info: OCR results: []
+2024-05-23 10:09:28 info: 3) screen_for_champ: 0 test_index: 0
+2024-05-23 10:09:28 info: Image 652da3ce-18d3-11ef-b938-6a0b467b875d saved
+2024-05-23 10:09:33 info: ------------------------------------------
+2024-05-23 10:09:33 info: ------------------------------------------
+2024-05-23 10:09:33 info: Processing frame 600
+2024-05-23 10:09:33 info: OCR results: []
+2024-05-23 10:09:33 info: OCR results: []
+2024-05-23 10:09:33 info: OCR results: []
+2024-05-23 10:09:33 info: OCR results: []
+2024-05-23 10:09:33 info: OCR results: []
+2024-05-23 10:09:33 info: 3) screen_for_champ: 0 test_index: 0
+2024-05-23 10:09:33 info: Image 68212e98-18d3-11ef-b938-6a0b467b875d saved
+2024-05-23 10:09:44 info: ------------------------------------------
+2024-05-23 10:09:44 info: ------------------------------------------
+2024-05-23 10:09:44 info: Processing frame 1200
+2024-05-23 10:09:44 info: OCR results: []
+2024-05-23 10:09:44 info: OCR results: []
+2024-05-23 10:09:44 info: OCR results: []
+2024-05-23 10:09:44 info: OCR results: []
+2024-05-23 10:09:44 info: OCR results: []
+2024-05-23 10:09:44 info: 3) screen_for_champ: 0 test_index: 0
+2024-05-23 10:09:44 info: Image 6ea6192c-18d3-11ef-b938-6a0b467b875d saved
+2024-05-23 10:09:53 info: ------------------------------------------
+2024-05-23 10:09:53 info: ------------------------------------------
+2024-05-23 10:09:53 info: Processing frame 1800
+2024-05-23 10:09:53 info: OCR results: [([[5, 3], [51, 3], [51, 19], [5, 19]], 'Riven', 0.9999961082220113)]
+2024-05-23 10:09:53 info: 0) OCR results text: Riven and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:09:53 info: OCR results: [([[0, 1], [43, 1], [43, 19], [0, 19]], 'Lillia', 0.9999946466280263)]
+2024-05-23 10:09:53 info: 0) OCR results text: Lillia and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:09:53 info: OCR results: [([[1, 3], [71, 3], [71, 19], [1, 19]], 'Nautilus', 0.7910031096286883)]
+2024-05-23 10:09:53 info: 0) OCR results text: Nautilus and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:09:53 info: OCR results: [([[3, 3], [45, 3], [45, 19], [3, 19]], 'Illaoi', 0.9978254165951529)]
+2024-05-23 10:09:53 info: 0) OCR results text: Illaoi and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:09:53 info: OCR results: [([[3, 1], [53, 1], [53, 19], [3, 19]], 'Yasuo', 0.9999429559519073)]
+2024-05-23 10:09:53 info: 0) OCR results text: Yasuo and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:09:53 info: 3) screen_for_champ: 0 test_index: 5
+2024-05-23 10:09:53 info: Image 73f5d426-18d3-11ef-b938-6a0b467b875d saved
+2024-05-23 10:10:03 info: ------------------------------------------
+2024-05-23 10:10:03 info: ------------------------------------------
+2024-05-23 10:10:03 info: Processing frame 2400
+2024-05-23 10:10:04 info: OCR results: [([[3, 3], [61, 3], [61, 19], [3, 19]], 'Soraka', 0.9999888065785272)]
+2024-05-23 10:10:04 info: 0) OCR results text: Soraka and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:10:04 info: OCR results: [([[3, 1], [57, 1], [57, 19], [3, 19]], 'Yorick', 0.9998942940449607)]
+2024-05-23 10:10:04 info: 0) OCR results text: Yorick and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:10:04 info: OCR results: [([[3, 3], [43, 3], [43, 19], [3, 19]], 'Ashe', 0.9999899864196777)]
+2024-05-23 10:10:04 info: 0) OCR results text: Ashe and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:10:04 info: OCR results: [([[5, 3], [63, 3], [63, 21], [5, 21]], 'Qiyana', 0.999972843737453)]
+2024-05-23 10:10:04 info: 0) OCR results text: Qiyana and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:10:04 info: OCR results: [([[1, 1], [41, 1], [41, 19], [1, 19]], 'Sivir', 0.9999845395015442)]
+2024-05-23 10:10:04 info: 0) OCR results text: Sivir and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:10:04 info: 3) screen_for_champ: 0 test_index: 5
+2024-05-23 10:10:04 info: Image 7a600778-18d3-11ef-b938-6a0b467b875d saved
+2024-05-23 10:16:56 info: checking for keanelol every 15 seconds, recording with 1080p60 quality
+2024-05-23 10:16:56 info: First ten currently online users in teamfight tactics category: ['boxbox', 'keanelol', 'Wingsofdeath', 'Rainplosion', 'bellum', 'Rocky', 'PlushyBunni', 'starriebun', 'Risky10', 'OuroVT']
+2024-05-23 10:16:57 info: keanelol online, stream recording in session
+2024-05-23 10:16:59 info: Starting stream processing
+2024-05-23 10:17:02 info: Stream URL retrieved successfully
+2024-05-23 10:17:04 info: ------------------------------------------
+2024-05-23 10:17:04 info: ------------------------------------------
+2024-05-23 10:17:04 info: Processing frame 0
+2024-05-23 10:17:04 info: OCR results: []
+2024-05-23 10:17:04 info: OCR results: []
+2024-05-23 10:17:04 info: OCR results: []
+2024-05-23 10:17:04 info: OCR results: []
+2024-05-23 10:17:04 info: OCR results: []
+2024-05-23 10:17:09 info: ------------------------------------------
+2024-05-23 10:17:09 info: ------------------------------------------
+2024-05-23 10:17:09 info: Processing frame 600
+2024-05-23 10:17:09 info: OCR results: []
+2024-05-23 10:17:09 info: OCR results: []
+2024-05-23 10:17:09 info: OCR results: []
+2024-05-23 10:17:09 info: OCR results: []
+2024-05-23 10:17:09 info: OCR results: []
+2024-05-23 10:17:26 info: ------------------------------------------
+2024-05-23 10:17:26 info: ------------------------------------------
+2024-05-23 10:17:26 info: Processing frame 1200
+2024-05-23 10:17:26 info: OCR results: []
+2024-05-23 10:17:26 info: OCR results: []
+2024-05-23 10:17:26 info: OCR results: []
+2024-05-23 10:17:26 info: OCR results: []
+2024-05-23 10:17:26 info: OCR results: []
+2024-05-23 10:17:47 info: ------------------------------------------
+2024-05-23 10:17:47 info: ------------------------------------------
+2024-05-23 10:17:47 info: Processing frame 1800
+2024-05-23 10:17:47 info: OCR results: []
+2024-05-23 10:17:47 info: OCR results: []
+2024-05-23 10:17:47 info: OCR results: []
+2024-05-23 10:17:47 info: OCR results: []
+2024-05-23 10:17:47 info: OCR results: []
+2024-05-23 10:18:08 info: ------------------------------------------
+2024-05-23 10:18:08 info: ------------------------------------------
+2024-05-23 10:18:08 info: Processing frame 2400
+2024-05-23 10:18:08 info: OCR results: []
+2024-05-23 10:18:08 info: OCR results: []
+2024-05-23 10:18:08 info: OCR results: []
+2024-05-23 10:18:08 info: OCR results: []
+2024-05-23 10:18:08 info: OCR results: []
+2024-05-23 10:18:26 info: ------------------------------------------
+2024-05-23 10:18:26 info: ------------------------------------------
+2024-05-23 10:18:26 info: Processing frame 3000
+2024-05-23 10:18:26 info: OCR results: []
+2024-05-23 10:18:26 info: OCR results: []
+2024-05-23 10:18:26 info: OCR results: []
+2024-05-23 10:18:26 info: OCR results: []
+2024-05-23 10:18:26 info: OCR results: []
+2024-05-23 10:18:43 info: ------------------------------------------
+2024-05-23 10:18:43 info: ------------------------------------------
+2024-05-23 10:18:43 info: Processing frame 3600
+2024-05-23 10:18:43 info: OCR results: []
+2024-05-23 10:18:43 info: OCR results: []
+2024-05-23 10:18:43 info: OCR results: []
+2024-05-23 10:18:43 info: OCR results: []
+2024-05-23 10:18:43 info: OCR results: []
+2024-05-23 10:18:54 info: ------------------------------------------
+2024-05-23 10:18:54 info: ------------------------------------------
+2024-05-23 10:18:54 info: Processing frame 4200
+2024-05-23 10:18:54 info: OCR results: []
+2024-05-23 10:18:54 info: OCR results: []
+2024-05-23 10:18:54 info: OCR results: []
+2024-05-23 10:18:54 info: OCR results: []
+2024-05-23 10:18:54 info: OCR results: []
+2024-05-23 10:19:02 info: ------------------------------------------
+2024-05-23 10:19:02 info: ------------------------------------------
+2024-05-23 10:19:02 info: Processing frame 4800
+2024-05-23 10:19:03 info: OCR results: []
+2024-05-23 10:19:03 info: OCR results: []
+2024-05-23 10:19:03 info: OCR results: []
+2024-05-23 10:19:03 info: OCR results: []
+2024-05-23 10:19:03 info: OCR results: []
+2024-05-23 10:19:13 info: ------------------------------------------
+2024-05-23 10:19:13 info: ------------------------------------------
+2024-05-23 10:19:13 info: Processing frame 5400
+2024-05-23 10:19:13 info: OCR results: []
+2024-05-23 10:19:14 info: OCR results: []
+2024-05-23 10:19:14 info: OCR results: []
+2024-05-23 10:19:14 info: OCR results: []
+2024-05-23 10:19:14 info: OCR results: []
+2024-05-23 10:19:25 info: ------------------------------------------
+2024-05-23 10:19:25 info: ------------------------------------------
+2024-05-23 10:19:25 info: Processing frame 6000
+2024-05-23 10:19:25 info: OCR results: []
+2024-05-23 10:19:25 info: OCR results: []
+2024-05-23 10:19:25 info: OCR results: []
+2024-05-23 10:19:25 info: OCR results: []
+2024-05-23 10:19:25 info: OCR results: []
+2024-05-23 10:19:33 info: ------------------------------------------
+2024-05-23 10:19:33 info: ------------------------------------------
+2024-05-23 10:19:33 info: Processing frame 6600
+2024-05-23 10:19:33 info: OCR results: []
+2024-05-23 10:19:33 info: OCR results: []
+2024-05-23 10:19:33 info: OCR results: []
+2024-05-23 10:19:33 info: OCR results: []
+2024-05-23 10:19:33 info: OCR results: []
+2024-05-23 10:19:44 info: ------------------------------------------
+2024-05-23 10:19:44 info: ------------------------------------------
+2024-05-23 10:19:44 info: Processing frame 7200
+2024-05-23 10:19:44 info: OCR results: [([[3, 1], [41, 1], [41, 19], [3, 19]], 'Ahri', 0.999580979347229)]
+2024-05-23 10:19:44 info: 0) OCR results text: Ahri, champ_name: ahri and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:19:44 info: 1) bbox: [[3, 1], [41, 1], [41, 19], [3, 19]]. Champion 'Ahri' detected in region (484, 1044, 633, 1066). prob: 0.999580979347229.
+2024-05-23 10:19:44 info: 2) champ_name: ahri; index: 1
+2024-05-23 10:19:44 info: OCR results: [([[1, 3], [29, 3], [29, 19], [1, 19]], 'Jax', 0.9999860284334476)]
+2024-05-23 10:19:44 info: 0) OCR results text: Jax, champ_name: jax and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:19:44 info: 1) bbox: [[1, 3], [29, 3], [29, 19], [1, 19]]. Champion 'Jax' detected in region (686, 1044, 834, 1066). prob: 0.9999860284334476.
+2024-05-23 10:19:44 info: 2) champ_name: jax; index: 2
+2024-05-23 10:19:44 info: OCR results: [([[39, 3], [77, 3], [77, 19], [39, 19]], 'Maw', 0.9999953886918919), ([[-0.7974522228288999, -1.83414011250647], [36.84615384615385, 3.230769230769231], [33.7974522228289, 24.83414011250647], [-2.846153846153846, 19.76923076923077]], "Kog'", 0.9926149845123291)]
+2024-05-23 10:19:44 info: 0) OCR results text: Maw, champ_name: maw and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:19:44 info: 0) OCR results text: Kog', champ_name: kog and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:19:44 info: OCR results: [([[3, 3], [61, 3], [61, 21], [3, 21]], 'Caitlyn', 0.7893574808228664)]
+2024-05-23 10:19:44 info: 0) OCR results text: Caitlyn, champ_name: caitlyn and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:19:44 info: 1) bbox: [[3, 3], [61, 3], [61, 21], [3, 21]]. Champion 'Caitlyn' detected in region (1088, 1044, 1237, 1066). prob: 0.7893574808228664.
+2024-05-23 10:19:44 info: 2) champ_name: caitlyn; index: 4
+2024-05-23 10:19:44 info: OCR results: [([[3, 1], [65, 1], [65, 19], [3, 19]], "Rek'Sai", 0.9991671017416626)]
+2024-05-23 10:19:44 info: 0) OCR results text: Rek'Sai, champ_name: reksai and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:19:44 info: 1) bbox: [[3, 1], [65, 1], [65, 19], [3, 19]]. Champion 'Rek'Sai' detected in region (1290, 1044, 1438, 1066). prob: 0.9991671017416626.
+2024-05-23 10:19:44 info: 2) champ_name: reksai; index: 5
+2024-05-23 10:19:44 info: 3) screen_for_champ: 4 test_index: 6
+2024-05-23 10:22:33 info: checking for keanelol every 15 seconds, recording with 1080p60 quality
+2024-05-23 10:22:34 info: First ten currently online users in teamfight tactics category: ['boxbox', 'keanelol', 'Wingsofdeath', 'bellum', 'Rocky', 'PlushyBunni', 'Risky10', 'starriebun', 'OuroVT', 'Miri_The_Cat']
+2024-05-23 10:22:34 info: keanelol online, stream recording in session
+2024-05-23 10:22:36 info: Starting stream processing
+2024-05-23 10:22:40 info: Stream URL retrieved successfully
+2024-05-23 10:22:41 info: ------------------------------------------
+2024-05-23 10:22:41 info: ------------------------------------------
+2024-05-23 10:22:41 info: Processing frame 0
+2024-05-23 10:22:41 info: OCR results: [([[5, 1], [103, 1], [103, 19], [5, 19]], 'Tahm Kench', 0.9248652345627477)]
+2024-05-23 10:22:41 info: 0) OCR results text: Tahm Kench, champ_name: tahmkench and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:22:41 info: 1) bbox: [[5, 1], [103, 1], [103, 19], [5, 19]]. Champion 'Tahm Kench' detected in region (484, 1044, 633, 1066). prob: 0.9248652345627477.
+2024-05-23 10:22:41 info: 2) champ_name: tahmkench; index: 1
+2024-05-23 10:22:41 info: OCR results: [([[3, 3], [43, 3], [43, 19], [3, 19]], 'Shen', 0.9999909400939941)]
+2024-05-23 10:22:42 info: 0) OCR results text: Shen, champ_name: shen and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:22:42 info: 1) bbox: [[3, 3], [43, 3], [43, 19], [3, 19]]. Champion 'Shen' detected in region (686, 1044, 834, 1066). prob: 0.9999909400939941.
+2024-05-23 10:22:42 info: 2) champ_name: shen; index: 2
+2024-05-23 10:22:42 info: OCR results: [([[1, 1], [63, 1], [63, 19], [1, 19]], "Rek'Sai", 0.999599643775631)]
+2024-05-23 10:22:42 info: 0) OCR results text: Rek'Sai, champ_name: reksai and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:22:42 info: 1) bbox: [[1, 1], [63, 1], [63, 19], [1, 19]]. Champion 'Rek'Sai' detected in region (888, 1044, 1035, 1066). prob: 0.999599643775631.
+2024-05-23 10:22:42 info: 2) champ_name: reksai; index: 3
+2024-05-23 10:22:42 info: OCR results: []
+2024-05-23 10:22:42 info: OCR results: [([[3, 3], [35, 3], [35, 19], [3, 19]], 'Lux', 0.9999597371820783)]
+2024-05-23 10:22:42 info: 0) OCR results text: Lux, champ_name: lux and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:22:42 info: 1) bbox: [[3, 3], [35, 3], [35, 19], [3, 19]]. Champion 'Lux' detected in region (1290, 1044, 1438, 1066). prob: 0.9999597371820783.
+2024-05-23 10:22:42 info: 2) champ_name: lux; index: 5
+2024-05-23 10:22:42 info: 3) screen_for_champ: 4 test_index: 4
+2024-05-23 10:22:42 info: Image 3e2e7c38-18d5-11ef-987c-6a0b467b875d saved
+2024-05-23 10:22:46 info: ------------------------------------------
+2024-05-23 10:22:46 info: ------------------------------------------
+2024-05-23 10:22:46 info: Processing frame 600
+2024-05-23 10:22:46 info: OCR results: [([[5, 1], [103, 1], [103, 19], [5, 19]], 'Tahm Kench', 0.7466796394574959)]
+2024-05-23 10:22:46 info: 0) OCR results text: Tahm Kench, champ_name: tahmkench and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:22:46 info: 1) bbox: [[5, 1], [103, 1], [103, 19], [5, 19]]. Champion 'Tahm Kench' detected in region (484, 1044, 633, 1066). prob: 0.7466796394574959.
+2024-05-23 10:22:46 info: 2) champ_name: tahmkench; index: 1
+2024-05-23 10:22:46 info: OCR results: [([[3, 3], [43, 3], [43, 19], [3, 19]], 'Shen', 0.9999887943267822)]
+2024-05-23 10:22:46 info: 0) OCR results text: Shen, champ_name: shen and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:22:46 info: 1) bbox: [[3, 3], [43, 3], [43, 19], [3, 19]]. Champion 'Shen' detected in region (686, 1044, 834, 1066). prob: 0.9999887943267822.
+2024-05-23 10:22:46 info: 2) champ_name: shen; index: 2
+2024-05-23 10:22:46 info: OCR results: [([[1, 1], [63, 1], [63, 19], [1, 19]], "Rek'Sai", 0.9997047282136231)]
+2024-05-23 10:22:46 info: 0) OCR results text: Rek'Sai, champ_name: reksai and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:22:46 info: 1) bbox: [[1, 1], [63, 1], [63, 19], [1, 19]]. Champion 'Rek'Sai' detected in region (888, 1044, 1035, 1066). prob: 0.9997047282136231.
+2024-05-23 10:22:46 info: 2) champ_name: reksai; index: 3
+2024-05-23 10:22:46 info: OCR results: []
+2024-05-23 10:22:46 info: OCR results: [([[1, 3], [35, 3], [35, 19], [1, 19]], 'Lux', 0.9999790770726399)]
+2024-05-23 10:22:46 info: 0) OCR results text: Lux, champ_name: lux and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:22:46 info: 1) bbox: [[1, 3], [35, 3], [35, 19], [1, 19]]. Champion 'Lux' detected in region (1290, 1044, 1438, 1066). prob: 0.9999790770726399.
+2024-05-23 10:22:46 info: 2) champ_name: lux; index: 5
+2024-05-23 10:22:46 info: 3) screen_for_champ: 4 test_index: 4
+2024-05-23 10:22:47 info: Image 410732f6-18d5-11ef-987c-6a0b467b875d saved
+2024-05-23 10:22:57 info: ------------------------------------------
+2024-05-23 10:22:57 info: ------------------------------------------
+2024-05-23 10:22:57 info: Processing frame 1200
+2024-05-23 10:22:57 info: OCR results: [([[5, 1], [103, 1], [103, 19], [5, 19]], 'Tahm Kench', 0.9220766656711991)]
+2024-05-23 10:22:57 info: 0) OCR results text: Tahm Kench, champ_name: tahmkench and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:22:57 info: 1) bbox: [[5, 1], [103, 1], [103, 19], [5, 19]]. Champion 'Tahm Kench' detected in region (484, 1044, 633, 1066). prob: 0.9220766656711991.
+2024-05-23 10:22:57 info: 2) champ_name: tahmkench; index: 1
+2024-05-23 10:22:57 info: OCR results: [([[3, 3], [43, 3], [43, 19], [3, 19]], 'Shen', 0.9999890327453613)]
+2024-05-23 10:22:57 info: 0) OCR results text: Shen, champ_name: shen and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:22:57 info: 1) bbox: [[3, 3], [43, 3], [43, 19], [3, 19]]. Champion 'Shen' detected in region (686, 1044, 834, 1066). prob: 0.9999890327453613.
+2024-05-23 10:22:57 info: 2) champ_name: shen; index: 2
+2024-05-23 10:22:57 info: OCR results: [([[1, 1], [63, 1], [63, 19], [1, 19]], "Rek'Sai", 0.9997008980115756)]
+2024-05-23 10:22:57 info: 0) OCR results text: Rek'Sai, champ_name: reksai and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:22:57 info: 1) bbox: [[1, 1], [63, 1], [63, 19], [1, 19]]. Champion 'Rek'Sai' detected in region (888, 1044, 1035, 1066). prob: 0.9997008980115756.
+2024-05-23 10:22:57 info: 2) champ_name: reksai; index: 3
+2024-05-23 10:22:57 info: OCR results: []
+2024-05-23 10:22:57 info: OCR results: [([[1, 3], [35, 3], [35, 19], [1, 19]], 'Lux', 0.9999821742127942)]
+2024-05-23 10:22:57 info: 0) OCR results text: Lux, champ_name: lux and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:22:57 info: 1) bbox: [[1, 3], [35, 3], [35, 19], [1, 19]]. Champion 'Lux' detected in region (1290, 1044, 1438, 1066). prob: 0.9999821742127942.
+2024-05-23 10:22:57 info: 2) champ_name: lux; index: 5
+2024-05-23 10:22:57 info: 3) screen_for_champ: 4 test_index: 4
+2024-05-23 10:22:57 info: Image 477fddea-18d5-11ef-987c-6a0b467b875d saved
+2024-05-23 10:23:08 info: ------------------------------------------
+2024-05-23 10:23:08 info: ------------------------------------------
+2024-05-23 10:23:08 info: Processing frame 1800
+2024-05-23 10:23:08 info: OCR results: [([[5, 1], [103, 1], [103, 19], [5, 19]], 'Tahm Kench', 0.9998522313320455)]
+2024-05-23 10:23:08 info: 0) OCR results text: Tahm Kench, champ_name: tahmkench and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:23:08 info: 1) bbox: [[5, 1], [103, 1], [103, 19], [5, 19]]. Champion 'Tahm Kench' detected in region (484, 1044, 633, 1066). prob: 0.9998522313320455.
+2024-05-23 10:23:08 info: 2) champ_name: tahmkench; index: 1
+2024-05-23 10:23:08 info: OCR results: [([[3, 3], [43, 3], [43, 19], [3, 19]], 'Shen', 0.9999909400939941)]
+2024-05-23 10:23:08 info: 0) OCR results text: Shen, champ_name: shen and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:23:08 info: 1) bbox: [[3, 3], [43, 3], [43, 19], [3, 19]]. Champion 'Shen' detected in region (686, 1044, 834, 1066). prob: 0.9999909400939941.
+2024-05-23 10:23:08 info: 2) champ_name: shen; index: 2
+2024-05-23 10:23:08 info: OCR results: [([[1, 1], [63, 1], [63, 19], [1, 19]], "Rek'Sai", 0.9996563321359243)]
+2024-05-23 10:23:08 info: 0) OCR results text: Rek'Sai, champ_name: reksai and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:23:08 info: 1) bbox: [[1, 1], [63, 1], [63, 19], [1, 19]]. Champion 'Rek'Sai' detected in region (888, 1044, 1035, 1066). prob: 0.9996563321359243.
+2024-05-23 10:23:08 info: 2) champ_name: reksai; index: 3
+2024-05-23 10:23:08 info: OCR results: []
+2024-05-23 10:23:08 info: OCR results: [([[1, 3], [35, 3], [35, 19], [1, 19]], 'Lux', 0.9999815547846606)]
+2024-05-23 10:23:08 info: 0) OCR results text: Lux, champ_name: lux and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:23:08 info: 1) bbox: [[1, 3], [35, 3], [35, 19], [1, 19]]. Champion 'Lux' detected in region (1290, 1044, 1438, 1066). prob: 0.9999815547846606.
+2024-05-23 10:23:08 info: 2) champ_name: lux; index: 5
+2024-05-23 10:23:08 info: 3) screen_for_champ: 4 test_index: 4
+2024-05-23 10:23:08 info: Image 4df3c1be-18d5-11ef-987c-6a0b467b875d saved
+2024-05-23 10:23:16 info: ------------------------------------------
+2024-05-23 10:23:16 info: ------------------------------------------
+2024-05-23 10:23:16 info: Processing frame 2400
+2024-05-23 10:23:17 info: OCR results: [([[5, 1], [103, 1], [103, 19], [5, 19]], 'Tahm Kench', 0.9244095622603287)]
+2024-05-23 10:23:17 info: 0) OCR results text: Tahm Kench, champ_name: tahmkench and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:23:17 info: 1) bbox: [[5, 1], [103, 1], [103, 19], [5, 19]]. Champion 'Tahm Kench' detected in region (484, 1044, 633, 1066). prob: 0.9244095622603287.
+2024-05-23 10:23:17 info: 2) champ_name: tahmkench; index: 1
+2024-05-23 10:23:17 info: OCR results: [([[3, 3], [43, 3], [43, 19], [3, 19]], 'Shen', 0.9999908804893494)]
+2024-05-23 10:23:17 info: 0) OCR results text: Shen, champ_name: shen and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:23:17 info: 1) bbox: [[3, 3], [43, 3], [43, 19], [3, 19]]. Champion 'Shen' detected in region (686, 1044, 834, 1066). prob: 0.9999908804893494.
+2024-05-23 10:23:17 info: 2) champ_name: shen; index: 2
+2024-05-23 10:23:17 info: OCR results: [([[1, 1], [63, 1], [63, 19], [1, 19]], "Rek'Sai", 0.999680214838643)]
+2024-05-23 10:23:17 info: 0) OCR results text: Rek'Sai, champ_name: reksai and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:23:17 info: 1) bbox: [[1, 1], [63, 1], [63, 19], [1, 19]]. Champion 'Rek'Sai' detected in region (888, 1044, 1035, 1066). prob: 0.999680214838643.
+2024-05-23 10:23:17 info: 2) champ_name: reksai; index: 3
+2024-05-23 10:23:17 info: OCR results: []
+2024-05-23 10:23:17 info: OCR results: [([[1, 3], [35, 3], [35, 19], [1, 19]], 'Lux', 0.999983757196036)]
+2024-05-23 10:23:17 info: 0) OCR results text: Lux, champ_name: lux and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:23:17 info: 1) bbox: [[1, 3], [35, 3], [35, 19], [1, 19]]. Champion 'Lux' detected in region (1290, 1044, 1438, 1066). prob: 0.999983757196036.
+2024-05-23 10:23:17 info: 2) champ_name: lux; index: 5
+2024-05-23 10:23:17 info: 3) screen_for_champ: 4 test_index: 4
+2024-05-23 10:23:17 info: Image 53070846-18d5-11ef-987c-6a0b467b875d saved
+2024-05-23 10:23:27 info: ------------------------------------------
+2024-05-23 10:23:27 info: ------------------------------------------
+2024-05-23 10:23:27 info: Processing frame 3000
+2024-05-23 10:23:27 info: OCR results: [([[5, 1], [103, 1], [103, 19], [5, 19]], 'Tahm Kench', 0.9357514255099253)]
+2024-05-23 10:23:27 info: 0) OCR results text: Tahm Kench, champ_name: tahmkench and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:23:27 info: 1) bbox: [[5, 1], [103, 1], [103, 19], [5, 19]]. Champion 'Tahm Kench' detected in region (484, 1044, 633, 1066). prob: 0.9357514255099253.
+2024-05-23 10:23:27 info: 2) champ_name: tahmkench; index: 1
+2024-05-23 10:23:27 info: OCR results: []
+2024-05-23 10:23:27 info: OCR results: [([[1, 1], [63, 1], [63, 19], [1, 19]], "Rek'Sai", 0.9996734556018478)]
+2024-05-23 10:23:27 info: 0) OCR results text: Rek'Sai, champ_name: reksai and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:23:27 info: 1) bbox: [[1, 1], [63, 1], [63, 19], [1, 19]]. Champion 'Rek'Sai' detected in region (888, 1044, 1035, 1066). prob: 0.9996734556018478.
+2024-05-23 10:23:27 info: 2) champ_name: reksai; index: 3
+2024-05-23 10:23:27 info: OCR results: []
+2024-05-23 10:23:27 info: OCR results: [([[1, 3], [35, 3], [35, 19], [1, 19]], 'Lux', 0.9999825183395573)]
+2024-05-23 10:23:27 info: 0) OCR results text: Lux, champ_name: lux and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:23:27 info: 1) bbox: [[1, 3], [35, 3], [35, 19], [1, 19]]. Champion 'Lux' detected in region (1290, 1044, 1438, 1066). prob: 0.9999825183395573.
+2024-05-23 10:23:27 info: 2) champ_name: lux; index: 5
+2024-05-23 10:23:27 info: 3) screen_for_champ: 3 test_index: 3
+2024-05-23 10:23:28 info: Image 5977a4f6-18d5-11ef-987c-6a0b467b875d saved
+2024-05-23 10:23:36 info: ------------------------------------------
+2024-05-23 10:23:36 info: ------------------------------------------
+2024-05-23 10:23:36 info: Processing frame 3600
+2024-05-23 10:23:36 info: OCR results: [([[3, 1], [69, 1], [69, 19], [3, 19]], "Kha'Zix", 0.999285225335732)]
+2024-05-23 10:23:36 info: 0) OCR results text: Kha'Zix, champ_name: khazix and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:23:36 info: 1) bbox: [[3, 1], [69, 1], [69, 19], [3, 19]]. Champion 'Kha'Zix' detected in region (484, 1044, 633, 1066). prob: 0.999285225335732.
+2024-05-23 10:23:36 info: 2) champ_name: khazix; index: 1
+2024-05-23 10:23:36 info: OCR results: [([[1, 3], [29, 3], [29, 19], [1, 19]], 'Jax', 0.9999834130692158)]
+2024-05-23 10:23:37 info: 0) OCR results text: Jax, champ_name: jax and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:23:37 info: 1) bbox: [[1, 3], [29, 3], [29, 19], [1, 19]]. Champion 'Jax' detected in region (686, 1044, 834, 1066). prob: 0.9999834130692158.
+2024-05-23 10:23:37 info: 2) champ_name: jax; index: 2
+2024-05-23 10:23:37 info: OCR results: [([[1, 1], [35, 1], [35, 19], [1, 19]], 'Zoe', 0.9999370249190666)]
+2024-05-23 10:23:37 info: 0) OCR results text: Zoe, champ_name: zoe and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:23:37 info: 1) bbox: [[1, 1], [35, 1], [35, 19], [1, 19]]. Champion 'Zoe' detected in region (888, 1044, 1035, 1066). prob: 0.9999370249190666.
+2024-05-23 10:23:37 info: 2) champ_name: zoe; index: 3
+2024-05-23 10:23:37 info: OCR results: [([[1, 1], [45, 1], [45, 19], [1, 19]], 'Illaoi', 0.9968399026726537)]
+2024-05-23 10:23:37 info: 0) OCR results text: Illaoi, champ_name: illaoi and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:23:37 info: 1) bbox: [[1, 1], [45, 1], [45, 19], [1, 19]]. Champion 'Illaoi' detected in region (1088, 1044, 1237, 1066). prob: 0.9968399026726537.
+2024-05-23 10:23:37 info: 2) champ_name: illaoi; index: 4
+2024-05-23 10:23:37 info: OCR results: [([[1, 3], [29, 3], [29, 19], [1, 19]], 'Jax', 0.9999851337034757)]
+2024-05-23 10:23:37 info: 0) OCR results text: Jax, champ_name: jax and champion_names: ['aatrox', 'ahri', 'alune', 'amumu', 'annie', 'aphelios', 'ashe', 'azir', 'bard', 'caitlyn', 'chogath', 'darius', 'diana', 'galio', 'garen', 'gnar', 'hwei', 'illaoi', 'irelia', 'janna', 'jax', 'kaisa', 'kayn', 'khazix', 'kindred', 'kobuko', 'kogmaw', 'leesin', 'lillia', 'lissandra', 'lux', 'malphite', 'morgana', 'nautilus', 'neeko', 'ornn', 'qiyana', 'rakan', 'reksai', 'riven', 'senna', 'sett', 'shen', 'sivir', 'soraka', 'sylas', 'syndra', 'tahmkench', 'teemo', 'thresh', 'tristana', 'udyr', 'volibear', 'wukong', 'xayah', 'yasuo', 'yone', 'yorick', 'zoe', 'zyra']
+2024-05-23 10:23:37 info: 1) bbox: [[1, 3], [29, 3], [29, 19], [1, 19]]. Champion 'Jax' detected in region (1290, 1044, 1438, 1066). prob: 0.9999851337034757.
+2024-05-23 10:23:37 info: 2) champ_name: jax; index: 5
+2024-05-23 10:23:37 info: 3) screen_for_champ: 4 test_index: 5
+2024-05-23 10:23:37 info: Image 5ee65fb8-18d5-11ef-987c-6a0b467b875d saved
+2024-05-23 10:23:47 info: ------------------------------------------
+2024-05-23 10:23:47 info: ------------------------------------------
+2024-05-23 10:23:47 info: Processing frame 4200
+2024-05-23 10:23:47 info: OCR results: []
+2024-05-23 10:23:47 info: OCR results: []
+2024-05-23 10:23:47 info: OCR results: []
+2024-05-23 10:23:47 info: OCR results: []
+2024-05-23 10:23:47 info: OCR results: []

@@ -21,3 +21,9 @@
 *.o
 *.pyc
 *.pyo
+*.img
+*.txt
+*.bmp
+*.gif
+*.jpg
+*.png

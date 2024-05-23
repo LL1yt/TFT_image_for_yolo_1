@@ -56,9 +56,9 @@ class TwitchRecorder:
             f"&grant_type=client_credentials"
         )
         self.access_token = fetch_access_token(self.token_url)
-        self.IMAGES_PATH = os.path.join("train_data", "images")
-        self.LABELIMG_PATH = os.path.join("train_data", "labels")
-        self.config_path = "/backend/train_data"
+        self.IMAGES_PATH = os.path.join("backend", "train_data", "images")
+        self.LABELIMG_PATH = os.path.join("backend", "train_data", "labels")
+        self.config_path = os.path.join("backend", "train_data")
 
         self.headers = {
             "Client-ID": self.client_id,

@@ -15,10 +15,10 @@ class YOLOv9LabelCreator:
         width = x_max - x_min
         height = y_max - y_min
 
-        x_center_norm = x_center / self.image_width
-        y_center_norm = y_center / self.image_height
-        width_norm = width / self.image_width
-        height_norm = height / self.image_height
+        x_center_norm = x_center / int(self.image_width)
+        y_center_norm = y_center / int(self.image_height)
+        width_norm = width / int(self.image_width)
+        height_norm = height / int(self.image_height)
 
         return x_center_norm, y_center_norm, width_norm, height_norm
 
