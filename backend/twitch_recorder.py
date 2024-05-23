@@ -119,6 +119,7 @@ class TwitchRecorder:
                 text_recognition = VideoTextRecognition(
                     self.user_online,
                     self.champion_name_coordinates_list,
+                    self.champion_card_coordinates_list,
                     self.champion_names,
                     self.quality,
                     self.IMAGES_PATH,

@@ -14,10 +14,7 @@ from helpers.yolov9_label_creator import YOLOv9LabelCreator
 
 
 def clean_and_lowercase(s):
-    s.strip()
-    # Удаление всех небуквенных знаков
-    cleaned = re.sub("[^a-zA-Z]", "", s)
-    # Приведение к прописному регистру
+    cleaned = re.sub("[^a-zA-Z]", "", s.strip())
     return cleaned.lower()
 
 
@@ -26,21 +23,25 @@ class VideoTextRecognition:
         self,
         username,
         champion_name_coordinates_list,
+        champion_card_coordinates_list,
         champion_names,
         quality,
         IMAGES_PATH,
         LABELIMG_PATH,
+        second_per_frame=10,
+        number_imgs=200,
     ):
         self.username = username
         self.champion_name_coordinates_list = champion_name_coordinates_list
+        self.champion_card_coordinates_list = champion_card_coordinates_list
         self.champion_names = champion_names
         self.quality = quality
         self.reader = easyocr.Reader(["en"])
         self.IMAGES_PATH = IMAGES_PATH
         self.LABELIMG_PATH = LABELIMG_PATH
         self.check_test = True
-        self.second_per_frame = 10
-        self.number_imgs = 200
+        self.second_per_frame = second_per_frame
+        self.number_imgs = number_imgs
         self.detected_champion_names = DetectedClasses(
             self.champion_names, self.LABELIMG_PATH
         )
@@ -51,27 +52,35 @@ class VideoTextRecognition:
         self.test_img_path = os.path.join(self.IMAGES_PATH, "test")
 
     def get_stream_url(self, user):
-        strim = streamlink.streams("https://twitch.tv/%s" % user)
-        url = strim[self.quality].url
-        logging.info("get_stream_url")
-        return url
+        try:
+            strim = streamlink.streams(f"https://twitch.tv/{user}")
+            url = strim[self.quality].url
+            logging.info("Stream URL retrieved successfully")
+            return url
+        except Exception as e:
+            logging.info(f"Error retrieving stream URL: {e}")
+            return None
 
     def process_stream(self):
-        logging.info("record_stream begin")
+        logging.info("Starting stream processing")
         stream_url = self.get_stream_url(self.username)
-        logging.info("stream_url: {stream_url}")
+
+        if not stream_url:
+            return
         cap = cv2.VideoCapture(stream_url)
-        frame_count = 0
         if not cap.isOpened():
             logging.info(f"Error: Unable to open video stream {stream_url}.")
             return
+
+        frame_count = 0
+
+        fps = int(cap.get(cv2.CAP_PROP_FPS))
 
         while True:
             ret, frame = cap.read()
             if not ret:
                 logging.info(f"Error: Unable to read frame from video stream.")
                 break
-            fps = int(cap.get(cv2.CAP_PROP_FPS))
             # Если текущий кадр делится на 5 секунд без остатка, сохраняем его
             if frame_count % (self.second_per_frame * fps) == 0:
 
@@ -81,11 +90,13 @@ class VideoTextRecognition:
 
                 logging.info(f"------------------------------------------")
                 logging.info(f"------------------------------------------")
+                logging.info(f"Processing frame {frame_count}")
                 self.process_frame(frame)
             frame_count += 1
 
         cap.release()
         cv2.destroyAllWindows()
+        logging.info("Stream processing completed")
 
     def process_frame(self, frame):
         champion_coordinates = {}
@@ -94,7 +105,7 @@ class VideoTextRecognition:
             x_start, y_start, x_end, y_end = region
             roi = frame[y_start:y_end, x_start:x_end]
             results = self.reader.readtext(roi)
-            logging.info(f"===================={results}====================")
+            logging.info(f"OCR results: {results}")
 
             for bbox, text, prob in results:
                 cv2.imshow(text, roi)
@@ -143,7 +154,7 @@ class VideoTextRecognition:
         # Check if total number of files exceeds predefined limit
 
         if (
-            (file_count < self.number_imgs)
+            file_count < self.number_imgs
             or ChampionChecker.is_champion_missing(
                 self.detected_champion_names, champion_coordinates
             )
@@ -155,7 +166,7 @@ class VideoTextRecognition:
             imgname = os.path.join(self.train_img_path, f"{image_id}.jpg")
             cv2.imwrite(imgname, frame)
             # cv2.imshow("creating data fro model", frame)
-            # cv2.waitKey(1)
+            cv2.waitKey(1)
 
             # Assuming that create_annotation_xml is the correct method to call based on provided context
 
@@ -164,7 +175,7 @@ class VideoTextRecognition:
             )
             label_creator.create_labels(image_id, champion_coordinates)
 
-            logging.info(f"{image_id} saved")
+            logging.info(f"Image {image_id} saved")
             if ChampionChecker.is_champion_missing(
                 self.detected_champion_names, champion_coordinates
             ):

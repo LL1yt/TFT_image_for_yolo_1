@@ -10,20 +10,11 @@ class ImageDatasetSplitter:
         self.val_img_path = os.path.join(images_path, "val")
         self.test_img_path = os.path.join(images_path, "test")
 
-    def count_files_in_directory(self, directory):
-        return len(
-            [
-                name
-                for name in os.listdir(directory)
-                if os.path.isfile(os.path.join(directory, name))
-            ]
-        )
-
     def split_dataset(self):
         all_images = [
             f
-            for f in os.listdir(self.images_path)
-            if os.path.isfile(os.path.join(self.images_path, f))
+            for f in os.listdir(self.train_img_path)
+            if os.path.isfile(os.path.join(self.train_img_path, f))
         ]
         random.shuffle(all_images)
 
@@ -32,11 +23,11 @@ class ImageDatasetSplitter:
         num_test = int(0.05 * total_images)
         num_train = total_images - num_val - num_test
 
-        train_images = all_images[:num_train]
+        # train_images = all_images[:num_train]
         val_images = all_images[num_train : num_train + num_val]
         test_images = all_images[num_train + num_val :]
 
-        self._move_files(train_images, self.train_img_path)
+        # self._move_files(train_images, self.train_img_path)
         self._move_files(val_images, self.val_img_path)
         self._move_files(test_images, self.test_img_path)
 
@@ -45,5 +36,5 @@ class ImageDatasetSplitter:
             os.makedirs(destination)
         for file in files:
             shutil.move(
-                os.path.join(self.images_path, file), os.path.join(destination, file)
+                os.path.join(self.train_img_path, file), os.path.join(destination, file)
             )
