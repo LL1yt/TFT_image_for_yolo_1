@@ -59,9 +59,7 @@ class TwitchRecorder:
         self.IMAGES_PATH = os.path.join("train_data", "images")
         self.LABELIMG_PATH = os.path.join("train_data", "labels")
         self.config_path = os.path.join("train_data")
-        self.ANNOTATION_PATH = os.path.join("train_data", "workspace", "annotation")
 
-        self.LABEL_MAP_NAME = "label_map.pbtxt"
         self.headers = {
             "Client-ID": self.client_id,
             "Authorization": "Bearer " + self.access_token,

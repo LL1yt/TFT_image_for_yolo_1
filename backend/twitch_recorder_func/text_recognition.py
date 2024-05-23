@@ -8,6 +8,9 @@ import re
 import os
 import uuid
 
+from helpers.detected_classes import DetectedClasses
+from helpers.champion_checker import ChampionChecker
+
 
 def clean_and_lowercase(s):
     s.strip()
@@ -37,6 +40,9 @@ class VideoTextRecognition:
         self.check_test = True
         self.second_per_frame = 10
         self.number_imgs = 200
+        self.detected_champion_names = DetectedClasses(
+            self.champion_names, self.LABELIMG_PATH
+        )
 
     def get_stream_url(self, user):
         strim = streamlink.streams("https://twitch.tv/%s" % user)
@@ -127,34 +133,35 @@ class VideoTextRecognition:
         val_img_path = os.path.join(self.IMAGES_PATH, "val")
         test_img_path = os.path.join(self.IMAGES_PATH, "test")
 
-        file_count_train = self.count_files_in_directory(train_img_path) / 2
-        file_count_test = self.count_files_in_directory(test_img_path) / 2
+        file_count_train = self.count_files_in_directory(train_img_path)
+        file_count_val = self.count_files_in_directory(val_img_path)
+        file_count_test = self.count_files_in_directory(test_img_path)
 
         # Check if total number of files exceeds predefined limit
-        label_map_path = os.path.join(self.ANNOTATION_PATH, "label_map.pbtxt")
-        label_map_c = self.labels_from_labelmap(label_map_path)
-        if len(label_map_c) < 58:
-            if not champion_coordinates:
-                logging.info(f"no champion_coordinates")
-                return
-            if file_count_train % 10 == 0 and self.check_test:
-                labelimg_path = test_img_path
-                limg_path = test_img_path
-                logging.info(
-                    f"TEST. number of files in {test_img_path} is {file_count_test}"
-                )
-                self.check_test = False
-                self.second_per_frame = 10
-            else:
-                labelimg_path = train_img_path
-                limg_path = train_img_path
-                self.check_test = True
-                self.second_per_frame = 15
+        if len(self.detected_champion_names) <= len(self.champion_names):
+            # if not champion_coordinates:
+            #     logging.info(f"no champion_coordinates")
+            #     return
+            # if file_count_train % 10 == 0 and self.check_test:
+            #     labelimg_path = test_img_path
+            #     limg_path = test_img_path
+            #     logging.info(
+            #         f"TEST. number of files in {test_img_path} is {file_count_test}"
+            #     )
+            #     self.check_test = False
+            #     self.second_per_frame = 10
+            # else:
+            #     labelimg_path = train_img_path
+            #     limg_path = train_img_path
+            #     self.check_test = True
+            #     self.second_per_frame = 15
 
-            imgname = os.path.join(limg_path, f"{str(uuid.uuid1())}.jpg")
+            imgname = os.path.join(train_img_path, f"{str(uuid.uuid1())}.jpg")
             if (
-                file_count_train + file_count_test < self.number_imgs
-            ) or self.class_name_not_exists(label_map_c, champion_coordinates):
+                file_count_train + file_count_test + file_count_val < self.number_imgs
+            ) or ChampionChecker.is_champion_missing(
+                self.detected_champion_names, champion_coordinates
+            ):
                 cv2.imwrite(imgname, frame)
                 # cv2.imshow("creating data fro model", frame)
                 cv2.waitKey(1)
