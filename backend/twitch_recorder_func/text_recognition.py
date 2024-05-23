@@ -138,15 +138,16 @@ class VideoTextRecognition:
         file_count_train = self.count_files_in_directory(self.train_img_path)
         file_count_val = self.count_files_in_directory(self.val_img_path)
         file_count_test = self.count_files_in_directory(self.test_img_path)
+        file_count = file_count_train + file_count_test + file_count_val
 
         # Check if total number of files exceeds predefined limit
 
         if (
-            (file_count_train + file_count_test + file_count_val < self.number_imgs)
+            (file_count < self.number_imgs)
             or ChampionChecker.is_champion_missing(
                 self.detected_champion_names, champion_coordinates
             )
-            or (len(self.detected_champion_names) <= len(self.champion_names))
+            or (len(self.detected_champion_names) < len(self.champion_names))
         ):
 
             image_id = str(uuid.uuid1())
@@ -164,9 +165,13 @@ class VideoTextRecognition:
             label_creator.create_labels(image_id, champion_coordinates)
 
             logging.info(f"{image_id} saved")
-
-            self.detected_champion_names = ChampionChecker.update_champion_list()
+            if ChampionChecker.is_champion_missing(
+                self.detected_champion_names, champion_coordinates
+            ):
+                ChampionChecker.add_missing_champions(
+                    self.detected_champion_names, champion_coordinates
+                )
         else:
             logging.info(
-                f"name exists in labels or total number of files in {self.IMAGES_PATH} is {file_count_train + file_count_test}"
+                f"name exists in labels or total number of files in {self.IMAGES_PATH} is {file_count}"
             )

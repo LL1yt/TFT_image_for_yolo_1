@@ -6,5 +6,9 @@ class ChampionChecker:
                 return True
         return False
 
-
-# Ожидаемый результат: True, т.к. "Akali" отсутствует в словаре
+    @staticmethod
+    def add_missing_champions(detected_champion_names, champion_coordinates):
+        for champ_name in champion_coordinates.keys():
+            if champ_name not in detected_champion_names:
+                detected_champion_names.append(champ_name)
+        return detected_champion_names
