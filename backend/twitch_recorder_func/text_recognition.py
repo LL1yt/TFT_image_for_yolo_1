@@ -10,6 +10,7 @@ import uuid
 
 from helpers.detected_classes import DetectedClasses
 from helpers.champion_checker import ChampionChecker
+from helpers.yolov9_label_creator import YOLOv9LabelCreator
 
 
 def clean_and_lowercase(s):
@@ -43,6 +44,11 @@ class VideoTextRecognition:
         self.detected_champion_names = DetectedClasses(
             self.champion_names, self.LABELIMG_PATH
         )
+
+        self.train_img_path = os.path.join(self.IMAGES_PATH, "train")
+        self.train_label_path = os.path.join(self.LABELIMG_PATH, "train")
+        self.val_img_path = os.path.join(self.IMAGES_PATH, "val")
+        self.test_img_path = os.path.join(self.IMAGES_PATH, "test")
 
     def get_stream_url(self, user):
         strim = streamlink.streams("https://twitch.tv/%s" % user)
@@ -129,102 +135,38 @@ class VideoTextRecognition:
             f"3) screen_for_champ: {len(champion_coordinates)} test_index: {test_index}"
         )
 
-        train_img_path = os.path.join(self.IMAGES_PATH, "train")
-        val_img_path = os.path.join(self.IMAGES_PATH, "val")
-        test_img_path = os.path.join(self.IMAGES_PATH, "test")
-
-        file_count_train = self.count_files_in_directory(train_img_path)
-        file_count_val = self.count_files_in_directory(val_img_path)
-        file_count_test = self.count_files_in_directory(test_img_path)
+        file_count_train = self.count_files_in_directory(self.train_img_path)
+        file_count_val = self.count_files_in_directory(self.val_img_path)
+        file_count_test = self.count_files_in_directory(self.test_img_path)
 
         # Check if total number of files exceeds predefined limit
-        if len(self.detected_champion_names) <= len(self.champion_names):
-            # if not champion_coordinates:
-            #     logging.info(f"no champion_coordinates")
-            #     return
-            # if file_count_train % 10 == 0 and self.check_test:
-            #     labelimg_path = test_img_path
-            #     limg_path = test_img_path
-            #     logging.info(
-            #         f"TEST. number of files in {test_img_path} is {file_count_test}"
-            #     )
-            #     self.check_test = False
-            #     self.second_per_frame = 10
-            # else:
-            #     labelimg_path = train_img_path
-            #     limg_path = train_img_path
-            #     self.check_test = True
-            #     self.second_per_frame = 15
 
-            imgname = os.path.join(train_img_path, f"{str(uuid.uuid1())}.jpg")
-            if (
-                file_count_train + file_count_test + file_count_val < self.number_imgs
-            ) or ChampionChecker.is_champion_missing(
+        if (
+            (file_count_train + file_count_test + file_count_val < self.number_imgs)
+            or ChampionChecker.is_champion_missing(
                 self.detected_champion_names, champion_coordinates
-            ):
-                cv2.imwrite(imgname, frame)
-                # cv2.imshow("creating data fro model", frame)
-                cv2.waitKey(1)
+            )
+            or (len(self.detected_champion_names) <= len(self.champion_names))
+        ):
 
-                # Assuming that create_annotation_xml is the correct method to call based on provided context
-                XmlAnnotation(
-                    imgname, champion_coordinates, labelimg_path
-                ).modified_create_annotation_xml()
+            image_id = str(uuid.uuid1())
 
-                logging.info(f"{os.path.splitext(os.path.basename(imgname))[0]} saved")
+            imgname = os.path.join(self.train_img_path, f"{image_id}.jpg")
+            cv2.imwrite(imgname, frame)
+            # cv2.imshow("creating data fro model", frame)
+            # cv2.waitKey(1)
 
-                logging.info(f"creating labelmap")
-                label_map = LabelMap(
-                    self.LABELIMG_PATH,
-                    self.ANNOTATION_PATH,
-                    self.LABEL_MAP_NAME,
-                    self.champion_names,
-                )
-                label_map.make_label_map()
-            else:
-                logging.info(f"name exists in labels")
+            # Assuming that create_annotation_xml is the correct method to call based on provided context
+
+            label_creator = YOLOv9LabelCreator(
+                self.champion_names, self.train_label_path
+            )
+            label_creator.create_labels(image_id, champion_coordinates)
+
+            logging.info(f"{image_id} saved")
+
+            self.detected_champion_names = ChampionChecker.update_champion_list()
         else:
             logging.info(
-                f"total number of files in {self.IMAGES_PATH} is {file_count_train + file_count_test}"
+                f"name exists in labels or total number of files in {self.IMAGES_PATH} is {file_count_train + file_count_test}"
             )
-            logging.info(f"creating labelmap")
-            label_map = LabelMap(
-                self.LABELIMG_PATH,
-                self.ANNOTATION_PATH,
-                self.LABEL_MAP_NAME,
-                self.champion_names,
-            )
-            label_map.make_label_map()
-            tf_record_converter = TFRecordConverter(
-                train_img_path,
-                os.path.join(self.ANNOTATION_PATH, "label_map.pbtxt"),
-                os.path.join(self.ANNOTATION_PATH, "train.record"),
-            )
-            tf_record_converter.convert()
-            tf_record_converter.xml_dir = test_img_path
-            tf_record_converter.image_dir = test_img_path
-            tf_record_converter.output_path = os.path.join(
-                self.ANNOTATION_PATH, "test.record"
-            )
-            tf_record_converter.convert()
-            update_config()
-            # Запуск model_main_tf2.py
-            args = [  # "python", "Tensorflow/models/research/object_detection/model_main_tf2.py",
-                "python",
-                "Tensorflow/models/research/object_detection/model_main_tf2.py",
-                "--pipeline_config_path=Tensorflow/workspace/models/model_for_TFT/pipeline.config",
-                "--model_dir=Tensorflow/workspace/models/model_for_TFT",
-                "--alsologtostderr",
-            ]
-            process = subprocess.Popen(args)
-
-            # Если TensorBoard не запущен, запустить его
-            if not self.is_tensorboard_running():
-                tensorboard_args = [
-                    "tensorboard",
-                    "--logdir=Tensorflow/workspace/models/model_for_TFT/train",
-                ]
-                subprocess.Popen(tensorboard_args)
-            # Ожидание завершения model_main_tf2.py
-            process.wait()
-            detecting()
