@@ -16,3 +16,4 @@
 2024-05-23 09:23:07 info: OCR results: [([[3, 3], [53, 3], [53, 19], [3, 19]], 'Garen', 0.6249702960444732)]
 2024-05-23 09:23:07 info: OCR results: [([[1, 0], [77, 0], [77, 19], [1, 19]], "Cho'Gath", 0.9980505737877469)]
 2024-05-23 09:23:07 info: 3) screen_for_champ: 0 test_index: 4
+2024-05-23 09:41:47 info: checking for keanelol every 15 seconds, recording with 1080p60 quality
