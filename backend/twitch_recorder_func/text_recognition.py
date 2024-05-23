@@ -8,10 +8,10 @@ import re
 import os
 import uuid
 
-from helpers.detected_classes import DetectedClasses
-from helpers.champion_checker import ChampionChecker
-from helpers.yolov9_label_creator import YOLOv9LabelCreator
-from helpers.image_dataset_splitter import ImageDatasetSplitter
+from twitch_recorder_func.helpers.detected_classes import DetectedClasses
+from twitch_recorder_func.helpers.champion_checker import ChampionChecker
+from twitch_recorder_func.helpers.yolov9_label_creator import YOLOv9LabelCreator
+from twitch_recorder_func.helpers.image_dataset_splitter import ImageDatasetSplitter
 
 
 def clean_and_lowercase(s):

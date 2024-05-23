@@ -11,7 +11,7 @@ from twitch_recorder_func.config_loader import load_config
 from twitch_recorder_func.folder_setup import setup_folders
 from twitch_recorder_func.access_token_fetcher import fetch_access_token
 from twitch_recorder_func.twitch_user_fetcher import get_users_by_category
-from helpers.yolov9_config_creator import YOLOv9ConfigCreator
+from twitch_recorder_func.helpers.yolov9_config_creator import YOLOv9ConfigCreator
 
 
 class TwitchRecorder:
@@ -58,7 +58,7 @@ class TwitchRecorder:
         self.access_token = fetch_access_token(self.token_url)
         self.IMAGES_PATH = os.path.join("train_data", "images")
         self.LABELIMG_PATH = os.path.join("train_data", "labels")
-        self.config_path = os.path.join("train_data")
+        self.config_path = "/backend/train_data"
 
         self.headers = {
             "Client-ID": self.client_id,

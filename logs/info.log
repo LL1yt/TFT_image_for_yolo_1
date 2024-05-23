@@ -2,3 +2,17 @@
 2024-05-19 03:49:09 INFO: First ten currently online users in teamfight tactics category: ['k3soju', 'saintvicious', 'bellum', 'Ramblinnn', 'Voids1n', 'Subzeroark', 'PTERODACTYLSFTW', 'ACommonQuail', 'QuadtheGod', 'RaybaybayTTV']
 2024-05-19 03:49:10 INFO: saintvicious online, stream recording in session
 2024-05-19 03:49:10 INFO: processing is done, going back to checking...
+2024-05-23 09:22:59 info: checking for keanelol every 15 seconds, recording with 1080p60 quality
+2024-05-23 09:22:59 info: First ten currently online users in teamfight tactics category: ['boxbox', 'keanelol', 'Wingsofdeath', 'Rainplosion', 'PTERODACTYLSFTW', 'Rocky', 'PlushyBunni', 'Risky10', 'OuroVT', 'deathgirl122004']
+2024-05-23 09:22:59 info: keanelol online, stream recording in session
+2024-05-23 09:23:02 info: Starting stream processing
+2024-05-23 09:23:05 info: Stream URL retrieved successfully
+2024-05-23 09:23:06 info: ------------------------------------------
+2024-05-23 09:23:06 info: ------------------------------------------
+2024-05-23 09:23:06 info: Processing frame 0
+2024-05-23 09:23:07 info: OCR results: [([[3, 1], [75, 1], [75, 21], [3, 21]], 'Malphite', 0.7058298833901548)]
+2024-05-23 09:23:07 info: OCR results: [([[1, 1], [41, 1], [41, 19], [1, 19]], 'Sivir', 0.9999796880979371)]
+2024-05-23 09:23:07 info: OCR results: []
+2024-05-23 09:23:07 info: OCR results: [([[3, 3], [53, 3], [53, 19], [3, 19]], 'Garen', 0.6249702960444732)]
+2024-05-23 09:23:07 info: OCR results: [([[1, 0], [77, 0], [77, 19], [1, 19]], "Cho'Gath", 0.9980505737877469)]
+2024-05-23 09:23:07 info: 3) screen_for_champ: 0 test_index: 4
