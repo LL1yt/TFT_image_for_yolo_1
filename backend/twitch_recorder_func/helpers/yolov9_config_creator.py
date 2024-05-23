@@ -18,7 +18,8 @@ class YOLOv9ConfigCreator:
             "nc": len(self.champion_names),
             "names": self.champion_names,
         }
+        config_file = os.path.join(config_path, "yolov9-custom.yaml")
 
-        with open(config_path, "w") as file:
+        with open(config_file, "w") as file:
             yaml.dump(config, file, default_flow_style=False)
-        print(f"Configuration file saved to {config_path}")
+        print(f"Configuration file saved to {config_file}")
