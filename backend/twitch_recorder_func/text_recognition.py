@@ -145,7 +145,7 @@ class VideoTextRecognition:
         """Process champion coordinates and perform necessary actions."""
 
         logging.info(
-            f"3) screen_for_champ: {len(champion_coordinates)+1} test_index: {test_index}"
+            f"3) screen_for_champ: {len(champion_coordinates)} test_index: {test_index}"
         )
 
         file_count_train = self.count_files_in_directory(self.train_img_path)
@@ -157,7 +157,7 @@ class VideoTextRecognition:
         logging.info(
             f"4) is_champion_missing: {ChampionChecker.is_champion_missing(
                 self.detected_champion_names, champion_coordinates
-            )} detected_champion_names: {len(self.detected_champion_names)}; champion_names: {len(self.champion_names)}"
+            )} detected_champion_names len: {len(self.detected_champion_names)}; champion_names: {len(self.champion_names)}; detected_champion_names: {self.detected_champion_names}"
         )
 
         if (
