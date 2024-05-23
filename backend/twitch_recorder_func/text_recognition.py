@@ -11,6 +11,7 @@ import uuid
 from helpers.detected_classes import DetectedClasses
 from helpers.champion_checker import ChampionChecker
 from helpers.yolov9_label_creator import YOLOv9LabelCreator
+from helpers.image_dataset_splitter import ImageDatasetSplitter
 
 
 def clean_and_lowercase(s):
@@ -183,6 +184,7 @@ class VideoTextRecognition:
                     self.detected_champion_names, champion_coordinates
                 )
         else:
+            ImageDatasetSplitter(self.IMAGES_PATH).split_dataset()
             logging.info(
                 f"name exists in labels or total number of files in {self.IMAGES_PATH} is {file_count}"
             )
