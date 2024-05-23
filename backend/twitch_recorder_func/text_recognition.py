@@ -154,6 +154,11 @@ class VideoTextRecognition:
         file_count = file_count_train + file_count_test + file_count_val
 
         # Check if total number of files exceeds predefined limit
+        logging.info(
+            f"4) is_champion_missing: {ChampionChecker.is_champion_missing(
+                self.detected_champion_names, champion_coordinates
+            )} detected_champion_names: {len(self.detected_champion_names)}; champion_names: {len(self.champion_names)}"
+        )
 
         if (
             file_count < self.number_imgs
