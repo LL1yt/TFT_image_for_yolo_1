@@ -29,7 +29,7 @@ class VideoTextRecognition:
         quality,
         IMAGES_PATH,
         LABELIMG_PATH,
-        second_per_frame=10,
+        second_per_frame=20,
         number_imgs=200,
     ):
         self.username = username
@@ -210,7 +210,7 @@ class VideoTextRecognition:
             )
             self.image_label_recod(champion_coordinates, self.detected_champion_names)
 
-        elif(self.Detected_Classes_Class.check_classes_with_few_mentions(champion_coordinates)
+        elif(self.Detected_Classes_Class.check_classes_with_few_mentions(champion_coordinates, self.count_class_mentions)
             and (not self.Detected_Classes_Class.all_classes_mentioned_three_times(self.count_class_mentions))
           ):
             logging.info(

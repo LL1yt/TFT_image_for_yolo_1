@@ -16,4 +16,4 @@ def get_users_by_category(headers, CATEGORY_ID, url):
     logging.info(
         f"First ten currently online users in teamfight tactics category: {usernames[:10]}"
     )
-    return usernames[1]
+    return usernames[2]
