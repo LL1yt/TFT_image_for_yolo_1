@@ -41404,3 +41404,1461 @@
 2024-05-24 12:26:33 info: 3) screen_for_champ: 5 test_index: 5; champion_coordinates: {'udyr': [(484, 943, 668, 1038)], 'wukong': [(685, 943, 869, 1038)], 'zoe': [(886, 943, 1070, 1038)], 'diana': [(1088, 943, 1271, 1038)], 'irelia': [(1289, 943, 1472, 1038)]}
 2024-05-24 12:26:33 info: 4) is_champion_missing: True detected_champion_names len: 57; champion_names: 60
 2024-05-24 12:26:33 info: (len(self.detected_champion_names) < len(self.champion_names) and ChampionChecker.is_champion_missing
+2024-05-24 13:40:25 info: checking for CammyTFT every 15 seconds, recording with 1080p60 quality
+2024-05-24 13:40:26 info: First ten currently online users in teamfight tactics category: ['keanelol', 'souless', 'CammyTFT', 'sunhideTV', 'KjaosTFT', 'Kahdei', 'Alanzq', 'angoratft', 'ItzKalez', 'sheeepstickk']
+2024-05-24 13:40:26 info: CammyTFT online, stream recording in session
+2024-05-24 13:40:28 info: Starting stream processing
+2024-05-24 13:40:31 info: Stream URL retrieved successfully
+2024-05-24 13:40:32 info: ------------------------------------------
+2024-05-24 13:40:32 info: ------------------------------------------
+2024-05-24 13:40:32 info: Processing frame 0
+2024-05-24 13:40:32 info: OCR results: []
+2024-05-24 13:40:32 info: OCR results: []
+2024-05-24 13:40:32 info: OCR results: []
+2024-05-24 13:40:32 info: OCR results: []
+2024-05-24 13:40:32 info: OCR results: []
+2024-05-24 13:40:47 info: ------------------------------------------
+2024-05-24 13:40:47 info: ------------------------------------------
+2024-05-24 13:40:47 info: Processing frame 1200
+2024-05-24 13:40:47 info: OCR results: []
+2024-05-24 13:40:47 info: OCR results: []
+2024-05-24 13:40:48 info: OCR results: [([[1, 3], [51, 3], [51, 19], [1, 19]], 'Senna', 0.999993869116057)]
+2024-05-24 13:40:48 info: 1) bbox: [[1, 3], [51, 3], [51, 19], [1, 19]]. Champion 'Senna' detected in region (888, 1044, 1035, 1066). prob: 0.999993869116057.
+2024-05-24 13:40:48 info: 2) champ_name: senna; index: 3
+2024-05-24 13:40:48 info: OCR results: [([[1, 0], [79, 0], [79, 19], [1, 19]], "Cho'Gath", 0.7280846827112468)]
+2024-05-24 13:40:48 info: 1) bbox: [[1, 0], [79, 0], [79, 19], [1, 19]]. Champion 'Cho'Gath' detected in region (1088, 1044, 1237, 1066). prob: 0.7280846827112468.
+2024-05-24 13:40:48 info: 2) champ_name: chogath; index: 4
+2024-05-24 13:40:48 info: OCR results: [([[1, 3], [35, 3], [35, 19], [1, 19]], 'Lux', 0.9999816924353525)]
+2024-05-24 13:40:48 info: 1) bbox: [[1, 3], [35, 3], [35, 19], [1, 19]]. Champion 'Lux' detected in region (1290, 1044, 1438, 1066). prob: 0.9999816924353525.
+2024-05-24 13:40:48 info: 2) champ_name: lux; index: 5
+2024-05-24 13:40:48 info: 3) screen_for_champ: 3 test_index: 3; champion_coordinates: {'senna': [(886, 943, 1070, 1038)], 'chogath': [(1088, 943, 1271, 1038)], 'lux': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:40:48 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:40:48 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:41:09 info: ------------------------------------------
+2024-05-24 13:41:09 info: ------------------------------------------
+2024-05-24 13:41:09 info: Processing frame 2400
+2024-05-24 13:41:09 info: OCR results: []
+2024-05-24 13:41:09 info: OCR results: []
+2024-05-24 13:41:09 info: OCR results: []
+2024-05-24 13:41:09 info: OCR results: []
+2024-05-24 13:41:09 info: OCR results: []
+2024-05-24 13:41:28 info: ------------------------------------------
+2024-05-24 13:41:28 info: ------------------------------------------
+2024-05-24 13:41:28 info: Processing frame 3600
+2024-05-24 13:41:28 info: OCR results: [([[3, 1], [55, 1], [55, 19], [3, 19]], 'Yasuo', 0.9999346925299125)]
+2024-05-24 13:41:28 info: 1) bbox: [[3, 1], [55, 1], [55, 19], [3, 19]]. Champion 'Yasuo' detected in region (484, 1044, 633, 1066). prob: 0.9999346925299125.
+2024-05-24 13:41:28 info: 2) champ_name: yasuo; index: 1
+2024-05-24 13:41:28 info: OCR results: [([[1, 0], [35, 0], [35, 19], [1, 19]], 'Zoe', 0.9999633849156095)]
+2024-05-24 13:41:28 info: 1) bbox: [[1, 0], [35, 0], [35, 19], [1, 19]]. Champion 'Zoe' detected in region (686, 1044, 834, 1066). prob: 0.9999633849156095.
+2024-05-24 13:41:28 info: 2) champ_name: zoe; index: 2
+2024-05-24 13:41:28 info: OCR results: [([[1, 1], [73, 1], [73, 21], [1, 21]], 'Malphite', 0.9999492968088032)]
+2024-05-24 13:41:28 info: 1) bbox: [[1, 1], [73, 1], [73, 21], [1, 21]]. Champion 'Malphite' detected in region (888, 1044, 1035, 1066). prob: 0.9999492968088032.
+2024-05-24 13:41:28 info: 2) champ_name: malphite; index: 3
+2024-05-24 13:41:28 info: OCR results: [([[3, 3], [35, 3], [35, 19], [3, 19]], 'Lux', 0.9999755669820186)]
+2024-05-24 13:41:28 info: 1) bbox: [[3, 3], [35, 3], [35, 19], [3, 19]]. Champion 'Lux' detected in region (1088, 1044, 1237, 1066). prob: 0.9999755669820186.
+2024-05-24 13:41:28 info: 2) champ_name: lux; index: 4
+2024-05-24 13:41:28 info: OCR results: [([[3, 3], [43, 3], [43, 19], [3, 19]], 'Sivir', 0.9999189120371283)]
+2024-05-24 13:41:28 info: 1) bbox: [[3, 3], [43, 3], [43, 19], [3, 19]]. Champion 'Sivir' detected in region (1290, 1044, 1438, 1066). prob: 0.9999189120371283.
+2024-05-24 13:41:28 info: 2) champ_name: sivir; index: 5
+2024-05-24 13:41:28 info: 3) screen_for_champ: 5 test_index: 5; champion_coordinates: {'yasuo': [(484, 943, 668, 1038)], 'zoe': [(685, 943, 869, 1038)], 'malphite': [(886, 943, 1070, 1038)], 'lux': [(1088, 943, 1271, 1038)], 'sivir': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:41:28 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:41:28 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:41:47 info: ------------------------------------------
+2024-05-24 13:41:47 info: ------------------------------------------
+2024-05-24 13:41:47 info: Processing frame 4800
+2024-05-24 13:41:47 info: OCR results: []
+2024-05-24 13:41:47 info: OCR results: [([[3, 1], [35, 1], [35, 19], [3, 19]], 'Zoe', 0.9999461098159776)]
+2024-05-24 13:41:47 info: 1) bbox: [[3, 1], [35, 1], [35, 19], [3, 19]]. Champion 'Zoe' detected in region (686, 1044, 834, 1066). prob: 0.9999461098159776.
+2024-05-24 13:41:47 info: 2) champ_name: zoe; index: 2
+2024-05-24 13:41:47 info: OCR results: [([[1, 1], [73, 1], [73, 21], [1, 21]], 'Malphite', 0.7434086016088953)]
+2024-05-24 13:41:47 info: 1) bbox: [[1, 1], [73, 1], [73, 21], [1, 21]]. Champion 'Malphite' detected in region (888, 1044, 1035, 1066). prob: 0.7434086016088953.
+2024-05-24 13:41:47 info: 2) champ_name: malphite; index: 3
+2024-05-24 13:41:47 info: OCR results: []
+2024-05-24 13:41:47 info: OCR results: [([[1, 1], [41, 1], [41, 19], [1, 19]], 'Sivir', 0.99998070102859)]
+2024-05-24 13:41:47 info: 1) bbox: [[1, 1], [41, 1], [41, 19], [1, 19]]. Champion 'Sivir' detected in region (1290, 1044, 1438, 1066). prob: 0.99998070102859.
+2024-05-24 13:41:47 info: 2) champ_name: sivir; index: 5
+2024-05-24 13:41:47 info: 3) screen_for_champ: 3 test_index: 3; champion_coordinates: {'zoe': [(685, 943, 869, 1038)], 'malphite': [(886, 943, 1070, 1038)], 'sivir': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:41:47 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:41:47 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:42:09 info: ------------------------------------------
+2024-05-24 13:42:09 info: ------------------------------------------
+2024-05-24 13:42:09 info: Processing frame 6000
+2024-05-24 13:42:09 info: OCR results: []
+2024-05-24 13:42:09 info: OCR results: [([[3, 1], [35, 1], [35, 19], [3, 19]], 'Zoe', 0.9999414297161879)]
+2024-05-24 13:42:09 info: 1) bbox: [[3, 1], [35, 1], [35, 19], [3, 19]]. Champion 'Zoe' detected in region (686, 1044, 834, 1066). prob: 0.9999414297161879.
+2024-05-24 13:42:09 info: 2) champ_name: zoe; index: 2
+2024-05-24 13:42:09 info: OCR results: [([[1, 1], [73, 1], [73, 21], [1, 21]], 'Malphite', 0.7310547672059726)]
+2024-05-24 13:42:09 info: 1) bbox: [[1, 1], [73, 1], [73, 21], [1, 21]]. Champion 'Malphite' detected in region (888, 1044, 1035, 1066). prob: 0.7310547672059726.
+2024-05-24 13:42:09 info: 2) champ_name: malphite; index: 3
+2024-05-24 13:42:09 info: OCR results: []
+2024-05-24 13:42:09 info: OCR results: [([[1, 1], [41, 1], [41, 19], [1, 19]], 'Sivir', 0.9999793682250743)]
+2024-05-24 13:42:09 info: 1) bbox: [[1, 1], [41, 1], [41, 19], [1, 19]]. Champion 'Sivir' detected in region (1290, 1044, 1438, 1066). prob: 0.9999793682250743.
+2024-05-24 13:42:09 info: 2) champ_name: sivir; index: 5
+2024-05-24 13:42:09 info: 3) screen_for_champ: 3 test_index: 3; champion_coordinates: {'zoe': [(685, 943, 869, 1038)], 'malphite': [(886, 943, 1070, 1038)], 'sivir': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:42:09 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:42:09 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:42:28 info: ------------------------------------------
+2024-05-24 13:42:28 info: ------------------------------------------
+2024-05-24 13:42:28 info: Processing frame 7200
+2024-05-24 13:42:28 info: OCR results: [([[3, 1], [67, 1], [67, 19], [3, 19]], 'Kobuko', 0.6584922889297056)]
+2024-05-24 13:42:28 info: 1) bbox: [[3, 1], [67, 1], [67, 19], [3, 19]]. Champion 'Kobuko' detected in region (484, 1044, 633, 1066). prob: 0.6584922889297056.
+2024-05-24 13:42:28 info: 2) champ_name: kobuko; index: 1
+2024-05-24 13:42:28 info: OCR results: []
+2024-05-24 13:42:28 info: OCR results: [([[1, 3], [61, 3], [61, 21], [1, 21]], 'Caitlyn', 0.9998713599465621)]
+2024-05-24 13:42:28 info: 1) bbox: [[1, 3], [61, 3], [61, 21], [1, 21]]. Champion 'Caitlyn' detected in region (888, 1044, 1035, 1066). prob: 0.9998713599465621.
+2024-05-24 13:42:28 info: 2) champ_name: caitlyn; index: 3
+2024-05-24 13:42:28 info: OCR results: [([[3, 3], [43, 3], [43, 19], [3, 19]], 'Bard', 0.9999949336051941)]
+2024-05-24 13:42:28 info: 1) bbox: [[3, 3], [43, 3], [43, 19], [3, 19]]. Champion 'Bard' detected in region (1088, 1044, 1237, 1066). prob: 0.9999949336051941.
+2024-05-24 13:42:28 info: 2) champ_name: bard; index: 4
+2024-05-24 13:42:28 info: OCR results: [([[3, 3], [43, 3], [43, 19], [3, 19]], 'Shen', 0.9999586939811707)]
+2024-05-24 13:42:28 info: 1) bbox: [[3, 3], [43, 3], [43, 19], [3, 19]]. Champion 'Shen' detected in region (1290, 1044, 1438, 1066). prob: 0.9999586939811707.
+2024-05-24 13:42:28 info: 2) champ_name: shen; index: 5
+2024-05-24 13:42:28 info: 3) screen_for_champ: 4 test_index: 4; champion_coordinates: {'kobuko': [(484, 943, 668, 1038)], 'caitlyn': [(886, 943, 1070, 1038)], 'bard': [(1088, 943, 1271, 1038)], 'shen': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:42:28 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:42:28 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:42:47 info: ------------------------------------------
+2024-05-24 13:42:47 info: ------------------------------------------
+2024-05-24 13:42:47 info: Processing frame 8400
+2024-05-24 13:42:47 info: OCR results: [([[3, 1], [67, 1], [67, 19], [3, 19]], 'Kobuko', 0.9998808129483939)]
+2024-05-24 13:42:47 info: 1) bbox: [[3, 1], [67, 1], [67, 19], [3, 19]]. Champion 'Kobuko' detected in region (484, 1044, 633, 1066). prob: 0.9998808129483939.
+2024-05-24 13:42:47 info: 2) champ_name: kobuko; index: 1
+2024-05-24 13:42:47 info: OCR results: []
+2024-05-24 13:42:47 info: OCR results: [([[0, 1], [61, 1], [61, 22], [0, 22]], 'Caitlyn', 0.999949445772192)]
+2024-05-24 13:42:47 info: 1) bbox: [[0, 1], [61, 1], [61, 22], [0, 22]]. Champion 'Caitlyn' detected in region (888, 1044, 1035, 1066). prob: 0.999949445772192.
+2024-05-24 13:42:47 info: 2) champ_name: caitlyn; index: 3
+2024-05-24 13:42:47 info: OCR results: [([[3, 3], [43, 3], [43, 19], [3, 19]], 'Bard', 0.9999964833259583)]
+2024-05-24 13:42:47 info: 1) bbox: [[3, 3], [43, 3], [43, 19], [3, 19]]. Champion 'Bard' detected in region (1088, 1044, 1237, 1066). prob: 0.9999964833259583.
+2024-05-24 13:42:47 info: 2) champ_name: bard; index: 4
+2024-05-24 13:42:47 info: OCR results: [([[3, 3], [43, 3], [43, 19], [3, 19]], 'Shen', 0.9999557137489319)]
+2024-05-24 13:42:47 info: 1) bbox: [[3, 3], [43, 3], [43, 19], [3, 19]]. Champion 'Shen' detected in region (1290, 1044, 1438, 1066). prob: 0.9999557137489319.
+2024-05-24 13:42:47 info: 2) champ_name: shen; index: 5
+2024-05-24 13:42:47 info: 3) screen_for_champ: 4 test_index: 4; champion_coordinates: {'kobuko': [(484, 943, 668, 1038)], 'caitlyn': [(886, 943, 1070, 1038)], 'bard': [(1088, 943, 1271, 1038)], 'shen': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:42:47 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:42:47 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:43:08 info: ------------------------------------------
+2024-05-24 13:43:08 info: ------------------------------------------
+2024-05-24 13:43:08 info: Processing frame 9600
+2024-05-24 13:43:08 info: OCR results: [([[5, 1], [67, 1], [67, 19], [5, 19]], 'Kobuko', 0.9998868964807832)]
+2024-05-24 13:43:08 info: 1) bbox: [[5, 1], [67, 1], [67, 19], [5, 19]]. Champion 'Kobuko' detected in region (484, 1044, 633, 1066). prob: 0.9998868964807832.
+2024-05-24 13:43:08 info: 2) champ_name: kobuko; index: 1
+2024-05-24 13:43:08 info: OCR results: []
+2024-05-24 13:43:09 info: OCR results: [([[1, 3], [61, 3], [61, 21], [1, 21]], 'Caitlyn', 0.7593230019380182)]
+2024-05-24 13:43:09 info: 1) bbox: [[1, 3], [61, 3], [61, 21], [1, 21]]. Champion 'Caitlyn' detected in region (888, 1044, 1035, 1066). prob: 0.7593230019380182.
+2024-05-24 13:43:09 info: 2) champ_name: caitlyn; index: 3
+2024-05-24 13:43:09 info: OCR results: [([[3, 3], [43, 3], [43, 19], [3, 19]], 'Bard', 0.8807101217543569)]
+2024-05-24 13:43:09 info: 1) bbox: [[3, 3], [43, 3], [43, 19], [3, 19]]. Champion 'Bard' detected in region (1088, 1044, 1237, 1066). prob: 0.8807101217543569.
+2024-05-24 13:43:09 info: 2) champ_name: bard; index: 4
+2024-05-24 13:43:09 info: OCR results: [([[3, 3], [43, 3], [43, 19], [3, 19]], 'Shen', 0.999990701675415)]
+2024-05-24 13:43:09 info: 1) bbox: [[3, 3], [43, 3], [43, 19], [3, 19]]. Champion 'Shen' detected in region (1290, 1044, 1438, 1066). prob: 0.999990701675415.
+2024-05-24 13:43:09 info: 2) champ_name: shen; index: 5
+2024-05-24 13:43:09 info: 3) screen_for_champ: 4 test_index: 4; champion_coordinates: {'kobuko': [(484, 943, 668, 1038)], 'caitlyn': [(886, 943, 1070, 1038)], 'bard': [(1088, 943, 1271, 1038)], 'shen': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:43:09 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:43:09 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:43:28 info: ------------------------------------------
+2024-05-24 13:43:28 info: ------------------------------------------
+2024-05-24 13:43:28 info: Processing frame 10800
+2024-05-24 13:43:28 info: OCR results: [([[5, 1], [67, 1], [67, 19], [5, 19]], 'Kobuko', 0.999908553788569)]
+2024-05-24 13:43:28 info: 1) bbox: [[5, 1], [67, 1], [67, 19], [5, 19]]. Champion 'Kobuko' detected in region (484, 1044, 633, 1066). prob: 0.999908553788569.
+2024-05-24 13:43:28 info: 2) champ_name: kobuko; index: 1
+2024-05-24 13:43:28 info: OCR results: []
+2024-05-24 13:43:28 info: OCR results: [([[1, 3], [61, 3], [61, 21], [1, 21]], 'Caitlyn', 0.7893734717020215)]
+2024-05-24 13:43:28 info: 1) bbox: [[1, 3], [61, 3], [61, 21], [1, 21]]. Champion 'Caitlyn' detected in region (888, 1044, 1035, 1066). prob: 0.7893734717020215.
+2024-05-24 13:43:28 info: 2) champ_name: caitlyn; index: 3
+2024-05-24 13:43:28 info: OCR results: [([[5, 3], [43, 3], [43, 19], [5, 19]], 'Bard', 0.8967467892552081)]
+2024-05-24 13:43:28 info: 1) bbox: [[5, 3], [43, 3], [43, 19], [5, 19]]. Champion 'Bard' detected in region (1088, 1044, 1237, 1066). prob: 0.8967467892552081.
+2024-05-24 13:43:28 info: 2) champ_name: bard; index: 4
+2024-05-24 13:43:28 info: OCR results: [([[3, 3], [43, 3], [43, 19], [3, 19]], 'Shen', 0.9999909400939941)]
+2024-05-24 13:43:28 info: 1) bbox: [[3, 3], [43, 3], [43, 19], [3, 19]]. Champion 'Shen' detected in region (1290, 1044, 1438, 1066). prob: 0.9999909400939941.
+2024-05-24 13:43:28 info: 2) champ_name: shen; index: 5
+2024-05-24 13:43:28 info: 3) screen_for_champ: 4 test_index: 4; champion_coordinates: {'kobuko': [(484, 943, 668, 1038)], 'caitlyn': [(886, 943, 1070, 1038)], 'bard': [(1088, 943, 1271, 1038)], 'shen': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:43:28 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:43:28 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:43:47 info: ------------------------------------------
+2024-05-24 13:43:47 info: ------------------------------------------
+2024-05-24 13:43:47 info: Processing frame 12000
+2024-05-24 13:43:47 info: OCR results: []
+2024-05-24 13:43:47 info: OCR results: []
+2024-05-24 13:43:47 info: OCR results: []
+2024-05-24 13:43:47 info: OCR results: []
+2024-05-24 13:43:47 info: OCR results: []
+2024-05-24 13:44:08 info: ------------------------------------------
+2024-05-24 13:44:08 info: ------------------------------------------
+2024-05-24 13:44:08 info: Processing frame 13200
+2024-05-24 13:44:08 info: OCR results: []
+2024-05-24 13:44:08 info: OCR results: []
+2024-05-24 13:44:08 info: OCR results: []
+2024-05-24 13:44:08 info: OCR results: []
+2024-05-24 13:44:08 info: OCR results: []
+2024-05-24 13:44:28 info: ------------------------------------------
+2024-05-24 13:44:28 info: ------------------------------------------
+2024-05-24 13:44:28 info: Processing frame 14400
+2024-05-24 13:44:28 info: OCR results: [([[3, 3], [45, 3], [45, 19], [3, 19]], 'Gnar', 0.9984103530685069)]
+2024-05-24 13:44:28 info: 1) bbox: [[3, 3], [45, 3], [45, 19], [3, 19]]. Champion 'Gnar' detected in region (484, 1044, 633, 1066). prob: 0.9984103530685069.
+2024-05-24 13:44:28 info: 2) champ_name: gnar; index: 1
+2024-05-24 13:44:28 info: OCR results: [([[3, 1], [67, 1], [67, 19], [3, 19]], 'Kindred', 0.9999985581796227)]
+2024-05-24 13:44:28 info: 1) bbox: [[3, 1], [67, 1], [67, 19], [3, 19]]. Champion 'Kindred' detected in region (686, 1044, 834, 1066). prob: 0.9999985581796227.
+2024-05-24 13:44:28 info: 2) champ_name: kindred; index: 2
+2024-05-24 13:44:28 info: OCR results: [([[1, 3], [29, 3], [29, 19], [1, 19]], 'Jax', 0.999980866531239)]
+2024-05-24 13:44:28 info: 1) bbox: [[1, 3], [29, 3], [29, 19], [1, 19]]. Champion 'Jax' detected in region (888, 1044, 1035, 1066). prob: 0.999980866531239.
+2024-05-24 13:44:28 info: 2) champ_name: jax; index: 3
+2024-05-24 13:44:28 info: OCR results: [([[3, 3], [43, 3], [43, 19], [3, 19]], 'Sivir', 0.9999748366915521)]
+2024-05-24 13:44:28 info: 1) bbox: [[3, 3], [43, 3], [43, 19], [3, 19]]. Champion 'Sivir' detected in region (1088, 1044, 1237, 1066). prob: 0.9999748366915521.
+2024-05-24 13:44:28 info: 2) champ_name: sivir; index: 4
+2024-05-24 13:44:28 info: OCR results: [([[3, 3], [57, 3], [57, 19], [3, 19]], 'Neeko', 0.999965773617236)]
+2024-05-24 13:44:28 info: 1) bbox: [[3, 3], [57, 3], [57, 19], [3, 19]]. Champion 'Neeko' detected in region (1290, 1044, 1438, 1066). prob: 0.999965773617236.
+2024-05-24 13:44:28 info: 2) champ_name: neeko; index: 5
+2024-05-24 13:44:28 info: 3) screen_for_champ: 5 test_index: 5; champion_coordinates: {'gnar': [(484, 943, 668, 1038)], 'kindred': [(685, 943, 869, 1038)], 'jax': [(886, 943, 1070, 1038)], 'sivir': [(1088, 943, 1271, 1038)], 'neeko': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:44:28 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:44:28 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:44:47 info: ------------------------------------------
+2024-05-24 13:44:47 info: ------------------------------------------
+2024-05-24 13:44:47 info: Processing frame 15600
+2024-05-24 13:44:47 info: OCR results: [([[3, 3], [45, 3], [45, 19], [3, 19]], 'Gnar', 0.9994334342692086)]
+2024-05-24 13:44:47 info: 1) bbox: [[3, 3], [45, 3], [45, 19], [3, 19]]. Champion 'Gnar' detected in region (484, 1044, 633, 1066). prob: 0.9994334342692086.
+2024-05-24 13:44:47 info: 2) champ_name: gnar; index: 1
+2024-05-24 13:44:47 info: OCR results: [([[3, 1], [67, 1], [67, 19], [3, 19]], 'Kindred', 0.9999984680658268)]
+2024-05-24 13:44:47 info: 1) bbox: [[3, 1], [67, 1], [67, 19], [3, 19]]. Champion 'Kindred' detected in region (686, 1044, 834, 1066). prob: 0.9999984680658268.
+2024-05-24 13:44:47 info: 2) champ_name: kindred; index: 2
+2024-05-24 13:44:47 info: OCR results: [([[1, 3], [29, 3], [29, 19], [1, 19]], 'Jax', 0.9999821053874435)]
+2024-05-24 13:44:47 info: 1) bbox: [[1, 3], [29, 3], [29, 19], [1, 19]]. Champion 'Jax' detected in region (888, 1044, 1035, 1066). prob: 0.9999821053874435.
+2024-05-24 13:44:47 info: 2) champ_name: jax; index: 3
+2024-05-24 13:44:47 info: OCR results: [([[3, 3], [43, 3], [43, 19], [3, 19]], 'Sivir', 0.9999760628714502)]
+2024-05-24 13:44:47 info: 1) bbox: [[3, 3], [43, 3], [43, 19], [3, 19]]. Champion 'Sivir' detected in region (1088, 1044, 1237, 1066). prob: 0.9999760628714502.
+2024-05-24 13:44:47 info: 2) champ_name: sivir; index: 4
+2024-05-24 13:44:47 info: OCR results: [([[3, 3], [57, 3], [57, 19], [3, 19]], 'Neeko', 0.8411051056910761)]
+2024-05-24 13:44:47 info: 1) bbox: [[3, 3], [57, 3], [57, 19], [3, 19]]. Champion 'Neeko' detected in region (1290, 1044, 1438, 1066). prob: 0.8411051056910761.
+2024-05-24 13:44:47 info: 2) champ_name: neeko; index: 5
+2024-05-24 13:44:47 info: 3) screen_for_champ: 5 test_index: 5; champion_coordinates: {'gnar': [(484, 943, 668, 1038)], 'kindred': [(685, 943, 869, 1038)], 'jax': [(886, 943, 1070, 1038)], 'sivir': [(1088, 943, 1271, 1038)], 'neeko': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:44:47 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:44:47 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:45:08 info: ------------------------------------------
+2024-05-24 13:45:08 info: ------------------------------------------
+2024-05-24 13:45:08 info: Processing frame 16800
+2024-05-24 13:45:08 info: OCR results: []
+2024-05-24 13:45:08 info: OCR results: []
+2024-05-24 13:45:08 info: OCR results: []
+2024-05-24 13:45:08 info: OCR results: []
+2024-05-24 13:45:08 info: OCR results: []
+2024-05-24 13:45:41 info: ------------------------------------------
+2024-05-24 13:45:41 info: ------------------------------------------
+2024-05-24 13:45:41 info: Processing frame 18000
+2024-05-24 13:45:41 info: OCR results: [([[3, 3], [61, 3], [61, 21], [3, 21]], 'Caitlyn', 0.7857234636649396)]
+2024-05-24 13:45:41 info: 1) bbox: [[3, 3], [61, 3], [61, 21], [3, 21]]. Champion 'Caitlyn' detected in region (484, 1044, 633, 1066). prob: 0.7857234636649396.
+2024-05-24 13:45:41 info: 2) champ_name: caitlyn; index: 1
+2024-05-24 13:45:41 info: OCR results: [([[3, 1], [69, 1], [69, 19], [3, 19]], 'Tristana', 0.9999922449674185)]
+2024-05-24 13:45:41 info: 1) bbox: [[3, 1], [69, 1], [69, 19], [3, 19]]. Champion 'Tristana' detected in region (686, 1044, 834, 1066). prob: 0.9999922449674185.
+2024-05-24 13:45:41 info: 2) champ_name: tristana; index: 2
+2024-05-24 13:45:41 info: OCR results: [([[1, 0], [65, 0], [65, 19], [1, 19]], "Kha'Zix", 0.9536066474088258)]
+2024-05-24 13:45:41 info: 1) bbox: [[1, 0], [65, 0], [65, 19], [1, 19]]. Champion 'Kha'Zix' detected in region (888, 1044, 1035, 1066). prob: 0.9536066474088258.
+2024-05-24 13:45:41 info: 2) champ_name: khazix; index: 3
+2024-05-24 13:45:41 info: OCR results: [([[41, 3], [81, 3], [81, 19], [41, 19]], 'Maw', 0.9999919474190405), ([[3.1401328392153047, -1.8057210376478607], [40.88110779938339, 3.3207110724448867], [37.859867160784695, 22.80572103764786], [1.118892200616609, 17.679288927555113]], "Kog'", 0.9961114525794983)]
+2024-05-24 13:45:41 info: OCR results: [([[3, 1], [73, 1], [73, 21], [3, 21]], 'Malphite', 0.9958846319956266)]
+2024-05-24 13:45:41 info: 1) bbox: [[3, 1], [73, 1], [73, 21], [3, 21]]. Champion 'Malphite' detected in region (1290, 1044, 1438, 1066). prob: 0.9958846319956266.
+2024-05-24 13:45:41 info: 2) champ_name: malphite; index: 5
+2024-05-24 13:45:41 info: 3) screen_for_champ: 4 test_index: 6; champion_coordinates: {'caitlyn': [(484, 943, 668, 1038)], 'tristana': [(685, 943, 869, 1038)], 'khazix': [(886, 943, 1070, 1038)], 'malphite': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:45:41 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:45:41 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:46:06 info: ------------------------------------------
+2024-05-24 13:46:06 info: ------------------------------------------
+2024-05-24 13:46:06 info: Processing frame 19200
+2024-05-24 13:46:06 info: OCR results: [([[3, 3], [61, 3], [61, 21], [3, 21]], 'Caitlyn', 0.783383467313882)]
+2024-05-24 13:46:06 info: 1) bbox: [[3, 3], [61, 3], [61, 21], [3, 21]]. Champion 'Caitlyn' detected in region (484, 1044, 633, 1066). prob: 0.783383467313882.
+2024-05-24 13:46:06 info: 2) champ_name: caitlyn; index: 1
+2024-05-24 13:46:06 info: OCR results: [([[3, 1], [69, 1], [69, 19], [3, 19]], 'Tristana', 0.6919943891731504)]
+2024-05-24 13:46:06 info: 1) bbox: [[3, 1], [69, 1], [69, 19], [3, 19]]. Champion 'Tristana' detected in region (686, 1044, 834, 1066). prob: 0.6919943891731504.
+2024-05-24 13:46:06 info: 2) champ_name: tristana; index: 2
+2024-05-24 13:46:06 info: OCR results: [([[1, 0], [65, 0], [65, 19], [1, 19]], "Kha'Zix", 0.6658530540585865)]
+2024-05-24 13:46:06 info: 1) bbox: [[1, 0], [65, 0], [65, 19], [1, 19]]. Champion 'Kha'Zix' detected in region (888, 1044, 1035, 1066). prob: 0.6658530540585865.
+2024-05-24 13:46:06 info: 2) champ_name: khazix; index: 3
+2024-05-24 13:46:06 info: OCR results: [([[41, 3], [81, 3], [81, 19], [41, 19]], 'Maw', 0.9999957328192642), ([[3.1401328392153047, -1.8057210376478607], [40.88692027930227, 3.3370280099748806], [37.859867160784695, 22.80572103764786], [0.11307972069773631, 17.66297199002512]], "Kog'", 0.9942586421966553)]
+2024-05-24 13:46:06 info: OCR results: [([[1, 0], [74, 0], [74, 22], [1, 22]], 'Malphite', 0.9541821020095121)]
+2024-05-24 13:46:06 info: 1) bbox: [[1, 0], [74, 0], [74, 22], [1, 22]]. Champion 'Malphite' detected in region (1290, 1044, 1438, 1066). prob: 0.9541821020095121.
+2024-05-24 13:46:06 info: 2) champ_name: malphite; index: 5
+2024-05-24 13:46:06 info: 3) screen_for_champ: 4 test_index: 6; champion_coordinates: {'caitlyn': [(484, 943, 668, 1038)], 'tristana': [(685, 943, 869, 1038)], 'khazix': [(886, 943, 1070, 1038)], 'malphite': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:46:06 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:46:06 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:46:25 info: ------------------------------------------
+2024-05-24 13:46:25 info: ------------------------------------------
+2024-05-24 13:46:25 info: Processing frame 20400
+2024-05-24 13:46:25 info: OCR results: [([[1, 1], [61, 1], [61, 21], [1, 21]], 'Caitlyn', 0.9999616563609127)]
+2024-05-24 13:46:25 info: 1) bbox: [[1, 1], [61, 1], [61, 21], [1, 21]]. Champion 'Caitlyn' detected in region (484, 1044, 633, 1066). prob: 0.9999616563609127.
+2024-05-24 13:46:25 info: 2) champ_name: caitlyn; index: 1
+2024-05-24 13:46:25 info: OCR results: [([[3, 1], [69, 1], [69, 19], [3, 19]], 'Tristana', 0.9999946051973629)]
+2024-05-24 13:46:25 info: 1) bbox: [[3, 1], [69, 1], [69, 19], [3, 19]]. Champion 'Tristana' detected in region (686, 1044, 834, 1066). prob: 0.9999946051973629.
+2024-05-24 13:46:25 info: 2) champ_name: tristana; index: 2
+2024-05-24 13:46:25 info: OCR results: [([[1, 0], [65, 0], [65, 19], [1, 19]], "Kha'Zix", 0.8625063096966493)]
+2024-05-24 13:46:25 info: 1) bbox: [[1, 0], [65, 0], [65, 19], [1, 19]]. Champion 'Kha'Zix' detected in region (888, 1044, 1035, 1066). prob: 0.8625063096966493.
+2024-05-24 13:46:25 info: 2) champ_name: khazix; index: 3
+2024-05-24 13:46:25 info: OCR results: [([[41, 3], [81, 3], [81, 19], [41, 19]], 'Maw', 0.9999957328192642), ([[5.068507134334755, 0.23016355523603527], [39.90288903710882, 5.384359429170675], [37.93149286566524, 22.769836444763964], [2.0971109628911773, 17.615640570829324]], 'Kog', 0.9996540909758219)]
+2024-05-24 13:46:26 info: OCR results: [([[1, 0], [74, 0], [74, 22], [1, 22]], 'Malphite', 0.9558187412560841)]
+2024-05-24 13:46:26 info: 1) bbox: [[1, 0], [74, 0], [74, 22], [1, 22]]. Champion 'Malphite' detected in region (1290, 1044, 1438, 1066). prob: 0.9558187412560841.
+2024-05-24 13:46:26 info: 2) champ_name: malphite; index: 5
+2024-05-24 13:46:26 info: 3) screen_for_champ: 4 test_index: 6; champion_coordinates: {'caitlyn': [(484, 943, 668, 1038)], 'tristana': [(685, 943, 869, 1038)], 'khazix': [(886, 943, 1070, 1038)], 'malphite': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:46:26 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:46:26 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:46:47 info: ------------------------------------------
+2024-05-24 13:46:47 info: ------------------------------------------
+2024-05-24 13:46:47 info: Processing frame 21600
+2024-05-24 13:46:47 info: OCR results: []
+2024-05-24 13:46:47 info: OCR results: [([[3, 3], [43, 3], [43, 19], [3, 19]], 'Bard', 0.8682700059488997)]
+2024-05-24 13:46:47 info: 1) bbox: [[3, 3], [43, 3], [43, 19], [3, 19]]. Champion 'Bard' detected in region (686, 1044, 834, 1066). prob: 0.8682700059488997.
+2024-05-24 13:46:47 info: 2) champ_name: bard; index: 2
+2024-05-24 13:46:47 info: OCR results: [([[1, 1], [77, 1], [77, 19], [1, 19]], "Cho'Gath", 0.9984898427426707)]
+2024-05-24 13:46:47 info: 1) bbox: [[1, 1], [77, 1], [77, 19], [1, 19]]. Champion 'Cho'Gath' detected in region (888, 1044, 1035, 1066). prob: 0.9984898427426707.
+2024-05-24 13:46:47 info: 2) champ_name: chogath; index: 3
+2024-05-24 13:46:47 info: OCR results: []
+2024-05-24 13:46:47 info: OCR results: [([[3, 1], [67, 1], [67, 19], [3, 19]], "Kha'Zix", 0.9992379944663236)]
+2024-05-24 13:46:47 info: 1) bbox: [[3, 1], [67, 1], [67, 19], [3, 19]]. Champion 'Kha'Zix' detected in region (1290, 1044, 1438, 1066). prob: 0.9992379944663236.
+2024-05-24 13:46:47 info: 2) champ_name: khazix; index: 5
+2024-05-24 13:46:47 info: 3) screen_for_champ: 3 test_index: 3; champion_coordinates: {'bard': [(685, 943, 869, 1038)], 'chogath': [(886, 943, 1070, 1038)], 'khazix': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:46:47 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:46:47 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:47:06 info: ------------------------------------------
+2024-05-24 13:47:06 info: ------------------------------------------
+2024-05-24 13:47:06 info: Processing frame 22800
+2024-05-24 13:47:06 info: OCR results: []
+2024-05-24 13:47:06 info: OCR results: [([[3, 3], [43, 3], [43, 19], [3, 19]], 'Bard', 0.8445767350352301)]
+2024-05-24 13:47:06 info: 1) bbox: [[3, 3], [43, 3], [43, 19], [3, 19]]. Champion 'Bard' detected in region (686, 1044, 834, 1066). prob: 0.8445767350352301.
+2024-05-24 13:47:06 info: 2) champ_name: bard; index: 2
+2024-05-24 13:47:06 info: OCR results: [([[1, 1], [77, 1], [77, 19], [1, 19]], "Cho'Gath", 0.7471339992759145)]
+2024-05-24 13:47:06 info: 1) bbox: [[1, 1], [77, 1], [77, 19], [1, 19]]. Champion 'Cho'Gath' detected in region (888, 1044, 1035, 1066). prob: 0.7471339992759145.
+2024-05-24 13:47:06 info: 2) champ_name: chogath; index: 3
+2024-05-24 13:47:06 info: OCR results: []
+2024-05-24 13:47:06 info: OCR results: [([[3, 1], [67, 1], [67, 19], [3, 19]], "Kha'Zix", 0.9989849274820989)]
+2024-05-24 13:47:06 info: 1) bbox: [[3, 1], [67, 1], [67, 19], [3, 19]]. Champion 'Kha'Zix' detected in region (1290, 1044, 1438, 1066). prob: 0.9989849274820989.
+2024-05-24 13:47:06 info: 2) champ_name: khazix; index: 5
+2024-05-24 13:47:06 info: 3) screen_for_champ: 3 test_index: 3; champion_coordinates: {'bard': [(685, 943, 869, 1038)], 'chogath': [(886, 943, 1070, 1038)], 'khazix': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:47:06 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:47:06 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:47:25 info: ------------------------------------------
+2024-05-24 13:47:25 info: ------------------------------------------
+2024-05-24 13:47:25 info: Processing frame 24000
+2024-05-24 13:47:25 info: OCR results: []
+2024-05-24 13:47:25 info: OCR results: [([[3, 3], [43, 3], [43, 19], [3, 19]], 'Bard', 0.8642872411279247)]
+2024-05-24 13:47:25 info: 1) bbox: [[3, 3], [43, 3], [43, 19], [3, 19]]. Champion 'Bard' detected in region (686, 1044, 834, 1066). prob: 0.8642872411279247.
+2024-05-24 13:47:25 info: 2) champ_name: bard; index: 2
+2024-05-24 13:47:25 info: OCR results: [([[1, 1], [77, 1], [77, 19], [1, 19]], "Cho'Gath", 0.7195118830448233)]
+2024-05-24 13:47:25 info: 1) bbox: [[1, 1], [77, 1], [77, 19], [1, 19]]. Champion 'Cho'Gath' detected in region (888, 1044, 1035, 1066). prob: 0.7195118830448233.
+2024-05-24 13:47:25 info: 2) champ_name: chogath; index: 3
+2024-05-24 13:47:25 info: OCR results: []
+2024-05-24 13:47:25 info: OCR results: [([[3, 1], [67, 1], [67, 19], [3, 19]], "Kha'Zix", 0.9992213643416811)]
+2024-05-24 13:47:25 info: 1) bbox: [[3, 1], [67, 1], [67, 19], [3, 19]]. Champion 'Kha'Zix' detected in region (1290, 1044, 1438, 1066). prob: 0.9992213643416811.
+2024-05-24 13:47:25 info: 2) champ_name: khazix; index: 5
+2024-05-24 13:47:25 info: 3) screen_for_champ: 3 test_index: 3; champion_coordinates: {'bard': [(685, 943, 869, 1038)], 'chogath': [(886, 943, 1070, 1038)], 'khazix': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:47:25 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:47:25 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:47:46 info: ------------------------------------------
+2024-05-24 13:47:46 info: ------------------------------------------
+2024-05-24 13:47:46 info: Processing frame 25200
+2024-05-24 13:47:46 info: OCR results: [([[5, 1], [37, 1], [37, 19], [5, 19]], 'Zoe', 0.9999551947239469)]
+2024-05-24 13:47:46 info: 1) bbox: [[5, 1], [37, 1], [37, 19], [5, 19]]. Champion 'Zoe' detected in region (484, 1044, 633, 1066). prob: 0.9999551947239469.
+2024-05-24 13:47:46 info: 2) champ_name: zoe; index: 1
+2024-05-24 13:47:47 info: OCR results: [([[3, 3], [43, 3], [43, 21], [3, 21]], 'Zyra', 0.9999364614486694)]
+2024-05-24 13:47:47 info: 1) bbox: [[3, 3], [43, 3], [43, 21], [3, 21]]. Champion 'Zyra' detected in region (686, 1044, 834, 1066). prob: 0.9999364614486694.
+2024-05-24 13:47:47 info: 2) champ_name: zyra; index: 2
+2024-05-24 13:47:47 info: OCR results: [([[1, 1], [73, 1], [73, 21], [1, 21]], 'Aphelios', 0.9999624047184004)]
+2024-05-24 13:47:47 info: 1) bbox: [[1, 1], [73, 1], [73, 21], [1, 21]]. Champion 'Aphelios' detected in region (888, 1044, 1035, 1066). prob: 0.9999624047184004.
+2024-05-24 13:47:47 info: 2) champ_name: aphelios; index: 3
+2024-05-24 13:47:47 info: OCR results: [([[3, 3], [45, 3], [45, 19], [3, 19]], 'Shen', 0.9999873042106628)]
+2024-05-24 13:47:47 info: 1) bbox: [[3, 3], [45, 3], [45, 19], [3, 19]]. Champion 'Shen' detected in region (1088, 1044, 1237, 1066). prob: 0.9999873042106628.
+2024-05-24 13:47:47 info: 2) champ_name: shen; index: 4
+2024-05-24 13:47:47 info: OCR results: [([[3, 3], [53, 3], [53, 19], [3, 19]], 'Senna', 0.9999950419811545)]
+2024-05-24 13:47:47 info: 1) bbox: [[3, 3], [53, 3], [53, 19], [3, 19]]. Champion 'Senna' detected in region (1290, 1044, 1438, 1066). prob: 0.9999950419811545.
+2024-05-24 13:47:47 info: 2) champ_name: senna; index: 5
+2024-05-24 13:47:47 info: 3) screen_for_champ: 5 test_index: 5; champion_coordinates: {'zoe': [(484, 943, 668, 1038)], 'zyra': [(685, 943, 869, 1038)], 'aphelios': [(886, 943, 1070, 1038)], 'shen': [(1088, 943, 1271, 1038)], 'senna': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:47:47 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:47:47 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:48:06 info: ------------------------------------------
+2024-05-24 13:48:06 info: ------------------------------------------
+2024-05-24 13:48:06 info: Processing frame 26400
+2024-05-24 13:48:06 info: OCR results: [([[5, 1], [37, 1], [37, 19], [5, 19]], 'Zoe', 0.9999575347777906)]
+2024-05-24 13:48:06 info: 1) bbox: [[5, 1], [37, 1], [37, 19], [5, 19]]. Champion 'Zoe' detected in region (484, 1044, 633, 1066). prob: 0.9999575347777906.
+2024-05-24 13:48:06 info: 2) champ_name: zoe; index: 1
+2024-05-24 13:48:06 info: OCR results: [([[3, 3], [43, 3], [43, 21], [3, 21]], 'Zyra', 0.9999156594276428)]
+2024-05-24 13:48:06 info: 1) bbox: [[3, 3], [43, 3], [43, 21], [3, 21]]. Champion 'Zyra' detected in region (686, 1044, 834, 1066). prob: 0.9999156594276428.
+2024-05-24 13:48:06 info: 2) champ_name: zyra; index: 2
+2024-05-24 13:48:06 info: OCR results: [([[1, 1], [73, 1], [73, 21], [1, 21]], 'Aphelios', 0.99996581866388)]
+2024-05-24 13:48:06 info: 1) bbox: [[1, 1], [73, 1], [73, 21], [1, 21]]. Champion 'Aphelios' detected in region (888, 1044, 1035, 1066). prob: 0.99996581866388.
+2024-05-24 13:48:06 info: 2) champ_name: aphelios; index: 3
+2024-05-24 13:48:06 info: OCR results: [([[3, 3], [45, 3], [45, 19], [3, 19]], 'Shen', 0.9999884366989136)]
+2024-05-24 13:48:06 info: 1) bbox: [[3, 3], [45, 3], [45, 19], [3, 19]]. Champion 'Shen' detected in region (1088, 1044, 1237, 1066). prob: 0.9999884366989136.
+2024-05-24 13:48:06 info: 2) champ_name: shen; index: 4
+2024-05-24 13:48:06 info: OCR results: [([[3, 3], [53, 3], [53, 19], [3, 19]], 'Senna', 0.999994668796823)]
+2024-05-24 13:48:06 info: 1) bbox: [[3, 3], [53, 3], [53, 19], [3, 19]]. Champion 'Senna' detected in region (1290, 1044, 1438, 1066). prob: 0.999994668796823.
+2024-05-24 13:48:06 info: 2) champ_name: senna; index: 5
+2024-05-24 13:48:06 info: 3) screen_for_champ: 5 test_index: 5; champion_coordinates: {'zoe': [(484, 943, 668, 1038)], 'zyra': [(685, 943, 869, 1038)], 'aphelios': [(886, 943, 1070, 1038)], 'shen': [(1088, 943, 1271, 1038)], 'senna': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:48:06 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:48:06 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:48:25 info: ------------------------------------------
+2024-05-24 13:48:25 info: ------------------------------------------
+2024-05-24 13:48:25 info: Processing frame 27600
+2024-05-24 13:48:25 info: OCR results: [([[5, 1], [37, 1], [37, 19], [5, 19]], 'Zoe', 0.9999567777014667)]
+2024-05-24 13:48:25 info: 1) bbox: [[5, 1], [37, 1], [37, 19], [5, 19]]. Champion 'Zoe' detected in region (484, 1044, 633, 1066). prob: 0.9999567777014667.
+2024-05-24 13:48:25 info: 2) champ_name: zoe; index: 1
+2024-05-24 13:48:25 info: OCR results: [([[3, 3], [43, 3], [43, 21], [3, 21]], 'Zyra', 0.9999300837516785)]
+2024-05-24 13:48:25 info: 1) bbox: [[3, 3], [43, 3], [43, 21], [3, 21]]. Champion 'Zyra' detected in region (686, 1044, 834, 1066). prob: 0.9999300837516785.
+2024-05-24 13:48:25 info: 2) champ_name: zyra; index: 2
+2024-05-24 13:48:25 info: OCR results: [([[1, 1], [73, 1], [73, 21], [1, 21]], 'Aphelios', 0.9999631633733685)]
+2024-05-24 13:48:25 info: 1) bbox: [[1, 1], [73, 1], [73, 21], [1, 21]]. Champion 'Aphelios' detected in region (888, 1044, 1035, 1066). prob: 0.9999631633733685.
+2024-05-24 13:48:25 info: 2) champ_name: aphelios; index: 3
+2024-05-24 13:48:25 info: OCR results: [([[3, 3], [45, 3], [45, 19], [3, 19]], 'Shen', 0.9999881982803345)]
+2024-05-24 13:48:25 info: 1) bbox: [[3, 3], [45, 3], [45, 19], [3, 19]]. Champion 'Shen' detected in region (1088, 1044, 1237, 1066). prob: 0.9999881982803345.
+2024-05-24 13:48:25 info: 2) champ_name: shen; index: 4
+2024-05-24 13:48:25 info: OCR results: [([[3, 3], [53, 3], [53, 19], [3, 19]], 'Senna', 0.9999946154847742)]
+2024-05-24 13:48:25 info: 1) bbox: [[3, 3], [53, 3], [53, 19], [3, 19]]. Champion 'Senna' detected in region (1290, 1044, 1438, 1066). prob: 0.9999946154847742.
+2024-05-24 13:48:25 info: 2) champ_name: senna; index: 5
+2024-05-24 13:48:25 info: 3) screen_for_champ: 5 test_index: 5; champion_coordinates: {'zoe': [(484, 943, 668, 1038)], 'zyra': [(685, 943, 869, 1038)], 'aphelios': [(886, 943, 1070, 1038)], 'shen': [(1088, 943, 1271, 1038)], 'senna': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:48:25 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:48:25 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:48:46 info: ------------------------------------------
+2024-05-24 13:48:46 info: ------------------------------------------
+2024-05-24 13:48:46 info: Processing frame 28800
+2024-05-24 13:48:46 info: OCR results: [([[3, 3], [53, 3], [53, 19], [3, 19]], 'Garen', 0.4533956337056416)]
+2024-05-24 13:48:46 info: 1) bbox: [[3, 3], [53, 3], [53, 19], [3, 19]]. Champion 'Garen' detected in region (484, 1044, 633, 1066). prob: 0.4533956337056416.
+2024-05-24 13:48:46 info: 2) champ_name: garen; index: 1
+2024-05-24 13:48:46 info: OCR results: [([[3, 3], [61, 3], [61, 21], [3, 21]], 'Qiyana', 0.9999599468880519)]
+2024-05-24 13:48:46 info: 1) bbox: [[3, 3], [61, 3], [61, 21], [3, 21]]. Champion 'Qiyana' detected in region (686, 1044, 834, 1066). prob: 0.9999599468880519.
+2024-05-24 13:48:46 info: 2) champ_name: qiyana; index: 2
+2024-05-24 13:48:46 info: OCR results: [([[3, 3], [49, 3], [49, 19], [3, 19]], 'Riven', 0.9999978675191318)]
+2024-05-24 13:48:46 info: 1) bbox: [[3, 3], [49, 3], [49, 19], [3, 19]]. Champion 'Riven' detected in region (888, 1044, 1035, 1066). prob: 0.9999978675191318.
+2024-05-24 13:48:46 info: 2) champ_name: riven; index: 3
+2024-05-24 13:48:46 info: OCR results: [([[1, 0], [76, 0], [76, 22], [1, 22]], 'Aphelios', 0.9999740374017149)]
+2024-05-24 13:48:46 info: 1) bbox: [[1, 0], [76, 0], [76, 22], [1, 22]]. Champion 'Aphelios' detected in region (1088, 1044, 1237, 1066). prob: 0.9999740374017149.
+2024-05-24 13:48:46 info: 2) champ_name: aphelios; index: 4
+2024-05-24 13:48:46 info: OCR results: []
+2024-05-24 13:48:46 info: 3) screen_for_champ: 4 test_index: 4; champion_coordinates: {'garen': [(484, 943, 668, 1038)], 'qiyana': [(685, 943, 869, 1038)], 'riven': [(886, 943, 1070, 1038)], 'aphelios': [(1088, 943, 1271, 1038)]}
+2024-05-24 13:48:46 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:48:46 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:49:05 info: ------------------------------------------
+2024-05-24 13:49:05 info: ------------------------------------------
+2024-05-24 13:49:05 info: Processing frame 30000
+2024-05-24 13:49:06 info: OCR results: [([[3, 3], [53, 3], [53, 19], [3, 19]], 'Garen', 0.6059976572452427)]
+2024-05-24 13:49:06 info: 1) bbox: [[3, 3], [53, 3], [53, 19], [3, 19]]. Champion 'Garen' detected in region (484, 1044, 633, 1066). prob: 0.6059976572452427.
+2024-05-24 13:49:06 info: 2) champ_name: garen; index: 1
+2024-05-24 13:49:06 info: OCR results: [([[3, 3], [61, 3], [61, 21], [3, 21]], 'Qiyana', 0.9999635969435621)]
+2024-05-24 13:49:06 info: 1) bbox: [[3, 3], [61, 3], [61, 21], [3, 21]]. Champion 'Qiyana' detected in region (686, 1044, 834, 1066). prob: 0.9999635969435621.
+2024-05-24 13:49:06 info: 2) champ_name: qiyana; index: 2
+2024-05-24 13:49:06 info: OCR results: [([[3, 3], [49, 3], [49, 19], [3, 19]], 'Riven', 0.99999792083116)]
+2024-05-24 13:49:06 info: 1) bbox: [[3, 3], [49, 3], [49, 19], [3, 19]]. Champion 'Riven' detected in region (888, 1044, 1035, 1066). prob: 0.99999792083116.
+2024-05-24 13:49:06 info: 2) champ_name: riven; index: 3
+2024-05-24 13:49:06 info: OCR results: [([[1, 0], [76, 0], [76, 22], [1, 22]], 'Aphelios', 0.999971424267591)]
+2024-05-24 13:49:06 info: 1) bbox: [[1, 0], [76, 0], [76, 22], [1, 22]]. Champion 'Aphelios' detected in region (1088, 1044, 1237, 1066). prob: 0.999971424267591.
+2024-05-24 13:49:06 info: 2) champ_name: aphelios; index: 4
+2024-05-24 13:49:06 info: OCR results: []
+2024-05-24 13:49:06 info: 3) screen_for_champ: 4 test_index: 4; champion_coordinates: {'garen': [(484, 943, 668, 1038)], 'qiyana': [(685, 943, 869, 1038)], 'riven': [(886, 943, 1070, 1038)], 'aphelios': [(1088, 943, 1271, 1038)]}
+2024-05-24 13:49:06 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:49:06 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:49:25 info: ------------------------------------------
+2024-05-24 13:49:25 info: ------------------------------------------
+2024-05-24 13:49:25 info: Processing frame 31200
+2024-05-24 13:49:25 info: OCR results: [([[3, 3], [53, 3], [53, 19], [3, 19]], 'Garen', 0.9998683051796678)]
+2024-05-24 13:49:25 info: 1) bbox: [[3, 3], [53, 3], [53, 19], [3, 19]]. Champion 'Garen' detected in region (484, 1044, 633, 1066). prob: 0.9998683051796678.
+2024-05-24 13:49:25 info: 2) champ_name: garen; index: 1
+2024-05-24 13:49:25 info: OCR results: [([[3, 3], [61, 3], [61, 21], [3, 21]], 'Qiyana', 0.9999653489691434)]
+2024-05-24 13:49:25 info: 1) bbox: [[3, 3], [61, 3], [61, 21], [3, 21]]. Champion 'Qiyana' detected in region (686, 1044, 834, 1066). prob: 0.9999653489691434.
+2024-05-24 13:49:25 info: 2) champ_name: qiyana; index: 2
+2024-05-24 13:49:25 info: OCR results: [([[3, 3], [49, 3], [49, 19], [3, 19]], 'Riven', 0.9999981340792696)]
+2024-05-24 13:49:25 info: 1) bbox: [[3, 3], [49, 3], [49, 19], [3, 19]]. Champion 'Riven' detected in region (888, 1044, 1035, 1066). prob: 0.9999981340792696.
+2024-05-24 13:49:25 info: 2) champ_name: riven; index: 3
+2024-05-24 13:49:25 info: OCR results: [([[1, 0], [76, 0], [76, 22], [1, 22]], 'Aphelios', 0.9999632898158402)]
+2024-05-24 13:49:25 info: 1) bbox: [[1, 0], [76, 0], [76, 22], [1, 22]]. Champion 'Aphelios' detected in region (1088, 1044, 1237, 1066). prob: 0.9999632898158402.
+2024-05-24 13:49:25 info: 2) champ_name: aphelios; index: 4
+2024-05-24 13:49:25 info: OCR results: []
+2024-05-24 13:49:25 info: 3) screen_for_champ: 4 test_index: 4; champion_coordinates: {'garen': [(484, 943, 668, 1038)], 'qiyana': [(685, 943, 869, 1038)], 'riven': [(886, 943, 1070, 1038)], 'aphelios': [(1088, 943, 1271, 1038)]}
+2024-05-24 13:49:25 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:49:25 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:49:46 info: ------------------------------------------
+2024-05-24 13:49:46 info: ------------------------------------------
+2024-05-24 13:49:46 info: Processing frame 32400
+2024-05-24 13:49:46 info: OCR results: []
+2024-05-24 13:49:46 info: OCR results: []
+2024-05-24 13:49:46 info: OCR results: []
+2024-05-24 13:49:46 info: OCR results: []
+2024-05-24 13:49:46 info: OCR results: []
+2024-05-24 13:50:05 info: ------------------------------------------
+2024-05-24 13:50:05 info: ------------------------------------------
+2024-05-24 13:50:05 info: Processing frame 33600
+2024-05-24 13:50:05 info: OCR results: []
+2024-05-24 13:50:05 info: OCR results: []
+2024-05-24 13:50:05 info: OCR results: []
+2024-05-24 13:50:05 info: OCR results: []
+2024-05-24 13:50:05 info: OCR results: []
+2024-05-24 13:50:25 info: ------------------------------------------
+2024-05-24 13:50:25 info: ------------------------------------------
+2024-05-24 13:50:25 info: Processing frame 34800
+2024-05-24 13:50:25 info: OCR results: [([[5, 3], [61, 3], [61, 19], [5, 19]], 'Aatrox', 0.999911230527155)]
+2024-05-24 13:50:25 info: 1) bbox: [[5, 3], [61, 3], [61, 19], [5, 19]]. Champion 'Aatrox' detected in region (484, 1044, 633, 1066). prob: 0.999911230527155.
+2024-05-24 13:50:25 info: 2) champ_name: aatrox; index: 1
+2024-05-24 13:50:25 info: OCR results: [([[3, 1], [67, 1], [67, 19], [3, 19]], "Kha'Zix", 0.9993147442630974)]
+2024-05-24 13:50:25 info: 1) bbox: [[3, 1], [67, 1], [67, 19], [3, 19]]. Champion 'Kha'Zix' detected in region (686, 1044, 834, 1066). prob: 0.9993147442630974.
+2024-05-24 13:50:25 info: 2) champ_name: khazix; index: 2
+2024-05-24 13:50:25 info: OCR results: [([[1, 3], [41, 3], [41, 19], [1, 19]], 'Bard', 0.9514978374049666)]
+2024-05-24 13:50:25 info: 1) bbox: [[1, 3], [41, 3], [41, 19], [1, 19]]. Champion 'Bard' detected in region (888, 1044, 1035, 1066). prob: 0.9514978374049666.
+2024-05-24 13:50:25 info: 2) champ_name: bard; index: 3
+2024-05-24 13:50:25 info: OCR results: [([[3, 0], [65, 0], [65, 19], [3, 19]], "Rek'Sai", 0.8908776561023383)]
+2024-05-24 13:50:25 info: 1) bbox: [[3, 0], [65, 0], [65, 19], [3, 19]]. Champion 'Rek'Sai' detected in region (1088, 1044, 1237, 1066). prob: 0.8908776561023383.
+2024-05-24 13:50:25 info: 2) champ_name: reksai; index: 4
+2024-05-24 13:50:25 info: OCR results: []
+2024-05-24 13:50:25 info: 3) screen_for_champ: 4 test_index: 4; champion_coordinates: {'aatrox': [(484, 943, 668, 1038)], 'khazix': [(685, 943, 869, 1038)], 'bard': [(886, 943, 1070, 1038)], 'reksai': [(1088, 943, 1271, 1038)]}
+2024-05-24 13:50:25 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:50:25 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:50:46 info: ------------------------------------------
+2024-05-24 13:50:46 info: ------------------------------------------
+2024-05-24 13:50:46 info: Processing frame 36000
+2024-05-24 13:50:46 info: OCR results: [([[5, 3], [61, 3], [61, 19], [5, 19]], 'Aatrox', 0.99989726280081)]
+2024-05-24 13:50:46 info: 1) bbox: [[5, 3], [61, 3], [61, 19], [5, 19]]. Champion 'Aatrox' detected in region (484, 1044, 633, 1066). prob: 0.99989726280081.
+2024-05-24 13:50:46 info: 2) champ_name: aatrox; index: 1
+2024-05-24 13:50:46 info: OCR results: [([[3, 1], [67, 1], [67, 19], [3, 19]], "Kha'Zix", 0.9991055819454352)]
+2024-05-24 13:50:46 info: 1) bbox: [[3, 1], [67, 1], [67, 19], [3, 19]]. Champion 'Kha'Zix' detected in region (686, 1044, 834, 1066). prob: 0.9991055819454352.
+2024-05-24 13:50:46 info: 2) champ_name: khazix; index: 2
+2024-05-24 13:50:46 info: OCR results: [([[1, 3], [41, 3], [41, 19], [1, 19]], 'Bard', 0.9040000462839753)]
+2024-05-24 13:50:46 info: 1) bbox: [[1, 3], [41, 3], [41, 19], [1, 19]]. Champion 'Bard' detected in region (888, 1044, 1035, 1066). prob: 0.9040000462839753.
+2024-05-24 13:50:46 info: 2) champ_name: bard; index: 3
+2024-05-24 13:50:46 info: OCR results: [([[3, 0], [65, 0], [65, 19], [3, 19]], "Rek'Sai", 0.9175858712405296)]
+2024-05-24 13:50:46 info: 1) bbox: [[3, 0], [65, 0], [65, 19], [3, 19]]. Champion 'Rek'Sai' detected in region (1088, 1044, 1237, 1066). prob: 0.9175858712405296.
+2024-05-24 13:50:46 info: 2) champ_name: reksai; index: 4
+2024-05-24 13:50:46 info: OCR results: []
+2024-05-24 13:50:46 info: 3) screen_for_champ: 4 test_index: 4; champion_coordinates: {'aatrox': [(484, 943, 668, 1038)], 'khazix': [(685, 943, 869, 1038)], 'bard': [(886, 943, 1070, 1038)], 'reksai': [(1088, 943, 1271, 1038)]}
+2024-05-24 13:50:46 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:50:46 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:51:05 info: ------------------------------------------
+2024-05-24 13:51:05 info: ------------------------------------------
+2024-05-24 13:51:05 info: Processing frame 37200
+2024-05-24 13:51:06 info: OCR results: [([[3, 1], [75, 1], [75, 21], [3, 21]], 'Malphite', 0.8046100280646616)]
+2024-05-24 13:51:06 info: 1) bbox: [[3, 1], [75, 1], [75, 21], [3, 21]]. Champion 'Malphite' detected in region (484, 1044, 633, 1066). prob: 0.8046100280646616.
+2024-05-24 13:51:06 info: 2) champ_name: malphite; index: 1
+2024-05-24 13:51:06 info: OCR results: [([[3, 1], [67, 1], [67, 19], [3, 19]], 'Kobuko', 0.9999299676521649)]
+2024-05-24 13:51:06 info: 1) bbox: [[3, 1], [67, 1], [67, 19], [3, 19]]. Champion 'Kobuko' detected in region (686, 1044, 834, 1066). prob: 0.9999299676521649.
+2024-05-24 13:51:06 info: 2) champ_name: kobuko; index: 2
+2024-05-24 13:51:06 info: OCR results: [([[3, 3], [101, 3], [101, 19], [3, 19]], 'Tahm Kench', 0.9988605044224054)]
+2024-05-24 13:51:06 info: 1) bbox: [[3, 3], [101, 3], [101, 19], [3, 19]]. Champion 'Tahm Kench' detected in region (888, 1044, 1035, 1066). prob: 0.9988605044224054.
+2024-05-24 13:51:06 info: 2) champ_name: tahmkench; index: 3
+2024-05-24 13:51:06 info: OCR results: [([[5, 1], [47, 1], [47, 19], [5, 19]], 'Yone', 0.9998947381973267)]
+2024-05-24 13:51:06 info: 1) bbox: [[5, 1], [47, 1], [47, 19], [5, 19]]. Champion 'Yone' detected in region (1088, 1044, 1237, 1066). prob: 0.9998947381973267.
+2024-05-24 13:51:06 info: 2) champ_name: yone; index: 4
+2024-05-24 13:51:06 info: OCR results: []
+2024-05-24 13:51:06 info: 3) screen_for_champ: 4 test_index: 4; champion_coordinates: {'malphite': [(484, 943, 668, 1038)], 'kobuko': [(685, 943, 869, 1038)], 'tahmkench': [(886, 943, 1070, 1038)], 'yone': [(1088, 943, 1271, 1038)]}
+2024-05-24 13:51:06 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:51:06 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:51:25 info: ------------------------------------------
+2024-05-24 13:51:25 info: ------------------------------------------
+2024-05-24 13:51:25 info: Processing frame 38400
+2024-05-24 13:51:25 info: OCR results: []
+2024-05-24 13:51:25 info: OCR results: []
+2024-05-24 13:51:25 info: OCR results: []
+2024-05-24 13:51:25 info: OCR results: []
+2024-05-24 13:51:25 info: OCR results: []
+2024-05-24 13:51:46 info: ------------------------------------------
+2024-05-24 13:51:46 info: ------------------------------------------
+2024-05-24 13:51:46 info: Processing frame 39600
+2024-05-24 13:51:46 info: OCR results: []
+2024-05-24 13:51:46 info: OCR results: [([[3, 1], [67, 1], [67, 19], [3, 19]], 'Kobuko', 0.9999444706194248)]
+2024-05-24 13:51:46 info: 1) bbox: [[3, 1], [67, 1], [67, 19], [3, 19]]. Champion 'Kobuko' detected in region (686, 1044, 834, 1066). prob: 0.9999444706194248.
+2024-05-24 13:51:46 info: 2) champ_name: kobuko; index: 2
+2024-05-24 13:51:46 info: OCR results: [([[1, 1], [101, 1], [101, 19], [1, 19]], 'Tahm Kench', 0.9955712635783963)]
+2024-05-24 13:51:46 info: 1) bbox: [[1, 1], [101, 1], [101, 19], [1, 19]]. Champion 'Tahm Kench' detected in region (888, 1044, 1035, 1066). prob: 0.9955712635783963.
+2024-05-24 13:51:46 info: 2) champ_name: tahmkench; index: 3
+2024-05-24 13:51:46 info: OCR results: [([[5, 1], [47, 1], [47, 19], [5, 19]], 'Yone', 0.9999749660491943)]
+2024-05-24 13:51:46 info: 1) bbox: [[5, 1], [47, 1], [47, 19], [5, 19]]. Champion 'Yone' detected in region (1088, 1044, 1237, 1066). prob: 0.9999749660491943.
+2024-05-24 13:51:46 info: 2) champ_name: yone; index: 4
+2024-05-24 13:51:46 info: OCR results: []
+2024-05-24 13:51:46 info: 3) screen_for_champ: 3 test_index: 3; champion_coordinates: {'kobuko': [(685, 943, 869, 1038)], 'tahmkench': [(886, 943, 1070, 1038)], 'yone': [(1088, 943, 1271, 1038)]}
+2024-05-24 13:51:46 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:51:46 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:52:06 info: ------------------------------------------
+2024-05-24 13:52:06 info: ------------------------------------------
+2024-05-24 13:52:06 info: Processing frame 40800
+2024-05-24 13:52:06 info: OCR results: []
+2024-05-24 13:52:06 info: OCR results: [([[3, 1], [67, 1], [67, 19], [3, 19]], 'Kobuko', 0.9999364404588302)]
+2024-05-24 13:52:06 info: 1) bbox: [[3, 1], [67, 1], [67, 19], [3, 19]]. Champion 'Kobuko' detected in region (686, 1044, 834, 1066). prob: 0.9999364404588302.
+2024-05-24 13:52:06 info: 2) champ_name: kobuko; index: 2
+2024-05-24 13:52:06 info: OCR results: [([[3, 3], [101, 3], [101, 19], [3, 19]], 'Tahm Kench', 0.9985355171694167)]
+2024-05-24 13:52:06 info: 1) bbox: [[3, 3], [101, 3], [101, 19], [3, 19]]. Champion 'Tahm Kench' detected in region (888, 1044, 1035, 1066). prob: 0.9985355171694167.
+2024-05-24 13:52:06 info: 2) champ_name: tahmkench; index: 3
+2024-05-24 13:52:06 info: OCR results: [([[5, 1], [47, 1], [47, 19], [5, 19]], 'Yone', 0.9998946189880371)]
+2024-05-24 13:52:06 info: 1) bbox: [[5, 1], [47, 1], [47, 19], [5, 19]]. Champion 'Yone' detected in region (1088, 1044, 1237, 1066). prob: 0.9998946189880371.
+2024-05-24 13:52:06 info: 2) champ_name: yone; index: 4
+2024-05-24 13:52:06 info: OCR results: []
+2024-05-24 13:52:06 info: 3) screen_for_champ: 3 test_index: 3; champion_coordinates: {'kobuko': [(685, 943, 869, 1038)], 'tahmkench': [(886, 943, 1070, 1038)], 'yone': [(1088, 943, 1271, 1038)]}
+2024-05-24 13:52:06 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:52:06 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:52:25 info: ------------------------------------------
+2024-05-24 13:52:25 info: ------------------------------------------
+2024-05-24 13:52:25 info: Processing frame 42000
+2024-05-24 13:52:25 info: OCR results: []
+2024-05-24 13:52:25 info: OCR results: []
+2024-05-24 13:52:25 info: OCR results: []
+2024-05-24 13:52:25 info: OCR results: []
+2024-05-24 13:52:25 info: OCR results: []
+2024-05-24 13:52:46 info: ------------------------------------------
+2024-05-24 13:52:46 info: ------------------------------------------
+2024-05-24 13:52:46 info: Processing frame 43200
+2024-05-24 13:52:46 info: OCR results: [([[3, 0], [59, 0], [59, 19], [3, 19]], 'Yorick', 0.937521248104223)]
+2024-05-24 13:52:46 info: 1) bbox: [[3, 0], [59, 0], [59, 19], [3, 19]]. Champion 'Yorick' detected in region (484, 1044, 633, 1066). prob: 0.937521248104223.
+2024-05-24 13:52:46 info: 2) champ_name: yorick; index: 1
+2024-05-24 13:52:46 info: OCR results: [([[3, 1], [67, 1], [67, 19], [3, 19]], 'Kindred', 0.9999984680658268)]
+2024-05-24 13:52:46 info: 1) bbox: [[3, 1], [67, 1], [67, 19], [3, 19]]. Champion 'Kindred' detected in region (686, 1044, 834, 1066). prob: 0.9999984680658268.
+2024-05-24 13:52:46 info: 2) champ_name: kindred; index: 2
+2024-05-24 13:52:46 info: OCR results: [([[0, 2], [61, 2], [61, 22], [0, 22]], 'Qiyana', 0.9999771264565332)]
+2024-05-24 13:52:46 info: 1) bbox: [[0, 2], [61, 2], [61, 22], [0, 22]]. Champion 'Qiyana' detected in region (888, 1044, 1035, 1066). prob: 0.9999771264565332.
+2024-05-24 13:52:46 info: 2) champ_name: qiyana; index: 3
+2024-05-24 13:52:46 info: OCR results: [([[5, 1], [37, 1], [37, 19], [5, 19]], 'Zoe', 0.999956364750777)]
+2024-05-24 13:52:46 info: 1) bbox: [[5, 1], [37, 1], [37, 19], [5, 19]]. Champion 'Zoe' detected in region (1088, 1044, 1237, 1066). prob: 0.999956364750777.
+2024-05-24 13:52:46 info: 2) champ_name: zoe; index: 4
+2024-05-24 13:52:46 info: OCR results: [([[3, 3], [59, 3], [59, 19], [3, 19]], 'Soraka', 0.9999899745890403)]
+2024-05-24 13:52:46 info: 1) bbox: [[3, 3], [59, 3], [59, 19], [3, 19]]. Champion 'Soraka' detected in region (1290, 1044, 1438, 1066). prob: 0.9999899745890403.
+2024-05-24 13:52:46 info: 2) champ_name: soraka; index: 5
+2024-05-24 13:52:46 info: 3) screen_for_champ: 5 test_index: 5; champion_coordinates: {'yorick': [(484, 943, 668, 1038)], 'kindred': [(685, 943, 869, 1038)], 'qiyana': [(886, 943, 1070, 1038)], 'zoe': [(1088, 943, 1271, 1038)], 'soraka': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:52:46 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:52:46 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:53:05 info: ------------------------------------------
+2024-05-24 13:53:05 info: ------------------------------------------
+2024-05-24 13:53:05 info: Processing frame 44400
+2024-05-24 13:53:05 info: OCR results: []
+2024-05-24 13:53:05 info: OCR results: []
+2024-05-24 13:53:05 info: OCR results: []
+2024-05-24 13:53:05 info: OCR results: []
+2024-05-24 13:53:05 info: OCR results: []
+2024-05-24 13:53:27 info: ------------------------------------------
+2024-05-24 13:53:27 info: ------------------------------------------
+2024-05-24 13:53:27 info: Processing frame 45600
+2024-05-24 13:53:27 info: OCR results: [([[3, 0], [59, 0], [59, 19], [3, 19]], 'Yorick', 0.9997522223253783)]
+2024-05-24 13:53:27 info: 1) bbox: [[3, 0], [59, 0], [59, 19], [3, 19]]. Champion 'Yorick' detected in region (484, 1044, 633, 1066). prob: 0.9997522223253783.
+2024-05-24 13:53:27 info: 2) champ_name: yorick; index: 1
+2024-05-24 13:53:27 info: OCR results: [([[3, 1], [67, 1], [67, 19], [3, 19]], 'Kindred', 0.9999984230089279)]
+2024-05-24 13:53:27 info: 1) bbox: [[3, 1], [67, 1], [67, 19], [3, 19]]. Champion 'Kindred' detected in region (686, 1044, 834, 1066). prob: 0.9999984230089279.
+2024-05-24 13:53:27 info: 2) champ_name: kindred; index: 2
+2024-05-24 13:53:27 info: OCR results: [([[2, 2], [61, 2], [61, 22], [2, 22]], 'Qiyana', 0.9999743524230539)]
+2024-05-24 13:53:27 info: 1) bbox: [[2, 2], [61, 2], [61, 22], [2, 22]]. Champion 'Qiyana' detected in region (888, 1044, 1035, 1066). prob: 0.9999743524230539.
+2024-05-24 13:53:27 info: 2) champ_name: qiyana; index: 3
+2024-05-24 13:53:27 info: OCR results: [([[5, 1], [37, 1], [37, 19], [5, 19]], 'Zoe', 0.9999560894503299)]
+2024-05-24 13:53:27 info: 1) bbox: [[5, 1], [37, 1], [37, 19], [5, 19]]. Champion 'Zoe' detected in region (1088, 1044, 1237, 1066). prob: 0.9999560894503299.
+2024-05-24 13:53:27 info: 2) champ_name: zoe; index: 4
+2024-05-24 13:53:27 info: OCR results: [([[1, 3], [59, 3], [59, 19], [1, 19]], 'Soraka', 0.9999864705565813)]
+2024-05-24 13:53:27 info: 1) bbox: [[1, 3], [59, 3], [59, 19], [1, 19]]. Champion 'Soraka' detected in region (1290, 1044, 1438, 1066). prob: 0.9999864705565813.
+2024-05-24 13:53:27 info: 2) champ_name: soraka; index: 5
+2024-05-24 13:53:27 info: 3) screen_for_champ: 5 test_index: 5; champion_coordinates: {'yorick': [(484, 943, 668, 1038)], 'kindred': [(685, 943, 869, 1038)], 'qiyana': [(886, 943, 1070, 1038)], 'zoe': [(1088, 943, 1271, 1038)], 'soraka': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:53:27 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:53:27 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:53:46 info: ------------------------------------------
+2024-05-24 13:53:46 info: ------------------------------------------
+2024-05-24 13:53:46 info: Processing frame 46800
+2024-05-24 13:53:46 info: OCR results: [([[3, 0], [59, 0], [59, 19], [3, 19]], 'Yorick', 0.9337238330145217)]
+2024-05-24 13:53:46 info: 1) bbox: [[3, 0], [59, 0], [59, 19], [3, 19]]. Champion 'Yorick' detected in region (484, 1044, 633, 1066). prob: 0.9337238330145217.
+2024-05-24 13:53:46 info: 2) champ_name: yorick; index: 1
+2024-05-24 13:53:46 info: OCR results: [([[3, 1], [67, 1], [67, 19], [3, 19]], 'Kindred', 0.999998648293416)]
+2024-05-24 13:53:46 info: 1) bbox: [[3, 1], [67, 1], [67, 19], [3, 19]]. Champion 'Kindred' detected in region (686, 1044, 834, 1066). prob: 0.999998648293416.
+2024-05-24 13:53:46 info: 2) champ_name: kindred; index: 2
+2024-05-24 13:53:46 info: OCR results: [([[2, 2], [61, 2], [61, 22], [2, 22]], 'Qiyana', 0.9999782458028861)]
+2024-05-24 13:53:46 info: 1) bbox: [[2, 2], [61, 2], [61, 22], [2, 22]]. Champion 'Qiyana' detected in region (888, 1044, 1035, 1066). prob: 0.9999782458028861.
+2024-05-24 13:53:46 info: 2) champ_name: qiyana; index: 3
+2024-05-24 13:53:46 info: OCR results: [([[5, 1], [37, 1], [37, 19], [5, 19]], 'Zoe', 0.9999525793705192)]
+2024-05-24 13:53:46 info: 1) bbox: [[5, 1], [37, 1], [37, 19], [5, 19]]. Champion 'Zoe' detected in region (1088, 1044, 1237, 1066). prob: 0.9999525793705192.
+2024-05-24 13:53:46 info: 2) champ_name: zoe; index: 4
+2024-05-24 13:53:46 info: OCR results: [([[3, 3], [59, 3], [59, 19], [3, 19]], 'Soraka', 0.9999895852522367)]
+2024-05-24 13:53:46 info: 1) bbox: [[3, 3], [59, 3], [59, 19], [3, 19]]. Champion 'Soraka' detected in region (1290, 1044, 1438, 1066). prob: 0.9999895852522367.
+2024-05-24 13:53:46 info: 2) champ_name: soraka; index: 5
+2024-05-24 13:53:46 info: 3) screen_for_champ: 5 test_index: 5; champion_coordinates: {'yorick': [(484, 943, 668, 1038)], 'kindred': [(685, 943, 869, 1038)], 'qiyana': [(886, 943, 1070, 1038)], 'zoe': [(1088, 943, 1271, 1038)], 'soraka': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:53:46 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:53:46 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:54:05 info: ------------------------------------------
+2024-05-24 13:54:05 info: ------------------------------------------
+2024-05-24 13:54:05 info: Processing frame 48000
+2024-05-24 13:54:05 info: OCR results: []
+2024-05-24 13:54:05 info: OCR results: [([[3, 1], [59, 1], [59, 19], [3, 19]], 'Yorick', 0.9998973114689222)]
+2024-05-24 13:54:05 info: 1) bbox: [[3, 1], [59, 1], [59, 19], [3, 19]]. Champion 'Yorick' detected in region (686, 1044, 834, 1066). prob: 0.9998973114689222.
+2024-05-24 13:54:05 info: 2) champ_name: yorick; index: 2
+2024-05-24 13:54:05 info: OCR results: [([[1, 3], [57, 3], [57, 19], [1, 19]], 'Darius', 0.9999573308442155)]
+2024-05-24 13:54:05 info: 1) bbox: [[1, 3], [57, 3], [57, 19], [1, 19]]. Champion 'Darius' detected in region (888, 1044, 1035, 1066). prob: 0.9999573308442155.
+2024-05-24 13:54:05 info: 2) champ_name: darius; index: 3
+2024-05-24 13:54:05 info: OCR results: [([[3, 1], [37, 1], [37, 19], [3, 19]], 'Zoe', 0.999944802140741)]
+2024-05-24 13:54:05 info: 1) bbox: [[3, 1], [37, 1], [37, 19], [3, 19]]. Champion 'Zoe' detected in region (1088, 1044, 1237, 1066). prob: 0.999944802140741.
+2024-05-24 13:54:05 info: 2) champ_name: zoe; index: 4
+2024-05-24 13:54:05 info: OCR results: [([[3, 3], [51, 3], [51, 19], [3, 19]], 'Riven', 0.99999792083116)]
+2024-05-24 13:54:05 info: 1) bbox: [[3, 3], [51, 3], [51, 19], [3, 19]]. Champion 'Riven' detected in region (1290, 1044, 1438, 1066). prob: 0.99999792083116.
+2024-05-24 13:54:05 info: 2) champ_name: riven; index: 5
+2024-05-24 13:54:05 info: 3) screen_for_champ: 4 test_index: 4; champion_coordinates: {'yorick': [(685, 943, 869, 1038)], 'darius': [(886, 943, 1070, 1038)], 'zoe': [(1088, 943, 1271, 1038)], 'riven': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:54:05 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:54:05 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:54:26 info: ------------------------------------------
+2024-05-24 13:54:26 info: ------------------------------------------
+2024-05-24 13:54:26 info: Processing frame 49200
+2024-05-24 13:54:26 info: OCR results: [([[3, 3], [53, 3], [53, 19], [3, 19]], 'Senna', 0.9999937624919492)]
+2024-05-24 13:54:26 info: 1) bbox: [[3, 3], [53, 3], [53, 19], [3, 19]]. Champion 'Senna' detected in region (484, 1044, 633, 1066). prob: 0.9999937624919492.
+2024-05-24 13:54:26 info: 2) champ_name: senna; index: 1
+2024-05-24 13:54:26 info: OCR results: [([[3, 3], [57, 3], [57, 19], [3, 19]], 'Darius', 0.9952861631369615)]
+2024-05-24 13:54:26 info: 1) bbox: [[3, 3], [57, 3], [57, 19], [3, 19]]. Champion 'Darius' detected in region (686, 1044, 834, 1066). prob: 0.9952861631369615.
+2024-05-24 13:54:26 info: 2) champ_name: darius; index: 2
+2024-05-24 13:54:26 info: OCR results: [([[1, 3], [41, 3], [41, 21], [1, 21]], 'Zyra', 0.9999831914901733)]
+2024-05-24 13:54:26 info: 1) bbox: [[1, 3], [41, 3], [41, 21], [1, 21]]. Champion 'Zyra' detected in region (888, 1044, 1035, 1066). prob: 0.9999831914901733.
+2024-05-24 13:54:26 info: 2) champ_name: zyra; index: 3
+2024-05-24 13:54:26 info: OCR results: [([[5, 3], [63, 3], [63, 21], [5, 21]], 'Qiyana', 0.9999673929981162)]
+2024-05-24 13:54:26 info: 1) bbox: [[5, 3], [63, 3], [63, 21], [5, 21]]. Champion 'Qiyana' detected in region (1088, 1044, 1237, 1066). prob: 0.9999673929981162.
+2024-05-24 13:54:26 info: 2) champ_name: qiyana; index: 4
+2024-05-24 13:54:26 info: OCR results: [([[1, 3], [29, 3], [29, 19], [1, 19]], 'Jax', 0.999981967736744)]
+2024-05-24 13:54:27 info: 1) bbox: [[1, 3], [29, 3], [29, 19], [1, 19]]. Champion 'Jax' detected in region (1290, 1044, 1438, 1066). prob: 0.999981967736744.
+2024-05-24 13:54:27 info: 2) champ_name: jax; index: 5
+2024-05-24 13:54:27 info: 3) screen_for_champ: 5 test_index: 5; champion_coordinates: {'senna': [(484, 943, 668, 1038)], 'darius': [(685, 943, 869, 1038)], 'zyra': [(886, 943, 1070, 1038)], 'qiyana': [(1088, 943, 1271, 1038)], 'jax': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:54:27 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:54:27 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:54:45 info: ------------------------------------------
+2024-05-24 13:54:45 info: ------------------------------------------
+2024-05-24 13:54:45 info: Processing frame 50400
+2024-05-24 13:54:45 info: OCR results: [([[3, 3], [53, 3], [53, 19], [3, 19]], 'Senna', 0.9999935492437295)]
+2024-05-24 13:54:45 info: 1) bbox: [[3, 3], [53, 3], [53, 19], [3, 19]]. Champion 'Senna' detected in region (484, 1044, 633, 1066). prob: 0.9999935492437295.
+2024-05-24 13:54:45 info: 2) champ_name: senna; index: 1
+2024-05-24 13:54:45 info: OCR results: [([[3, 3], [57, 3], [57, 19], [3, 19]], 'Darius', 0.9988824328448822)]
+2024-05-24 13:54:45 info: 1) bbox: [[3, 3], [57, 3], [57, 19], [3, 19]]. Champion 'Darius' detected in region (686, 1044, 834, 1066). prob: 0.9988824328448822.
+2024-05-24 13:54:45 info: 2) champ_name: darius; index: 2
+2024-05-24 13:54:46 info: OCR results: [([[1, 3], [41, 3], [41, 21], [1, 21]], 'Zyra', 0.9999819993972778)]
+2024-05-24 13:54:46 info: 1) bbox: [[1, 3], [41, 3], [41, 21], [1, 21]]. Champion 'Zyra' detected in region (888, 1044, 1035, 1066). prob: 0.9999819993972778.
+2024-05-24 13:54:46 info: 2) champ_name: zyra; index: 3
+2024-05-24 13:54:46 info: OCR results: [([[5, 3], [63, 3], [63, 21], [5, 21]], 'Qiyana', 0.9999625749283211)]
+2024-05-24 13:54:46 info: 1) bbox: [[5, 3], [63, 3], [63, 21], [5, 21]]. Champion 'Qiyana' detected in region (1088, 1044, 1237, 1066). prob: 0.9999625749283211.
+2024-05-24 13:54:46 info: 2) champ_name: qiyana; index: 4
+2024-05-24 13:54:46 info: OCR results: [([[1, 3], [29, 3], [29, 19], [1, 19]], 'Jax', 0.9999832065931312)]
+2024-05-24 13:54:46 info: 1) bbox: [[1, 3], [29, 3], [29, 19], [1, 19]]. Champion 'Jax' detected in region (1290, 1044, 1438, 1066). prob: 0.9999832065931312.
+2024-05-24 13:54:46 info: 2) champ_name: jax; index: 5
+2024-05-24 13:54:46 info: 3) screen_for_champ: 5 test_index: 5; champion_coordinates: {'senna': [(484, 943, 668, 1038)], 'darius': [(685, 943, 869, 1038)], 'zyra': [(886, 943, 1070, 1038)], 'qiyana': [(1088, 943, 1271, 1038)], 'jax': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:54:46 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:54:46 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:55:05 info: ------------------------------------------
+2024-05-24 13:55:05 info: ------------------------------------------
+2024-05-24 13:55:05 info: Processing frame 51600
+2024-05-24 13:55:05 info: OCR results: [([[3, 3], [53, 3], [53, 19], [3, 19]], 'Senna', 0.9999940290522162)]
+2024-05-24 13:55:05 info: 1) bbox: [[3, 3], [53, 3], [53, 19], [3, 19]]. Champion 'Senna' detected in region (484, 1044, 633, 1066). prob: 0.9999940290522162.
+2024-05-24 13:55:05 info: 2) champ_name: senna; index: 1
+2024-05-24 13:55:05 info: OCR results: [([[3, 3], [57, 3], [57, 19], [3, 19]], 'Darius', 0.6646402481589819)]
+2024-05-24 13:55:05 info: 1) bbox: [[3, 3], [57, 3], [57, 19], [3, 19]]. Champion 'Darius' detected in region (686, 1044, 834, 1066). prob: 0.6646402481589819.
+2024-05-24 13:55:05 info: 2) champ_name: darius; index: 2
+2024-05-24 13:55:05 info: OCR results: [([[1, 3], [41, 3], [41, 21], [1, 21]], 'Zyra', 0.9999606556415741)]
+2024-05-24 13:55:05 info: 1) bbox: [[1, 3], [41, 3], [41, 21], [1, 21]]. Champion 'Zyra' detected in region (888, 1044, 1035, 1066). prob: 0.9999606556415741.
+2024-05-24 13:55:05 info: 2) champ_name: zyra; index: 3
+2024-05-24 13:55:05 info: OCR results: [([[5, 3], [63, 3], [63, 21], [5, 21]], 'Qiyana', 0.9999651056322983)]
+2024-05-24 13:55:05 info: 1) bbox: [[5, 3], [63, 3], [63, 21], [5, 21]]. Champion 'Qiyana' detected in region (1088, 1044, 1237, 1066). prob: 0.9999651056322983.
+2024-05-24 13:55:05 info: 2) champ_name: qiyana; index: 4
+2024-05-24 13:55:05 info: OCR results: [([[1, 3], [29, 3], [29, 19], [1, 19]], 'Jax', 0.9999818989113951)]
+2024-05-24 13:55:05 info: 1) bbox: [[1, 3], [29, 3], [29, 19], [1, 19]]. Champion 'Jax' detected in region (1290, 1044, 1438, 1066). prob: 0.9999818989113951.
+2024-05-24 13:55:05 info: 2) champ_name: jax; index: 5
+2024-05-24 13:55:05 info: 3) screen_for_champ: 5 test_index: 5; champion_coordinates: {'senna': [(484, 943, 668, 1038)], 'darius': [(685, 943, 869, 1038)], 'zyra': [(886, 943, 1070, 1038)], 'qiyana': [(1088, 943, 1271, 1038)], 'jax': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:55:05 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:55:05 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:55:26 info: ------------------------------------------
+2024-05-24 13:55:26 info: ------------------------------------------
+2024-05-24 13:55:26 info: Processing frame 52800
+2024-05-24 13:55:26 info: OCR results: []
+2024-05-24 13:55:26 info: OCR results: []
+2024-05-24 13:55:26 info: OCR results: []
+2024-05-24 13:55:26 info: OCR results: []
+2024-05-24 13:55:26 info: OCR results: []
+2024-05-24 13:55:45 info: ------------------------------------------
+2024-05-24 13:55:45 info: ------------------------------------------
+2024-05-24 13:55:45 info: Processing frame 54000
+2024-05-24 13:55:46 info: OCR results: [([[3, 1], [69, 1], [69, 19], [3, 19]], "Kha'Zix", 0.9988132898655743)]
+2024-05-24 13:55:46 info: 1) bbox: [[3, 1], [69, 1], [69, 19], [3, 19]]. Champion 'Kha'Zix' detected in region (484, 1044, 633, 1066). prob: 0.9988132898655743.
+2024-05-24 13:55:46 info: 2) champ_name: khazix; index: 1
+2024-05-24 13:55:46 info: OCR results: [([[5, 3], [53, 3], [53, 19], [5, 19]], 'Alune', 0.9999866719857672)]
+2024-05-24 13:55:46 info: 1) bbox: [[5, 3], [53, 3], [53, 19], [5, 19]]. Champion 'Alune' detected in region (686, 1044, 834, 1066). prob: 0.9999866719857672.
+2024-05-24 13:55:46 info: 2) champ_name: alune; index: 2
+2024-05-24 13:55:46 info: OCR results: [([[3, 3], [51, 3], [51, 19], [3, 19]], 'Alune', 0.7879640843697235)]
+2024-05-24 13:55:46 info: 1) bbox: [[3, 3], [51, 3], [51, 19], [3, 19]]. Champion 'Alune' detected in region (888, 1044, 1035, 1066). prob: 0.7879640843697235.
+2024-05-24 13:55:46 info: 2) champ_name: alune; index: 3
+2024-05-24 13:55:46 info: OCR results: [([[5, 1], [67, 1], [67, 19], [5, 19]], 'Kobuko', 0.9999009615758181)]
+2024-05-24 13:55:46 info: 1) bbox: [[5, 1], [67, 1], [67, 19], [5, 19]]. Champion 'Kobuko' detected in region (1088, 1044, 1237, 1066). prob: 0.9999009615758181.
+2024-05-24 13:55:46 info: 2) champ_name: kobuko; index: 4
+2024-05-24 13:55:46 info: OCR results: []
+2024-05-24 13:55:46 info: 3) screen_for_champ: 3 test_index: 4; champion_coordinates: {'khazix': [(484, 943, 668, 1038)], 'alune': [(685, 943, 869, 1038), (886, 943, 1070, 1038)], 'kobuko': [(1088, 943, 1271, 1038)]}
+2024-05-24 13:55:46 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:55:46 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:56:06 info: ------------------------------------------
+2024-05-24 13:56:06 info: ------------------------------------------
+2024-05-24 13:56:06 info: Processing frame 55200
+2024-05-24 13:56:06 info: OCR results: [([[5, 3], [53, 3], [53, 19], [5, 19]], 'Diana', 0.9999968545905313)]
+2024-05-24 13:56:06 info: 1) bbox: [[5, 3], [53, 3], [53, 19], [5, 19]]. Champion 'Diana' detected in region (484, 1044, 633, 1066). prob: 0.9999968545905313.
+2024-05-24 13:56:06 info: 2) champ_name: diana; index: 1
+2024-05-24 13:56:06 info: OCR results: [([[3, 1], [47, 1], [47, 19], [3, 19]], 'Yone', 0.9999631643295288)]
+2024-05-24 13:56:06 info: 1) bbox: [[3, 1], [47, 1], [47, 19], [3, 19]]. Champion 'Yone' detected in region (686, 1044, 834, 1066). prob: 0.9999631643295288.
+2024-05-24 13:56:06 info: 2) champ_name: yone; index: 2
+2024-05-24 13:56:06 info: OCR results: []
+2024-05-24 13:56:06 info: OCR results: []
+2024-05-24 13:56:06 info: OCR results: [([[3, 3], [53, 3], [53, 19], [3, 19]], 'Garen', 0.999994402236576)]
+2024-05-24 13:56:06 info: 1) bbox: [[3, 3], [53, 3], [53, 19], [3, 19]]. Champion 'Garen' detected in region (1290, 1044, 1438, 1066). prob: 0.999994402236576.
+2024-05-24 13:56:06 info: 2) champ_name: garen; index: 5
+2024-05-24 13:56:06 info: 3) screen_for_champ: 3 test_index: 3; champion_coordinates: {'diana': [(484, 943, 668, 1038)], 'yone': [(685, 943, 869, 1038)], 'garen': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:56:06 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:56:06 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:56:25 info: ------------------------------------------
+2024-05-24 13:56:25 info: ------------------------------------------
+2024-05-24 13:56:25 info: Processing frame 56400
+2024-05-24 13:56:25 info: OCR results: [([[5, 3], [53, 3], [53, 19], [5, 19]], 'Diana', 0.9999975476469553)]
+2024-05-24 13:56:25 info: 1) bbox: [[5, 3], [53, 3], [53, 19], [5, 19]]. Champion 'Diana' detected in region (484, 1044, 633, 1066). prob: 0.9999975476469553.
+2024-05-24 13:56:25 info: 2) champ_name: diana; index: 1
+2024-05-24 13:56:25 info: OCR results: [([[3, 1], [47, 1], [47, 19], [3, 19]], 'Yone', 0.9999692440032959)]
+2024-05-24 13:56:25 info: 1) bbox: [[3, 1], [47, 1], [47, 19], [3, 19]]. Champion 'Yone' detected in region (686, 1044, 834, 1066). prob: 0.9999692440032959.
+2024-05-24 13:56:25 info: 2) champ_name: yone; index: 2
+2024-05-24 13:56:25 info: OCR results: []
+2024-05-24 13:56:25 info: OCR results: []
+2024-05-24 13:56:25 info: OCR results: [([[3, 3], [53, 3], [53, 19], [3, 19]], 'Garen', 0.7435557748077704)]
+2024-05-24 13:56:25 info: 1) bbox: [[3, 3], [53, 3], [53, 19], [3, 19]]. Champion 'Garen' detected in region (1290, 1044, 1438, 1066). prob: 0.7435557748077704.
+2024-05-24 13:56:25 info: 2) champ_name: garen; index: 5
+2024-05-24 13:56:25 info: 3) screen_for_champ: 3 test_index: 3; champion_coordinates: {'diana': [(484, 943, 668, 1038)], 'yone': [(685, 943, 869, 1038)], 'garen': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:56:25 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:56:25 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:56:46 info: ------------------------------------------
+2024-05-24 13:56:46 info: ------------------------------------------
+2024-05-24 13:56:46 info: Processing frame 57600
+2024-05-24 13:56:46 info: OCR results: [([[5, 3], [53, 3], [53, 19], [5, 19]], 'Diana', 0.9999974410228937)]
+2024-05-24 13:56:46 info: 1) bbox: [[5, 3], [53, 3], [53, 19], [5, 19]]. Champion 'Diana' detected in region (484, 1044, 633, 1066). prob: 0.9999974410228937.
+2024-05-24 13:56:46 info: 2) champ_name: diana; index: 1
+2024-05-24 13:56:46 info: OCR results: [([[3, 1], [47, 1], [47, 19], [3, 19]], 'Yone', 0.9999655485153198)]
+2024-05-24 13:56:46 info: 1) bbox: [[3, 1], [47, 1], [47, 19], [3, 19]]. Champion 'Yone' detected in region (686, 1044, 834, 1066). prob: 0.9999655485153198.
+2024-05-24 13:56:46 info: 2) champ_name: yone; index: 2
+2024-05-24 13:56:46 info: OCR results: []
+2024-05-24 13:56:46 info: OCR results: []
+2024-05-24 13:56:46 info: OCR results: [([[3, 3], [53, 3], [53, 19], [3, 19]], 'Garen', 0.9999939224281105)]
+2024-05-24 13:56:46 info: 1) bbox: [[3, 3], [53, 3], [53, 19], [3, 19]]. Champion 'Garen' detected in region (1290, 1044, 1438, 1066). prob: 0.9999939224281105.
+2024-05-24 13:56:46 info: 2) champ_name: garen; index: 5
+2024-05-24 13:56:46 info: 3) screen_for_champ: 3 test_index: 3; champion_coordinates: {'diana': [(484, 943, 668, 1038)], 'yone': [(685, 943, 869, 1038)], 'garen': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:56:46 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:56:46 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:57:05 info: ------------------------------------------
+2024-05-24 13:57:05 info: ------------------------------------------
+2024-05-24 13:57:05 info: Processing frame 58800
+2024-05-24 13:57:05 info: OCR results: []
+2024-05-24 13:57:05 info: OCR results: []
+2024-05-24 13:57:05 info: OCR results: []
+2024-05-24 13:57:05 info: OCR results: []
+2024-05-24 13:57:05 info: OCR results: []
+2024-05-24 13:57:26 info: ------------------------------------------
+2024-05-24 13:57:26 info: ------------------------------------------
+2024-05-24 13:57:26 info: Processing frame 60000
+2024-05-24 13:57:26 info: OCR results: []
+2024-05-24 13:57:26 info: OCR results: []
+2024-05-24 13:57:26 info: OCR results: []
+2024-05-24 13:57:26 info: OCR results: []
+2024-05-24 13:57:26 info: OCR results: []
+2024-05-24 13:57:45 info: ------------------------------------------
+2024-05-24 13:57:45 info: ------------------------------------------
+2024-05-24 13:57:45 info: Processing frame 61200
+2024-05-24 13:57:45 info: OCR results: [([[5, 3], [53, 3], [53, 19], [5, 19]], 'Diana', 0.9999972810867989)]
+2024-05-24 13:57:45 info: 1) bbox: [[5, 3], [53, 3], [53, 19], [5, 19]]. Champion 'Diana' detected in region (484, 1044, 633, 1066). prob: 0.9999972810867989.
+2024-05-24 13:57:45 info: 2) champ_name: diana; index: 1
+2024-05-24 13:57:45 info: OCR results: [([[3, 1], [55, 1], [55, 19], [3, 19]], "Kai'Sa", 0.999048409923647)]
+2024-05-24 13:57:45 info: 1) bbox: [[3, 1], [55, 1], [55, 19], [3, 19]]. Champion 'Kai'Sa' detected in region (686, 1044, 834, 1066). prob: 0.999048409923647.
+2024-05-24 13:57:45 info: 2) champ_name: kaisa; index: 2
+2024-05-24 13:57:45 info: OCR results: [([[1, 3], [43, 3], [43, 19], [1, 19]], 'Shen', 0.9999865889549255)]
+2024-05-24 13:57:45 info: 1) bbox: [[1, 3], [43, 3], [43, 19], [1, 19]]. Champion 'Shen' detected in region (888, 1044, 1035, 1066). prob: 0.9999865889549255.
+2024-05-24 13:57:45 info: 2) champ_name: shen; index: 3
+2024-05-24 13:57:45 info: OCR results: []
+2024-05-24 13:57:45 info: OCR results: [([[3, 3], [57, 3], [57, 19], [3, 19]], 'Neeko', 0.9537039990055961)]
+2024-05-24 13:57:45 info: 1) bbox: [[3, 3], [57, 3], [57, 19], [3, 19]]. Champion 'Neeko' detected in region (1290, 1044, 1438, 1066). prob: 0.9537039990055961.
+2024-05-24 13:57:45 info: 2) champ_name: neeko; index: 5
+2024-05-24 13:57:45 info: 3) screen_for_champ: 4 test_index: 4; champion_coordinates: {'diana': [(484, 943, 668, 1038)], 'kaisa': [(685, 943, 869, 1038)], 'shen': [(886, 943, 1070, 1038)], 'neeko': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:57:45 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:57:45 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:58:06 info: ------------------------------------------
+2024-05-24 13:58:06 info: ------------------------------------------
+2024-05-24 13:58:06 info: Processing frame 62400
+2024-05-24 13:58:06 info: OCR results: [([[5, 3], [53, 3], [53, 19], [5, 19]], 'Diana', 0.9999973877108624)]
+2024-05-24 13:58:06 info: 1) bbox: [[5, 3], [53, 3], [53, 19], [5, 19]]. Champion 'Diana' detected in region (484, 1044, 633, 1066). prob: 0.9999973877108624.
+2024-05-24 13:58:06 info: 2) champ_name: diana; index: 1
+2024-05-24 13:58:06 info: OCR results: [([[3, 1], [55, 1], [55, 19], [3, 19]], "Kai'Sa", 0.9303315972359988)]
+2024-05-24 13:58:06 info: 1) bbox: [[3, 1], [55, 1], [55, 19], [3, 19]]. Champion 'Kai'Sa' detected in region (686, 1044, 834, 1066). prob: 0.9303315972359988.
+2024-05-24 13:58:06 info: 2) champ_name: kaisa; index: 2
+2024-05-24 13:58:07 info: OCR results: [([[1, 3], [43, 3], [43, 19], [1, 19]], 'Shen', 0.9999880194664001)]
+2024-05-24 13:58:07 info: 1) bbox: [[1, 3], [43, 3], [43, 19], [1, 19]]. Champion 'Shen' detected in region (888, 1044, 1035, 1066). prob: 0.9999880194664001.
+2024-05-24 13:58:07 info: 2) champ_name: shen; index: 3
+2024-05-24 13:58:07 info: OCR results: []
+2024-05-24 13:58:07 info: OCR results: [([[3, 3], [57, 3], [57, 19], [3, 19]], 'Neeko', 0.9999654004316152)]
+2024-05-24 13:58:07 info: 1) bbox: [[3, 3], [57, 3], [57, 19], [3, 19]]. Champion 'Neeko' detected in region (1290, 1044, 1438, 1066). prob: 0.9999654004316152.
+2024-05-24 13:58:07 info: 2) champ_name: neeko; index: 5
+2024-05-24 13:58:07 info: 3) screen_for_champ: 4 test_index: 4; champion_coordinates: {'diana': [(484, 943, 668, 1038)], 'kaisa': [(685, 943, 869, 1038)], 'shen': [(886, 943, 1070, 1038)], 'neeko': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:58:07 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:58:07 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:58:25 info: ------------------------------------------
+2024-05-24 13:58:25 info: ------------------------------------------
+2024-05-24 13:58:25 info: Processing frame 63600
+2024-05-24 13:58:25 info: OCR results: [([[5, 3], [53, 3], [53, 19], [5, 19]], 'Diana', 0.9999973877108624)]
+2024-05-24 13:58:25 info: 1) bbox: [[5, 3], [53, 3], [53, 19], [5, 19]]. Champion 'Diana' detected in region (484, 1044, 633, 1066). prob: 0.9999973877108624.
+2024-05-24 13:58:25 info: 2) champ_name: diana; index: 1
+2024-05-24 13:58:25 info: OCR results: [([[3, 1], [55, 1], [55, 19], [3, 19]], "Kai'Sa", 0.8189771650994352)]
+2024-05-24 13:58:26 info: 1) bbox: [[3, 1], [55, 1], [55, 19], [3, 19]]. Champion 'Kai'Sa' detected in region (686, 1044, 834, 1066). prob: 0.8189771650994352.
+2024-05-24 13:58:26 info: 2) champ_name: kaisa; index: 2
+2024-05-24 13:58:26 info: OCR results: [([[1, 3], [43, 3], [43, 19], [1, 19]], 'Shen', 0.9999880194664001)]
+2024-05-24 13:58:26 info: 1) bbox: [[1, 3], [43, 3], [43, 19], [1, 19]]. Champion 'Shen' detected in region (888, 1044, 1035, 1066). prob: 0.9999880194664001.
+2024-05-24 13:58:26 info: 2) champ_name: shen; index: 3
+2024-05-24 13:58:26 info: OCR results: []
+2024-05-24 13:58:26 info: OCR results: [([[3, 3], [57, 3], [57, 19], [3, 19]], 'Neeko', 0.9999654004316152)]
+2024-05-24 13:58:26 info: 1) bbox: [[3, 3], [57, 3], [57, 19], [3, 19]]. Champion 'Neeko' detected in region (1290, 1044, 1438, 1066). prob: 0.9999654004316152.
+2024-05-24 13:58:26 info: 2) champ_name: neeko; index: 5
+2024-05-24 13:58:26 info: 3) screen_for_champ: 4 test_index: 4; champion_coordinates: {'diana': [(484, 943, 668, 1038)], 'kaisa': [(685, 943, 869, 1038)], 'shen': [(886, 943, 1070, 1038)], 'neeko': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:58:26 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:58:26 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:58:45 info: ------------------------------------------
+2024-05-24 13:58:45 info: ------------------------------------------
+2024-05-24 13:58:45 info: Processing frame 64800
+2024-05-24 13:58:45 info: OCR results: []
+2024-05-24 13:58:45 info: OCR results: []
+2024-05-24 13:58:45 info: OCR results: []
+2024-05-24 13:58:45 info: OCR results: []
+2024-05-24 13:58:45 info: OCR results: []
+2024-05-24 13:59:06 info: ------------------------------------------
+2024-05-24 13:59:06 info: ------------------------------------------
+2024-05-24 13:59:06 info: Processing frame 66000
+2024-05-24 13:59:06 info: OCR results: []
+2024-05-24 13:59:06 info: OCR results: []
+2024-05-24 13:59:06 info: OCR results: []
+2024-05-24 13:59:06 info: OCR results: []
+2024-05-24 13:59:06 info: OCR results: []
+2024-05-24 13:59:26 info: ------------------------------------------
+2024-05-24 13:59:26 info: ------------------------------------------
+2024-05-24 13:59:26 info: Processing frame 67200
+2024-05-24 13:59:26 info: OCR results: [([[5, 1], [59, 1], [59, 19], [5, 19]], 'Teemo', 0.999550247902129)]
+2024-05-24 13:59:26 info: 1) bbox: [[5, 1], [59, 1], [59, 19], [5, 19]]. Champion 'Teemo' detected in region (484, 1044, 633, 1066). prob: 0.999550247902129.
+2024-05-24 13:59:26 info: 2) champ_name: teemo; index: 1
+2024-05-24 13:59:26 info: OCR results: [([[3, 1], [57, 1], [57, 19], [3, 19]], 'Yorick', 0.9999585355324518)]
+2024-05-24 13:59:26 info: 1) bbox: [[3, 1], [57, 1], [57, 19], [3, 19]]. Champion 'Yorick' detected in region (686, 1044, 834, 1066). prob: 0.9999585355324518.
+2024-05-24 13:59:26 info: 2) champ_name: yorick; index: 2
+2024-05-24 13:59:26 info: OCR results: [([[0, 1], [45, 1], [45, 21], [0, 21]], 'Sylas', 0.9999821404561516)]
+2024-05-24 13:59:26 info: 1) bbox: [[0, 1], [45, 1], [45, 21], [0, 21]]. Champion 'Sylas' detected in region (888, 1044, 1035, 1066). prob: 0.9999821404561516.
+2024-05-24 13:59:26 info: 2) champ_name: sylas; index: 3
+2024-05-24 13:59:26 info: OCR results: [([[3, 1], [67, 1], [67, 19], [3, 19]], 'Kobuko', 0.9997878555387733)]
+2024-05-24 13:59:26 info: 1) bbox: [[3, 1], [67, 1], [67, 19], [3, 19]]. Champion 'Kobuko' detected in region (1088, 1044, 1237, 1066). prob: 0.9997878555387733.
+2024-05-24 13:59:26 info: 2) champ_name: kobuko; index: 4
+2024-05-24 13:59:26 info: OCR results: [([[3, 1], [47, 1], [47, 19], [3, 19]], 'Yone', 0.9999678730964661)]
+2024-05-24 13:59:26 info: 1) bbox: [[3, 1], [47, 1], [47, 19], [3, 19]]. Champion 'Yone' detected in region (1290, 1044, 1438, 1066). prob: 0.9999678730964661.
+2024-05-24 13:59:26 info: 2) champ_name: yone; index: 5
+2024-05-24 13:59:26 info: 3) screen_for_champ: 5 test_index: 5; champion_coordinates: {'teemo': [(484, 943, 668, 1038)], 'yorick': [(685, 943, 869, 1038)], 'sylas': [(886, 943, 1070, 1038)], 'kobuko': [(1088, 943, 1271, 1038)], 'yone': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:59:26 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:59:26 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 13:59:46 info: ------------------------------------------
+2024-05-24 13:59:46 info: ------------------------------------------
+2024-05-24 13:59:46 info: Processing frame 68400
+2024-05-24 13:59:46 info: OCR results: [([[5, 1], [59, 1], [59, 19], [5, 19]], 'Teemo', 0.9991393937323223)]
+2024-05-24 13:59:46 info: 1) bbox: [[5, 1], [59, 1], [59, 19], [5, 19]]. Champion 'Teemo' detected in region (484, 1044, 633, 1066). prob: 0.9991393937323223.
+2024-05-24 13:59:46 info: 2) champ_name: teemo; index: 1
+2024-05-24 13:59:46 info: OCR results: [([[3, 1], [59, 1], [59, 19], [3, 19]], 'Yorick', 0.9999086997925335)]
+2024-05-24 13:59:46 info: 1) bbox: [[3, 1], [59, 1], [59, 19], [3, 19]]. Champion 'Yorick' detected in region (686, 1044, 834, 1066). prob: 0.9999086997925335.
+2024-05-24 13:59:46 info: 2) champ_name: yorick; index: 2
+2024-05-24 13:59:46 info: OCR results: [([[0, 1], [45, 1], [45, 21], [0, 21]], 'Sylas', 0.9999797414100798)]
+2024-05-24 13:59:46 info: 1) bbox: [[0, 1], [45, 1], [45, 21], [0, 21]]. Champion 'Sylas' detected in region (888, 1044, 1035, 1066). prob: 0.9999797414100798.
+2024-05-24 13:59:46 info: 2) champ_name: sylas; index: 3
+2024-05-24 13:59:46 info: OCR results: [([[5, 1], [67, 1], [67, 19], [5, 19]], 'Kobuko', 0.999887821176978)]
+2024-05-24 13:59:46 info: 1) bbox: [[5, 1], [67, 1], [67, 19], [5, 19]]. Champion 'Kobuko' detected in region (1088, 1044, 1237, 1066). prob: 0.999887821176978.
+2024-05-24 13:59:46 info: 2) champ_name: kobuko; index: 4
+2024-05-24 13:59:46 info: OCR results: [([[3, 1], [47, 1], [47, 19], [3, 19]], 'Yone', 0.9999691843986511)]
+2024-05-24 13:59:46 info: 1) bbox: [[3, 1], [47, 1], [47, 19], [3, 19]]. Champion 'Yone' detected in region (1290, 1044, 1438, 1066). prob: 0.9999691843986511.
+2024-05-24 13:59:46 info: 2) champ_name: yone; index: 5
+2024-05-24 13:59:46 info: 3) screen_for_champ: 5 test_index: 5; champion_coordinates: {'teemo': [(484, 943, 668, 1038)], 'yorick': [(685, 943, 869, 1038)], 'sylas': [(886, 943, 1070, 1038)], 'kobuko': [(1088, 943, 1271, 1038)], 'yone': [(1289, 943, 1472, 1038)]}
+2024-05-24 13:59:46 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 13:59:46 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 14:00:07 info: ------------------------------------------
+2024-05-24 14:00:07 info: ------------------------------------------
+2024-05-24 14:00:07 info: Processing frame 69600
+2024-05-24 14:00:07 info: OCR results: [([[5, 1], [59, 1], [59, 19], [5, 19]], 'Teemo', 0.9995560059035212)]
+2024-05-24 14:00:07 info: 1) bbox: [[5, 1], [59, 1], [59, 19], [5, 19]]. Champion 'Teemo' detected in region (484, 1044, 633, 1066). prob: 0.9995560059035212.
+2024-05-24 14:00:07 info: 2) champ_name: teemo; index: 1
+2024-05-24 14:00:07 info: OCR results: [([[3, 1], [59, 1], [59, 19], [3, 19]], 'Yorick', 0.9999019836052123)]
+2024-05-24 14:00:07 info: 1) bbox: [[3, 1], [59, 1], [59, 19], [3, 19]]. Champion 'Yorick' detected in region (686, 1044, 834, 1066). prob: 0.9999019836052123.
+2024-05-24 14:00:07 info: 2) champ_name: yorick; index: 2
+2024-05-24 14:00:07 info: OCR results: [([[0, 1], [45, 1], [45, 21], [0, 21]], 'Sylas', 0.9999803278436268)]
+2024-05-24 14:00:07 info: 1) bbox: [[0, 1], [45, 1], [45, 21], [0, 21]]. Champion 'Sylas' detected in region (888, 1044, 1035, 1066). prob: 0.9999803278436268.
+2024-05-24 14:00:07 info: 2) champ_name: sylas; index: 3
+2024-05-24 14:00:07 info: OCR results: [([[5, 1], [67, 1], [67, 19], [5, 19]], 'Kobuko', 0.9999053417001402)]
+2024-05-24 14:00:07 info: 1) bbox: [[5, 1], [67, 1], [67, 19], [5, 19]]. Champion 'Kobuko' detected in region (1088, 1044, 1237, 1066). prob: 0.9999053417001402.
+2024-05-24 14:00:07 info: 2) champ_name: kobuko; index: 4
+2024-05-24 14:00:07 info: OCR results: [([[3, 1], [47, 1], [47, 19], [3, 19]], 'Yone', 0.9999681115150452)]
+2024-05-24 14:00:07 info: 1) bbox: [[3, 1], [47, 1], [47, 19], [3, 19]]. Champion 'Yone' detected in region (1290, 1044, 1438, 1066). prob: 0.9999681115150452.
+2024-05-24 14:00:07 info: 2) champ_name: yone; index: 5
+2024-05-24 14:00:07 info: 3) screen_for_champ: 5 test_index: 5; champion_coordinates: {'teemo': [(484, 943, 668, 1038)], 'yorick': [(685, 943, 869, 1038)], 'sylas': [(886, 943, 1070, 1038)], 'kobuko': [(1088, 943, 1271, 1038)], 'yone': [(1289, 943, 1472, 1038)]}
+2024-05-24 14:00:07 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 14:00:07 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 14:00:26 info: ------------------------------------------
+2024-05-24 14:00:26 info: ------------------------------------------
+2024-05-24 14:00:26 info: Processing frame 70800
+2024-05-24 14:00:26 info: OCR results: []
+2024-05-24 14:00:26 info: OCR results: []
+2024-05-24 14:00:26 info: OCR results: []
+2024-05-24 14:00:26 info: OCR results: []
+2024-05-24 14:00:26 info: OCR results: []
+2024-05-24 14:00:46 info: ------------------------------------------
+2024-05-24 14:00:46 info: ------------------------------------------
+2024-05-24 14:00:46 info: Processing frame 72000
+2024-05-24 14:00:46 info: OCR results: []
+2024-05-24 14:00:46 info: OCR results: []
+2024-05-24 14:00:46 info: OCR results: []
+2024-05-24 14:00:46 info: OCR results: []
+2024-05-24 14:00:46 info: OCR results: []
+2024-05-24 14:01:05 info: ------------------------------------------
+2024-05-24 14:01:05 info: ------------------------------------------
+2024-05-24 14:01:05 info: Processing frame 73200
+2024-05-24 14:01:05 info: OCR results: []
+2024-05-24 14:01:05 info: OCR results: [([[1, 1], [45, 1], [45, 19], [1, 19]], 'Illaoi', 0.9968597728890113)]
+2024-05-24 14:01:05 info: 1) bbox: [[1, 1], [45, 1], [45, 19], [1, 19]]. Champion 'Illaoi' detected in region (686, 1044, 834, 1066). prob: 0.9968597728890113.
+2024-05-24 14:01:05 info: 2) champ_name: illaoi; index: 2
+2024-05-24 14:01:05 info: OCR results: [([[1, 3], [51, 3], [51, 19], [1, 19]], 'Diana', 0.9999955217895568)]
+2024-05-24 14:01:05 info: 1) bbox: [[1, 3], [51, 3], [51, 19], [1, 19]]. Champion 'Diana' detected in region (888, 1044, 1035, 1066). prob: 0.9999955217895568.
+2024-05-24 14:01:05 info: 2) champ_name: diana; index: 3
+2024-05-24 14:01:06 info: OCR results: [([[5, 3], [53, 3], [53, 19], [5, 19]], 'Alune', 0.9999952552293366)]
+2024-05-24 14:01:06 info: 1) bbox: [[5, 3], [53, 3], [53, 19], [5, 19]]. Champion 'Alune' detected in region (1088, 1044, 1237, 1066). prob: 0.9999952552293366.
+2024-05-24 14:01:06 info: 2) champ_name: alune; index: 4
+2024-05-24 14:01:06 info: OCR results: [([[1, 0], [77, 0], [77, 19], [1, 19]], "Cho'Gath", 0.9988409497913139)]
+2024-05-24 14:01:06 info: 1) bbox: [[1, 0], [77, 0], [77, 19], [1, 19]]. Champion 'Cho'Gath' detected in region (1290, 1044, 1438, 1066). prob: 0.9988409497913139.
+2024-05-24 14:01:06 info: 2) champ_name: chogath; index: 5
+2024-05-24 14:01:06 info: 3) screen_for_champ: 4 test_index: 4; champion_coordinates: {'illaoi': [(685, 943, 869, 1038)], 'diana': [(886, 943, 1070, 1038)], 'alune': [(1088, 943, 1271, 1038)], 'chogath': [(1289, 943, 1472, 1038)]}
+2024-05-24 14:01:06 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 14:01:06 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 14:01:25 info: ------------------------------------------
+2024-05-24 14:01:25 info: ------------------------------------------
+2024-05-24 14:01:25 info: Processing frame 74400
+2024-05-24 14:01:25 info: OCR results: []
+2024-05-24 14:01:25 info: OCR results: [([[1, 1], [45, 1], [45, 19], [1, 19]], 'Illaoi', 0.9977052947535998)]
+2024-05-24 14:01:25 info: 1) bbox: [[1, 1], [45, 1], [45, 19], [1, 19]]. Champion 'Illaoi' detected in region (686, 1044, 834, 1066). prob: 0.9977052947535998.
+2024-05-24 14:01:25 info: 2) champ_name: illaoi; index: 2
+2024-05-24 14:01:25 info: OCR results: [([[1, 3], [51, 3], [51, 19], [1, 19]], 'Diana', 0.9407893874718272)]
+2024-05-24 14:01:25 info: 1) bbox: [[1, 3], [51, 3], [51, 19], [1, 19]]. Champion 'Diana' detected in region (888, 1044, 1035, 1066). prob: 0.9407893874718272.
+2024-05-24 14:01:25 info: 2) champ_name: diana; index: 3
+2024-05-24 14:01:25 info: OCR results: [([[5, 3], [53, 3], [53, 19], [5, 19]], 'Alune', 0.9999955751015998)]
+2024-05-24 14:01:25 info: 1) bbox: [[5, 3], [53, 3], [53, 19], [5, 19]]. Champion 'Alune' detected in region (1088, 1044, 1237, 1066). prob: 0.9999955751015998.
+2024-05-24 14:01:25 info: 2) champ_name: alune; index: 4
+2024-05-24 14:01:25 info: OCR results: [([[1, 0], [77, 0], [77, 19], [1, 19]], "Cho'Gath", 0.9574564576898739)]
+2024-05-24 14:01:25 info: 1) bbox: [[1, 0], [77, 0], [77, 19], [1, 19]]. Champion 'Cho'Gath' detected in region (1290, 1044, 1438, 1066). prob: 0.9574564576898739.
+2024-05-24 14:01:25 info: 2) champ_name: chogath; index: 5
+2024-05-24 14:01:25 info: 3) screen_for_champ: 4 test_index: 4; champion_coordinates: {'illaoi': [(685, 943, 869, 1038)], 'diana': [(886, 943, 1070, 1038)], 'alune': [(1088, 943, 1271, 1038)], 'chogath': [(1289, 943, 1472, 1038)]}
+2024-05-24 14:01:25 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 14:01:25 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 14:01:47 info: ------------------------------------------
+2024-05-24 14:01:47 info: ------------------------------------------
+2024-05-24 14:01:47 info: Processing frame 75600
+2024-05-24 14:01:47 info: OCR results: []
+2024-05-24 14:01:47 info: OCR results: [([[1, 1], [45, 1], [45, 19], [1, 19]], 'Illaoi', 0.9980213440725368)]
+2024-05-24 14:01:47 info: 1) bbox: [[1, 1], [45, 1], [45, 19], [1, 19]]. Champion 'Illaoi' detected in region (686, 1044, 834, 1066). prob: 0.9980213440725368.
+2024-05-24 14:01:47 info: 2) champ_name: illaoi; index: 2
+2024-05-24 14:01:47 info: OCR results: [([[1, 3], [51, 3], [51, 19], [1, 19]], 'Diana', 0.9999961615340507)]
+2024-05-24 14:01:47 info: 1) bbox: [[1, 3], [51, 3], [51, 19], [1, 19]]. Champion 'Diana' detected in region (888, 1044, 1035, 1066). prob: 0.9999961615340507.
+2024-05-24 14:01:47 info: 2) champ_name: diana; index: 3
+2024-05-24 14:01:47 info: OCR results: [([[5, 3], [53, 3], [53, 19], [5, 19]], 'Alune', 0.5700887694249421)]
+2024-05-24 14:01:47 info: 1) bbox: [[5, 3], [53, 3], [53, 19], [5, 19]]. Champion 'Alune' detected in region (1088, 1044, 1237, 1066). prob: 0.5700887694249421.
+2024-05-24 14:01:47 info: 2) champ_name: alune; index: 4
+2024-05-24 14:01:47 info: OCR results: [([[1, 0], [77, 0], [77, 19], [1, 19]], "Cho'Gath", 0.9977746318295688)]
+2024-05-24 14:01:47 info: 1) bbox: [[1, 0], [77, 0], [77, 19], [1, 19]]. Champion 'Cho'Gath' detected in region (1290, 1044, 1438, 1066). prob: 0.9977746318295688.
+2024-05-24 14:01:47 info: 2) champ_name: chogath; index: 5
+2024-05-24 14:01:47 info: 3) screen_for_champ: 4 test_index: 4; champion_coordinates: {'illaoi': [(685, 943, 869, 1038)], 'diana': [(886, 943, 1070, 1038)], 'alune': [(1088, 943, 1271, 1038)], 'chogath': [(1289, 943, 1472, 1038)]}
+2024-05-24 14:01:47 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 14:01:47 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 14:02:06 info: ------------------------------------------
+2024-05-24 14:02:06 info: ------------------------------------------
+2024-05-24 14:02:06 info: Processing frame 76800
+2024-05-24 14:02:06 info: OCR results: [([[3, 3], [61, 3], [61, 21], [3, 21]], 'Syndra', 0.999985935218046)]
+2024-05-24 14:02:06 info: 1) bbox: [[3, 3], [61, 3], [61, 21], [3, 21]]. Champion 'Syndra' detected in region (484, 1044, 633, 1066). prob: 0.999985935218046.
+2024-05-24 14:02:06 info: 2) champ_name: syndra; index: 1
+2024-05-24 14:02:06 info: OCR results: [([[3, 1], [67, 1], [67, 19], [3, 19]], 'Kindred', 0.9999985131227251)]
+2024-05-24 14:02:06 info: 1) bbox: [[3, 1], [67, 1], [67, 19], [3, 19]]. Champion 'Kindred' detected in region (686, 1044, 834, 1066). prob: 0.9999985131227251.
+2024-05-24 14:02:06 info: 2) champ_name: kindred; index: 2
+2024-05-24 14:02:06 info: OCR results: [([[0, 1], [45, 1], [45, 21], [0, 21]], 'Sylas', 0.9999828868259021)]
+2024-05-24 14:02:06 info: 1) bbox: [[0, 1], [45, 1], [45, 21], [0, 21]]. Champion 'Sylas' detected in region (888, 1044, 1035, 1066). prob: 0.9999828868259021.
+2024-05-24 14:02:06 info: 2) champ_name: sylas; index: 3
+2024-05-24 14:02:06 info: OCR results: [([[3, 3], [45, 3], [45, 19], [3, 19]], 'Gnar', 0.9879533385927519)]
+2024-05-24 14:02:06 info: 1) bbox: [[3, 3], [45, 3], [45, 19], [3, 19]]. Champion 'Gnar' detected in region (1088, 1044, 1237, 1066). prob: 0.9879533385927519.
+2024-05-24 14:02:06 info: 2) champ_name: gnar; index: 4
+2024-05-24 14:02:06 info: OCR results: [([[0, 0], [74, 0], [74, 22], [0, 22]], 'Aphelios', 0.999966914497208)]
+2024-05-24 14:02:06 info: 1) bbox: [[0, 0], [74, 0], [74, 22], [0, 22]]. Champion 'Aphelios' detected in region (1290, 1044, 1438, 1066). prob: 0.999966914497208.
+2024-05-24 14:02:06 info: 2) champ_name: aphelios; index: 5
+2024-05-24 14:02:06 info: 3) screen_for_champ: 5 test_index: 5; champion_coordinates: {'syndra': [(484, 943, 668, 1038)], 'kindred': [(685, 943, 869, 1038)], 'sylas': [(886, 943, 1070, 1038)], 'gnar': [(1088, 943, 1271, 1038)], 'aphelios': [(1289, 943, 1472, 1038)]}
+2024-05-24 14:02:06 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 14:02:06 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 14:02:26 info: ------------------------------------------
+2024-05-24 14:02:26 info: ------------------------------------------
+2024-05-24 14:02:26 info: Processing frame 78000
+2024-05-24 14:02:26 info: OCR results: []
+2024-05-24 14:02:26 info: OCR results: [([[3, 1], [67, 1], [67, 19], [3, 19]], 'Kindred', 0.999998648293416)]
+2024-05-24 14:02:26 info: 1) bbox: [[3, 1], [67, 1], [67, 19], [3, 19]]. Champion 'Kindred' detected in region (686, 1044, 834, 1066). prob: 0.999998648293416.
+2024-05-24 14:02:26 info: 2) champ_name: kindred; index: 2
+2024-05-24 14:02:26 info: OCR results: [([[0, 1], [45, 1], [45, 21], [0, 21]], 'Sylas', 0.9999826202652845)]
+2024-05-24 14:02:26 info: 1) bbox: [[0, 1], [45, 1], [45, 21], [0, 21]]. Champion 'Sylas' detected in region (888, 1044, 1035, 1066). prob: 0.9999826202652845.
+2024-05-24 14:02:26 info: 2) champ_name: sylas; index: 3
+2024-05-24 14:02:26 info: OCR results: []
+2024-05-24 14:02:26 info: OCR results: [([[1, 0], [76, 0], [76, 22], [1, 22]], 'Aphelios', 0.9999620253908268)]
+2024-05-24 14:02:26 info: 1) bbox: [[1, 0], [76, 0], [76, 22], [1, 22]]. Champion 'Aphelios' detected in region (1290, 1044, 1438, 1066). prob: 0.9999620253908268.
+2024-05-24 14:02:26 info: 2) champ_name: aphelios; index: 5
+2024-05-24 14:02:26 info: 3) screen_for_champ: 3 test_index: 3; champion_coordinates: {'kindred': [(685, 943, 869, 1038)], 'sylas': [(886, 943, 1070, 1038)], 'aphelios': [(1289, 943, 1472, 1038)]}
+2024-05-24 14:02:26 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 14:02:26 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 14:02:45 info: ------------------------------------------
+2024-05-24 14:02:45 info: ------------------------------------------
+2024-05-24 14:02:45 info: Processing frame 79200
+2024-05-24 14:02:45 info: OCR results: []
+2024-05-24 14:02:45 info: OCR results: [([[3, 1], [67, 1], [67, 19], [3, 19]], 'Kindred', 0.9999985131227251)]
+2024-05-24 14:02:45 info: 1) bbox: [[3, 1], [67, 1], [67, 19], [3, 19]]. Champion 'Kindred' detected in region (686, 1044, 834, 1066). prob: 0.9999985131227251.
+2024-05-24 14:02:45 info: 2) champ_name: kindred; index: 2
+2024-05-24 14:02:45 info: OCR results: [([[0, 1], [45, 1], [45, 21], [0, 21]], 'Sylas', 0.9999805410921793)]
+2024-05-24 14:02:45 info: 1) bbox: [[0, 1], [45, 1], [45, 21], [0, 21]]. Champion 'Sylas' detected in region (888, 1044, 1035, 1066). prob: 0.9999805410921793.
+2024-05-24 14:02:45 info: 2) champ_name: sylas; index: 3
+2024-05-24 14:02:45 info: OCR results: []
+2024-05-24 14:02:45 info: OCR results: [([[3, 3], [73, 3], [73, 21], [3, 21]], 'Aphelios', 0.999468096886382)]
+2024-05-24 14:02:45 info: 1) bbox: [[3, 3], [73, 3], [73, 21], [3, 21]]. Champion 'Aphelios' detected in region (1290, 1044, 1438, 1066). prob: 0.999468096886382.
+2024-05-24 14:02:45 info: 2) champ_name: aphelios; index: 5
+2024-05-24 14:02:45 info: 3) screen_for_champ: 3 test_index: 3; champion_coordinates: {'kindred': [(685, 943, 869, 1038)], 'sylas': [(886, 943, 1070, 1038)], 'aphelios': [(1289, 943, 1472, 1038)]}
+2024-05-24 14:02:45 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 14:02:45 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 14:03:07 info: ------------------------------------------
+2024-05-24 14:03:07 info: ------------------------------------------
+2024-05-24 14:03:07 info: Processing frame 80400
+2024-05-24 14:03:07 info: OCR results: []
+2024-05-24 14:03:07 info: OCR results: [([[3, 1], [67, 1], [67, 19], [3, 19]], 'Kindred', 0.999998648293416)]
+2024-05-24 14:03:07 info: 1) bbox: [[3, 1], [67, 1], [67, 19], [3, 19]]. Champion 'Kindred' detected in region (686, 1044, 834, 1066). prob: 0.999998648293416.
+2024-05-24 14:03:07 info: 2) champ_name: kindred; index: 2
+2024-05-24 14:03:07 info: OCR results: [([[0, 1], [45, 1], [45, 21], [0, 21]], 'Sylas', 0.9999782486699589)]
+2024-05-24 14:03:07 info: 1) bbox: [[0, 1], [45, 1], [45, 21], [0, 21]]. Champion 'Sylas' detected in region (888, 1044, 1035, 1066). prob: 0.9999782486699589.
+2024-05-24 14:03:07 info: 2) champ_name: sylas; index: 3
+2024-05-24 14:03:07 info: OCR results: []
+2024-05-24 14:03:07 info: OCR results: [([[1, 0], [74, 0], [74, 22], [1, 22]], 'Aphelios', 0.9989209442597309)]
+2024-05-24 14:03:07 info: 1) bbox: [[1, 0], [74, 0], [74, 22], [1, 22]]. Champion 'Aphelios' detected in region (1290, 1044, 1438, 1066). prob: 0.9989209442597309.
+2024-05-24 14:03:07 info: 2) champ_name: aphelios; index: 5
+2024-05-24 14:03:07 info: 3) screen_for_champ: 3 test_index: 3; champion_coordinates: {'kindred': [(685, 943, 869, 1038)], 'sylas': [(886, 943, 1070, 1038)], 'aphelios': [(1289, 943, 1472, 1038)]}
+2024-05-24 14:03:07 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 14:03:07 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 14:03:26 info: ------------------------------------------
+2024-05-24 14:03:26 info: ------------------------------------------
+2024-05-24 14:03:26 info: Processing frame 81600
+2024-05-24 14:03:26 info: OCR results: [([[3, 3], [51, 3], [51, 19], [3, 19]], 'Janna', 0.9999981340792696)]
+2024-05-24 14:03:26 info: 1) bbox: [[3, 3], [51, 3], [51, 19], [3, 19]]. Champion 'Janna' detected in region (484, 1044, 633, 1066). prob: 0.9999981340792696.
+2024-05-24 14:03:26 info: 2) champ_name: janna; index: 1
+2024-05-24 14:03:26 info: OCR results: [([[39, 3], [79, 3], [79, 19], [39, 19]], 'Maw', 0.9999971781544015), ([[1.172394111397632, -2.8207329549252096], [38.85347853644681, 1.2485897825215635], [35.82760588860237, 22.82073295492521], [-1.85347853644681, 17.751410217478437]], "Kog'", 0.8626713210545245)]
+2024-05-24 14:03:26 info: OCR results: [([[0, 0], [53, 0], [53, 19], [0, 19]], "Kai'Sa", 0.7117306311327976)]
+2024-05-24 14:03:27 info: 1) bbox: [[0, 0], [53, 0], [53, 19], [0, 19]]. Champion 'Kai'Sa' detected in region (888, 1044, 1035, 1066). prob: 0.7117306311327976.
+2024-05-24 14:03:27 info: 2) champ_name: kaisa; index: 3
+2024-05-24 14:03:27 info: OCR results: [([[5, 1], [47, 1], [47, 19], [5, 19]], 'Yone', 0.9616673656691019)]
+2024-05-24 14:03:27 info: 1) bbox: [[5, 1], [47, 1], [47, 19], [5, 19]]. Champion 'Yone' detected in region (1088, 1044, 1237, 1066). prob: 0.9616673656691019.
+2024-05-24 14:03:27 info: 2) champ_name: yone; index: 4
+2024-05-24 14:03:27 info: OCR results: [([[3, 3], [61, 3], [61, 21], [3, 21]], 'Qiyana', 0.9999659329775171)]
+2024-05-24 14:03:27 info: 1) bbox: [[3, 3], [61, 3], [61, 21], [3, 21]]. Champion 'Qiyana' detected in region (1290, 1044, 1438, 1066). prob: 0.9999659329775171.
+2024-05-24 14:03:27 info: 2) champ_name: qiyana; index: 5
+2024-05-24 14:03:27 info: 3) screen_for_champ: 4 test_index: 6; champion_coordinates: {'janna': [(484, 943, 668, 1038)], 'kaisa': [(886, 943, 1070, 1038)], 'yone': [(1088, 943, 1271, 1038)], 'qiyana': [(1289, 943, 1472, 1038)]}
+2024-05-24 14:03:27 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 14:03:27 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 14:03:46 info: ------------------------------------------
+2024-05-24 14:03:46 info: ------------------------------------------
+2024-05-24 14:03:46 info: Processing frame 82800
+2024-05-24 14:03:46 info: OCR results: [([[3, 3], [51, 3], [51, 19], [3, 19]], 'Janna', 0.9999981873912962)]
+2024-05-24 14:03:46 info: 1) bbox: [[3, 3], [51, 3], [51, 19], [3, 19]]. Champion 'Janna' detected in region (484, 1044, 633, 1066). prob: 0.9999981873912962.
+2024-05-24 14:03:46 info: 2) champ_name: janna; index: 1
+2024-05-24 14:03:46 info: OCR results: [([[39, 3], [79, 3], [79, 19], [39, 19]], 'Maw', 0.9999965587250227), ([[1.172394111397632, -2.8207329549252096], [38.85347853644681, 1.2485897825215635], [35.82760588860237, 22.82073295492521], [-1.85347853644681, 17.751410217478437]], "Kog'", 0.8893247611660904)]
+2024-05-24 14:03:46 info: OCR results: [([[0, 0], [53, 0], [53, 19], [0, 19]], "Kai'Sa", 0.6192358277033773)]
+2024-05-24 14:03:46 info: 1) bbox: [[0, 0], [53, 0], [53, 19], [0, 19]]. Champion 'Kai'Sa' detected in region (888, 1044, 1035, 1066). prob: 0.6192358277033773.
+2024-05-24 14:03:46 info: 2) champ_name: kaisa; index: 3
+2024-05-24 14:03:46 info: OCR results: [([[5, 1], [47, 1], [47, 19], [5, 19]], 'Yone', 0.5792960623964208)]
+2024-05-24 14:03:46 info: 1) bbox: [[5, 1], [47, 1], [47, 19], [5, 19]]. Champion 'Yone' detected in region (1088, 1044, 1237, 1066). prob: 0.5792960623964208.
+2024-05-24 14:03:46 info: 2) champ_name: yone; index: 4
+2024-05-24 14:03:46 info: OCR results: [([[3, 3], [61, 3], [61, 21], [3, 21]], 'Qiyana', 0.8170865946428172)]
+2024-05-24 14:03:46 info: 1) bbox: [[3, 3], [61, 3], [61, 21], [3, 21]]. Champion 'Qiyana' detected in region (1290, 1044, 1438, 1066). prob: 0.8170865946428172.
+2024-05-24 14:03:46 info: 2) champ_name: qiyana; index: 5
+2024-05-24 14:03:46 info: 3) screen_for_champ: 4 test_index: 6; champion_coordinates: {'janna': [(484, 943, 668, 1038)], 'kaisa': [(886, 943, 1070, 1038)], 'yone': [(1088, 943, 1271, 1038)], 'qiyana': [(1289, 943, 1472, 1038)]}
+2024-05-24 14:03:46 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 14:03:46 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 14:04:05 info: ------------------------------------------
+2024-05-24 14:04:05 info: ------------------------------------------
+2024-05-24 14:04:05 info: Processing frame 84000
+2024-05-24 14:04:05 info: OCR results: []
+2024-05-24 14:04:05 info: OCR results: []
+2024-05-24 14:04:05 info: OCR results: []
+2024-05-24 14:04:05 info: OCR results: []
+2024-05-24 14:04:05 info: OCR results: []
+2024-05-24 14:04:25 info: ------------------------------------------
+2024-05-24 14:04:25 info: ------------------------------------------
+2024-05-24 14:04:25 info: Processing frame 85200
+2024-05-24 14:04:25 info: OCR results: [([[5, 1], [55, 1], [55, 19], [5, 19]], 'Yasuo', 0.6740687193278624)]
+2024-05-24 14:04:25 info: 1) bbox: [[5, 1], [55, 1], [55, 19], [5, 19]]. Champion 'Yasuo' detected in region (484, 1044, 633, 1066). prob: 0.6740687193278624.
+2024-05-24 14:04:25 info: 2) champ_name: yasuo; index: 1
+2024-05-24 14:04:25 info: OCR results: []
+2024-05-24 14:04:25 info: OCR results: [([[2, 2], [61, 2], [61, 22], [2, 22]], 'Qiyana', 0.9999786351406819)]
+2024-05-24 14:04:25 info: 1) bbox: [[2, 2], [61, 2], [61, 22], [2, 22]]. Champion 'Qiyana' detected in region (888, 1044, 1035, 1066). prob: 0.9999786351406819.
+2024-05-24 14:04:25 info: 2) champ_name: qiyana; index: 3
+2024-05-24 14:04:25 info: OCR results: [([[5, 1], [71, 1], [71, 19], [5, 19]], 'Tristana', 0.9999925821432661)]
+2024-05-24 14:04:25 info: 1) bbox: [[5, 1], [71, 1], [71, 19], [5, 19]]. Champion 'Tristana' detected in region (1088, 1044, 1237, 1066). prob: 0.9999925821432661.
+2024-05-24 14:04:25 info: 2) champ_name: tristana; index: 4
+2024-05-24 14:04:25 info: OCR results: [([[3, 1], [47, 1], [47, 19], [3, 19]], 'Yone', 0.9999686479568481)]
+2024-05-24 14:04:25 info: 1) bbox: [[3, 1], [47, 1], [47, 19], [3, 19]]. Champion 'Yone' detected in region (1290, 1044, 1438, 1066). prob: 0.9999686479568481.
+2024-05-24 14:04:25 info: 2) champ_name: yone; index: 5
+2024-05-24 14:04:25 info: 3) screen_for_champ: 4 test_index: 4; champion_coordinates: {'yasuo': [(484, 943, 668, 1038)], 'qiyana': [(886, 943, 1070, 1038)], 'tristana': [(1088, 943, 1271, 1038)], 'yone': [(1289, 943, 1472, 1038)]}
+2024-05-24 14:04:25 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 14:04:25 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 14:04:47 info: ------------------------------------------
+2024-05-24 14:04:47 info: ------------------------------------------
+2024-05-24 14:04:47 info: Processing frame 86400
+2024-05-24 14:04:47 info: OCR results: [([[3, 1], [53, 1], [53, 19], [3, 19]], 'Yasuo', 0.9999246697879016)]
+2024-05-24 14:04:47 info: 1) bbox: [[3, 1], [53, 1], [53, 19], [3, 19]]. Champion 'Yasuo' detected in region (484, 1044, 633, 1066). prob: 0.9999246697879016.
+2024-05-24 14:04:47 info: 2) champ_name: yasuo; index: 1
+2024-05-24 14:04:47 info: OCR results: []
+2024-05-24 14:04:47 info: OCR results: [([[2, 2], [61, 2], [61, 22], [2, 22]], 'Qiyana', 0.9999746930939252)]
+2024-05-24 14:04:47 info: 1) bbox: [[2, 2], [61, 2], [61, 22], [2, 22]]. Champion 'Qiyana' detected in region (888, 1044, 1035, 1066). prob: 0.9999746930939252.
+2024-05-24 14:04:47 info: 2) champ_name: qiyana; index: 3
+2024-05-24 14:04:47 info: OCR results: [([[5, 1], [71, 1], [71, 19], [5, 19]], 'Tristana', 0.9999927928781469)]
+2024-05-24 14:04:47 info: 1) bbox: [[5, 1], [71, 1], [71, 19], [5, 19]]. Champion 'Tristana' detected in region (1088, 1044, 1237, 1066). prob: 0.9999927928781469.
+2024-05-24 14:04:47 info: 2) champ_name: tristana; index: 4
+2024-05-24 14:04:47 info: OCR results: [([[3, 1], [47, 1], [47, 19], [3, 19]], 'Yone', 0.9999675750732422)]
+2024-05-24 14:04:47 info: 1) bbox: [[3, 1], [47, 1], [47, 19], [3, 19]]. Champion 'Yone' detected in region (1290, 1044, 1438, 1066). prob: 0.9999675750732422.
+2024-05-24 14:04:47 info: 2) champ_name: yone; index: 5
+2024-05-24 14:04:47 info: 3) screen_for_champ: 4 test_index: 4; champion_coordinates: {'yasuo': [(484, 943, 668, 1038)], 'qiyana': [(886, 943, 1070, 1038)], 'tristana': [(1088, 943, 1271, 1038)], 'yone': [(1289, 943, 1472, 1038)]}
+2024-05-24 14:04:47 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 14:04:47 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 14:05:06 info: ------------------------------------------
+2024-05-24 14:05:06 info: ------------------------------------------
+2024-05-24 14:05:06 info: Processing frame 87600
+2024-05-24 14:05:06 info: OCR results: []
+2024-05-24 14:05:06 info: OCR results: []
+2024-05-24 14:05:06 info: OCR results: []
+2024-05-24 14:05:06 info: OCR results: []
+2024-05-24 14:05:06 info: OCR results: []
+2024-05-24 14:05:26 info: ------------------------------------------
+2024-05-24 14:05:26 info: ------------------------------------------
+2024-05-24 14:05:26 info: Processing frame 88800
+2024-05-24 14:05:26 info: OCR results: []
+2024-05-24 14:05:26 info: OCR results: []
+2024-05-24 14:05:26 info: OCR results: []
+2024-05-24 14:05:26 info: OCR results: []
+2024-05-24 14:05:26 info: OCR results: []
+2024-05-24 14:05:45 info: ------------------------------------------
+2024-05-24 14:05:45 info: ------------------------------------------
+2024-05-24 14:05:45 info: Processing frame 90000
+2024-05-24 14:05:45 info: OCR results: [([[1, 3], [31, 3], [31, 19], [1, 19]], 'Jax', 0.9999818989113951)]
+2024-05-24 14:05:45 info: 1) bbox: [[1, 3], [31, 3], [31, 19], [1, 19]]. Champion 'Jax' detected in region (484, 1044, 633, 1066). prob: 0.9999818989113951.
+2024-05-24 14:05:45 info: 2) champ_name: jax; index: 1
+2024-05-24 14:05:45 info: OCR results: [([[3, 3], [53, 3], [53, 19], [3, 19]], 'Alune', 0.6217083730306399)]
+2024-05-24 14:05:45 info: 1) bbox: [[3, 3], [53, 3], [53, 19], [3, 19]]. Champion 'Alune' detected in region (686, 1044, 834, 1066). prob: 0.6217083730306399.
+2024-05-24 14:05:45 info: 2) champ_name: alune; index: 2
+2024-05-24 14:05:45 info: OCR results: [([[0, 1], [55, 1], [55, 19], [0, 19]], 'Neeko', 0.9999716270551442)]
+2024-05-24 14:05:45 info: 1) bbox: [[0, 1], [55, 1], [55, 19], [0, 19]]. Champion 'Neeko' detected in region (888, 1044, 1035, 1066). prob: 0.9999716270551442.
+2024-05-24 14:05:45 info: 2) champ_name: neeko; index: 3
+2024-05-24 14:05:45 info: OCR results: [([[1, 1], [45, 1], [45, 19], [1, 19]], 'Lillia', 0.7570765808168346)]
+2024-05-24 14:05:46 info: 1) bbox: [[1, 1], [45, 1], [45, 19], [1, 19]]. Champion 'Lillia' detected in region (1088, 1044, 1237, 1066). prob: 0.7570765808168346.
+2024-05-24 14:05:46 info: 2) champ_name: lillia; index: 4
+2024-05-24 14:05:46 info: OCR results: [([[3, 3], [43, 3], [43, 21], [3, 21]], 'Zyra', 0.9999392032623291)]
+2024-05-24 14:05:46 info: 1) bbox: [[3, 3], [43, 3], [43, 21], [3, 21]]. Champion 'Zyra' detected in region (1290, 1044, 1438, 1066). prob: 0.9999392032623291.
+2024-05-24 14:05:46 info: 2) champ_name: zyra; index: 5
+2024-05-24 14:05:46 info: 3) screen_for_champ: 5 test_index: 5; champion_coordinates: {'jax': [(484, 943, 668, 1038)], 'alune': [(685, 943, 869, 1038)], 'neeko': [(886, 943, 1070, 1038)], 'lillia': [(1088, 943, 1271, 1038)], 'zyra': [(1289, 943, 1472, 1038)]}
+2024-05-24 14:05:46 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 14:05:46 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 14:06:05 info: ------------------------------------------
+2024-05-24 14:06:05 info: ------------------------------------------
+2024-05-24 14:06:05 info: Processing frame 91200
+2024-05-24 14:06:05 info: OCR results: [([[1, 3], [31, 3], [31, 19], [1, 19]], 'Jax', 0.9999822430381455)]
+2024-05-24 14:06:05 info: 1) bbox: [[1, 3], [31, 3], [31, 19], [1, 19]]. Champion 'Jax' detected in region (484, 1044, 633, 1066). prob: 0.9999822430381455.
+2024-05-24 14:06:05 info: 2) champ_name: jax; index: 1
+2024-05-24 14:06:05 info: OCR results: [([[5, 3], [53, 3], [53, 19], [5, 19]], 'Alune', 0.9999881647244039)]
+2024-05-24 14:06:05 info: 1) bbox: [[5, 3], [53, 3], [53, 19], [5, 19]]. Champion 'Alune' detected in region (686, 1044, 834, 1066). prob: 0.9999881647244039.
+2024-05-24 14:06:05 info: 2) champ_name: alune; index: 2
+2024-05-24 14:06:05 info: OCR results: [([[0, 1], [55, 1], [55, 19], [0, 19]], 'Neeko', 0.9999122525541903)]
+2024-05-24 14:06:05 info: 1) bbox: [[0, 1], [55, 1], [55, 19], [0, 19]]. Champion 'Neeko' detected in region (888, 1044, 1035, 1066). prob: 0.9999122525541903.
+2024-05-24 14:06:05 info: 2) champ_name: neeko; index: 3
+2024-05-24 14:06:05 info: OCR results: [([[1, 1], [45, 1], [45, 19], [1, 19]], 'Lillia', 0.9010798243104633)]
+2024-05-24 14:06:05 info: 1) bbox: [[1, 1], [45, 1], [45, 19], [1, 19]]. Champion 'Lillia' detected in region (1088, 1044, 1237, 1066). prob: 0.9010798243104633.
+2024-05-24 14:06:05 info: 2) champ_name: lillia; index: 4
+2024-05-24 14:06:05 info: OCR results: [([[3, 3], [43, 3], [43, 21], [3, 21]], 'Zyra', 0.9999327063560486)]
+2024-05-24 14:06:05 info: 1) bbox: [[3, 3], [43, 3], [43, 21], [3, 21]]. Champion 'Zyra' detected in region (1290, 1044, 1438, 1066). prob: 0.9999327063560486.
+2024-05-24 14:06:05 info: 2) champ_name: zyra; index: 5
+2024-05-24 14:06:05 info: 3) screen_for_champ: 5 test_index: 5; champion_coordinates: {'jax': [(484, 943, 668, 1038)], 'alune': [(685, 943, 869, 1038)], 'neeko': [(886, 943, 1070, 1038)], 'lillia': [(1088, 943, 1271, 1038)], 'zyra': [(1289, 943, 1472, 1038)]}
+2024-05-24 14:06:05 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 14:06:05 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 14:06:26 info: ------------------------------------------
+2024-05-24 14:06:26 info: ------------------------------------------
+2024-05-24 14:06:26 info: Processing frame 92400
+2024-05-24 14:06:27 info: OCR results: [([[5, 1], [73, 1], [73, 19], [5, 19]], 'Volibear', 0.9354157036287761)]
+2024-05-24 14:06:27 info: 1) bbox: [[5, 1], [73, 1], [73, 19], [5, 19]]. Champion 'Volibear' detected in region (484, 1044, 633, 1066). prob: 0.9354157036287761.
+2024-05-24 14:06:27 info: 2) champ_name: volibear; index: 1
+2024-05-24 14:06:27 info: OCR results: [([[1, 3], [77, 3], [77, 19], [1, 19]], 'Lissandra', 0.9999754965887765)]
+2024-05-24 14:06:27 info: 1) bbox: [[1, 3], [77, 3], [77, 19], [1, 19]]. Champion 'Lissandra' detected in region (686, 1044, 834, 1066). prob: 0.9999754965887765.
+2024-05-24 14:06:27 info: 2) champ_name: lissandra; index: 2
+2024-05-24 14:06:27 info: OCR results: [([[1, 3], [49, 3], [49, 19], [1, 19]], 'Janna', 0.9999986671995202)]
+2024-05-24 14:06:27 info: 1) bbox: [[1, 3], [49, 3], [49, 19], [1, 19]]. Champion 'Janna' detected in region (888, 1044, 1035, 1066). prob: 0.9999986671995202.
+2024-05-24 14:06:27 info: 2) champ_name: janna; index: 3
+2024-05-24 14:06:27 info: OCR results: [([[1, 1], [45, 1], [45, 19], [1, 19]], 'Lillia', 0.7095569637243391)]
+2024-05-24 14:06:27 info: 1) bbox: [[1, 1], [45, 1], [45, 19], [1, 19]]. Champion 'Lillia' detected in region (1088, 1044, 1237, 1066). prob: 0.7095569637243391.
+2024-05-24 14:06:27 info: 2) champ_name: lillia; index: 4
+2024-05-24 14:06:27 info: OCR results: [([[1, 0], [103, 0], [103, 19], [1, 19]], 'Tahm Kench', 0.9889636289349644)]
+2024-05-24 14:06:27 info: 1) bbox: [[1, 0], [103, 0], [103, 19], [1, 19]]. Champion 'Tahm Kench' detected in region (1290, 1044, 1438, 1066). prob: 0.9889636289349644.
+2024-05-24 14:06:27 info: 2) champ_name: tahmkench; index: 5
+2024-05-24 14:06:27 info: 3) screen_for_champ: 5 test_index: 5; champion_coordinates: {'volibear': [(484, 943, 668, 1038)], 'lissandra': [(685, 943, 869, 1038)], 'janna': [(886, 943, 1070, 1038)], 'lillia': [(1088, 943, 1271, 1038)], 'tahmkench': [(1289, 943, 1472, 1038)]}
+2024-05-24 14:06:27 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 14:06:27 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 14:06:46 info: ------------------------------------------
+2024-05-24 14:06:46 info: ------------------------------------------
+2024-05-24 14:06:46 info: Processing frame 93600
+2024-05-24 14:06:46 info: OCR results: []
+2024-05-24 14:06:46 info: OCR results: [([[3, 1], [73, 1], [73, 19], [3, 19]], 'Volibear', 0.9997239223559586)]
+2024-05-24 14:06:46 info: 1) bbox: [[3, 1], [73, 1], [73, 19], [3, 19]]. Champion 'Volibear' detected in region (686, 1044, 834, 1066). prob: 0.9997239223559586.
+2024-05-24 14:06:46 info: 2) champ_name: volibear; index: 2
+2024-05-24 14:06:46 info: OCR results: [([[1, 3], [71, 3], [71, 19], [1, 19]], 'Nautilus', 0.9274195370441997)]
+2024-05-24 14:06:46 info: 1) bbox: [[1, 3], [71, 3], [71, 19], [1, 19]]. Champion 'Nautilus' detected in region (888, 1044, 1035, 1066). prob: 0.9274195370441997.
+2024-05-24 14:06:46 info: 2) champ_name: nautilus; index: 3
+2024-05-24 14:06:46 info: OCR results: [([[3, 3], [47, 3], [47, 19], [3, 19]], 'Galio', 0.6953136930388399)]
+2024-05-24 14:06:46 info: 1) bbox: [[3, 3], [47, 3], [47, 19], [3, 19]]. Champion 'Galio' detected in region (1088, 1044, 1237, 1066). prob: 0.6953136930388399.
+2024-05-24 14:06:46 info: 2) champ_name: galio; index: 4
+2024-05-24 14:06:46 info: OCR results: [([[3, 3], [51, 3], [51, 19], [3, 19]], 'Diana', 0.9999968012784963)]
+2024-05-24 14:06:46 info: 1) bbox: [[3, 3], [51, 3], [51, 19], [3, 19]]. Champion 'Diana' detected in region (1290, 1044, 1438, 1066). prob: 0.9999968012784963.
+2024-05-24 14:06:46 info: 2) champ_name: diana; index: 5
+2024-05-24 14:06:46 info: 3) screen_for_champ: 4 test_index: 4; champion_coordinates: {'volibear': [(685, 943, 869, 1038)], 'nautilus': [(886, 943, 1070, 1038)], 'galio': [(1088, 943, 1271, 1038)], 'diana': [(1289, 943, 1472, 1038)]}
+2024-05-24 14:06:46 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 14:06:46 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 14:07:06 info: ------------------------------------------
+2024-05-24 14:07:06 info: ------------------------------------------
+2024-05-24 14:07:06 info: Processing frame 94800
+2024-05-24 14:07:06 info: OCR results: []
+2024-05-24 14:07:06 info: OCR results: [([[3, 1], [73, 1], [73, 19], [3, 19]], 'Volibear', 0.9995239887077514)]
+2024-05-24 14:07:06 info: 1) bbox: [[3, 1], [73, 1], [73, 19], [3, 19]]. Champion 'Volibear' detected in region (686, 1044, 834, 1066). prob: 0.9995239887077514.
+2024-05-24 14:07:06 info: 2) champ_name: volibear; index: 2
+2024-05-24 14:07:06 info: OCR results: [([[1, 3], [71, 3], [71, 19], [1, 19]], 'Nautilus', 0.999990053323261)]
+2024-05-24 14:07:06 info: 1) bbox: [[1, 3], [71, 3], [71, 19], [1, 19]]. Champion 'Nautilus' detected in region (888, 1044, 1035, 1066). prob: 0.999990053323261.
+2024-05-24 14:07:06 info: 2) champ_name: nautilus; index: 3
+2024-05-24 14:07:06 info: OCR results: [([[3, 3], [47, 3], [47, 19], [3, 19]], 'Galio', 0.8191384898631706)]
+2024-05-24 14:07:06 info: 1) bbox: [[3, 3], [47, 3], [47, 19], [3, 19]]. Champion 'Galio' detected in region (1088, 1044, 1237, 1066). prob: 0.8191384898631706.
+2024-05-24 14:07:06 info: 2) champ_name: galio; index: 4
+2024-05-24 14:07:06 info: OCR results: [([[3, 3], [51, 3], [51, 19], [3, 19]], 'Diana', 0.9999966946544254)]
+2024-05-24 14:07:06 info: 1) bbox: [[3, 3], [51, 3], [51, 19], [3, 19]]. Champion 'Diana' detected in region (1290, 1044, 1438, 1066). prob: 0.9999966946544254.
+2024-05-24 14:07:06 info: 2) champ_name: diana; index: 5
+2024-05-24 14:07:06 info: 3) screen_for_champ: 4 test_index: 4; champion_coordinates: {'volibear': [(685, 943, 869, 1038)], 'nautilus': [(886, 943, 1070, 1038)], 'galio': [(1088, 943, 1271, 1038)], 'diana': [(1289, 943, 1472, 1038)]}
+2024-05-24 14:07:06 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 14:07:06 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 14:07:25 info: ------------------------------------------
+2024-05-24 14:07:25 info: ------------------------------------------
+2024-05-24 14:07:25 info: Processing frame 96000
+2024-05-24 14:07:25 info: OCR results: []
+2024-05-24 14:07:25 info: OCR results: [([[3, 1], [73, 1], [73, 19], [3, 19]], 'Volibear', 0.9997048160146041)]
+2024-05-24 14:07:25 info: 1) bbox: [[3, 1], [73, 1], [73, 19], [3, 19]]. Champion 'Volibear' detected in region (686, 1044, 834, 1066). prob: 0.9997048160146041.
+2024-05-24 14:07:25 info: 2) champ_name: volibear; index: 2
+2024-05-24 14:07:25 info: OCR results: [([[1, 3], [71, 3], [71, 19], [1, 19]], 'Nautilus', 0.9999898847351665)]
+2024-05-24 14:07:25 info: 1) bbox: [[1, 3], [71, 3], [71, 19], [1, 19]]. Champion 'Nautilus' detected in region (888, 1044, 1035, 1066). prob: 0.9999898847351665.
+2024-05-24 14:07:25 info: 2) champ_name: nautilus; index: 3
+2024-05-24 14:07:25 info: OCR results: [([[3, 3], [47, 3], [47, 19], [3, 19]], 'Galio', 0.7450821229592008)]
+2024-05-24 14:07:26 info: 1) bbox: [[3, 3], [47, 3], [47, 19], [3, 19]]. Champion 'Galio' detected in region (1088, 1044, 1237, 1066). prob: 0.7450821229592008.
+2024-05-24 14:07:26 info: 2) champ_name: galio; index: 4
+2024-05-24 14:07:26 info: OCR results: [([[3, 3], [51, 3], [51, 19], [3, 19]], 'Diana', 0.9999966413423894)]
+2024-05-24 14:07:26 info: 1) bbox: [[3, 3], [51, 3], [51, 19], [3, 19]]. Champion 'Diana' detected in region (1290, 1044, 1438, 1066). prob: 0.9999966413423894.
+2024-05-24 14:07:26 info: 2) champ_name: diana; index: 5
+2024-05-24 14:07:26 info: 3) screen_for_champ: 4 test_index: 4; champion_coordinates: {'volibear': [(685, 943, 869, 1038)], 'nautilus': [(886, 943, 1070, 1038)], 'galio': [(1088, 943, 1271, 1038)], 'diana': [(1289, 943, 1472, 1038)]}
+2024-05-24 14:07:26 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 14:07:26 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 14:07:47 info: ------------------------------------------
+2024-05-24 14:07:47 info: ------------------------------------------
+2024-05-24 14:07:47 info: Processing frame 97200
+2024-05-24 14:07:47 info: OCR results: []
+2024-05-24 14:07:47 info: OCR results: []
+2024-05-24 14:07:47 info: OCR results: []
+2024-05-24 14:07:47 info: OCR results: []
+2024-05-24 14:07:47 info: OCR results: []
+2024-05-24 14:08:25 info: ------------------------------------------
+2024-05-24 14:08:25 info: ------------------------------------------
+2024-05-24 14:08:25 info: Processing frame 98400
+2024-05-24 14:08:25 info: OCR results: []
+2024-05-24 14:08:25 info: OCR results: []
+2024-05-24 14:08:25 info: OCR results: []
+2024-05-24 14:08:25 info: OCR results: []
+2024-05-24 14:08:25 info: OCR results: []
+2024-05-24 14:09:10 info: ------------------------------------------
+2024-05-24 14:09:10 info: ------------------------------------------
+2024-05-24 14:09:10 info: Processing frame 99600
+2024-05-24 14:09:10 info: OCR results: [([[1, 1], [61, 1], [61, 21], [1, 21]], 'Caitlyn', 0.9999676489938545)]
+2024-05-24 14:09:10 info: 1) bbox: [[1, 1], [61, 1], [61, 21], [1, 21]]. Champion 'Caitlyn' detected in region (484, 1044, 633, 1066). prob: 0.9999676489938545.
+2024-05-24 14:09:10 info: 2) champ_name: caitlyn; index: 1
+2024-05-24 14:09:10 info: OCR results: [([[1, 3], [61, 3], [61, 19], [1, 19]], 'Lee Sin', 0.9974667826677679)]
+2024-05-24 14:09:10 info: 1) bbox: [[1, 3], [61, 3], [61, 19], [1, 19]]. Champion 'Lee Sin' detected in region (686, 1044, 834, 1066). prob: 0.9974667826677679.
+2024-05-24 14:09:10 info: 2) champ_name: leesin; index: 2
+2024-05-24 14:09:10 info: OCR results: [([[1, 3], [41, 3], [41, 19], [1, 19]], 'Bard', 0.9457038442818129)]
+2024-05-24 14:09:10 info: 1) bbox: [[1, 3], [41, 3], [41, 19], [1, 19]]. Champion 'Bard' detected in region (888, 1044, 1035, 1066). prob: 0.9457038442818129.
+2024-05-24 14:09:10 info: 2) champ_name: bard; index: 3
+2024-05-24 14:09:10 info: OCR results: [([[3, 1], [55, 1], [55, 19], [3, 19]], "Kai' Sa", 0.6404228640245102)]
+2024-05-24 14:09:10 info: 1) bbox: [[3, 1], [55, 1], [55, 19], [3, 19]]. Champion 'Kai' Sa' detected in region (1088, 1044, 1237, 1066). prob: 0.6404228640245102.
+2024-05-24 14:09:10 info: 2) champ_name: kaisa; index: 4
+2024-05-24 14:09:10 info: OCR results: [([[3, 1], [53, 1], [53, 19], [3, 19]], 'Yasuo', 0.9999461013813873)]
+2024-05-24 14:09:10 info: 1) bbox: [[3, 1], [53, 1], [53, 19], [3, 19]]. Champion 'Yasuo' detected in region (1290, 1044, 1438, 1066). prob: 0.9999461013813873.
+2024-05-24 14:09:10 info: 2) champ_name: yasuo; index: 5
+2024-05-24 14:09:10 info: 3) screen_for_champ: 5 test_index: 5; champion_coordinates: {'caitlyn': [(484, 943, 668, 1038)], 'leesin': [(685, 943, 869, 1038)], 'bard': [(886, 943, 1070, 1038)], 'kaisa': [(1088, 943, 1271, 1038)], 'yasuo': [(1289, 943, 1472, 1038)]}
+2024-05-24 14:09:10 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 14:09:10 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 14:09:30 info: ------------------------------------------
+2024-05-24 14:09:30 info: ------------------------------------------
+2024-05-24 14:09:30 info: Processing frame 100800
+2024-05-24 14:09:30 info: OCR results: [([[5, 1], [61, 1], [61, 19], [5, 19]], 'Thresh', 0.9999857892166161)]
+2024-05-24 14:09:30 info: 1) bbox: [[5, 1], [61, 1], [61, 19], [5, 19]]. Champion 'Thresh' detected in region (484, 1044, 633, 1066). prob: 0.9999857892166161.
+2024-05-24 14:09:30 info: 2) champ_name: thresh; index: 1
+2024-05-24 14:09:30 info: OCR results: []
+2024-05-24 14:09:30 info: OCR results: [([[1, 3], [51, 3], [51, 19], [1, 19]], 'Garen', 0.43884220521290007)]
+2024-05-24 14:09:30 info: 1) bbox: [[1, 3], [51, 3], [51, 19], [1, 19]]. Champion 'Garen' detected in region (888, 1044, 1035, 1066). prob: 0.43884220521290007.
+2024-05-24 14:09:30 info: 2) champ_name: garen; index: 3
+2024-05-24 14:09:30 info: OCR results: [([[3, 0], [65, 0], [65, 19], [3, 19]], "Rek'Sai", 0.9464230017424546)]
+2024-05-24 14:09:30 info: 1) bbox: [[3, 0], [65, 0], [65, 19], [3, 19]]. Champion 'Rek'Sai' detected in region (1088, 1044, 1237, 1066). prob: 0.9464230017424546.
+2024-05-24 14:09:30 info: 2) champ_name: reksai; index: 4
+2024-05-24 14:09:30 info: OCR results: [([[3, 1], [35, 1], [35, 19], [3, 19]], 'Zoe', 0.9999478304416382)]
+2024-05-24 14:09:30 info: 1) bbox: [[3, 1], [35, 1], [35, 19], [3, 19]]. Champion 'Zoe' detected in region (1290, 1044, 1438, 1066). prob: 0.9999478304416382.
+2024-05-24 14:09:30 info: 2) champ_name: zoe; index: 5
+2024-05-24 14:09:30 info: 3) screen_for_champ: 4 test_index: 4; champion_coordinates: {'thresh': [(484, 943, 668, 1038)], 'garen': [(886, 943, 1070, 1038)], 'reksai': [(1088, 943, 1271, 1038)], 'zoe': [(1289, 943, 1472, 1038)]}
+2024-05-24 14:09:30 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 14:09:30 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 14:09:51 info: ------------------------------------------
+2024-05-24 14:09:51 info: ------------------------------------------
+2024-05-24 14:09:51 info: Processing frame 102000
+2024-05-24 14:09:51 info: OCR results: [([[5, 1], [61, 1], [61, 19], [5, 19]], 'Thresh', 0.9999860812194711)]
+2024-05-24 14:09:51 info: 1) bbox: [[5, 1], [61, 1], [61, 19], [5, 19]]. Champion 'Thresh' detected in region (484, 1044, 633, 1066). prob: 0.9999860812194711.
+2024-05-24 14:09:51 info: 2) champ_name: thresh; index: 1
+2024-05-24 14:09:51 info: OCR results: []
+2024-05-24 14:09:51 info: OCR results: [([[1, 3], [51, 3], [51, 19], [1, 19]], 'Garen', 0.44076985918952766)]
+2024-05-24 14:09:51 info: 1) bbox: [[1, 3], [51, 3], [51, 19], [1, 19]]. Champion 'Garen' detected in region (888, 1044, 1035, 1066). prob: 0.44076985918952766.
+2024-05-24 14:09:51 info: 2) champ_name: garen; index: 3
+2024-05-24 14:09:51 info: OCR results: [([[3, 0], [65, 0], [65, 19], [3, 19]], "Rek'Sai", 0.9386885309834176)]
+2024-05-24 14:09:51 info: 1) bbox: [[3, 0], [65, 0], [65, 19], [3, 19]]. Champion 'Rek'Sai' detected in region (1088, 1044, 1237, 1066). prob: 0.9386885309834176.
+2024-05-24 14:09:51 info: 2) champ_name: reksai; index: 4
+2024-05-24 14:09:51 info: OCR results: [([[3, 1], [35, 1], [35, 19], [3, 19]], 'Zoe', 0.9999487939921813)]
+2024-05-24 14:09:51 info: 1) bbox: [[3, 1], [35, 1], [35, 19], [3, 19]]. Champion 'Zoe' detected in region (1290, 1044, 1438, 1066). prob: 0.9999487939921813.
+2024-05-24 14:09:51 info: 2) champ_name: zoe; index: 5
+2024-05-24 14:09:51 info: 3) screen_for_champ: 4 test_index: 4; champion_coordinates: {'thresh': [(484, 943, 668, 1038)], 'garen': [(886, 943, 1070, 1038)], 'reksai': [(1088, 943, 1271, 1038)], 'zoe': [(1289, 943, 1472, 1038)]}
+2024-05-24 14:09:51 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 14:09:51 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 14:10:10 info: ------------------------------------------
+2024-05-24 14:10:10 info: ------------------------------------------
+2024-05-24 14:10:10 info: Processing frame 103200
+2024-05-24 14:10:10 info: OCR results: [([[5, 1], [61, 1], [61, 19], [5, 19]], 'Thresh', 0.9999853998794462)]
+2024-05-24 14:10:10 info: 1) bbox: [[5, 1], [61, 1], [61, 19], [5, 19]]. Champion 'Thresh' detected in region (484, 1044, 633, 1066). prob: 0.9999853998794462.
+2024-05-24 14:10:10 info: 2) champ_name: thresh; index: 1
+2024-05-24 14:10:10 info: OCR results: []
+2024-05-24 14:10:10 info: OCR results: [([[1, 3], [51, 3], [51, 19], [1, 19]], 'Garen', 0.4805584065004214)]
+2024-05-24 14:10:10 info: 1) bbox: [[1, 3], [51, 3], [51, 19], [1, 19]]. Champion 'Garen' detected in region (888, 1044, 1035, 1066). prob: 0.4805584065004214.
+2024-05-24 14:10:10 info: 2) champ_name: garen; index: 3
+2024-05-24 14:10:10 info: OCR results: [([[3, 0], [65, 0], [65, 19], [3, 19]], "Rek'Sai", 0.8930102801429741)]
+2024-05-24 14:10:10 info: 1) bbox: [[3, 0], [65, 0], [65, 19], [3, 19]]. Champion 'Rek'Sai' detected in region (1088, 1044, 1237, 1066). prob: 0.8930102801429741.
+2024-05-24 14:10:10 info: 2) champ_name: reksai; index: 4
+2024-05-24 14:10:10 info: OCR results: [([[3, 1], [35, 1], [35, 19], [3, 19]], 'Zoe', 0.9999419114910307)]
+2024-05-24 14:10:10 info: 1) bbox: [[3, 1], [35, 1], [35, 19], [3, 19]]. Champion 'Zoe' detected in region (1290, 1044, 1438, 1066). prob: 0.9999419114910307.
+2024-05-24 14:10:10 info: 2) champ_name: zoe; index: 5
+2024-05-24 14:10:10 info: 3) screen_for_champ: 4 test_index: 4; champion_coordinates: {'thresh': [(484, 943, 668, 1038)], 'garen': [(886, 943, 1070, 1038)], 'reksai': [(1088, 943, 1271, 1038)], 'zoe': [(1289, 943, 1472, 1038)]}
+2024-05-24 14:10:10 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 14:10:10 info: 5) else process_champion_coordinates self.count_class_mentions: {'aatrox': 129, 'ahri': 194, 'alune': 133, 'amumu': 74, 'annie': 72, 'aphelios': 92, 'ashe': 33, 'azir': 8, 'bard': 153, 'caitlyn': 94, 'chogath': 75, 'darius': 149, 'diana': 100, 'galio': 73, 'garen': 142, 'gnar': 104, 'hwei': 4, 'illaoi': 63, 'irelia': 0, 'janna': 135, 'jax': 140, 'kaisa': 40, 'kayn': 36, 'khazix': 173, 'kindred': 103, 'kobuko': 164, 'kogmaw': 66, 'leesin': 38, 'lillia': 36, 'lissandra': 18, 'lux': 210, 'malphite': 128, 'morgana': 38, 'nautilus': 8, 'neeko': 121, 'ornn': 63, 'qiyana': 94, 'rakan': 0, 'reksai': 171, 'riven': 189, 'senna': 122, 'sett': 5, 'shen': 129, 'sivir': 145, 'soraka': 111, 'sylas': 27, 'syndra': 37, 'tahmkench': 97, 'teemo': 185, 'thresh': 98, 'tristana': 95, 'udyr': 2, 'volibear': 88, 'wukong': 6, 'xayah': 0, 'yasuo': 124, 'yone': 107, 'yorick': 123, 'zoe': 93, 'zyra': 139}
+2024-05-24 14:10:30 info: ------------------------------------------
+2024-05-24 14:10:30 info: ------------------------------------------
+2024-05-24 14:10:30 info: Processing frame 104400
+2024-05-24 14:10:30 info: OCR results: []
+2024-05-24 14:10:30 info: OCR results: []
+2024-05-24 14:10:30 info: OCR results: []
+2024-05-24 14:10:30 info: OCR results: []
+2024-05-24 14:10:30 info: OCR results: []
+2024-05-24 14:10:51 info: ------------------------------------------
+2024-05-24 14:10:51 info: ------------------------------------------
+2024-05-24 14:10:51 info: Processing frame 105600
+2024-05-24 14:10:51 info: OCR results: [([[3, 3], [47, 3], [47, 19], [3, 19]], 'Irelia', 0.9994861442580321)]
+2024-05-24 14:10:51 info: 1) bbox: [[3, 3], [47, 3], [47, 19], [3, 19]]. Champion 'Irelia' detected in region (484, 1044, 633, 1066). prob: 0.9994861442580321.
+2024-05-24 14:10:51 info: 2) champ_name: irelia; index: 1
+2024-05-24 14:10:51 info: OCR results: [([[1, 0], [76, 0], [76, 22], [1, 22]], 'Aphelios', 0.9999605502274742)]
+2024-05-24 14:10:51 info: 1) bbox: [[1, 0], [76, 0], [76, 22], [1, 22]]. Champion 'Aphelios' detected in region (686, 1044, 834, 1066). prob: 0.9999605502274742.
+2024-05-24 14:10:51 info: 2) champ_name: aphelios; index: 2
+2024-05-24 14:10:51 info: OCR results: [([[1, 3], [45, 3], [45, 19], [1, 19]], 'Galio', 0.757552553526779)]
+2024-05-24 14:10:51 info: 1) bbox: [[1, 3], [45, 3], [45, 19], [1, 19]]. Champion 'Galio' detected in region (888, 1044, 1035, 1066). prob: 0.757552553526779.
+2024-05-24 14:10:51 info: 2) champ_name: galio; index: 3
+2024-05-24 14:10:51 info: OCR results: [([[5, 1], [71, 1], [71, 19], [5, 19]], 'Tristana', 0.9999928771720942)]
+2024-05-24 14:10:51 info: 1) bbox: [[5, 1], [71, 1], [71, 19], [5, 19]]. Champion 'Tristana' detected in region (1088, 1044, 1237, 1066). prob: 0.9999928771720942.
+2024-05-24 14:10:51 info: 2) champ_name: tristana; index: 4
+2024-05-24 14:10:51 info: OCR results: [([[1, 3], [31, 3], [31, 19], [1, 19]], 'Jax', 0.999983826021402)]
+2024-05-24 14:10:51 info: 1) bbox: [[1, 3], [31, 3], [31, 19], [1, 19]]. Champion 'Jax' detected in region (1290, 1044, 1438, 1066). prob: 0.999983826021402.
+2024-05-24 14:10:51 info: 2) champ_name: jax; index: 5
+2024-05-24 14:10:51 info: 3) screen_for_champ: 5 test_index: 5; champion_coordinates: {'irelia': [(484, 943, 668, 1038)], 'aphelios': [(685, 943, 869, 1038)], 'galio': [(886, 943, 1070, 1038)], 'tristana': [(1088, 943, 1271, 1038)], 'jax': [(1289, 943, 1472, 1038)]}
+2024-05-24 14:10:51 info: 4) is_champion_missing: True detected_champion_names len: 57; champion_names: 60
+2024-05-24 14:10:51 info: 5) (len(self.detected_champion_names) < len(self.champion_names) and ChampionChecker.is_champion_missing
+2024-05-24 14:10:51 info: Image 47f44326-19be-11ef-a0ba-6a0b467b875d saved

@@ -160,10 +160,10 @@ class VideoTextRecognition:
         label_creator.create_labels(image_id, champion_coordinates)
 
         logging.info(f"Image {image_id} saved")
-        if self.Detected_Classes_Class.is_champion_missing(
+        if ChampionChecker.is_champion_missing(
             self.detected_champion_names, champion_coordinates
         ):
-            self.Detected_Classes_Class.add_missing_champions(
+            ChampionChecker.add_missing_champions(
                 self.detected_champion_names, champion_coordinates
             )
         self.Detected_Classes_Class.update_class_counts_with_coordinates(self.count_class_mentions, champion_coordinates)
