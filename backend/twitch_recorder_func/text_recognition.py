@@ -43,9 +43,11 @@ class VideoTextRecognition:
         self.check_test = True
         self.second_per_frame = second_per_frame
         self.number_imgs = number_imgs
-        self.detected_champion_names = DetectedClasses(
+        self.Detected_Classes_Class  = DetectedClasses(
             self.champion_names, self.LABELIMG_PATH
-        ).get_detected_classes()
+        )
+        self.detected_champion_names = self.Detected_Classes_Class.get_detected_classes()
+        self.count_class_mentions = self.Detected_Classes_Class.count_class_mentions()
 
         self.train_img_path = os.path.join(self.IMAGES_PATH, "train")
         self.train_label_path = os.path.join(self.LABELIMG_PATH, "train")
@@ -158,12 +160,13 @@ class VideoTextRecognition:
         label_creator.create_labels(image_id, champion_coordinates)
 
         logging.info(f"Image {image_id} saved")
-        if ChampionChecker.is_champion_missing(
+        if self.Detected_Classes_Class.is_champion_missing(
             self.detected_champion_names, champion_coordinates
         ):
-            ChampionChecker.add_missing_champions(
+            self.Detected_Classes_Class.add_missing_champions(
                 self.detected_champion_names, champion_coordinates
             )
+        self.Detected_Classes_Class.update_class_counts_with_coordinates(self.count_class_mentions, champion_coordinates)
 
     def process_champion_coordinates(self, champion_coordinates, frame, test_index):
         """Process champion coordinates and perform necessary actions."""
@@ -191,22 +194,38 @@ class VideoTextRecognition:
             )
             
           ):
+            logging.info(
+                f"file_count < self.number_imgs and ChampionChecker.is_champion_missing"
+            )
             self.image_label_recod(champion_coordinates, self.detected_champion_names)
 
             
         elif(ChampionChecker.is_champion_missing(
                 self.detected_champion_names, champion_coordinates
             )
-            and (len(self.detected_champion_names) < len(self.champion_names))
+            and (len(self.detected_champion_names) <= len(self.champion_names))
           ):
+            logging.info(
+                f"(len(self.detected_champion_names) < len(self.champion_names) and ChampionChecker.is_champion_missing"
+            )
             self.image_label_recod(champion_coordinates, self.detected_champion_names)
 
-        elif(len(self.detected_champion_names) >= len(self.champion_names)):
+        elif(self.Detected_Classes_Class.check_classes_with_few_mentions(champion_coordinates)
+            and (not self.Detected_Classes_Class.all_classes_mentioned_three_times(self.count_class_mentions))
+          ):
+            logging.info(
+                f"(check_classes_with_few_mentions and not all_classes_mentioned_three_times"
+            )
+            self.image_label_recod(champion_coordinates, self.detected_champion_names)
+
+        elif(self.Detected_Classes_Class.all_classes_mentioned_three_times(self.count_class_mentions)):
             ImageDatasetSplitter(self.IMAGES_PATH).split_dataset()
             logging.info(
-                f"name exists in labels or total number of files in {self.IMAGES_PATH} is {file_count}"
+                f"all_classes_mentioned_three_times"
             )
             exit()
             
         else:
-            pass
+            logging.info(
+                f"else process_champion_coordinates self.count_class_mentions: {self.count_class_mentions}"
+            )

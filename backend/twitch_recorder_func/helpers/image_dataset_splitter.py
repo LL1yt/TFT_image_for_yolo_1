@@ -11,6 +11,8 @@ class ImageDatasetSplitter:
         self.test_img_path = os.path.join(images_path, "test")
 
     def split_dataset(self):
+        # Move all files from test and val to train first
+        self._move_all_files_to_train()
         all_images = [
             f
             for f in os.listdir(self.train_img_path)
@@ -30,6 +32,20 @@ class ImageDatasetSplitter:
         # self._move_files(train_images, self.train_img_path)
         self._move_files(val_images, self.val_img_path)
         self._move_files(test_images, self.test_img_path)
+
+    def _move_all_files_to_train(self):
+        # Move files from val to train
+        self._move_files_back(self.val_img_path, self.train_img_path)
+        # Move files from test to train
+        self._move_files_back(self.test_img_path, self.train_img_path)
+
+    def _move_files_back(self, source, destination):
+        if os.path.exists(source):
+            for file in os.listdir(source):
+                file_path = os.path.join(source, file)
+                if os.path.isfile(file_path):
+                    shutil.move(file_path, os.path.join(destination, file))
+            # os.rmdir(source)  # Remove the directory after moving files if empty
 
     def _move_files(self, files, destination):
         if not os.path.exists(destination):

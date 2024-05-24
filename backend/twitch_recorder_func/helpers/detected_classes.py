@@ -42,9 +42,8 @@ class DetectedClasses:
 
         return class_counts
 
-    def check_classes_with_few_mentions(self, champion_coordinates):
-        class_counts = self.count_class_mentions()
-        few_mentions = []
+    def check_classes_with_few_mentions(self, champion_coordinates, class_counts):
+        class_counts = class_counts
 
         for champion in champion_coordinates:
             class_name = next(iter(champion))  # Extract class name
@@ -52,3 +51,20 @@ class DetectedClasses:
                 True
 
         False
+
+    def all_classes_mentioned_three_times(self, class_counts):
+        class_counts = class_counts
+
+        for count in class_counts.values():
+            if count < 3:
+                return False
+        return True
+
+    def update_class_counts_with_coordinates(self, class_counts, champion_coordinates):
+        for champion in champion_coordinates:
+            class_name = next(iter(champion))  # Extract class name
+            if class_name in class_counts:
+                class_counts[class_name] += 1
+            else:
+                class_counts[class_name] = 1
+        return class_counts
