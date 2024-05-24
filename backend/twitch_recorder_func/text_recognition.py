@@ -197,7 +197,7 @@ class VideoTextRecognition:
             logging.info(
                 f"file_count < self.number_imgs and ChampionChecker.is_champion_missing"
             )
-            self.image_label_recod(champion_coordinates, self.detected_champion_names)
+            self.image_label_recod(frame, champion_coordinates)
 
             
         elif(ChampionChecker.is_champion_missing(
@@ -208,7 +208,7 @@ class VideoTextRecognition:
             logging.info(
                 f"(len(self.detected_champion_names) < len(self.champion_names) and ChampionChecker.is_champion_missing"
             )
-            self.image_label_recod(champion_coordinates, self.detected_champion_names)
+            self.image_label_recod(frame, champion_coordinates)
 
         elif(self.Detected_Classes_Class.check_classes_with_few_mentions(champion_coordinates, self.count_class_mentions)
             and (not self.Detected_Classes_Class.all_classes_mentioned_three_times(self.count_class_mentions))
@@ -216,7 +216,7 @@ class VideoTextRecognition:
             logging.info(
                 f"(check_classes_with_few_mentions and not all_classes_mentioned_three_times"
             )
-            self.image_label_recod(champion_coordinates, self.detected_champion_names)
+            self.image_label_recod(frame, champion_coordinates)
 
         elif(self.Detected_Classes_Class.all_classes_mentioned_three_times(self.count_class_mentions)):
             ImageDatasetSplitter(self.IMAGES_PATH).split_dataset()
