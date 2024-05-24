@@ -140,6 +140,30 @@ class VideoTextRecognition:
             for f in os.listdir(directory_path)
             if os.path.isfile(os.path.join(directory_path, f))
         )
+    @staticmethod
+    def image_label_recod(self, frame, champion_coordinates):
+        """Record image label for a given file in the directory."""
+        image_id = str(uuid.uuid1())
+
+        imgname = os.path.join(self.train_img_path, f"{image_id}.jpg")
+        cv2.imwrite(imgname, frame)
+        # cv2.imshow("creating data fro model", frame)
+        cv2.waitKey(1)
+
+        # Assuming that create_annotation_xml is the correct method to call based on provided context
+
+        label_creator = YOLOv9LabelCreator(
+            self.champion_names, self.train_label_path
+        )
+        label_creator.create_labels(image_id, champion_coordinates)
+
+        logging.info(f"Image {image_id} saved")
+        if ChampionChecker.is_champion_missing(
+            self.detected_champion_names, champion_coordinates
+        ):
+            ChampionChecker.add_missing_champions(
+                self.detected_champion_names, champion_coordinates
+            )
 
     def process_champion_coordinates(self, champion_coordinates, frame, test_index):
         """Process champion coordinates and perform necessary actions."""
@@ -162,33 +186,21 @@ class VideoTextRecognition:
 
         if (
             file_count < self.number_imgs
-            or ChampionChecker.is_champion_missing(
+            and ChampionChecker.is_champion_missing(
                 self.detected_champion_names, champion_coordinates
             )
-            or (len(self.detected_champion_names) < len(self.champion_names))
-        ):
+            
+          ):
+            self.image_label_recod(champion_coordinates, self.detected_champion_names)
 
-            image_id = str(uuid.uuid1())
-
-            imgname = os.path.join(self.train_img_path, f"{image_id}.jpg")
-            cv2.imwrite(imgname, frame)
-            # cv2.imshow("creating data fro model", frame)
-            cv2.waitKey(1)
-
-            # Assuming that create_annotation_xml is the correct method to call based on provided context
-
-            label_creator = YOLOv9LabelCreator(
-                self.champion_names, self.train_label_path
-            )
-            label_creator.create_labels(image_id, champion_coordinates)
-
-            logging.info(f"Image {image_id} saved")
-            if ChampionChecker.is_champion_missing(
+            
+        elif(ChampionChecker.is_champion_missing(
                 self.detected_champion_names, champion_coordinates
-            ):
-                ChampionChecker.add_missing_champions(
-                    self.detected_champion_names, champion_coordinates
-                )
+            )
+            and (len(self.detected_champion_names) < len(self.champion_names))
+          ):
+            self.image_label_recod(champion_coordinates, self.detected_champion_names)
+            
         else:
             ImageDatasetSplitter(self.IMAGES_PATH).split_dataset()
             logging.info(
