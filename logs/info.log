@@ -33227,3 +33227,34 @@
 2024-05-24 02:31:34 info: 3) screen_for_champ: 4 test_index: 4
 2024-05-24 02:31:34 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60; detected_champion_names: ['lissandra', 'aatrox', 'lillia', 'janna', 'kindred', 'garen', 'neeko', 'sett', 'yorick', 'chogath', 'sivir', 'leesin', 'kayn', 'jax', 'gnar', 'bard', 'nautilus', 'sylas', 'ashe', 'alune', 'riven', 'darius', 'kaisa', 'thresh', 'amumu', 'qiyana', 'zoe', 'morgana', 'hwei', 'syndra', 'kobuko', 'kogmaw', 'udyr', 'ornn', 'khazix', 'soraka', 'annie', 'yone', 'ahri', 'malphite', 'azir', 'tahmkench', 'yasuo', 'tristana', 'senna', 'galio', 'teemo', 'zyra', 'volibear', 'caitlyn', 'wukong', 'shen', 'illaoi', 'aphelios', 'diana', 'reksai', 'lux']
 2024-05-24 02:31:34 info: Image 97831320-195c-11ef-a435-6a0b467b875d saved
+2024-05-24 03:34:44 info: checking for AriaSaki every 15 seconds, recording with 1080p60 quality
+2024-05-24 03:34:44 info: First ten currently online users in teamfight tactics category: ['robinsongz', 'AriaSaki', 'saintvicious', 'Kurumx', 'Spencer_TFT', 'justvortex4201', 'korimae', 'PTERODACTYLSFTW', 'RamKevTFT', 'BunnyFuFuu']
+2024-05-24 03:34:44 info: AriaSaki online, stream recording in session
+2024-05-24 03:34:47 info: Starting stream processing
+2024-05-24 03:34:50 info: Stream URL retrieved successfully
+2024-05-24 03:34:52 info: ------------------------------------------
+2024-05-24 03:34:52 info: ------------------------------------------
+2024-05-24 03:34:52 info: Processing frame 0
+2024-05-24 03:34:53 info: OCR results: []
+2024-05-24 03:34:53 info: OCR results: [([[0, 2], [55, 2], [55, 22], [0, 22]], 'Qiyana', 0.6302523806279494)]
+2024-05-24 03:34:53 info: 1) bbox: [[0, 2], [55, 2], [55, 22], [0, 22]]. Champion 'Qiyana' detected in region (686, 1044, 834, 1066). prob: 0.6302523806279494.
+2024-05-24 03:34:53 info: 2) champ_name: qiyana; index: 2
+2024-05-24 03:34:53 info: OCR results: [([[0, 0], [59, 0], [59, 19], [0, 19]], 'Kindred', 0.999985356480584)]
+2024-05-24 03:34:53 info: 1) bbox: [[0, 0], [59, 0], [59, 19], [0, 19]]. Champion 'Kindred' detected in region (888, 1044, 1035, 1066). prob: 0.999985356480584.
+2024-05-24 03:34:53 info: 2) champ_name: kindred; index: 3
+2024-05-24 03:34:53 info: OCR results: [([[0, 1], [68, 1], [68, 22], [0, 22]], 'Morgana', 0.9999944579992563)]
+2024-05-24 03:34:53 info: 1) bbox: [[0, 1], [68, 1], [68, 22], [0, 22]]. Champion 'Morgana' detected in region (1088, 1044, 1237, 1066). prob: 0.9999944579992563.
+2024-05-24 03:34:53 info: 2) champ_name: morgana; index: 4
+2024-05-24 03:34:53 info: OCR results: [([[3, 3], [37, 3], [37, 19], [3, 19]], 'Azir', 0.9992545247077942)]
+2024-05-24 03:34:53 info: 1) bbox: [[3, 3], [37, 3], [37, 19], [3, 19]]. Champion 'Azir' detected in region (1290, 1044, 1438, 1066). prob: 0.9992545247077942.
+2024-05-24 03:34:53 info: 2) champ_name: azir; index: 5
+2024-05-24 03:34:53 info: 3) screen_for_champ: 4 test_index: 4; champion_coordinates: {'qiyana': [(685, 943, 869, 1038)], 'kindred': [(886, 943, 1070, 1038)], 'morgana': [(1088, 943, 1271, 1038)], 'azir': [(1289, 943, 1472, 1038)]}
+2024-05-24 03:34:53 info: 4) is_champion_missing: False detected_champion_names len: 57; champion_names: 60
+2024-05-24 03:34:57 info: ------------------------------------------
+2024-05-24 03:34:57 info: ------------------------------------------
+2024-05-24 03:34:57 info: Processing frame 600
+2024-05-24 03:34:57 info: OCR results: []
+2024-05-24 03:34:57 info: OCR results: []
+2024-05-24 03:34:57 info: OCR results: []
+2024-05-24 03:34:57 info: OCR results: []
+2024-05-24 03:34:57 info: OCR results: []
